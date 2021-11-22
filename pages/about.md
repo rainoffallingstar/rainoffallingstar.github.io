@@ -19,9 +19,31 @@ title: 关于我
 
 Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X., Liu, R., Bai, J., Si, S., Wang, Y., Zhang, S., Wang, L., & Chen, J. (2021). Automated Classification of Papillary Renal Cell Carcinoma and Chromophobe Renal Cell Carcinoma Based on a Small Computed Tomography Imaging Dataset Using Deep Learning [Original Research]. *Frontiers in Oncology, 11*(4820). https://doi.org/10.3389/fonc.2021.746750
 
+### Bilibili
+
+番组[itksnap step1]:
+- EP0:[itksnap从入门到获取region of interest.](https://www.bilibili.com/video/BV1Xy4y1177d/)
+- EP1：[从水平切面导出病灶.](https://www.bilibili.com/video/BV1Py4y127mQ)
+- EP2：[itksanp解剖涂色书：图像分割.](https://www.bilibili.com/video/BV1Sv4y1f7FR)
+
+### CODE contribution
+
+ **Nogizaka46-cv-dataset** : 用于deeplearning程序测试的乃木坂成员五分类数据集。[[more](https://gitee.com/rainoffallingstar/nogizaka46_cv_dataset)]
+
+  **kidneycaRunDemon** ：一个图像识别项目，基于 tensorflow，fork自原项目four_flouwers,修复了验证缺失的bug。[[more](https://gitee.com/rainoffallingstar/kidneycaRunDemon)]
+
+
+## 目前动态
+
+-  **考研笔记项目管理** ：[[ _updating_ ](https://gitee.com/rainoffallingstar/preneep)]
+- ect
+
+
 ## 联系我
 
 - Email&nbsp;: zyh3084989256@gmail.com
 
 - GitHub: [https://github.com/rainoffallingstar](https://github.com/rainoffallingstar)
+
+- Weibo: [https://weibo.com/u/2137938554](https://weibo.com/u/2137938554)
 
