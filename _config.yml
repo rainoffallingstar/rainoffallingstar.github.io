@@ -20,8 +20,9 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 domainUrl: 'http://rainoffallingstar.gitee.io'
 baseurl: ''
 
-# 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/366690
+# 吐个槽地址，会在chat页面中重定向到该地址：https://support.qq.com/product/366690
+# tape质问箱地址，会在chat页面重定向到该地址：https://www.tapechat.net/uu/7TWZJS/GJ1110Q8
+tucaoUrl: https://www.tapechat.net/uu/7TWZJS/GJ1110Q8
 
 # 菜单
 menu:
@@ -53,7 +54,7 @@ extMTA: false
 extBaidu: true
 
 # 数学公式支持，比较影响加载速度,不需要请设置为false
-extMath: false
+extMath: true
 
 # 友情链接
 links:
