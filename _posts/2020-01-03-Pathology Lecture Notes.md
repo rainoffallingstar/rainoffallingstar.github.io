@@ -1,3 +1,10 @@
+---
+layout: mypost
+title: Pathology Lecture Notes
+categories: [notes]
+
+---
+
 ### Pathology Lecture Notes
 
 powered by ZYH & YHW
