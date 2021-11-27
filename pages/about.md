@@ -35,11 +35,11 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 
 ### CODE contribution
 
-**Nogizaka46-cv-dataset** : 用于deeplearning程序测试的乃木坂成员五分类数据集。[[more](https://gitee.com/rainoffallingstar/nogizaka46_cv_dataset)]
+  **Nogizaka46-cv-dataset** : 用于deeplearning程序测试的乃木坂成员五分类数据集。[[more](https://gitee.com/rainoffallingstar/nogizaka46_cv_dataset)]
 
-**kidneycaRunDemon** ：一个图像识别项目，基于 tensorflow，fork自原项目four_flouwers,修复了验证缺失的bug。[[more](https://gitee.com/rainoffallingstar/kidneycaRunDemon)]
+  **kidneycaRunDemon** ：一个图像识别项目，基于 tensorflow，fork自原项目four_flouwers,修复了验证缺失的bug。[[more](https://gitee.com/rainoffallingstar/kidneycaRunDemon)]
 
-** Rapid Configs for My manjaro** :用于储存一键配置manjaro\deepin环境、开机自运行的bash脚本及rss、docker配置文件的bash脚本。
+  **Rapid Configs for My manjaro**  :用于储存一键配置manjaro\deepin环境、开机自运行的bash脚本及rss、docker配置文件的bash脚本。[[more](https://gitee.com/rainoffallingstar/rapid-configs-for-my-manjaro)]
 
 ## 目前动态
 
