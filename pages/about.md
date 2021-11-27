@@ -7,6 +7,7 @@ title: 关于我
 >
 > 该博客托管于 Gitee Page,代码fork from [tmaize-blog](https://github.com/TMaize/tmaize-blog).
 
+凡是过往，皆为序章。
 本博客主要是记录笔记、阅读报告及其他旧存档所用。
 
 ## 个人经历
