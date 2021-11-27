@@ -8,7 +8,12 @@ title: 关于我
 > 该博客托管于 Gitee Page,代码fork from [tmaize-blog](https://github.com/TMaize/tmaize-blog).
 
 凡是过往，皆为序章。
+
 本博客主要是记录笔记、阅读报告及其他旧存档所用。
+
+## 个人标签
+
+医学生|柯洁|江南|久保史绪里|生田绘梨花|后街男孩|乃木坂46|中村伦也|木下晴香|little glee monster|宝冢音乐剧|仙名彩世|春野寿美礼|舞空瞳|华希优|围棋爱好者|RTS大suki|德云社|炼丹师|遛狗初级|贝多芬|linuxer
 
 ## 个人经历
 
@@ -37,7 +42,8 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 ## 目前动态
 
 -  **考研笔记项目管理** ：[[ _updating_ ](https://gitee.com/rainoffallingstar/preneep)]
-- ect
+-  **沉迷J-POP中** 
+-  **ect** 
 
 
 ## 联系我
