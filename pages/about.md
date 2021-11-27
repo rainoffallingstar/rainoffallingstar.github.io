@@ -28,16 +28,18 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 ### Bilibili
 
 番组[itksnap step1]:
-- EP0:[itksnap从入门到获取region of interest.](https://www.bilibili.com/video/BV1Xy4y1177d/)
+- EP0: [itksnap从入门到获取region of interest.](https://www.bilibili.com/video/BV1Xy4y1177d/)
 - EP1：[从水平切面导出病灶.](https://www.bilibili.com/video/BV1Py4y127mQ)
 - EP2：[itksanp解剖涂色书：图像分割.](https://www.bilibili.com/video/BV1Sv4y1f7FR)
+- EP3: [itksnap图像分割实战记录v2](https://www.bilibili.com/video/BV1wU4y1h7kd)
 
 ### CODE contribution
 
- **Nogizaka46-cv-dataset** : 用于deeplearning程序测试的乃木坂成员五分类数据集。[[more](https://gitee.com/rainoffallingstar/nogizaka46_cv_dataset)]
+**Nogizaka46-cv-dataset** : 用于deeplearning程序测试的乃木坂成员五分类数据集。[[more](https://gitee.com/rainoffallingstar/nogizaka46_cv_dataset)]
 
-  **kidneycaRunDemon** ：一个图像识别项目，基于 tensorflow，fork自原项目four_flouwers,修复了验证缺失的bug。[[more](https://gitee.com/rainoffallingstar/kidneycaRunDemon)]
+**kidneycaRunDemon** ：一个图像识别项目，基于 tensorflow，fork自原项目four_flouwers,修复了验证缺失的bug。[[more](https://gitee.com/rainoffallingstar/kidneycaRunDemon)]
 
+** Rapid Configs for My manjaro** :用于储存一键配置manjaro\deepin环境、开机自运行的bash脚本及rss、docker配置文件的bash脚本。
 
 ## 目前动态
 
