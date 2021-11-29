@@ -29,4 +29,4 @@ The Manhattan US attorney has also accused Maxwell of trying to cover up her inv
 
 That **lawsuit[诉讼]** was the **defamation[污蔑]** case which Virginia Giuffre, a longtime Epstein accuser, brought against Maxwell. Giuffre has claimed Maxwell and Epstein **coerced[强迫]** her into sexual activity with Prince Andrew when she was 17.
 
-Giuffre sued Maxwell, who called her a liar. Both Maxwell and the Duke of York maintain their innocence. Maxwell is charged with two counts related to the alleged lying. Those will be tried in a separate proceeding.
+Giuffre  **sued[控告]**  Maxwell, who called her a liar. Both Maxwell and the Duke of York maintain their innocence. Maxwell is charged with two counts related to the alleged lying. Those will be tried in a separate  **proceeding[诉讼程序，过程，事件]** .
