@@ -9,7 +9,7 @@ categories: [教程]
 
 ## Notes:How to write a medical record
 
-[docX版下载]（medicalrecord.docx）
+[medicalrecord.docx 下载]（medicalrecord.docx）
 
 The patient’s medical record is a document containing: (1) the medical history, (2) the  findings  from the PE, (3) the reports of  laboratory tests, (4) the  findings and conclusions  from special  examinations, (5) the  findings and diagnoses of  consultants, (6) the diagnoses of  the responsible physician, (7) notes on treatment, including medication, surgical operations, radiation, physical therapy, and (8) progress notes by physicians, nurses, and others
 
