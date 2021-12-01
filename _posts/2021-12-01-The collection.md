@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: THE COLLECTION : 考研真题回顾
+title: THE COLLECTION 考研真题回顾
 categories: [外刊精读]
 
 ---
