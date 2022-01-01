@@ -35,6 +35,6 @@ Teng Zuo1, Yanhua Zheng1, Lingfeng He2, Tao Chen3, Bin Zheng4, Song Zheng1, Jing
 
 ## Full Text
 
-**PDF VERSION:** [View at Hedaozi.com](https://hedaozi.com/works/papers/2021_DL-Based Classification.pdf) | [Download from Publisher](https://www.frontiersin.org/articles/10.3389/fonc.2021.746750/full)
+**PDF VERSION:** [View at Hedaozi.com](https://hedaozi.com/resource/works/papers/2021_DL-Based%20Classification.pdf) | [Download from Publisher](https://www.frontiersin.org/articles/10.3389/fonc.2021.746750/full) | [fonc-11-746750.pdf Download from this Blog](fonc-11-746750.pdf)
 
-**READ ONLINE:** [View at Publisher
+**READ ONLINE:** [View at Publisher](https://www.frontiersin.org/articles/10.3389/fonc.2021.746750/full)
