@@ -52,16 +52,16 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 
 -  **笔记项目管理** ：[[ _updating_ ](https://gitee.com/rainoffallingstar/preneep)]
 -  **沉迷J-POP中** 
-  - 乃木坂46
-  - Little glee monster
+  - [ ] 乃木坂46
+  - [ ] Little glee monster
 -  **Online learning** 
-  - [人体生理学导论 杜克大学](https://www.coursera.org/learn/physiology/home)
-  - [医学统计学与 SPSS 软件（基础篇）北京大学](https://www.coursera.org/learn/spss-ruanjian/home/week/1)
-  - [Stories of Infection 斯坦福大学](https://www.coursera.org/learn/stories-of-infection/home/week/1)
-  - [OsakaUx METAB101x Metabolomics in Life Sciences](https://learning.edx.org/course/course-v1:OsakaUx+METAB101x+3T2019/home)
+  - [ ] [人体生理学导论 杜克大学](https://www.coursera.org/learn/physiology/home)
+  - [ ] [医学统计学与 SPSS 软件（基础篇）北京大学](https://www.coursera.org/learn/spss-ruanjian/home/week/1)
+  - [ ] [Stories of Infection 斯坦福大学](https://www.coursera.org/learn/stories-of-infection/home/week/1)
+  - [ ] [OsakaUx METAB101x Metabolomics in Life Sciences](https://learning.edx.org/course/course-v1:OsakaUx+METAB101x+3T2019/home)
   - [x] [StanfordOnline SOM.Y0022 COVID-19 Training for Healthcare Workers](https://learning.edx.org/course/course-v1:StanfordOnline+SOM.Y0022+2T2020/home)
-  - [StanfordOnline CME.20868 Antimicrobial Stewardship](https://learning.edx.org/course/course-v1:StanfordOnline+CME.20868+1T2020/home)
-  - Goljan's lecture
+  - [ ] [StanfordOnline CME.20868 Antimicrobial Stewardship](https://learning.edx.org/course/course-v1:StanfordOnline+CME.20868+1T2020/home)
+  - [ ] Goljan's lecture
 
 
 ## 联系我
