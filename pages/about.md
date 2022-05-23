@@ -44,6 +44,15 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 - EP2：[itksanp解剖涂色书：图像分割.](https://www.bilibili.com/video/BV1Sv4y1f7FR)
 - EP3: [itksnap图像分割实战记录v2](https://www.bilibili.com/video/BV1wU4y1h7kd)
 
+### Slices and presentation
+
+- **HOW TO READ PAPERS OF MEDICINE** ：关于本科学生如何进行学术阅读及形成阅读报告的分享。[[Slices(https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/htrp.pdf)]
+  
+- **Build up a PPT using Material Design**：使用质感设计进行ppt制作的理论及要点说明。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/bemdppt.pdf)]
+ 
+- **throw your SIGHT into the MODULARS -- A Guide to the oncology**：肿瘤学导论。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/gtooncology.pdf)]
+
+
 ### CODE contribution
 
   **Nogizaka46-cv-dataset** : 用于deeplearning程序测试的乃木坂成员五分类数据集。[[more](https://gitee.com/rainoffallingstar/nogizaka46_cv_dataset)]
@@ -51,6 +60,8 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
   **kidneycaRunDemon** ：一个图像识别项目，基于 tensorflow，fork自原项目four_flouwers,修复了验证缺失的bug。[[more](https://gitee.com/rainoffallingstar/kidneycaRunDemon)]
 
   **Rapid Configs for My manjaro**  :用于储存一键配置manjaro\deepin环境、开机自运行的bash脚本及rss、docker配置文件的bash脚本。[[more](https://gitee.com/rainoffallingstar/rapid-configs-for-my-manjaro)]
+  
+  **MyRscript** :用于储存在R语言学习及项目的Rscript。[[more](https://github.com/rainoffallingstar/MyRscript)]
 
 ## 目前动态
 
@@ -64,7 +75,7 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
   - [ ] [Stories of Infection 斯坦福大学](https://www.coursera.org/learn/stories-of-infection/home/week/1)
   - [ ] [OsakaUx METAB101x Metabolomics in Life Sciences](https://learning.edx.org/course/course-v1:OsakaUx+METAB101x+3T2019/home)
   - [x] [StanfordOnline SOM.Y0022 COVID-19 Training for Healthcare Workers](https://learning.edx.org/course/course-v1:StanfordOnline+SOM.Y0022+2T2020/home)
-  - [ ] [StanfordOnline CME.20868 Antimicrobial Stewardship](https://learning.edx.org/course/course-v1:StanfordOnline+CME.20868+1T2020/home)
+  - [x] [StanfordOnline CME.20868 Antimicrobial Stewardship](https://learning.edx.org/course/course-v1:StanfordOnline+CME.20868+1T2020/home)
   - [ ] Goljan's lecture
 
 
