@@ -8,6 +8,8 @@ categories: [剧本]
 
 #### Script
 
+[表演背景ppt](background.pdf)
+
 ##### 人物设定
 
 宙斯：生化课教授宙斯。Z
