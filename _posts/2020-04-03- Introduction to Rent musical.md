@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Introduction to Rent musical: a presentation script 
+title: Introduction to Rent musicala presentation script 
 categories: [slices script]
 ---
 
