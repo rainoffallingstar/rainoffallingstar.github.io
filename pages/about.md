@@ -46,6 +46,10 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 
 ### Slices and presentation
 
+  **Pelvic inflammatory disease (PID)**: 以盆腔炎为主题的分享。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/pid.pdf)]
+
+  **thalassemias** ： 地中海贫血的主题分享。 [[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/thalassemias.pdf)]
+
   **HOW TO READ PAPERS OF MEDICINE** ：关于本科学生如何进行学术阅读及形成阅读报告的分享。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/htrp.pdf)]
   
   **Build up a PPT using Material Design**：使用质感设计进行ppt制作的理论及要点说明。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/bemdppt.pdf)]
