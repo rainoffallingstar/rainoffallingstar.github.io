@@ -46,7 +46,7 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 
 ### Slices and presentation
 
-- **HOW TO READ PAPERS OF MEDICINE** ：关于本科学生如何进行学术阅读及形成阅读报告的分享。[[Slices(https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/htrp.pdf)]
+- **HOW TO READ PAPERS OF MEDICINE** ：关于本科学生如何进行学术阅读及形成阅读报告的分享。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/htrp.pdf)]
   
 - **Build up a PPT using Material Design**：使用质感设计进行ppt制作的理论及要点说明。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/bemdppt.pdf)]
  
