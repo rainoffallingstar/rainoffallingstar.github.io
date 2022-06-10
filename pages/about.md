@@ -56,6 +56,8 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
  
   **throw your SIGHT into the MODULARS -- A Guide to the oncology**：肿瘤学导论。[[Slices](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/posts/slices/gtooncology.pdf)]；[[Video](https://www.bilibili.com/video/BV14r4y1V7Lh)]
 
+  **Find a model to explain the universe -- 统计学与数据科学**：统计学为主题的分享。[[video](https://www.bilibili.com/video/BV1RW4y1C7Vv)]
+
 
 ### CODE contribution
 
