@@ -67,7 +67,7 @@ Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X.,
 
   **Rapid Configs for My manjaro**  :用于储存一键配置manjaro\deepin环境、开机自运行的bash脚本及rss、docker配置文件的bash脚本。[[more](https://gitee.com/rainoffallingstar/rapid-configs-for-my-manjaro)]
   
-  **MyRscript** :用于储存在R语言学习及项目的Rscript。[[more](https://github.com/rainoffallingstar/MyRscript)]
+  **MyRscript** :用于储存在R语言学习及项目的Rscript。[[more](https://gitee.com/rainoffallingstar/rscript)]
 
 ## 目前动态
 
