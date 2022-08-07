@@ -1,0 +1,1493 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="pathway_image" externalResourcesRequired="true" version="1.1" width="2600" height="2350">
+    <defs>
+  <radialGradient id="coa" cx="50%" cy="50%" r="70%">
+    <stop offset="10%" stop-color="#FF8080"/>
+    <stop offset="90%" stop-color="#C40000"/>
+  </radialGradient>
+  <radialGradient id="pyrophosphate" gradientUnits="userSpaceOnUse" cx="31.071" cy="21.673" r="29.851">
+    <stop offset="0" stop-color="#80C8FF"/>
+    <stop offset="1" stop-color="#672BFF"/>
+  </radialGradient>
+  <radialGradient id="phosphate" gradientUnits="userSpaceOnUse" cx="21.811" cy="21.673" r="20.591">
+    <stop offset="0" stop-color="#80C8FF"/>
+    <stop offset="1" stop-color="#672BFF"/>
+  </radialGradient>
+  <radialGradient id="atp" cx="50%" cy="50%" r="70%">
+    <stop offset="10%" stop-color="#FFF3AA"/>
+    <stop offset="90%" stop-color="#443A00"/>
+  </radialGradient>
+  <radialGradient id="HCO3_1" gradientUnits="userSpaceOnUse" cx="28.843" cy="26.412" r="15.322">
+    <stop offset="0" stop-color="#EAEAEA"/>
+    <stop offset="1" stop-color="#0088EE"/>
+  </radialGradient>
+  <radialGradient id="HCO3_2" gradientUnits="userSpaceOnUse" cx="55.617" cy="37.127" r="15.322">
+    <stop offset="0" stop-color="#EAEAEA"/>
+    <stop offset="1" stop-color="#0088EE"/>
+  </radialGradient>
+  <radialGradient id="HCO3_3" gradientUnits="userSpaceOnUse" cx="33.639" cy="54.28" r="11.229">
+    <stop offset="0" stop-color="#FF8080"/>
+    <stop offset="1" stop-color="#C40000"/>
+  </radialGradient>
+  <radialGradient id="HCO3_4" gradientUnits="userSpaceOnUse" cx="39.203" cy="39.299" r="15.373">
+    <stop offset="0" stop-color="#D5D5D5"/>
+    <stop offset="1" stop-color="#2B2B2B"/>
+  </radialGradient>
+  <radialGradient id="HCO3_5" gradientUnits="userSpaceOnUse" cx="47.725" cy="25.389" r="15.322">
+    <stop offset="0" stop-color="#EAEAEA"/>
+    <stop offset="1" stop-color="#0088EE"/>
+  </radialGradient>
+  <!-- compounds color -->
+  <linearGradient id="svg_1" x1="1.0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1199FF"/>
+    <stop offset="1" stop-color="#99bbFF"/>
+  </linearGradient>
+  <radialGradient id="protein_color_1" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#44EE22" offset="0.5"/>
+    <stop stop-color="#117700" offset="1"/>
+  </radialGradient>
+  <radialGradient id="protein_color_2" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#FE9A2E" offset="0.5"/>
+    <stop stop-color="#CD7B23" offset="1"/>
+  </radialGradient>
+  <radialGradient id="protein_color_3" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#FE642E" offset="0.5"/>
+    <stop stop-color="#BB4A21" offset="1"/>
+  </radialGradient>
+  <radialGradient id="protein_color_4" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#298A08" offset="0.5"/>
+    <stop stop-color="#195705" offset="1"/>
+  </radialGradient>
+  <radialGradient id="protein_color_5" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#AC58FA" offset="0.5"/>
+    <stop stop-color="#8A45CA" offset="1"/>
+  </radialGradient>
+  <radialGradient id="protein_color_6" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#AD3333" offset="0.5"/>
+    <stop stop-color="#990000" offset="1"/>
+  </radialGradient>
+  <radialGradient id="na_color" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#FFFF00" offset="0.5"/>
+    <stop stop-color="#C2C201" offset="1"/>
+  </radialGradient>
+  <radialGradient id="sp_color" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#01DFD7" offset="0.5"/>
+    <stop stop-color="#00ABA5" offset="1"/>
+  </radialGradient>
+  <radialGradient id="protein_drug_color" r="0.65306" cy="0.5" cx="0.5">
+    <stop stop-color="#FA58F4" offset="0.5"/>
+    <stop stop-color="#C946C5" offset="1"/>
+  </radialGradient>
+  <linearGradient id="compound_drug_color" x1="1.0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FA58F4"/>
+    <stop offset="1" stop-color="#C946C5"/>
+  </linearGradient>
+   <!-- background -->
+  <linearGradient y2="0.99609" x2="0.75391" y1="0.00781" x1="0.26172" id="svg_3">
+    <stop offset="0" stop-color="#110066"/>
+    <stop offset="1" stop-color="#000099"/>
+  </linearGradient>
+  <g id="lipid">
+    <g><circle fill="#ff0000" stroke="#000000" cx="10" cy="10" r="5"/>
+        <line y2="33" x2="8" y1="15" x1="8" stroke="#000000" fill="none"/>
+        <line y2="33" x2="12" y1="15" x1="12" stroke="#000000" fill="none"/>
+    </g>
+    <g><circle fill="#ff0000" stroke="#000000" cx="10" cy="57" r="5"/>
+        <line y2="53" x2="8" y1="35" x1="8" stroke="#000000" fill="none"/>
+        <line y2="53" x2="12" y1="35" x1="12" stroke="#000000" fill="none"/>
+    </g>
+  </g>
+  <g id="moldb_cache">
+  <g id="PW_C073982_moldb_cache">
+    <image xlink:href="data:image/png;base64,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
+QRd0AEEvcdDn3z96XdAFHUDQEXQABB1BB0DQEXQAQRd0BB1A0EutnV8KVdAB
+BL0jDA6O74sr2+Mrq/ldEHQAQS+p+GpqMeiO0gUdQNAFXdABEHRBF3QAGqC7
+e/1Ud/czVwTd74KgA5TYZz7zlanPfObYOUH3uyDoACUWgjY1MDA6Ieh+FwQd
+QNAFXdABEHRBF3QABF3QBR1A0AVd0AUdQNAFXdABEHRBF3QABF3QBR2ATg/6
+xo3Dw5/61Ber4U9BF3QAQS9tvCqV4SD+j6ALOoCgC7qgAyDogi7oADQg6Gf7
++8cOC7rfBUEHQNAFHQAEXdABQNAFnbn5s+rAwPjbC33MbdTmKpWPBa8FfxI8
+CKbT3z/m9vG4F3RBp3QP7LFvDg6OfknQOy7m3cH3gjeCZ9P7ng1eD96Z+7jb
+yeNe0AWd8jywt279+tPhzx+98MJbHxf0jgr6q8G5BT42EXzF7eRxL+iCToke
+2PHPwcGxQ+H/3xL0jgr6e0HfAh/77NzH3U4e94Iu6JTrgZ3+/91t28b7OvSB
+/c+De8EXOijoDx7zsSeCDzro/v9q8HmPe0EXdDdCWzyw44M6/P2dTnpgh7fN
+wdX0oP5p+vN0sKEjgh7D3cFBr7v//19wMujxuO+ImG8K/ke6739dDwS9rR7Y
+6e9nBwZGD7b7Azs+aacn7/vpyPxo8GxwJphN7z8YdHXokHtfOw+5P+L+nwj+
+e3pyv5OO3Lo87tvyvu8ORtLjPLoWrNMDQW+7B/aLL77xyfC+99Of1TZ9QB9K
+T9rxLxeC3rqPbwmup49PBnvb8sm9Unkl+MYCH/tGOy6Ki/fjQvd/+thwus+r
+6Xdg0OO+re7/Pdl9P2GoXdBLKw6tDQ6eGVpsAUw8lSUulPnwPNv48fqvLeGD
+eUc2vBr3yrcv8vm7g6n0+ZcrCx3NlifgPY84be2ddNraM+l9zyx42lrdjk9J
+7//ajtqNhe7/FPbj6ei9LZ/4iz7u2yjkfek+j3+5GR/bmiDopdTXN9E7MDB6
+MjxQZ8Kf14usaI2fV/vYSy+d3RD+/978uaujl8Kfm0v2YN6YnpTj8Np0cKDo
+EXc2PDeTvv5UpWxhq1Q2B1eC+9X6tQEx8vMXkplOc+o/fuSFZUIM5x7qlcrF
+asnWF6S50tr9P1V0OD28rc++Lsb9SBnn18OO+Jb4amr9/We3L+VxH/X3j+7v
+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
+YYdh/nY+EW4Bw/CAoNOAX4KxyrrgVDAb3AtGKm8291zqbEj7fppfP9KI87fr
+hrdvFpwnX5/Nk99L55I39ZSzsOW94XY+naIeb/ND4X1OcwMEnWVFpWsuJGOV
+u3NhGa9cCCFfvwbngZ9LAZ5e7lFxusjN8bRzEKN8sOD55CPp86u18+lXeWdq
+R7jdr6awT4b/3+13ExB0it/xZypDISC3UkhuVEbXdj43zS/XVqDHefa+JX79
++aUs3kvn09/Oft7abv9oZe9c0OP9MVq5FMLe5/cUEHQeF/ItIRpXUsinQjz2
+t9JQb7pSW21B2tmiK+vjC6MUPJ+8L1uYF3/OvhYbMRkJ7qfpjzgNss7vLSDo
+5sarD///zUpPiPfJ8L6ZFIymz5OvIOq9dZdWjcPi3Q34nqey09BGWvWa62E3
+ZsPc9Md81O+G/x9ezk5Xfv8Dgk6r3nETle7whP1q8H7wIPggBPs7wcuPDPpo
+ZTAF4mIMRknOg88XuN2KV19b5qryY9k8+blmrKpvUti3z51tMD+acngl9z8g
+6LTinfafK0+GJ+vvhiO31ytvVT79cLg2nj8+XvnWQk/olTPlfL3uD52/PT/P
+vrng1+3Kvi6ueN9VyoWLo2E7sqH35d7/gKDTanfaeOXL4cn6bCcNuaYj7QNp
+GH42DZ9vWOBzt6TrztdOQzvQTq981on3PyDo7To3/l5c3NaJT+jpNLdTWawf
+vtxpNvc+k0W/1/0PCDqt+oT+oNMXRaXV6leyV397I7v63NV2ftlS9z8g6J7Q
+2zHs8Qj9z1PI4wuv7HT/CzoIOoZcyxn1+Gpq/7ZTXprU/Q8IukVRuP8BQafF
+T1t7wmlL7n/3Pwg6Zbvj5i8s8krwg3RhkZ8E347nLHtCd/+7/0HQAQBBBwAE
+HQAQdAAQdABA0AEAQQcABB0ABB0AEHQAQNABAEEHAAQdAAQdABB0AEDQAQBB
+BwBBBwAEHQAQdABA0AFA0AEAQQcABB0AEHQAEHQAQNABAEEHAAQdAAQdABB0
+AEDQAQBBBwBBBwAEHQAQdABA0AFA0AEAQQcABB0AEHQAEHQAQNABAEEHAAQd
+AAQdABB0AEDQAQBBBwBBBwAEHQAQdABA0AFA0N0IACDoAICgAwCCDgAIOgAI
+OgAg6ACAoAMAgg4Agg4ACDoAIOgAgKADgKADAIIOAAg6ACDoACDoAICgAwCC
+DgAIOgAIOgAg6ACAoAMAgg4Agg4ACDoAIOgAgKADgKADAIIOAAg6ACDoACDo
+AICgAwCCDgAIOgAIOgAg6ACAoAMAgg4Agg4ACDoAIOgAgKADAIIOAIIOAAg6
+ACDoAICgA4CgAwCCDgAIOgAg6AAg6ACAoAMAgg4ACDoACDoAIOgAgKADAIIO
+AIIOAAg6ACDoAICgA4CgAwCCDgAIOgAg6AAg6ACAoAMAgg4ALMX/ByTFah69
+iE1bAAAAAElFTkSuQmCC
+" pointer-events="none" height="200" width="200"/>
+  </g></g>
+  <pattern id="compoundHatch" patternUnits="userSpaceOnUse" width="4" height="4">
+    <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+    <path d="M-1,1 l2,-2              M0,4 l4,-4              M3,5 l2,-2" stroke="#1199FF" stroke-width="1.5"/>
+  </pattern>
+  <pattern id="nucleicHatch" patternUnits="userSpaceOnUse" width="4" height="4">
+    <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+    <path d="M-1,1 l2,-2              M0,4 l4,-4              M3,5 l2,-2" stroke="#FFFF00" stroke-width="1.5"/>
+  </pattern>
+  <pattern id="protein_complexHatch" patternUnits="userSpaceOnUse" width="4" height="4">
+    <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+    <path d="M-1,1 l2,-2              M0,4 l4,-4              M3,5 l2,-2" stroke="#44EE22" stroke-width="1.5"/>
+  </pattern>
+  <pattern id="receptorHatch" patternUnits="userSpaceOnUse" width="4" height="4">
+    <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+    <path d="M-1,1 l2,-2              M0,4 l4,-4              M3,5 l2,-2" stroke="#FF9900" stroke-width="1.5"/>
+  </pattern>
+  <linearGradient id="mitochondriaInner" gradientUnits="userSpaceOnUse" x1="-66.5934" y1="642.6035" x2="833.4064" y2="642.6035" gradientTransform="matrix(1.25 0 0 1.25 10.3858 -180.3908)">
+    <stop offset="0" style="stop-color:#FEAEAC"/>
+    <stop offset="1" style="stop-color:#FFCCCA"/>
+  </linearGradient>
+  <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#BBB" stroke-width="1"/>
+  </pattern>
+  <filter id="greyscale">
+    <feColorMatrix type="matrix" values="0.3333 0.3333 0.3333 0 0     0.3333 0.3333 0.3333 0 0     0.3333 0.3333 0.3333 0 0     0 0 0 1 0"/>
+  </filter>
+</defs>
+
+      <g id="pathway" transform="translate(0,0) scale(1,1)">
+      	<rect id="background" fill="#ffffff" x="0" y="0" width="2600" height="2350"/>
+      <g><g>
+    <g id="zoom_box" data-zoom-type="left" data-element-type="zoombox">
+      <rect id="zoom_large_rect" x="544" y="1375" height="610" width="1794" fill="white" stroke="black" stroke-width="4"/>
+      <text x="1441" y="1392" text-anchor="middle" font-family="Verdana" font-size="16" fill="black" pointer-events="none">Nucleus</text>
+    </g>
+    <g id="edit_symbols">
+    </g>
+  </g></g><g><g>
+    
+    
+      
+      
+    
+    <g id="membrane_visualization" data-element-type="membrane" data-location-id="120702" data-complex="false" data-default-color="#000000">
+      <path data-colored="true" d="M545 1403 C578 1402 2306 1402 2337 1402 " fill="none" stroke="#000000" stroke-width="6"/>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+      
+      
+    
+    <g id="membrane_visualization" data-element-type="membrane" data-location-id="120703" data-complex="false" data-default-color="#000000">
+      <path data-colored="true" d="M545 1505 C565 1505 2300 1502 2336 1502 " fill="none" stroke="#000000" stroke-width="6"/>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+      
+      
+    
+    <g id="membrane_visualization" data-element-type="membrane" data-location-id="120704" data-complex="false" data-default-color="#000000">
+      <path data-colored="true" d="M127 225 C127 175 177 125 227 125 C862 125 1689 125 2324 125 C2374 125 2424 175 2424 225 C2424 815 2424 1581 2424 2171 C2424 2221 2374 2271 2324 2271 C1689 2271 862 2271 227 2271 C177 2271 127 2221 127 2171 C127 1581 127 815 127 225 " fill="none" stroke="#000000" stroke-width="6"/>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1038,535)" data-element-type="protein" data-location-id="388187" data-element-id="P62993" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">GRB2</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1048,590)" data-element-type="protein" data-location-id="388188" data-element-id="Q9UQC2" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">GAB2</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(928,570)" data-element-type="protein" data-location-id="388189" data-element-id="Q07889" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">SOS1</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1443,550)" data-element-type="protein" data-location-id="388192" data-element-id="P46109" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">CRKL</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1318,530)" data-element-type="protein" data-location-id="388193" data-element-id="P22681" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">CBL</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(728,1010)" data-element-type="protein" data-location-id="388195" data-element-id="P42229" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">STAT5A</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(928,855)" data-element-type="protein" data-location-id="388196" data-element-id="O60674" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">JAK2</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1328,1630)" data-element-type="protein" data-location-id="388197" data-element-id="Q13309" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">SKP2</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1328,1775)" data-element-type="protein" data-location-id="388198" data-element-id="P46527" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">CDKN1B</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1523,1030)" data-element-type="protein" data-location-id="388199" data-element-id="P42345" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">MTOR</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1523,1230)" data-element-type="protein" data-location-id="388200" data-element-id="P23443" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">RPS6KB1</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1923,1030)" data-element-type="protein" data-location-id="388201" data-element-id="Q92934" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">BAD</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1923,1630)" data-element-type="protein" data-location-id="388202" data-element-id="Q07817" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">BCL2L1</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(2128,1030)" data-element-type="protein" data-location-id="388203" data-element-id="Q00987" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">MDM2</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(2128,1630)" data-element-type="protein" data-location-id="388204" data-element-id="P04637" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">TP53</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(923,1630)" data-element-type="protein" data-location-id="388205" data-element-id="P01106" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">MYC</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1176,517)" data-element-type="protein" data-location-id="388206" data-element-id="A8E194" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="66" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">BCR-</tspan>
+        
+          <tspan x="70" dy="26">ABL1</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1348,575)" data-element-type="protein" data-location-id="388191" data-element-id="P46108" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">CRK</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1423,615)" data-element-type="protein" data-location-id="388194" data-element-id="P27986" data-default-color="#FFFFFF">
+      <rect data-colored="true" x="0" y="0" width="140" height="40" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      
+      <text x="70" y="5" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="70" dy="26">PIK3R1</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1206,254)" data-element-type="compound" data-element-id="PW_C073982" data-location-id="875655" data-default-color="#FFFFFF">
+      <rect class="selection-box" x="-30" y="-10" width="140" height="101" fill="none" stroke="none" stroke-width="1" stroke-dasharray="5,5" vector-effect="non-scaling-stroke"/>
+      
+      <circle data-colored="true" cx="40" cy="56" r="25" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      <text x="40" y="0" font-family="Verdana" text-anchor="middle" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="40" dy="26">Bnib</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1083,775)" data-element-type="element_collection" data-location-id="8771" data-default-color="#FFFFFF">
+      <rect class="selection-box" x="-45" y="-10" width="195" height="70" fill="none" stroke="none" stroke-width="1" stroke-dasharray="5,5" vector-effect="non-scaling-stroke"/>
+      <circle data-colored="true" cx="110" cy="25" r="25" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      <text x="80" y="12" font-family="Verdana" text-anchor="end" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="80" dy="26">Ras</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1683,770)" data-element-type="element_collection" data-location-id="8772" data-default-color="#FFFFFF">
+      <rect class="selection-box" x="-45" y="-10" width="195" height="70" fill="none" stroke="none" stroke-width="1" stroke-dasharray="5,5" vector-effect="non-scaling-stroke"/>
+      <circle data-colored="true" cx="110" cy="25" r="25" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      <text x="80" y="12" font-family="Verdana" text-anchor="end" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="80" dy="26">Akt</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1083,925)" data-element-type="element_collection" data-location-id="8773" data-default-color="#FFFFFF">
+      <rect class="selection-box" x="-45" y="-10" width="195" height="70" fill="none" stroke="none" stroke-width="1" stroke-dasharray="5,5" vector-effect="non-scaling-stroke"/>
+      <circle data-colored="true" cx="110" cy="25" r="25" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      <text x="80" y="12" font-family="Verdana" text-anchor="end" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="80" dy="26">RAF</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1083,1075)" data-element-type="element_collection" data-location-id="8774" data-default-color="#FFFFFF">
+      <rect class="selection-box" x="-45" y="-10" width="195" height="70" fill="none" stroke="none" stroke-width="1" stroke-dasharray="5,5" vector-effect="non-scaling-stroke"/>
+      <circle data-colored="true" cx="110" cy="25" r="25" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      <text x="80" y="12" font-family="Verdana" text-anchor="end" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="80" dy="26">MEK</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1083,1225)" data-element-type="element_collection" data-location-id="8775" data-default-color="#FFFFFF">
+      <rect class="selection-box" x="-45" y="-10" width="195" height="70" fill="none" stroke="none" stroke-width="1" stroke-dasharray="5,5" vector-effect="non-scaling-stroke"/>
+      <circle data-colored="true" cx="110" cy="25" r="25" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      <text x="80" y="12" font-family="Verdana" text-anchor="end" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="80" dy="26">MAPK</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    <g id="location" transform="translate(1683,1025)" data-element-type="element_collection" data-location-id="8776" data-default-color="#FFFFFF">
+      <rect class="selection-box" x="-45" y="-10" width="195" height="70" fill="none" stroke="none" stroke-width="1" stroke-dasharray="5,5" vector-effect="non-scaling-stroke"/>
+      <circle data-colored="true" cx="110" cy="25" r="25" fill="#FFFFFF" stroke="black" stroke-width="3" pointer-events="visible"/>
+      <text x="80" y="12" font-family="Verdana" text-anchor="end" font-size="26" fill="black" pointer-events="none">
+        
+          <tspan x="80" dy="26">FOXO</tspan>
+        
+      </text>
+      
+    </g>
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1193 775 C1146 740 1040 637 998 610 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1193 775 C1146 740 1040 637 998 610 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points=" 1178.1016582777377,773.2566084987304 1193,775 1187.0606504677103,761.2259618436244" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1188 610 C1218 610 1393 635 1423 635 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1188 610 C1218 610 1393 635 1423 635 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1410.0096189432334,642.5 1423,635 1410.0096189432334,627.5" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1793 770 C1721 752 1540 669 1493 655 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1793 770 C1721 752 1540 669 1493 655 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points=" 1778.5784620559755,774.1254385620269 1793,770 1782.2164964315205,759.573301059847" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M998 610 C936 653 854 723 796 764 C796 794 796 959 798 1010 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M998 610 C936 653 854 723 796 764 C796 794 796 959 798 1010 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 789.9967249262154,997.3134879461162 798,1010 804.9852041871885,996.7257044456859" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M998 610 C998 640 998 825 998 855 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M998 610 C998 640 998 825 998 855 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 990.5,842.0096189432334 998,855 1005.5,842.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M998 895 C926 925 860 985 798 1010 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M998 895 C926 925 860 985 798 1010 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 807.2430556133226,998.1861977784869 798,1010 812.8525806457766,1012.0978198589731" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1193 825 C1193 855 1193 895 1193 925 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1193 825 C1193 855 1193 895 1193 925 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1185.5,912.0096189432334 1193,925 1200.5,912.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1193 975 C1193 1005 1193 1045 1193 1075 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1193 975 C1193 1005 1193 1045 1193 1075 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1185.5,1062.0096189432334 1193,1075 1200.5,1062.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1193 1125 C1193 1155 1193 1195 1193 1225 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1193 1125 C1193 1155 1193 1195 1193 1225 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1185.5,1212.0096189432334 1193,1225 1200.5,1212.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1793 820 C1793 850 1792 1004 1793 1025 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1793 820 C1793 850 1792 1004 1793 1025 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1778.0169779341334,1025.7134772412317 1793,1025 1807.9830220658666,1024.2865227587683" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1793 820 C1729 836 1442 914 1398 928 C1399 947 1398 1610 1398 1630 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1793 820 C1729 836 1442 914 1398 928 C1399 947 1398 1610 1398 1630 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1390.5,1617.0096189432334 1398,1630 1405.5,1617.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1398 1670 C1398 1700 1398 1745 1398 1775 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1398 1670 C1398 1700 1398 1745 1398 1775 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1383,1775 1398,1775 1413,1775" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1793 820 C1743 847 1635 904 1594 928 C1593 954 1594 999 1593 1030 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1793 820 C1743 847 1635 904 1594 928 C1593 954 1594 999 1593 1030 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1585.9227258374178,1016.7745627509845 1593,1030 1600.9149275525133,1017.2581821611489" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1593 1070 C1593 1100 1593 1200 1593 1230 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1593 1070 C1593 1100 1593 1200 1593 1230 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1585.5,1217.0096189432334 1593,1230 1600.5,1217.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1793 820 C1831 838 1960 910 1992 923 C1992 943 1993 1009 1993 1030 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1793 820 C1831 838 1960 910 1992 923 C1992 943 1993 1009 1993 1030 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1978,1030 1993,1030 2008,1030" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1993 1070 C1993 1100 1993 1600 1993 1630 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1993 1070 C1993 1100 1993 1600 1993 1630 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1978,1630 1993,1630 2008,1630" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1793 820 C1837 827 2164 915 2197 925 C2197 947 2198 1004 2198 1030 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1793 820 C1837 827 2164 915 2197 925 C2197 947 2198 1004 2198 1030 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 2190.5,1017.0096189432334 2198,1030 2205.5,1017.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M2198 1070 C2198 1100 2198 1600 2198 1630 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M2198 1070 C2198 1100 2198 1600 2198 1630 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 2183,1630 2198,1630 2213,1630" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M998 895 C998 925 993 1600 993 1630 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M998 895 C998 925 993 1600 993 1630 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 985.5,1617.0096189432334 993,1630 1000.5,1617.0096189432334" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1246 335 C1246 365 1246 487 1246 517 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1246 335 C1246 365 1246 487 1246 517 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1231,517 1246,517 1261,517" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M798 1050 C799 1082 795 1856 796 1879 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M798 1050 C799 1082 795 1856 796 1879 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 787.9428127169396,1866.3476589879308 796,1879 802.9286550922654,1865.6961006237862" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1193 1275 C1194 1308 1193 1844 1194 1870 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1193 1275 C1194 1308 1193 1844 1194 1870 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1186.0062802889693,1857.307464982066 1194,1870 1200.995197908439,1856.730968150548" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M993 1670 C1026 1705 1099 1817 1146 1870 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M993 1670 C1026 1705 1099 1817 1146 1870 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1131.7696413799938,1865.2569109700514 1146,1870 1142.9924562823437,1855.3046034151375" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1993 1670 C1993 1691 1993 1841 1994 1867 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1993 1670 C1993 1691 1993 1841 1994 1867 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1986.0062802889693,1854.307464982066 1994,1867 2000.995197908439,1853.730968150548" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M2198 1670 C2183 1690 2093 1833 2067 1864 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M2198 1670 C2183 1690 2093 1833 2067 1864 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 2069.601341581382,1849.2272879275004 2067,1864 2081.0942147282685,1858.8664718571474" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1593 1270 C1593 1297 1594 1798 1596 1878 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1593 1270 C1593 1297 1594 1798 1596 1878 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1588.1776845653244,1865.2011179691178 1596,1878 1603.1729992614464,1864.826235101715" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1398 1815 C1434 1828 1477 1861 1523 1878 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1398 1815 C1434 1828 1477 1861 1523 1878 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1508.2152179745217,1880.531841317914 1523,1878 1513.4149700875962,1866.4619238354774" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g><g><g>
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+    
+    
+    <!-- Initial transparent path, to increase the clickable area -->
+    <path data-colored="false" d="M1793 1075 C1793 1097 1795 1661 1796 1686 C1822 1720 1885 1818 1922 1868 " fill="none" stroke="#000000" stroke-width="5" stroke-opacity="0"/>
+    <path data-colored="true" d="M1793 1075 C1793 1097 1795 1661 1796 1686 C1822 1720 1885 1818 1922 1868 " fill="none" stroke="#000000" stroke-width="3"/>
+    <polygon id="start_arrow_path" data-colored="true" points="" fill="black" stroke="#000000" stroke-width="3"/>
+    <polygon id="end_arrow_path" data-colored="true" points=" 1908.2439484467448,1862.019109960534 1922,1868 1920.3015769347912,1853.0964648793795" fill="black" stroke="#000000" stroke-width="3"/>
+    
+  </g></g></g>
+	</svg>
