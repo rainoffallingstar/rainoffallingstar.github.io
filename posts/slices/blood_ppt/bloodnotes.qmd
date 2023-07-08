@@ -1,0 +1,1570 @@
+---
+title: "血液系统肿瘤"
+author: "郑焱华"
+format: revealjs
+editor: visual
+---
+
+## 伊甸园：创造与源起
+
+-   The lymphatic system begins to develop at the end of the sixth week
+
+-   originally from primordial stem cells in the umbilical vesicle mesenchyme and later from the liver and spleen.
+
+------------------------------------------------------------------------
+
+### 正常白细胞的组成成分
+
+Of the total WBCs, the normal percentages of the different types are approximately the following:
+
+• Neutrophils: 62.0%
+
+• Eosinophils:2.3%
+
+• Basophils:0.4%
+
+• Monocytes: 5.3%
+
+• Lymphocytes:30.0%
+
+------------------------------------------------------------------------
+
+### 正常白细胞的重要特征
+
+-   髓系白细胞 核形态与HE染色形态
+
+-   淋系白细胞 细胞表面CD分子
+
+------------------------------------------------------------------------
+
+#### compared between mature B & T cells
+
+::: columns
+::: {.column width="50%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208011514652.png)
+
+-   PLUS Ig protein
+
+-   class switch
+
+-   B = bone marrow.
+:::
+
+::: {.column width="50%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208011514660.png)
+
+-   cytotoxic T CD8 with MHC I & helper T CD4 with MHC 2
+:::
+:::
+
+------------------------------------------------------------------------
+
+### 血细胞分化过程(概况)
+
+::: columns
+::: {.column width="40%"}
+-   multipotential stem cells(MHSC) %\>% committed stem cells(CFU/LSC) %\>% mature WBC
+
+-   growth inducers -\> CFU/LSC ;e.g. IL-3 \# promote growth
+
+-   differentiation inducers
+:::
+
+::: {.column width="60%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208011514656.png)
+:::
+:::
+
+------------------------------------------------------------------------
+
+### 血细胞分化过程（髓系）
+
+::: columns
+::: {.column width="40%"}
+-   formed & stored in the bone marrow
+
+-   three times (6 days' supply)
+:::
+
+::: {.column width="60%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208011514655.png)
+:::
+:::
+
+------------------------------------------------------------------------
+
+### 血细胞分化过程（淋系）
+
+::: columns
+::: {.column width="40%"}
+-   produced mainly in the various lymphogenous tissues
+
+-   mostly stored in the various lymphoid tissues, except for a small number that are temporarily being transported in the blood.
+:::
+
+::: {.column width="60%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208011514659.png)
+:::
+:::
+
+------------------------------------------------------------------------
+
+#### B细胞的分化（补充）
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208051239738.png)
+
+------------------------------------------------------------------------
+
+## 失乐园：血细胞癌变
+
+-   常见基因突变与通路
+-   幼稚细胞代谢与酶
+
+------------------------------------------------------------------------
+
+### 常见基因突变与通路
+
+1.  tyrosine kinase activity
+
+2.  RAS signaling
+
+3.  围绕14号染色体IgH的融合
+
+4.  特定重要分化因子的阻断
+
+5.  其他
+
+------------------------------------------------------------------------
+
+#### tyrosine kinase activity
+
+::: columns
+::: {.column width="40%"}
+-   ABL and BCR (9;22) translocation
+
+-   JAK2
+
+-   MYD88
+
+-   BTK
+:::
+
+::: {.column width="60%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071534100.svg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+![布鲁顿酪氨酸激酶（BTK）是B细胞抗原受体和细胞因子受体途径的信号分子。这种BTK信号传导会激活B细胞增殖，运输，趋化性和粘附所必需的途径](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071636471.png)
+
+------------------------------------------------------------------------
+
+#### RAS signaling && chromosome 14
+
+::: columns
+::: {.column width="40%"}
+-   MYC with 14
+
+-   BCL2
+
+-   cyclin D1/cyclin D3
+
+-   PTEN
+
+-   CDKN2A
+
+-   acquired mutation in the serine/threonine kinase BRAF, that leads to hyperactivityof the kinase
+:::
+
+::: {.column width="60%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071543228.svg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071637147.png)
+
+------------------------------------------------------------------------
+
+#### 特定重要分化因子的阻断
+
+-   NOTCH1, a gene that is essential for T cell differentiation
+
+-   PAX5，a genes that are required for B cell differentiation
+
+-   PML/RARA fusion protein that blocks myeloid differentiation at the promyelocytic stage (15;17) translocation
+
+-   mutations in isocitrate dehydrogenase (IDH). In such tumors, an "oncometabolite"synthesized by the mutated IDH protein blocks the function of enzymes that regulate the epigenome and interferes with myeloid cell differentiation
+
+------------------------------------------------------------------------
+
+#### 其他：转录因子
+
+-   BCL6 gene, located on 3q27
+
+-   a (12;21) translocation involving the ETV6 and RUNX1 genes, creating a fusion gene encoding an aberrant transcription factor
+
+------------------------------------------------------------------------
+
+### 特征酶与代谢
+
+-   TdT+ an enzyme specifically expressed in pre--B and pre--T cells
+
+-   MPO
+
+-   LAP
+
+-   PAS染色
+
+-   TRAP染色
+
+------------------------------------------------------------------------
+
+#### 末端脱氧核苷酸转移酶（Terminal deoxynucleotidyl transferase，TdT）
+
+tdt是一种特殊的DNA聚合酶，显示出未成熟的、"前B"，"前T淋巴细胞"和"急性淋巴性白血病/淋巴瘤细胞"。"末端转移酶"于"抗体基因重组时"加上N核苷酸至V(D)J的外显子上，能够形成连接多样性现象。
+
+在免疫组织化学中，抗体TdT酶可用于显示未成熟的T细胞和B细胞以及多能的"造血干细胞"的存在，其具有抗原，而成熟的淋巴样细胞总是呈"TdT阴性"。而末端转移酶阳性的细胞中发现少量的健康淋巴结和扁桃体，急性淋巴细胞白血病的恶性细胞也呈"TdT阳性"
+
+------------------------------------------------------------------------
+
+#### 髓过氧化物酶（Myeloperoxidase，MPO）
+
+MPO是一种由人类17号染色体上_MPO_基因编码的过氧化物酶。MPO主要表达于中性粒细胞（白细胞中，并产生次卤酸，发挥其抗菌活性。髓过氧化物酶是中性粒细胞嗜天青颗粒中的一种溶酶体蛋白，在脱颗粒的时候释放到胞外。MPO内含有一个血红素组分，使得富含中性粒细胞的分泌物显示出绿色，这些分泌物包括脓和黏液
+
+------------------------------------------------------------------------
+
+#### 白细胞碱性磷酸酶（LAP）
+
+人血液和造血细胞的碱性磷酸酶pH值为9.4，主要见于中性粒细胞系的成熟阶段或晚幼粒细胞。在不同生理状态和病理状态中均有明显的改变
+
+-   白细胞碱性磷酸酶积分
+
+ALP活性仅见于成熟或接近成熟的中性粒细胞。计数100个中性粒细胞中阳性细胞数，按阳性细胞中的颗粒密度分为1～5级，指数各为1～5。计算100个中性粒细胞，将每个细胞的指数相加，其总和称阳性指数或积分
+
+------------------------------------------------------------------------
+
+#### PAS染色
+
+又称过碘酸雪夫染色，糖原染色。一般用来显示糖元和其它\[多糖\]物质。
+
+\[阳性\]反应，胞浆呈红色，阴性反应，胞浆呈无色；在正常血片中RBC不染色；PLT染成深红色；\[中性粒细胞\]胞浆染成红色或深红色，有些细胞有阳性颗粒；\[单核细胞\]的胞浆染成淡红色，可含有细小或粗大阳性颗粒；少数\[淋巴细胞\]的胞浆内含有少许小的淡红色或红色颗粒；正常骨髓的\[幼稚细胞\]都不染色；\[巨核细胞\]的胞浆内呈弥散红色或深红色。巨核细胞的胞浆内呈弥散红色或深红色。
+
+------------------------------------------------------------------------
+
+## 复乐园：抗肿瘤药物的常见类型与机理
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071658698.png)
+
+------------------------------------------------------------------------
+
+### Antitumor antibiotics 抗肿瘤抗生素
+
+> All are cell cycle nonspecific, except bleomycin which is G2/M phase specific.
+
+-   bleomycin博来霉素 breaks in DNA strands
+
+-   doxorubicin阿霉素 topoisomerase II -\> 抑制复制
+
+-   daunorubicin柔毛霉素 同上
+
+-   idarubicin柔红酶素 同上
+
+------------------------------------------------------------------------
+
+### 去甲基化药物
+
+-   azecitidine 氮杂胞嘧啶核苷
+
+-   decitabine地西他滨
+
+------------------------------------------------------------------------
+
+### Antimetabolites 抗代谢药物
+
+> All are S-phase specific except cladribine, which is cell cycle nonspecific.
+
+-   Cladribine.克拉屈滨 嘌呤类似物
+
+-   fludarabine氟达拉滨 同上
+
+-   pentostatin喷司他丁 同上
+
+-   dacarbazine 氮烯唑胺 同上
+
+------------------------------------------------------------------------
+
+> 接上页
+
+-   cytarabine阿糖胞苷 嘧啶类似物
+
+-   hydroxyurea羟基脲 抑制核糖核苷酸还原酶
+
+-   methotrexate 甲氨蝶呤 叶酸类似物
+
+-   asparaginase门冬氨酰酶 门冬酰胺水解，使肿瘤细胞缺乏门冬酰胺，抑制生长
+
+------------------------------------------------------------------------
+
+### 激素类
+
+> 糖皮质激素抑制细胞摄取糖、氨基酸和核苷，抑制大分子物质合成，导致细胞生长增殖停滞，继之染色质凝集、DNA断裂，最终致使细胞裂解
+
+-   dexamethasone 地塞米松
+
+-   prednisone强的松
+
+------------------------------------------------------------------------
+
+### Alkylatingagents 烷基化药物
+
+> All are cell cycle nonspecific.
+
+> 类似地，作用于DNA双链连接
+
+-   chlorambucil 苯丁酸氮芥
+
+-   cyclophosphamide 环磷酰胺
+
+-   melphalan 美法兰
+
+------------------------------------------------------------------------
+
+### Microtubule inhibitors
+
+> All are M-phase specific.
+
+-   vincristine长春新碱 纺锤丝形成抑制
+
+-   vinblastine长春碱
+
+------------------------------------------------------------------------
+
+### 肿瘤单抗与分子抑制剂
+
+-   rituximab利妥昔单抗 CD20
+
+-   tyrosine kinase inhibitors (eg, imatinib伊马替尼)；
+
+-   second-generation tyrosine kinase inhibitors (eg, dasatinib达沙替尼, nilotinib尼罗替尼)
+
+> 格列卫
+
+-   btk inhibitors ibrutinib通常被认为是一流的BTK抑制剂，而acalabrutinib 被认为是第二代BTK抑制剂，主要是因为它表现出更高的选择性和对BTK靶向活性的抑制作用
+
+---
+#### compare btw first gen and second gen
+
+- 伊马替尼 与 ABL 激酶的 ATP 结合位点结合产生抑制作用，对于野生型的 BCR-ABL 激酶的作用效果良好，而对突变型的效果不佳。
+- 第 2 代药物对于野生型及绝大部分突变型的 BCR-ABL激酶都有更好的抑制作用， 但对于 T315I 突变型效果较差。
+- 达沙替尼能够有效地抑制除T315I 的所有突变型
+- 尼洛替尼对野生型BCR-ABL激酶非活化构象的亲和性明显高于伊马替尼，其对于BCR-ABL的各类突变型有良好的抑制效果，但对于 T315I无效。
+---
+
+### 特殊介绍 Bortezomib 硼替佐米
+
+-   第一种可逆性和选择性的蛋白酶体 (\*\*proteasome\*\*) 抑制剂
+
+-   靶向苏氨酸残基有效抑制 20S 蛋白酶体
+
+-   破坏细胞周期、诱导细胞凋亡以及抑制核因子 \*\*NF-κB\*\*。
+
+------------------------------------------------------------------------
+
+### 特殊介绍 lenalidomide来那度胺
+
+-   一种泛素 E3 连接酶 cereblon (CRBN) 的配体
+
+-   可通过 CRBN-CRL4 泛素连接酶对两种淋巴转录因子 IKZF1 和 IKZF3 进行选择性泛素化和降解。
+
+-   导致直接细胞毒作用和免疫调节作用：增加T细胞和自然杀伤细胞的数量和活性
+
+-   特别地抑制成熟 B 细胞淋巴瘤 (包括多发性骨髓瘤) 的生长，并诱导 T 细胞释放白细胞介素-2 (IL-2)。
+
+------------------------------------------------------------------------
+
+### 并发症治疗：肿瘤溶解综合症
+
+-   水化补液
+
+-   allopurinol 别嘌呤醇
+
+-   rasburicase拉布立酶 (often used in the pediatric population) to decrease serum uric acid as renal protection. Rasburicase is contraindicated in G6PD deficiency.
+
+------------------------------------------------------------------------
+
+### 并发症治疗：白细胞粘滞症
+
+-   hydroxyurea 羟基脲
+
+------------------------------------------------------------------------
+
+### 造血干细胞移植
+
+-   血细胞来源
+
+-   处理流程
+
+-   术后白细胞复苏
+
+-   并发症
+
+------------------------------------------------------------------------
+
+## 在人间：血液系统肿瘤概论
+
+::: columns
+::: {.column width="30%"}
+#### LEUKOPENIA
+
+-   Within 2 days after the bone marrow stops producing WBCs, ulcers may appear in the mouth and colon, or some form of severe respiratory infection might develop.
+
+-   Bacteria from the ulcers rapidly invade surrounding tissues and the blood. Without treatment, death often ensues in less than 1 week after acute total leukopenia begins.
+:::
+
+::: {.column width="30%"}
+#### LEUKEMIAS
+
+-   Uncontrolled production of WBCs \<- cancerous mutation of a myelogenous or lymphogenous cell.
+
+-   characterized by greatly increased numbers of abnormal WBCs in the circulating blood.
+:::
+
+::: {.column width="30%"}
+#### Lymphoma
+
+-   Hodgkin lymphoma
+
+-   none-Hodgkin lymphoma
+:::
+:::
+
+------------------------------------------------------------------------
+
+### 诊断：一些需要注意的问题
+
+-   WHO has formulated a widely accepted classification scheme for lymphoid neoplasms and myeloid neoplasms that relies on a combination of morphologic, phenotypic, genotypic, and clinical features.
+
+-   B and T cell tumors often are composed of cells that are arrested at or derived from a specific stage of normal lymphocyte differentiation
+
+> acute= early phase chronic = maturation
+
+-   diagnosis and classification rely heavily on tests (either immunohistochemistry or flow cytometry) that detect lineage-specific antigens (e.g., B cell, T cell, and NK cell markers) and markers of maturity
+
+------------------------------------------------------------------------
+
+### 病程：一些需要注意的问题
+
+-   疾病转型 Class switching and somatic hypermutation are mistake-prone forms of regulated genomic instability that place germinal center B cells at relatively high risk for potentially transforming mutations
+
+-   免疫异常 Lymphoid neoplasms often disrupt normal immune function. Both immunodeficiency (made evident by increased susceptibility to infection) and autoimmunity
+
+-   用药与耐药突变
+
+------------------------------------------------------------------------
+
+### 流行病学： 一些有趣的视角
+
+-   病毒 ：EBV，HHV-8，HLTV
+
+-   年龄： Overall, leukemia is more common in adults than children.
+
+-   Newborn (NB) to 14 years of age
+
+    • Acute lymphoblastic leukemia (ALL) most common overall cancer in children.
+
+-   Persons 40 to 60 years of age
+
+    Acute myelogenous leukemia (AML)
+
+    Chronic myelogenous leukemia (CML)
+
+-   Persons \>60 years of age
+
+    CLL most common type
+
+    CML
+
+------------------------------------------------------------------------
+
+### Acute and Chronic Leukemias 急性与慢性白血病
+
+-   Definition: Refers to malignant malignant diseases arising from bone marrow stem cells
+
+-   secondary to a block in stem cell differentiation,leads to a monoclonal proliferation
+
+-   Acute leukemia: Block occurs at an early stage of stem cell development.
+
+-   Chronic leukemia: Block occurs at a later stage in stem cell development.（Some evidence of maturation）
+
+------------------------------------------------------------------------
+
+#### 急性白血病
+
+-   三系减少 贫血（疲劳，苍白） （成熟） 白细胞减少/免疫低下（感染发热）血小板减少（出血）
+
+-   hypercellular BM with \>20% blast cells -》BM is usually replaced by blast cells -》PB present
+
+-   normocytic to macrocytic anemia：叶酸的代谢
+
+• WBC Count ranges from \<10,000 cells/mm3 (normal) to \>100,000 cells/mm3.
+
+------------------------------------------------------------------------
+
+-   肝脾肿大
+
+-   无痛性淋巴结肿大
+
+-   神经系统、睾丸累及（ALL,血X屏障),皮肤累及（T细胞）
+
+-   骨痛
+
+------------------------------------------------------------------------
+
+##### 白细胞计数与白细胞
+
+-   WBC count can be elevated, but the cells are dysfunctional
+
+-   and patients may be neutropenic with a history of frequent infection.
+
+-   risk for leukostasis count is very high (\> 150,000/mm3 in AML, \> 400,000/mm 3 in ALL
+
+---
+##### 白细胞粘滞症
+
+blasts occluding the microcirculation, leading to pulmonary edema, CNS symptoms, ischemic injury, and DIC
+---
+
+##### Diagnosis
+
+■ Best initial test: CBC with smear showing blast cells.
+
+■ Most accurate test: Bone marrow biopsy with flow cytometry to classify
+
+leukemia type.
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+■ chemotherapy. bone marrow transplantation.
+
+■ All-trans-retinoic acid (ATRA) is highly effective in APL.
+
+■prevent tumor lysis syndrome (hyperuricemia, hyperkalemia, hypocal-
+
+cemia, renal insufficiency, as blasts are destroyed by chemotherapy),
+
+patients should be well hydrated. allopurinol or rasburicase to decrease serum uric acid as renal protection. Rasburicase is con- traindicated in G6PD deficiency.
+
+■ 白细胞粘滞症
+
+------------------------------------------------------------------------
+
+##### 肿瘤溶解综合症
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071646303.png)
+
+------------------------------------------------------------------------
+
+#### 慢性白血病
+
+• an insidious onset of signs and symptoms such ashepatosplenomegaly and generalized painless lymphadenopathy.
+
+-   Blast cells in the PB are usually \<10% of the total WBC count.
+
+-   Hypercellular BM with \<10% blast cells.
+
+-   Leukemic cells show evidence of maturation.
+
+-   ormocytic to macrocytic anemia
+
+-   血小板减少
+
+------------------------------------------------------------------------
+
+### Neoplastic Myeloid Disorders
+
+Disorders of the myeloid lineage include:
+
+1.  chronic myeloproliferative disorders.
+
+2.  myelodysplastic syndrome (MDS).
+
+3.  AML.
+
+------------------------------------------------------------------------
+
+#### chronic myeloproliferative disorders 慢性骨髓增生性疾病
+
+a.  Polycythemia vera (most common)
+
+b.  CML
+
+c.  Primary myelofibrosis (PM)
+
+d.  Essential thrombocythemia
+
+------------------------------------------------------------------------
+
+##### Characteristics
+
+1.  splenomegaly
+
+2.  propensity for reactive BM fibrosis (occurs in the "spent phase")
+
+3.  propensity for transformation to acute leukemia
+
+4.  JAK2 mutaion/费城染色体
+
+------------------------------------------------------------------------
+
+#### Polycythemia 红细胞增多症
+
+-   Definition: Refers to an increase in hemoglobin (Hb), hematocrit (Hct), and
+
+RBC count
+
+-   假性 vs 真性
+
+-   malignant inappropriate absolute polycythemia
+
+------------------------------------------------------------------------
+
+##### 基因与后果
+
+-   mutation of the JAK2 gene on the short arm of chromosome 9.
+
+-   the signaling pathways that instructs the BM to generate hematopoietic cells.
+
+-   Increased production of RBCs, granulocytes (neutrophils, eosinophils, basophils),mast cells, and platelets
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+::: columns
+::: {.column width="30%"}
+##### 造血与代谢
+
+-   splenomegaly (abdominal discomfort; \>75%).
+
+-   gout.
+:::
+
+::: {.column width="30%"}
+##### 血小板与高粘滞血症
+
+-   ruddy (plethoric) face and prominence of the conjunctival and retinal vessels caused
+
+by congestion (Link 13-9).
+
+-   bleeding (e.g., epistaxis \[nose bleed\]).
+
+-   高粘滞血症、血栓形成
+
+    (a) Hyperviscosity (decreased circulation in vessels) is related to the increased RBC count or mass
+
+    (b) Sites of thrombosis include the hepatic vein, portal vein, dural sinus, and retinal veins. -\> impaired CNS circulation
+:::
+
+::: {.column width="30%"}
+##### 肥大细胞增多
+
+-   signs of increased histamine released from mast cells:
+
+    (a) pruritus (itchiness) after bathing.
+
+    (b) peptic ulcer disease.
+:::
+:::
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+-   放血疗法 reduce hyperviscosity (reduces risk for thrombosis).
+
+------------------------------------------------------------------------
+
+#### Chronic myelogenous leukemia (CML) 慢性髓细胞白血病
+
+-   Definition: Refers to a malignant clonal stem cell disease of the pluripotential stem cell that is associated with the presence of the Philadelphia chromosome
+
+-   BCR gene on chromosome 22 and the ABL gene on chromosome 9
+
+------------------------------------------------------------------------
+
+##### 基因与后果
+
+-   The growth factor dependence of CML progenitors is greatly decreased by constitutive signals generated by BCR-ABL that mimic the effects of growth factor receptor activation.
+
+-   Importantly, because BCR-ABL does not inhibit differentiation,the early disease course is marked by excessive production of relatively normal blood cells, particularly granulocytes and platelets
+
+-   vs a lekemoid reaction：Basophilia & leukocyte alkaline phosphatase (LAP)
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+::: columns
+::: {.column width="30%"}
+##### 分期
+
+-   Three stages of CML:
+
+■ Chronic: Without treatment, this phase typically lasts 3.5--5.0 years.asymptomatic.
+
+■Accelerated: A transition toward blast crisis, with an ↑ in peripheral and bone marrow blood counts. Should be suspected when the differential shows an abrupt ↑ in basophils and thrombocytopenia (platelet count \< 100,000/mm3).
+
+■ Blast crisis: A large percentage of untreated CML patients will eventually reach this phase. Resembles acute leukemia; survival is 3--6 months..
+:::
+
+::: {.column width="30%"}
+#### 经典症状
+
+1.  外周白细胞增多 10,000 to 500,000 cells/mm3
+
+    \(a\) Myeloid cells in all stages of development are seen (sign of maturation).
+
+    \(b\) Basophilia (increased basophils in the PB) is a consistent finding.
+
+2.  骨髓高增生，myeloblasts account for \<10%
+
+3.  贫血
+
+4.  血小板减少
+:::
+
+::: {.column width="30%"}
+##### 急变期 blast crisis
+
+-   
+
+    (a) Usually occurs in \~5 years
+
+-   
+
+    (b) Rapid increase in numbers of myeloblasts (70%) or lymphoblasts (30%)
+
+-   
+
+    (c) No Auer rods are present in the myeloblasts (see later).
+:::
+:::
+
+------------------------------------------------------------------------
+
+##### Diagnosis
+
+■ Most accurate test: Philadelphia chromosome via PCR or FISH analysis
+
+showing the t(9,22) translocation, although some cases lack the translocation.
+
+■ CBC often shows a very high WBC count---often \> 100,000/mm3
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+■ Chronic: Treat with tyrosine kinase inhibitors (eg, imatinib). Young
+
+patients may be candidates for allogeneic stem cell transplantation
+
+■ Blast crisis: Same as that for acute leukemia, or second-generation tyro-
+
+sine kinase inhibitors (eg, dasatinib, nilotinib) plus hematopoietic stem
+
+cell transplantation or a clinical trial.
+
+------------------------------------------------------------------------
+
+#### Primary myelofibrosis 原发性骨髓纤维化
+
+-   
+
+    a.  Definition: Refers to a malignant clonal myeloproliferative disorder arising from the neoplastic transformation of early hematopoietic stem cells
+
+-   Primarily occurs in those \>50 years of age
+
+-   most cases is caused by a mutation of the JAK2 gene
+
+-   BM fibrosis occurs earlier than in the other chronic myeloproliferative diseases.
+
+------------------------------------------------------------------------
+
+##### 基因与后果
+
+-   Ineffective erythropoiesis is characterized by the presence of dysplastic megakaryocytes (abnormal appearing megakaryocytes), increased numbers of immature granulocytes (myeloblasts, promyelocytes, metamyelocytes), and an early onset of reactive myelofibrosis.
+
+-   inappropriate release of fibrogenic factors from neoplastic megakaryocytes.
+
+    platelet-derived growth factor and TGF-β are fibroblast mitogens.
+
+    In addi-tion, TGF-β promotes collagen deposition and causes angiogenesis
+
+-   BM fibrosis occurs earlier than in the other chronic myeloproliferative diseases.
+
+-   leads to cytopenias and extensive extra-medullary hematopoiesishematopoiesis
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+###### 血细胞减少
+
+-   WBC count ranging from 10,000 to 50,000 cells/mm3.
+
+-   normocytic anemia. Teardrop cells (damaged RBCs)
+
+-   Leukoerythroblastosis
+
+-   Platelets are morphologically abnormal.
+
+    variable platelet count.
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+1.  mild cases :support treatment
+
+2.  low-risk hydroxyurea
+
+3.  high-risk jak2 inhibitor ruxolitinib + lenalidomide
+
+4.  HCT
+
+------------------------------------------------------------------------
+
+#### Essential thrombocythemia
+
+-   Definition: Refers to a malignant clonal myeloproliferative disease arising from pluripotential stem cells that leads to an increase in platelets
+
+-   jak2
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+::: columns
+::: {.column width="30%"}
+###### 血细胞
+
+-   thrombocytosis. \>600,000 cells/mm3 (frequently \>1 million cells/mm3) + Platelet morphology abnormal.
+
+-   mild neutrophilic leukocytosis.
+
+-   basophilia (increased numbers of basophils in the peripheral blood).
+
+-   hypercellular BM with numerous megakaryocytes that appear abnormal
+:::
+
+::: {.column width="30%"}
+-   bleeding caused by platelet dysfunction.
+
+Usually the bleeding is gastrointestinal (GI) in origin;
+
+-   Vessel thrombosis may also occur.
+
+-   splenomegaly.
+:::
+:::
+
+------------------------------------------------------------------------
+
+#### 治疗
+
+oral hydroxyurea 羟基脲
+
+------------------------------------------------------------------------
+
+#### Myelodysplastic syndromes (MDS)
+
+-   Definition: Group of acquired clonal stem cell disorders that characteristically exhibit cytopenias despite a hypercellular BM
+
+-   not yet full-understand
+
+-   Cytogenetic abnormalities are present in 40%--70% of patients with primary MDS and in \>90% of those with treatment-related MDS.
+
+------------------------------------------------------------------------
+
+-   Initial genetic event occurs association with inflammation and an increase in tumor necrosis factor-α (TNF-α) and interferon-γ (γ-IF).
+
+-   transformed multipotent stem cell that retains the capacity to differentiate into red cells, granulocytes, and platelets, but in a manner that is both ineffective and disordered
+
+-   In early stages of the MDS, apoptosis and increased cell proliferation prevail, leading to a hypercellular BM and PB cytopenias.
+
+-   In later stages of MDS, apoptosis decreases, and proliferation increases.Clinically,the disease is more aggressive, and the risk for transformation into acute myelogenous leukemia (AML) increases.
+
+------------------------------------------------------------------------
+
+##### Classification：？% blasts in PB?BM?
+
+-   Refractory anemia (RA): cytopenia in the PB is present in only 1 lineage; \<1% blasts are present in the PB, and \<5% blasts are present in the BM; normocellular to hypercellular BM.
+
+-   RA with ringed sideroblasts (RARS): similar to RA; however, there are \>15% ringed sideroblasts in the BM
+
+-   RA with excess blast cells (RAEB): Cytopenias are present in two or more lineages; \<5% blasts are present in the PB or 5% to 20% blasts are present in the BM.
+
+-   RA with excess blast cells in transformation (RAEB-t): same hematologic parameters as RAEB except there are \>5% blasts in the PB or 21% to 30% in the BM
+
+-   Chronic myelomonocytic leukemia (CMML): Monocytosis is present in the PB; \<5% blasts are in the PB and up to 20% BM blasts. Splenomegaly is usually present, unlike the other types of MDS.
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+::: columns
+::: {.column width="30%"}
+###### 血细胞: severe pancytopenia
+
+-   Macrocytic anemia RBCs are the first cell line affected.
+
+-   Hypersegmented neutrophils , pseudo-Pelger Huet cells
+
+-   Thrombocytopenia (platelets are the last lineage to be affected)
+:::
+
+::: {.column width="30%"}
+###### Bone marrow findings
+
+-   Ringed sideroblasts (nucleated RBCs with excess iron)
+
+-   Number of myeloblasts varies with the type of MDS
+
+    (a) If myeloblasts are \>30%, it has progressed to AML.
+
+    (b) Dysplastic megakaryocytes are commonly present
+
+-   Hypocellular MDS occurs in \<20% of cases, making it difficult to separate from aplastic anemia and PNH.
+:::
+:::
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+1.  EPO
+
+2.  lenalidomide
+
+3.  azecitidine氮杂卓类/decitabine地西他滨
+
+------------------------------------------------------------------------
+
+#### Acute myelogenous leukemia (AML)
+
+-   Definition: Refers to a malignancy of granulocyte progenitor cells
+
+-   mutations in genes encoding transcription factors that are required for normal myeloid cell differentiation
+
+-   PML/RARA fusion protein
+
+-   MPO -\> auer body
+
+------------------------------------------------------------------------
+
+-   FAB classification (mostly used in textbook)
+
+-   WHO classification (new fashion)
+
+------------------------------------------------------------------------
+
+##### WHO classification:molecular features.
+
+-   AMLs associated with specific genetic aberrations, which are important because they predict outcome and they guide therapy;
+
+-   AMLs with dysplasia, many of which arise from MDSs
+
+-   AMLs occurring after genotoxic chemotherapy;
+
+-   AMLs lacking any of the foregoing features.
+
+------------------------------------------------------------------------
+
+##### FAB classification
+
+::: columns
+::: {.column width="30%"}
+-   based on cell type and differential
+
+-   Auer rods are splinter-shaped to rod-shaped structures in the cytosol of myeloblasts
+
+    (a) Fused azurophilic granules
+
+    (b) Only present in the M2 and M3 subtypes
+
+    (c) Not present in myeloblasts in CML even when they transform into a blast crisis
+:::
+
+::: {.column width="70%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208041620075.png)
+:::
+:::
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+1.  Normocytic anemia fatigue
+
+2.  thrombocytopenia bleeding
+
+3.  leukocytosis WBC counts can be low or high. Hyperleukocytosis may also occur with WBC counts 100, 000 cells/mL.
+
+4.  fever (infection risk is increased).
+
+5.  splenomegaly and lymphadenopathy uncommon.
+
+6.  gum infiltration (common in acute monocytic leukemia \[M5\]).
+
+------------------------------------------------------------------------
+
+##### AUER body奥氏小体
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071754106.png)
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+1.  remission induction daunorubicin柔毛霉素/idarubicin柔红酶素(3days) +cytarabine阿糖胞苷 (7-10days)
+
+2.  consolidation
+
+3.  并发症处理:肿瘤溶解综合症、白细胞粘滞
+
+------------------------------------------------------------------------
+
+#### Lymphoid Leukemias
+
+-   Acute lymphoblastic leukemia (ALL)
+
+-   Adult T-cell leukemia
+
+-   Chronic lymphoblastic leukemia (CLL)
+
+-   hairy leukemia
+
+------------------------------------------------------------------------
+
+#### Acute lymphoblastic leukemia (ALL)
+
+-   Definition: Refers to an acute, rapidly progressive leukemia that is characterized by the presence of B or T lymphoblasts in the blood and bone marrow
+
+------------------------------------------------------------------------
+
+##### Immunologic classification
+
+::: columns
+::: {.column width="50%"}
+##### early pre--B-cell ALL (80% of cases)
+
+-   common acute lymphocytic leukemia antigen (CALLA; CD10) are positive.
+
+-   terminal deoxynucleotidyl transferase (TdT) are positive.
+
+-   t(12;21) translocation offers a favorable prognosis.
+
+-   More than 95% with this subtype of ALL achieve complete remission.
+:::
+
+::: {.column width="50%"}
+##### pre--B-, B-, and T-cell ALL.
+:::
+:::
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+-   Peripheral WBC(majority lymphoblasts\>20%) count ranges from 10,000 to 100,000cells/m3
+
+-   Fever caused by infection or cytokine release (interleukin-1,TNF)
+
+-   Normocytic anemia with thrombocytopenia
+
+-   BM replaced by lymphoblasts
+
+-   CNS involvement in all types (spinal fluid analysis is mandatory when first diagnosed).
+
+    B-cell testicles.
+
+    T-cell types anterior mediastinal mass or as an acute leukemia
+
+-   Flow cytometry is used to distinguish ALL from AML.
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+-   daunorubicin,vincristine,prednisone,and asparaginase天门冬酸酶
+
+-   methotrexate 甲氨蝶呤 prevent CNS relapse
+
+------------------------------------------------------------------------
+
+#### Adult T-cell leukemia
+
+-   Definition: Type of leukemia that is associated with the human T-cell lymphotropic virus type 1 that often presents as a malignant lymphoma
+
+------------------------------------------------------------------------
+
+##### 基因与结果
+
+-   Associated with the human T-cell lymphotropic virus type 1 (HTLV-1)
+
+-   Activation of the TAX gene inhibits the p53 suppressor gene.
+
+-   Neoplastic CD4 helper T cells undergo monoclonal proliferation.
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+-   Hepatosplenomegaly and generalized painless lymphadenopathy are present.
+
+-   Skin infiltration is a common finding in all T-cell malignancies.
+
+-   Lytic bone lesions occur in acute T-cell leukemia.
+
+-   Peripheral WBC(Numerous lymphoblasts; CD4 + tdt-) count ranges from 10,000 to 50,000cells/mm3.
+
+-   Normocytic anemia and thrombocytopenia
+
+-   BM replaced by sheets of CD4 lymphoblasts.
+
+------------------------------------------------------------------------
+
+#### chronic lymphoblastic leukemia (CLL)
+
+-   Definition: Refers to a neoplastic disorder of virgin B cells expressing the CD20 and surface immunoglobulins. The tumor cells also express CD5. (B cells that cannot differentiate into plasma cells)
+
+-   Etiology of CLL is unknown.
+
+-   an indolent, slowly growing tumor
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+-   Splenomegaly and lymphadenopathy
+
+-   autoimmune hemolytic anemia (AIHA) Warm (IgG) or cold (IgM)
+
+-   Hypogammaglobulinemia -\> Risk of infection is increased.
+
+-   Peripheral WBC count ranges from 15,000 to 200,000 cells/mm3.
+
+    b.  Lymphoblasts are \<10%
+
+    c.  Neutropenia
+
+    d.  Numerous "smudge" cells (fragile leukemic cells) are noted in the PB
+
+-   BM findings in CLL
+
+    replaced by neoplastic B cells
+
+    Lymphoblasts account for \<10%
+
+------------------------------------------------------------------------
+
+##### stage
+
+1.  lymphocytosis
+
+2.  lymphadenopathy
+
+3.  slenomegaly
+
+4.  anemia
+
+5.  thrombocytopenia
+
+------------------------------------------------------------------------
+
+##### Diagnosis
+
+■ Best initial test: CBC with differential and smear showing mature lympho-
+
+cytosis (NK cells, T cells, or B cells \> 5000/mm3) and characteristic smudge
+
+cells (fragile leukemia cells crushed by the slide). See Figure 2.7-15.
+
+■ Most accurate test: Flow cytometry showing the CD5 marker on B cells
+
+(normally found on T cells).
+
+■ Bone marrow biopsy is rarely required for diagnosis but may provide prog-
+
+nostic information.
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+1.  早期、无症状：观察
+
+2.  高级别、高肿瘤负荷，反复感染，B症状：治疗
+
+3.  localized (stage 1 and 2):radiation
+
+4.  \> stage 2 with symptom: chemotherapy
+
+    younger : fludarabine氟达拉滨 +/- rituximab +/- cyclophosphamide
+
+    older : chlorambucil 苯丁酸氮芥+ novel anti-CD20 antibody
+
+------------------------------------------------------------------------
+
+#### Hairy cell leukemia (HCL) 毛细胞
+
+-   Definition: Refers to a rare subtype of B-cell leukemia that is characteristically positive for the TRAP (tartrate-resistant acid phosphatase) stain
+
+-   Hallmark of the disease in 100% of cases is a BRAF V600E mutation.
+
+-   Spleen is the primary site for proliferation of the neoplastic cells.
+
+------------------------------------------------------------------------
+
+-   Splenomegaly (90% of cases)
+
+-   Autoimmune vasculitis and arthritis may occur.
+
+-   Pancytopenia (decreased neutrophils, lymphocytes, and platelets)
+
+-   Leukemic cells have hair-like projections
+
+-   BM findings in hairy cell leukemia
+
+    (1) Packed with neoplastic cells
+
+    (2) Increased reticulin fibers
+
+------------------------------------------------------------------------
+
+##### 毛细胞 hairy cell
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071755103.png)
+
+------------------------------------------------------------------------
+
+##### Diagnosis
+
+■ Best initial test: CBC with smear showing pathognomonic "hairy cells"
+
+(mononuclear cells with many cytoplasmic projections)
+
+■ Most accurate test: Flow cytometry identifying the "hairy cells."
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+-   无症状时观察即可
+
+-   一下症状时需治疗：三系减少，脾大，B症状
+
+■ Best initial treatment: Cladribine.克拉屈滨
+
+■ Alternative treatment options include pentostatin喷司他丁, splenectomy, and IFN-α.
+
+------------------------------------------------------------------------
+
+#### Lymphoid Tissue Disorder
+
+-   Non-Hodgkin Lymphoma
+
+-   Hodgkin Lymphoma,
+
+-   Plasma Cell Dyscrasias Gammopathies)
+
+------------------------------------------------------------------------
+
+#### structure of lymph node
+
+::: columns
+::: {.column width="50%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208042135928.png)
+
+-   Locations of B cells
+
+    a.  germinal follicles
+
+    b.  germinal center large B cell antigen-specific
+
+    c.  mantle zone small B lymphocytes
+:::
+
+::: {.column width="50%"}
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208042135311.png)
+
+-   Locations of T cells
+
+    a.  paracortex (parafollicular)
+
+-   Sinus histiocyte
+:::
+:::
+
+------------------------------------------------------------------------
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208071649113.png)
+
+------------------------------------------------------------------------
+
+#### Non-Hodgkin's lymphoma (NHL)
+
+-   Definition: Group of malignancies arising from cells of lymphocytic or histiocytic origin and thus typically originate within lymphoid tissue in which most often appear (e.g., lymph nodes, tonsils, thymus, or Peyer patches)
+
+-   Mutation produces a block at a specific stage in the development of B or T cells.
+
+-   firm consistency and are fused together . On cut section, "fish flesh" appearance.
+
+------------------------------------------------------------------------
+
+##### classification
+
+Classified into low- (indolent) and high-grade (aggressive) lymphomas
+
+-   Low-grade lymphomas include follicular lymphoma (grades 1 and 2), chronic lymphocytic leukemia (CLL), small lymphocytic leukemia (SLL), and most skin lymphomas.
+
+-   High-grade lymphomas include follicular lymphomas (grade 3B), diffuse large-cell lymphoma, mediastinal large B-cell lymphoma, peripheral T-cell lymphoma, mantle cell lymphoma, Burkitt lymphoma, and acute lymphoblastic lymphoma/leukemia.
+
+-   Diffuse large-cell lymphoma is the overall most common type of NHL (30% of cases).The second most common type is follicular lymphoma (25% of cases).
+
+------------------------------------------------------------------------
+
+-   follicular lymphoma
+
+-   diffuse large-cell lymphoma
+
+-   mantle cell lymphoma
+
+-   Burkitt lymphoma
+
+-   Extranodal Marginal Zone Lymphoma
+
+------------------------------------------------------------------------
+
+##### 临床表现
+
+-   painless peripheral lymphadenopathy + extra-lymphatic involve
+
+-   "B" symptoms (fevers, night sweats, weight loss)
+
+------------------------------------------------------------------------
+
+##### Follicular Lymphoma 40%
+
+-   (14;18) translocation that fuses the BCL2 gene and the IgH
+
+-   "overexpression" of BCL2 protein
+
+-   B cell markers such as CD20 and the germinal center B cell markers CD10 and BCL6
+
+------------------------------------------------------------------------
+
+##### Mantle Cell Lymphoma
+
+-   (11;14) translocation that fuses the cyclin D1 gene to the IgH locu
+
+-   overexpression of cyclin D1
+
+-   cells express surface IgM and IgD, the B cell antigen CD20, and CD5, and contain high levels of cyclin D1 protein.
+
+------------------------------------------------------------------------
+
+##### Extranodal Marginal Zone Lymphoma
+
+-   sustained by chronic inflammation
+
+-   mature B cells expressing CD20 and surface immunoglobulin, usually IgM
+
+-   cured by simple excision followed by radiotherapy
+
+------------------------------------------------------------------------
+
+##### Diffuse Large B Cell Lymphoma 35%
+
+-   BCL6 is a transcription factor that is required for the generation of germinal center B cells
+
+-   increased levels of BCL6 protein
+
+-   (14;18) translocation involving the BCL2 gene that results in overexpression of BCL2 protein
+
+-   EBV；human herpesvirus type 8 (HHV-8)
+
+-   express the B cell antigen CD20. Many also express surface IgM and/or IgG. Other antigens (e.g., CD10, BCL2)
+
+------------------------------------------------------------------------
+
+##### Burkitt Lymphoma
+
+-   translocations involving the MYC gene on chromosome 8 that result in overexpression of the MYC transcription factor.
+
+-   express surface IgM,the B cell marker CD20, and the germinal center B cell markers CD10 and BCL6.
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+■ Treatment is based on histopathologic classification rather than on stage
+
+and consists of radiation, chemotherapy, or both.
+
+■ Low-grade indolent NHL treatment is generally palliative. stage \<3 radiation
+
+■ High-grade aggressive NHL treatment is aggressive chemotherapy with a curative approach. A common regimen is rituximab, cyclophosphamide, doxorubicin阿霉素, vincristine, and prednisone (R CHOP) + loco-region radiation
+
+------------------------------------------------------------------------
+
+#### Hodgkin lymphoma (HL)
+
+-   Definition: A malignant lymphoma arising from germinal center B cells. It is characterized by the presence of multinucleated giant cells called Reed-Sternberg (RS) within a mixed inflammatory infiltrate.
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208042227306.png)
+
+------------------------------------------------------------------------
+
+Bimodal age distribution in HL
+
+a.  First large peak is 15 to 34 years old.
+
+b.  Second smaller peak is \>50 years old.
+
+c.  Overall, tends to occur at younger ages than NHL
+
+------------------------------------------------------------------------
+
+1.  Activation of the transcription factor NF-κB (nuclear factor kappa-light-chain-enhancer of activated B cells) is common in classical HL.
+
+<!-- -->
+
+a.  NF-κB is activated by EBV or other factors.
+
+b.  When activated, it turns on genes that promote proliferation of B cells.
+
+------------------------------------------------------------------------
+
+临床表现与分期
+
+-   B 症状
+
+-   pel-ebstein fever (1-2w alternating btw high fever and normal)
+
+-   分期
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208042232740.png)
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+■ Treatment is stage-dependent, involving chemotherapy and/or radiation (in early stage disease).
+
+■ localized Dis (stage 1A,2A) radiation lymph node+ next contiguous region
+
+■ Dis \> stage 3+B symptoms chemotherapy regimen is Adriamycin
+
+(doxorubicin), bleomycin, vinblastine, dacarbazine 氮烯唑胺(ABVD).
+
+------------------------------------------------------------------------
+
+#### 多发性骨髓瘤
+
+-   Definition: Characterized by a clonal proliferation of malignant plasma cells in the BM and associated with a monoclonal protein in the bowel and urine
+
+-   M-spike in a SPE occurs in 80% to 90% of cases ,Serum M protein is \>3g/dL.
+
+![](https://gitee.com/rainoffallingstar/rainoffallingstar/raw/mydraft/_imgbed/202208042237779.png)
+
+-   Urinalysis for BJ protein is positive in 60% to 80% of cases.
+
+------------------------------------------------------------------------
+
+-   chromosomal translocations that fuse the IgH locus on chromosome 14 to oncogenes such as the cyclin D1 and cyclin D3 genes.
+
+-   also supported by the cytokine interleukin 6 (IL-6), produced by fibroblasts and macrophages in the bone marrow stroma
+
+-   translocations involving MYC
+
+------------------------------------------------------------------------
+
+-   myeloma-derived factors upregulate the expression of the receptor activator of NF-κBligand (RANKL) by bone marrow stromal cells, which in turn activate osteoclasts
+
+-   hypercalcemia and pathologic fractures.
+
+-   dehydration and renal stones, and frequent bouts of bacterial pyelonephritis
+
+-   elevated levels of immunoglobulin owing to the presence of an M protein
+
+-   Bence Jones proteins , Tamm-Horsfall protein, and albumin.Light chain deposition in the glomeruli or the interstitium, either as amyloid or linear deposits, also may contribute to renal damage.
+
+------------------------------------------------------------------------
+
+##### Diagnosis
+
+■ Best initial test: Serum protein electrophoresis showing IgG or IgA mono-
+
+clonal spikes (see Figure 2.7-18).
+
+■ Most accurate test: Bone marrow biopsy showing \> 10% monoclonal
+
+CD138+ plasma cells.
+
+------------------------------------------------------------------------
+
+##### 治疗
+
+■ Patients \< 70 years of age can be treated with chemotherapy VRd: bortezomib硼替佐米,lenalidomide,and low-dose dexamethasone and autolo-
+
+gous bone marrow transplant(MDR gene).
+
+■ Patients \> 70 years of age are treated with melphalan and prednisone.
+
+------------------------------------------------------------------------
+
+#### the end of everything
+
+------------------------------------------------------------------------
+
+### 参考文献
+
+::: columns
+::: {.column width="50%"}
+1.  the developing human
+
+2.  Robbins basic pathology
+
+3.  usmle step 2 first aid ck
+
+4.  usmle step 1 first aid
+
+5.  Yale-G First aid step 2&3
+
+6.  hematology at a glance
+:::
+
+::: {.column width="50%"}
+8.  usmle step 1 lecture notes
+
+9.  gojian's rapid review pathology
+
+10. MD anderson mannul of oncology
+
+11. pthoma foudation of pathoogy
+
+12. wikipedia
+
+13. pubchem
+
+14. pubpath
+:::
+:::
+
+------------------------------------------------------------------------
