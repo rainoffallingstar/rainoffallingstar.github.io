@@ -27,6 +27,7 @@ title: 关于我
 - 2018.05-2020.05，新生大鼠脑缺氧后自噬蛋白和MBP表达相关性的探讨，负责人，已结题。
 - 2021.09-至今，利用基于影像基因组学的卷积神经网络在免疫治疗时代下对肾癌行精准分子分型和疗效预测的应用研究，技术人员，在研。
 - 2022.01-至今，应用深度学习进行实体器官/造血干细胞移植术后并发巨细胞病毒性肺炎的影像学早期诊断：基于计算机断层扫描成像数据集,策划、技术人员,在研。
+- 2023.04-至今，利用网络分析探索代谢和免疫重塑相关通路在急性髓系白血病结局风险评估中的作用，负责人，在研
 
 
 
@@ -35,6 +36,11 @@ title: 关于我
 ### 学术论文
 
 Zuo, T., **Zheng, Y.**, He, L., Chen, T., Zheng, B., Zheng, S., You, J., Li, X., Liu, R., Bai, J., Si, S., Wang, Y., Zhang, S., Wang, L., & Chen, J. (2021). Automated Classification of Papillary Renal Cell Carcinoma and Chromophobe Renal Cell Carcinoma Based on a Small Computed Tomography Imaging Dataset Using Deep Learning [Original Research]. *Frontiers in Oncology, 11*(4820). https://doi.org/10.3389/fonc.2021.746750
+
+### 软件应用
+
+Yanhua Zheng, Lingfeng He, Teng Zuo, & Zeling Xu. (2023). Shiny Application for Image Classification using Deep Learning Neural Networks (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8248138
+
 
 ### Bilibili
 
