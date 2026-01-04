@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>网站配置</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/tufte.min.css">
+    <link rel="stylesheet" href="/assets/tufted.css">
+    <link rel="stylesheet" href="/assets/custom.css">
+  <link rel="icon" href="/assets/favicon.ico"><script src="/assets/copy-code.js"></script><script src="/assets/line-numbers.js"></script><script src="/assets/format-headings.js"></script></head>
+  <body>
+    <header>
+      <nav><a href="/">首页</a><a href="/Blog/">博客</a><a href="/Links/">友链</a><a href="/About/">关于</a></nav>
+    </header>
+    <article>
+      <section>
+        <h2>网站结构</h2>
+        <p>模板主要由 4 个部分组成：</p>
+        <ul>
+          <li><code>config.typ</code> - 核心布局配置文件</li>
+          <li><code>content/</code> - 存储所有网页内容</li>
+          <li><code>assets/</code> - 存储共享的资源，例如全局 CSS、JS 脚本、ICON 等</li>
+          <li><code>Makefile</code> 或 <code>build.py</code> - 用于构建网站的脚本</li>
+        </ul>
+        <h3>可用函数</h3>
+        <p><code>tufted</code> 包目前提供了以下三个函数：</p>
+        <ul>
+          <li><code>tufted-web</code> - 主模板</li>
+          <li><code>margin-note</code> - 在边栏中放置内容（功能有限）</li>
+          <li><code>full-width</code> - 将内容放在全宽容器中（功能有限）</li>
+        </ul>
+        <p>具体使用见 <a href="../typst-example/">Typst 功能速览与样例</a>。</p>
+        <h3>主要配置</h3>
+        <p>在 <code>config.typ</code> 中，你可以通过自定义从 <code>tufted</code> 包导入的 <code>tufted-web</code> 模板来定义自己的模板。你可以在这里配置顶部导航栏链接和网站标题：</p>
+        <pre><code data-lang="typst"><span style="color: #d73948">#</span><span style="color: #d73948">import</span> <span style="color: #198810">"@preview/tufted:0.1.0"</span><br><br><span style="color: #d73948">#</span><span style="color: #d73948">let</span> template <span style="color: #d73948">=</span> tufted.tufted-web.<span style="color: #4b69c6">with</span>(<br>  <span style="color: #74747c">// 顶部导航栏的链接和标签</span><br>  header-links: (<br>    <span style="color: #198810">"/"</span>: <span style="color: #198810">"首页"</span>,<br>    <span style="color: #198810">"/Blog/"</span>: <span style="color: #198810">"博客"</span>,<br>    <span style="color: #198810">"/CV/"</span>: <span style="color: #198810">"简历"</span>,<br>    <span style="color: #198810">"/About/"</span>: <span style="color: #198810">"关于"</span>,<br>  ),<br>  <span style="color: #74747c">// 网站标题</span><br>  title: <span style="color: #198810">"我的个人网站"</span>,<br>)</code></pre>
+        <h3>层级结构与继承</h3>
+        <p>网站遵循层级结构。根目录从 <code>../config.typ</code> 导入，而子页面从其父目录的 <code>../index.typ</code> 文件导入，这样就能实现继承关系，无需从项目根路径导入。</p>
+        <p><code>content/</code> 目录中所有的 <code>**/index.typ</code> 文件都会成为可访问的页面，其路径对应文件夹的路径（例如 <code>content/Blog/index.typ</code> → <code>example.github.io/Blog</code>）。使用 <code>#link("相对/路径/")[点击我]</code> 来链接到其他页面或目录中其他文件，详细链接用法可参见 <a href="../typst-example/">Typst 功能速览与样例</a>。</p>
+        <p>你可以在任何层级修改定义，子页面都会继承这些更改。例如，要改变页面标题，可以从父级导入定义并修改 <code>template</code>：</p>
+        <pre><code data-lang="typst"><span style="color: #d73948">#</span><span style="color: #d73948">import</span> <span style="color: #198810">"../index.typ"</span>: template, tufted<br><span style="color: #74747c">// 该页面及其所有子页面都将在浏览器标签中显示为 "新标题"</span><br><span style="color: #d73948">#</span><span style="color: #d73948">show</span>: template.<span style="color: #4b69c6">with</span>(title: <span style="color: #198810">"新标题"</span>)</code></pre>
+      </section>
+    </article>
+  </body>
+</html>

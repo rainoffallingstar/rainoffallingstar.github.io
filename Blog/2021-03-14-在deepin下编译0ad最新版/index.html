@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>在Deepin下编译0.A.D最新版</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/tufte.min.css">
+    <link rel="stylesheet" href="/assets/tufted.css">
+    <link rel="stylesheet" href="/assets/custom.css">
+  <link rel="icon" href="/assets/favicon.ico"><script src="/assets/copy-code.js"></script><script src="/assets/line-numbers.js"></script><script src="/assets/format-headings.js"></script></head>
+  <body>
+    <header>
+      <nav><a href="/">首页</a><a href="/Blog/">博客</a><a href="/Links/">友链</a><a href="/About/">关于</a></nav>
+    </header>
+    <article>
+      <section>
+        <h3>在Deepin下编译0.A.D最新版</h3>
+        <p>获取.sh文件 <a href="0adsetup.sh">0adsetup.sh 下载</a></p>
+        <ol>
+          <li>
+            <p>获取源代码：git clone <a href="https://gitlab.com/0ad/0ad.git"><a href="https://gitlab.com/0ad/0ad.git">https://gitlab.com/0ad/0ad.git</a>   或在官网下载其源码包</a></p>
+          </li>
+          <li>
+            <p>安装依赖：</p>
+            <pre><code data-lang="bash"><span style="color: #4b69c6">sudo</span> apt-get install build-essential cmake libboost-dev libboost-system-dev \<br> libboost-filesystem-dev libcurl4-gnutls-dev libenet-dev libfmt-dev \<br> libgloox-dev libicu-dev libminiupnpc-dev libnvtt-dev libogg-dev \<br> libopenal-dev libpng-dev libsdl2-dev libsodium-dev libvorbis-dev \<br> libxml2-dev python rustc subversion zlib1g-dev<br><br><span style="color: #4b69c6">sudo</span> apt install wx3.0-headers libwxbase3.0-dev libwxgtk3.0-gtk3-dev libwxbase3.0-0v5 libwxgtk3.0-gtk3-0v5</code></pre>
+          </li>
+          <li>
+            <p>编译：4G内存的建议在开机后ctrl+alt+f2进入tty模式下编译，4G以上内存的，当我没说～</p>
+            <pre><code data-lang="bash"><span style="color: #4b69c6">print</span>(<span style="color: #198810">"</span><span style="color: #198810">Entering ttf mode</span><span style="color: #198810">"</span>)<br><span style="color: #4b69c6">sudo</span> systemctl disable lightdm.service<br><span style="color: #4b69c6">print</span>(<span style="color: #198810">"</span><span style="color: #198810">Now you are in ttf mode！</span><span style="color: #198810">"</span>)<br><span style="color: #4b69c6">cd</span> 0ad<br><span style="color: #4b69c6">cd</span> build/workspaces/<br><span style="color: #4b69c6">./update-workspaces.sh</span> -j <br><span style="color: #4b69c6">cd</span> gcc<br><span style="color: #4b69c6">make</span> -j<br><span style="color: #4b69c6">print</span>(<span style="color: #198810">"</span><span style="color: #198810">#以下测试编译结果</span><span style="color: #198810">"</span>)<br><span style="color: #4b69c6">cd</span> ../../..<br><span style="color: #4b69c6">binaries/system/test</span><br><span style="color: #4b69c6">print</span>(<span style="color: #198810">"</span><span style="color: #198810">必要时请更改data/mods文件夹内内容，因为编译出的内容可能出现界面乱码复制win下同名文件夹替换即可。</span><span style="color: #198810">"</span>)<br><span style="color: #4b69c6">print</span>(<span style="color: #198810">"</span><span style="color: #198810">run 'binaries/system/pyrogenesis' to enjoy your game!</span><span style="color: #198810">"</span>) </code></pre>
+          </li>
+          <li>
+            <p>运行：binaries/system/pyrogenesis，将该文件发送到桌面快捷方式即可在桌面打开了</p>
+          </li>
+        </ol>
+      </section>
+    </article>
+  </body>
+</html>
