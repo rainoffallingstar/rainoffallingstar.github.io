@@ -228,28 +228,41 @@ sup.footnote-ref {
 /* 主题切换按钮样式 */
 #theme-toggle {
     /* 内联显示在导航栏中 */
-    background: transparent;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    padding: 0.3rem 0.6rem;
-    font-size: 1rem;
+    background: transparent !important;
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+    padding: 0.3rem 0.6rem !important;
+    font-size: 1.5rem !important;
     cursor: pointer;
     transition: all 0.3s ease;
-    margin-left: 0.5rem;
+    margin-left: 0.5rem !important;
+    margin-top: 1em !important;
+    color: inherit !important;
+    text-decoration: none !important;
+    background-image: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    outline: none !important;
 }
 
 #theme-toggle:hover {
-    background: rgba(240, 240, 240, 0.9);
+    background: rgba(240, 240, 240, 0.9) !important;
     transform: scale(1.05);
+    outline: none !important;
+}
+
+#theme-toggle:focus-visible {
+    outline: 2px solid var(--highlight-weak) !important;
+    outline-offset: 2px !important;
 }
 
 /* 深色模式下的按钮样式 */
 [data-theme="dark"] #theme-toggle {
-    border-color: #666;
+    border-color: #666 !important;
 }
 
 [data-theme="dark"] #theme-toggle:hover {
-    background: rgba(60, 60, 60, 0.9);
+    background: rgba(60, 60, 60, 0.9) !important;
 }
 
 /* 深色模式适配 */
