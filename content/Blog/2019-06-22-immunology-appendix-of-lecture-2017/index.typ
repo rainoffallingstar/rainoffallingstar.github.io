@@ -3,4 +3,4 @@
 
 == 翻译：Immunology Appendix Of Lecture 2017
 
-#link("immunologyappendix.pdf")[immunologyappendix.pdf 下载]
+#link("imgs/immunologyappendix.pdf")[immunologyappendix.pdf 下载]

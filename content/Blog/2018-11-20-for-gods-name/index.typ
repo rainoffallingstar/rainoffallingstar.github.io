@@ -5,7 +5,7 @@
 
 === Script
 
-#link("background.pdf")[表演背景ppt]
+#link("imgs/background.pdf")[表演背景ppt]
 
 ==== 人物设定
 

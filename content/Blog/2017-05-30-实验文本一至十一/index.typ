@@ -17,4 +17,4 @@
 
 #link("https://gitee.com/rainoffallingstar/rainoffallingstar/attach_files/959169/download/10.pdf")[实验文本一至十]
 
-#link("11.pdf")[实验文本十一]
+#link("imgs/11.pdf")[实验文本十一]
