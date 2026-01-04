@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GitHub 网站部署</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/tufte.min.css">
+    <link rel="stylesheet" href="/assets/tufted.css">
+    <link rel="stylesheet" href="/assets/custom.css">
+  <link rel="icon" href="/assets/favicon.ico"><script src="/assets/copy-code.js"></script><script src="/assets/line-numbers.js"></script><script src="/assets/format-headings.js"></script></head>
+  <body>
+    <header>
+      <nav><a href="/">首页</a><a href="/Blog/">博客</a><a href="/Links/">友链</a><a href="/About/">关于</a></nav>
+    </header>
+    <article>
+      <section>
+        <h2>GitHub 网站部署</h2>
+        <p>你已经能在本地预览网站了，现在是时候把它发布到互联网上，让所有人都能访问了！</p>
+        <p>我在模板中准备好了 <code>.github/workflows/deploy.yml</code>，你可以使用 GitHub Actions 轻松将网站部署到 GitHub Pages。你只需要：</p>
+        <ol>
+          <li value="1">转到你的 GitHub 仓库；</li>
+          <li value="2">导航至 <em>Settings</em>，然后点击 <em>Pages</em>；</li>
+          <li value="3">在 <em>Build and deployment</em> 下, 选择 <em>GitHub Actions</em> 作为源。</li>
+        </ol>
+        <p>现在，每次你推送代码到 main 分支时，你的网站都会自动构建和部署。</p>
+        <p>阅读 <a href="https://github.com/Yousa-Mirage/Tufted-Blog-Template/wiki/GitHub-Pages-%E9%83%A8%E7%BD%B2%E7%BD%91%E7%AB%99">Wiki - GitHub Pages 部署网站</a> 以了解更多。</p>
+      </section>
+    </article>
+  </body>
+</html>
