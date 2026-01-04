@@ -1,0 +1,43 @@
+#import "../index.typ": template, tufted
+#show: template.with(title: "aweGNN with medical data science").with(lang: "en")
+
+== aweGNN with medical data science
+
+=== packages & environment(most used)
+- python
++ tensorflow 1/2
++ PyTorch 1.5.0
++ networkX
+- R
++ igraph (graph data ,visualisation)
++ scapGNN (Active Pathway and Gene Module Inference from Single-cell Multi-omics Data)
++ scGNNLTMG #link("https://github.com/BMEngineeR/scGNNLTMG")[BMEngineeR/scGNNLTMG: LTMG for scGNN (github.com)]
++ cancerID_GNN #link("https://github.com/chopper6/cancerID_GNN")[chopper6/cancerID_GNN: Biointelligence project: a graph neural network identifies cancer subtypes (github.com)]
++ Graph_PlusMinus #link("https://github.com/conormalone/Graph_PlusMinus")[conormalone/Graph_PlusMinus: GNN based plus minus from NBA PBP Data (github.com)]
++ spaGCN package in R #link("https://github.com/JianingYao/spaGCN_R")[JianingYao/spaGCN_R: spaGCN package in R (github.com)]
++ Flexible Protocol for Targeted Gene Co-expression Network Analysis #link("https://github.com/dcomanschmid/tGCN")[dcomanschmid/tGCN: Flexible Protocol for Targeted Gene Co-expression Network Analysis (github.com)]
+=== medical CV
++ 3dCT 分类 #link("https://github.com/iMED-Lab/UG-GAT")[iMED-Lab/UG-GAT (github.com)]
+=== medical Gene-gene/RNA/protein/metabolite interaction
++ A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data #link("https://github.com/yunchuankong/GEDFN")[yunchuankong/GEDFN: GEDFN: Graph-Embedded Deep Feedforward Network (github.com)]
++ `RESEPT` is a deep-learning framework for characterizing and visualizing tissue architecture from spatially resolved transcriptomics.#link("https://github.com/OSU-BMBL/RESEPT")[OSU-BMBL/RESEPT: A deep-learning framework for characterizing and visualizing tissue architecture from spatially resolved transcriptomics (github.com)]
++ Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network #link("https://github.com/jianhuupenn/SpaGCN")[jianhuupenn/SpaGCN: SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network (github.com)]
++ scFEA: A graph neural network model to estimate cell-wise metabolic using single cell RNA-seq data #link("https://github.com/changwn/scFEA")[changwn/scFEA: single cell Flux Estimation Analysis (scFEA) Try the below web server! (github.com)]
++ G-EDNN 数据处理important#link("https://github.com/2017100647/G-EDNN")[2017100647/G-EDNN: Using expression quantitative trait loci data and graph-embedded neural networks to uncover genotype–phenotype interactions (github.com)]
++ NIHGCN:Predicting cancer drug response using parallel heterogeneous graph convolutional networks with neighborhood interactions #link("https://github.com/weiba/NIHGCN")[weiba/NIHGCN: Predicting cancer drug response using parallel heterogeneous graph convolutional networks with neighborhood interactions (github.com)]
++ Prediction of gene co-expression from chromatin contacts with graph attention network#link("https://github.com/JieZheng-ShanghaiTech/HiCoEx.")[Page not found · GitHub]
++ \#link("https://github.com/wxbCaterpillar/GE-Impute")[wxbCaterpillar/GE-Impute (github.com)]
++ A novel biomarker selection method combining graph neural network and gene relationships applied to microarray data#link("https://github.com/xwdshiwo/BioFSDatasets_and_code")[xwdshiwo/BioFSDatasets_and_code: code and datasets of ILRC (github.com)]
++ Spatial Transcriptomics Prediction from Histology jointly through Transformer and Graph Neural Networks #link("https://github.com/biomed-AI/Hist2ST")[biomed-AI/Hist2ST (github.com)]
++ Use of a graph neural network to the weighted gene co-expression network analysis of Korean native cattle #link("https://github.com/gywns6287/gmcNet")[gywns6287/gmcNet: gene module clustering network (github.com)]
++ GraphGONet: a self-explaining neural network encapsulating the Gene Ontology graph for phenotype prediction on gene expression#link("https://forge.ibisc.univ-evry.fr/vbourgeais/GraphGONet")[Victoria BOURGEAIS / GraphGONet · GitLab (univ-evry.fr)]
++ \\# Prediction of Time Series Gene Expression and Structural Analysis of Gene Regulatory Networks Using Recurrent Neural Networks https://github.com/jonathan-f/DA_RNN_GENEXP
++ Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network #link("https://github.com/DHUDBlab/scDSC")[DHUDBlab/scDSC (github.com)]
++ Multi-level attention graph neural network based on co-expression gene modules for disease diagnosis and prognosis #link("https://github.com/TencentAILabHealthcare/MLA-GNN")[github.com]
++ 【important】Identifying Cancer Subtypes Using a Residual Graph Convolution Model on a Sample Similarity Network #link("https://github.com/weiba/ERGCN/tree/master")[weiba/ERGCN at master (github.com)]
++ Unsupervised construction of computational graphs for gene expression data with explicit structural inductive biases #link("https://github.com/paulmorio/gincco")[paulmorio/gincco: Source code for GINCCo Paper (github.com)]
++ 【data】Distant metastasis identification based on optimized graph representation of gene interaction patterns #link("https://github.com/RanSuLab/Metastasis-glmGCN")[RanSuLab/Metastasis-glmGCN (github.com)]
++ Detecting Spatially Co-expressed Gene Clusters with Functional Coherence by Graph-regularized Convolutional Neural Network #link("https://github.com/kuanglab/CNN-PReg")[kuanglab/CNN-PReg (github.com)]
++ A Graph Feature Auto-Encoder for the prediction of unobserved node features on biological networks#link("https://github.com/RaminHasibi/GraphFeatureAutoencoder")[RaminHasibi/GraphFeatureAutoencoder: A repo for implementation of Graph features autoencoder for expression values prediction and imputation (github.com)]
++ A graph convolutional neural network for gene expression data analysis with multiple gene networks
++ Improving cancer driver gene identification using multi-task learning on graph convolutional network #link("https://github.com/weiba/MTGCN")[weiba/MTGCN (github.com)]
