@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Reading Notes | How to Write Essays A step-by-step guide for all levels with sample essays").with(lang: "en")
 
 == Reading Notes | How to Write Essays A step-by-step guide for all levels with sample essays

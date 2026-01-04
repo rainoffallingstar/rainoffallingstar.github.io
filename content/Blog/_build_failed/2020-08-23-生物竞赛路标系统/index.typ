@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "生物竞赛路标系统").with(lang: "zh")
 
 == 生物竞赛路标系统2.0

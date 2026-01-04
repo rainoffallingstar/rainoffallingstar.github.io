@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "2017 级系统解剖学复习资料").with(lang: "zh")
 
 2017 级系统解剖学复习资料

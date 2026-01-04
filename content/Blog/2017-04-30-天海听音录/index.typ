@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "天海听音录").with(lang: "zh")
 
 == 天海听音录

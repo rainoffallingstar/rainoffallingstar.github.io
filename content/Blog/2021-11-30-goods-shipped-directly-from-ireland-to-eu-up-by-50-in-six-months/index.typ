@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Goods shipped directly from Ireland to EU up by 50% in six months").with(lang: "en")
 
 == Goods shipped directly from Ireland to EU up by 50% in six months

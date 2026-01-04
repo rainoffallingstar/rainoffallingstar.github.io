@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Review：免疫胶体金电镜技术的操作与原理").with(lang: "zh")
 
 == ***\*Review：免疫胶体金电镜技术的操作与原理\***

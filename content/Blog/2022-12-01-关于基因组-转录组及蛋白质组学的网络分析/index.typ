@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "关于基因组、转录组及蛋白质组学的网络分析").with(lang: "zh")
 
 == 学习报告：关于基因组、转录组及蛋白质组学的网络分析

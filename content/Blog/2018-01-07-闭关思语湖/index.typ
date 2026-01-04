@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "闭关思语湖").with(lang: "zh")
 
 == 闭关思语湖

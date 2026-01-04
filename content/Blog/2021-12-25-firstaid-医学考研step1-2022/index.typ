@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "FirstAid 医学考研step1 2022").with(lang: "zh")
 
 == FirstAid 医学考研step1 2022

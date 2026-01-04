@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "2022-11-04-Workflow Machine Learning with Radio-mics").with(lang: "zh")
 
 == _Workflow：Machine Learning with Radio-mics_

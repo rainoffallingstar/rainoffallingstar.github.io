@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "近远期医学Deeplearning项目展望与行动2022").with(lang: "zh")
 
 == 近远期医学Deeplearning项目展望与行动2022

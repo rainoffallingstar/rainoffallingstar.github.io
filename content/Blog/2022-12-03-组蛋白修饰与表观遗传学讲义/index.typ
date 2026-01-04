@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "组蛋白修饰与表观遗传学讲义").with(lang: "zh")
 
 == CMU2022组蛋白修饰与表观遗传学讲义

@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "有机化学从入门到放弃").with(lang: "zh")
 
 == 电子霸权－有机化学从入门到放弃

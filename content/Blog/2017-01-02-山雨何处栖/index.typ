@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "山雨何处栖").with(lang: "zh")
 
 == _山雨何处栖_

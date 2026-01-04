@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "虚拟仿真在医学教学下的应用及疫情防控时期远程虚拟现实医学课堂系统的设想").with(lang: "zh")
 
 == 虚拟仿真在医学教学下的应用及疫情防控时期远程虚拟现实医学课堂系统的设想

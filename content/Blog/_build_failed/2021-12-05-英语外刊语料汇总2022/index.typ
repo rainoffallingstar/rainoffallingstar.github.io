@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "英语外刊语料汇总2022").with(lang: "en")
 
 == 英语外刊语料汇总2022

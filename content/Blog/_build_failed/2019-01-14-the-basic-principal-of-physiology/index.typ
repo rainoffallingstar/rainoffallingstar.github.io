@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "The basic principal of physiology").with(lang: "en")
 
 == **The basic principal of physiology**

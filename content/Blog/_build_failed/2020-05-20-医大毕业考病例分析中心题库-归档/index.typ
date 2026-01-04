@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "医大毕业考病例分析中心题库（归档）").with(lang: "zh")
 
 == 医大毕业考病例分析中心题库（归档）

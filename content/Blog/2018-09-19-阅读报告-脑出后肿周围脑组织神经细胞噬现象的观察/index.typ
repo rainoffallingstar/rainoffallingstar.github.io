@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "阅读报告：脑出⾎后⾎肿周围脑组织神经细胞⾃噬现象的观察").with(lang: "zh")
 
 == 阅读报告：脑出⾎后⾎肿周围脑组织神经细胞⾃噬现象的观察[1]

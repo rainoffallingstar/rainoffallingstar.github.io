@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "DL大创基础培训推荐视频").with(lang: "en")
 
 == DL大创基础培训推荐视频

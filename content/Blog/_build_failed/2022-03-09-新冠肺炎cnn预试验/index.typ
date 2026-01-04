@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "新冠肺炎CNN预试验").with(lang: "en")
 
 == 2022-03-09-新冠肺炎CNN预试验

@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "THE COLLECTION 考研真题回顾").with(lang: "en")
 
 == THE COLLECTION : 考研真题回顾

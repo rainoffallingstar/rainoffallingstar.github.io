@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "心动的物理学原理").with(lang: "zh")
 
 == 心动的物理学原理

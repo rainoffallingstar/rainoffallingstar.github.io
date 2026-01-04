@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "吃瓜群众视角下的议论文--我以为好的议论文怎么写").with(lang: "zh")
 
 == 吃瓜群众视角下的议论文--我以为好的议论文怎么写

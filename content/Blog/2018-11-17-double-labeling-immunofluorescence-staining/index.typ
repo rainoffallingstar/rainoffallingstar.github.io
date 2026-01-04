@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Double-labeling immunofluorescence staining").with(lang: "en")
 
 == Double-labeling immunofluorescence staining

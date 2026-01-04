@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "苍鹰时代").with(lang: "zh")
 
 == 苍鹰时代

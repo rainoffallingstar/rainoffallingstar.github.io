@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "面试非专业问题指北").with(lang: "zh")
 
 == 面试非专业问题指北

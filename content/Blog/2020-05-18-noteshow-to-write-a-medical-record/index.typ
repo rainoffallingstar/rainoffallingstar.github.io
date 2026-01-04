@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Notes:How to write a medical record").with(lang: "en")
 
 == Notes:How to write a medical record

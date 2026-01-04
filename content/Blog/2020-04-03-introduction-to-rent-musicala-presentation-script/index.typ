@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Introduction to Rent musicala presentation script").with(lang: "en")
 
 == Introduction to Rent musical: a presentation script 

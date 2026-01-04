@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Victims of sexual violence let down by UK asylum system, report says").with(lang: "en")
 
 == Victims of sexual violence let down by UK asylum system, report says

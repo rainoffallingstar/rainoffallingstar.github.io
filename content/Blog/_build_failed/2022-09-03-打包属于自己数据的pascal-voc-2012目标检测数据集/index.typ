@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "打包属于自己数据的PASCAL-VOC-2012目标检测数据集").with(lang: "en")
 
 == 打包属于自己数据的PASCAL-VOC-2012目标检测数据集

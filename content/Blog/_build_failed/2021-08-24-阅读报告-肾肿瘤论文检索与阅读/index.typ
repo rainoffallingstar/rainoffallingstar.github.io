@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "阅读报告：肾肿瘤论文检索与阅读").with(lang: "en")
 
 == 肾肿瘤论文检索与阅读

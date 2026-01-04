@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "玫瑰红茶，柠檬绿茶").with(lang: "zh")
 
 玫瑰红茶，柠檬绿茶

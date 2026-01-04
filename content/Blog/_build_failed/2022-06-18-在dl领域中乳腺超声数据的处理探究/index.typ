@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "在DL领域中乳腺超声数据的处理探究").with(lang: "zh")
 
 == 在DL领域中乳腺超声数据的处理探究

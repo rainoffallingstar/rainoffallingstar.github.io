@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "与袁夫子书").with(lang: "zh")
 
 袁夫子如晤：

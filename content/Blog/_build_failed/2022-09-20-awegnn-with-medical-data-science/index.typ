@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "aweGNN with medical data science").with(lang: "en")
 
 == aweGNN with medical data science

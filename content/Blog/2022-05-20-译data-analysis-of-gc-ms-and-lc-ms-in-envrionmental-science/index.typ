@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "译|Data analysis of GC-MS and LC-MS in Envrionmental Science").with(lang: "en")
 
 Data analysis of GC-MS and LC-MS in Envrionmental Science

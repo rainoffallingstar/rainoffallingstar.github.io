@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "MSKCC分子分型实验步骤翻译（部分）").with(lang: "en")
 
 == MSKCC分子分型实验步骤翻译（部分）

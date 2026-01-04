@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Reviewed：从单标记到多标记的免疫荧光技术").with(lang: "zh")
 
 == ***\*Reviewed：从单标记到多标记的免疫荧光技术\***

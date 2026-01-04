@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "The divergent roles of autophagy in ischemia and preconditioning").with(lang: "en")
 
 == 阅读报告：The divergent roles of autophagy in ischemia and preconditioning

@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "在Deepin下编译0.A.D最新版").with(lang: "en")
 
 == 在Deepin下编译0.A.D最新版

@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Lawyers turn to romcoms in fight for rule of law in Poland").with(lang: "en")
 
 == Lawyers turn to romcoms in fight for rule of law in Poland

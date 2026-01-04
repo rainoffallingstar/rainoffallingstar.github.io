@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Ghislaine Maxwell sex-trafficking trial expected to go before jury").with(lang: "en")
 
 == Ghislaine Maxwell sex-trafficking trial expected to go before jury

@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Paired Mass Distance(PMD) analysis for GC/LC-MS based non-targeted analysis（译）").with(lang: "en")
 
 Paired Mass Distance(PMD) analysis for GC/LC-MS based non-targeted analysis

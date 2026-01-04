@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "利用casaos将deepin打造为一个简易的nas系统").with(lang: "zh")
 
 == 利用casaos将deepin打造为一个简易的nas系统

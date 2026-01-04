@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "2022-04-16-北大“可信临床生物信息学研究协作组”会议记录").with(lang: "zh")
 
 == 北大“可信临床生物信息学研究协作组”会议记录

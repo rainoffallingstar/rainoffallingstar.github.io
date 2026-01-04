@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Pathology Lecture Notes").with(lang: "zh")
 
 == Pathology Lecture Notes

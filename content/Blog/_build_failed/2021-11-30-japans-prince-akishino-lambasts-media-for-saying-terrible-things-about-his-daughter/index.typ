@@ -1,4 +1,4 @@
-#import "../index.typ": template, tufted
+#import "../../../config.typ": template, tufted
 #show: template.with(title: "Japan’s Prince Akishino lambasts media for saying ‘terrible things’ about his daughter").with(lang: "en")
 
 == Japan’s Prince Akishino lambasts media for saying ‘terrible things’ about his daughter
