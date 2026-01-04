@@ -340,7 +340,7 @@ def get_pdf_output_path(typ_file: Path) -> Path:
 def inject_head_tags(html_path: Path):
     """
     向 HTML 文件的 </head> 标签前注入 favicon 和脚本标签，
-    并在 <body> 标签后注入主题切换按钮。
+    并在导航栏最后一个链接后注入主题切换按钮。
 
     参数:
         html_path: HTML 文件路径
@@ -349,9 +349,10 @@ def inject_head_tags(html_path: Path):
         content = html_path.read_text(encoding="utf-8")
         modified_content = content.replace("</head>", HEAD_INJECTION + "</head>")
 
-        # 注入主题切换按钮到 body 开头
+        # 注入主题切换按钮到导航栏最后（在"关于"链接之后）
+        # 查找 </nav> 并在它之前插入按钮
         button_html = '<button id="theme-toggle" title="切换主题">🌙</button>'
-        modified_content = modified_content.replace("<body>", f"<body>{button_html}")
+        modified_content = modified_content.replace("</nav>", f'{button_html}</nav>')
 
         html_path.write_text(modified_content, encoding="utf-8")
     except Exception as e:
