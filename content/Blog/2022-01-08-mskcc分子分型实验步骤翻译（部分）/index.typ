@@ -1,20 +1,20 @@
 #import "../../../config.typ": template, tufted
-#show: template.with(title: "mskcc分子分型实验步骤翻译（部分）").with(lang: "zh")
+#show: template.with(title: "mskcc分子分型实验步骤翻译(部分)").with(lang: "zh")
 
-== mskcc分子分型实验步骤翻译（部分）
+== mskcc分子分型实验步骤翻译(部分)
 
 
-== MSKCC分子分型实验步骤翻译（部分）
+== MSKCC分子分型实验步骤翻译(部分)
 
 === 原料与工具
 
 1. SP142 assay (Ventana, AZ) #用于PD-L1表达免疫组化
 
-2. 高纯度FFPET RNA分离试剂盒（Roche）#提取RNA
+2. 高纯度FFPET RNA分离试剂盒(Roche)#提取RNA
 
 3. Qubit和安捷伦生物分析仪 #RNA数量和质量评估
 
-4. TruSeq RNA Access technology (Illumina) # 生成全转录组数据
+4. TruSeq RNA Access technology (Illumina) — 生成全转录组数据
 
 5. R/Bioconductor软件包GenomicAlignments
 
@@ -31,7 +31,7 @@
 
 11. QuSAGE analysis (R/Bionconductor qusage v2.18.0)
 
-12. 其他（详见实验步骤）
+12. 其他(详见实验步骤)
 
 === 实验步骤
 
@@ -47,7 +47,7 @@ PD-L1 expression was assessed by immunohistochemistry using the SP142 assay (Ven
 \> mRNA fraction by positive selection using a cocktail of biotinylated oligos corresponding to coding regions of the genome. Libraries
 \> were sequenced using the Illumina sequencing method.
 
-以H&amp;E染色为指导，对福尔马林固定石蜡包埋（FFPE）组织进行肿瘤区域的宏观解剖。使用高纯度FFPET RNA分离试剂盒（Roche）提取RNA，并通过Qubit和安捷伦生物分析仪进行数量和质量评估。用随机引物从总RNA中诱导第一条cDNA链合成，然后在底物中用dUTP代替dTTP产生第二条cDNA链，以便于保存序列信息。通过使用与基因组编码区相对应的生物素化寡聚物混合物进行正选择得到的mRNA分数。使用Illumina测序方法对这些基因进行测序。
+以H&amp;E染色为指导，对福尔马林固定石蜡包埋(FFPE)组织进行肿瘤区域的宏观解剖。使用高纯度FFPET RNA分离试剂盒(Roche)提取RNA，并通过Qubit和安捷伦生物分析仪进行数量和质量评估。用随机引物从总RNA中诱导第一条cDNA链合成，然后在底物中用dUTP代替dTTP产生第二条cDNA链，以便于保存序列信息。通过使用与基因组编码区相对应的生物素化寡聚物混合物进行正选择得到的mRNA分数。使用Illumina测序方法对这些基因进行测序。
 
 ==== 3.生成RNA-seq数据及其处理
 
@@ -60,7 +60,7 @@ PD-L1 expression was assessed by immunohistochemistry using the SP142 assay (Ven
 \> (TPM) normalization, and subsequently log2-transformed. Raw and processed data are available under the data sharing
 \> agreement.\</u\>\
 
-全转录组数据通过TruSeq RNA Access technology (Illumina)生成，RNA序列首先与核糖体RNA序列比对以排除之，其他序列与人类基因组序列对比，\<u\>为了量化基因的表达水平，使用R/Bioconductor软件包GenomicAlignments提供的功能计算了映射到每个RefSeq基因外显子上的读数。原始计数根据基因长度进行了调整，使用每百万转录本（TPM）归一化测量基因长度，并随后进行对数转换。？\</u\>
+全转录组数据通过TruSeq RNA Access technology (Illumina)生成，RNA序列首先与核糖体RNA序列比对以排除之，其他序列与人类基因组序列对比，\<u\>为了量化基因的表达水平，使用R/Bioconductor软件包GenomicAlignments提供的功能计算了映射到每个RefSeq基因外显子上的读数。原始计数根据基因长度进行了调整，使用每百万转录本(TPM)归一化测量基因长度，并随后进行对数转换。？\</u\>
 
 ==== 4.DNA突变及复制数的统计
 
@@ -74,18 +74,18 @@ laboratory. Approval for genetic evaluation was obtained from the Western Instit
 \> Hybrid capture was carried out for all coding exons from up to 395 cancer-related genes plus select introns from up to 31 genes
 \> frequently rearranged in cancer. We assessed all classes of genomic alterations (GA) including short variant (missense, stop, nonstart, splice site point mutations as well as short indels), biallelic deletions, amplifications and rearrangement alterations, as previously described (Frampton et al., 2013). Shallow copy-number loss (CN=1) was called using similar methodology to arm-level calling.
 
-对多达395个癌症相关基因的所有编码外显子和多达31个经常在癌症中重排的基因的选定内含子进行了混合捕获。我们评估了所有类别的基因组改变（GA），包括短的变异（错义、停止、非开始、剪接点突变以及短的 indels）、双亲缺失、扩增和重排改变，如以前所述（Frampton等人，2013）。浅层拷贝数损失（CN=1）的调用方法与臂级调用类似。
+对多达395个癌症相关基因的所有编码外显子和多达31个经常在癌症中重排的基因的选定内含子进行了混合捕获。我们评估了所有类别的基因组改变(GA)，包括短的变异(错义、停止、非开始、剪接点突变以及短的 indels)、双亲缺失、扩增和重排改变，如以前所述(Frampton等人，2013)。浅层拷贝数损失(CN=1)的调用方法与臂级调用类似。
 
 \> Normalized coverage data for exonic, intronic, and SNP targets accounting for stromal admixture were plotted on a logarithmic scale and minor allele SNP frequencies were concordantly plotted. Custom circular binary segmentation further clustered targets and minor allele SNPs to define upper and lower bounds of genomic segments. Signal-to-noise ratios for each segment were used to determine whether it was gained or lost. The sum of those segment sizes determined the fraction of each segment gained or lost. For gene alteration analyses described in this manuscript, we leveraged position-level information to define per-gene alteration profiles, and dichotomized every gene’s mutational profile as altered (including copy-number loss or gain) or non-altered.
 
-将外显子、内隐子和SNP目标的归一化覆盖率数据以对数尺度绘制，小等位基因SNP的频率也被一致绘制出来。自定义循环二元分割进一步对目标和小等位基因SNP进行聚类，以定义基因组片段的上限和下限。每个区段的信噪比被用来确定它是获得还是失去。这些片段的大小之和决定了每个片段获得或失去的部分。对于本稿中描述的基因改变分析，我们利用位置级别的信息来定义每个基因的改变概况，并将每个基因的突变概况二分为改变（包括拷贝数损失或增加）或不改变。
+将外显子、内隐子和SNP目标的归一化覆盖率数据以对数尺度绘制，小等位基因SNP的频率也被一致绘制出来。自定义循环二元分割进一步对目标和小等位基因SNP进行聚类，以定义基因组片段的上限和下限。每个区段的信噪比被用来确定它是获得还是失去。这些片段的大小之和决定了每个片段获得或失去的部分。对于本稿中描述的基因改变分析，我们利用位置级别的信息来定义每个基因的改变概况，并将每个基因的突变概况二分为改变(包括拷贝数损失或增加)或不改变。
 
 ==== 5.监测基因融合
 
 \> Paired trimmed/clipped and de-duplicated RNAseq reads were used to identify gene fusion events. Reads were aligned using STAR
 \> v2.7.2b with default parameters to the GRCh38 genome. This aligned output was used as input to STAR-Fusion v1.9.1 (Haas et al. using the developer-supplied gencode v33 CTAT library from April 6, 2020. We required each fusion gene to be supported by atleast two reads
 
-成对的修剪/剪裁和去掉重复的RNAseq读数被用来识别基因融合事件。用STAR v2.7.2b（默认参数为GRCh38基因组）对比。这个对比的输出结果被用作STAR-Fusion v1.9.1的输入。我们要求每个融合基因至少要有两个读码框支持
+成对的修剪/剪裁和去掉重复的RNAseq读数被用来识别基因融合事件。用STAR v2.7.2b(默认参数为GRCh38基因组)对比。这个对比的输出结果被用作STAR-Fusion v1.9.1的输入。我们要求每个融合基因至少要有两个读码框支持
 
 ==== 6.T效应和血管生成性基因印记的阈值定义和验证
 
@@ -113,7 +113,7 @@ and we normalized (z-score transformed) the gene expression values in each set t
 same scale. Finally, we learned the random forest classifier on the IMmotion151 derived trained data and then utilized the classifier to
 predict the NMF classes in IMmotion150. We subsequently evaluated expression of gene expression signatures assessed in IMmotion151 (Figure 1C) in the NMF clusters identified in IMmotion150. (Figure S4).
 
-==== 9. 基因表达的定量集分析（QuSAGE）
+==== 9. 基因表达的定量集分析(QuSAGE)
 
 To understand biological pathways underlying NMF clustering, we conducted QuSAGE analysis (R/Bionconductor qusage v2.18.0)
 to compare each cluster to all others, leveraging MSigDb hallmark gene sets to identify enriched pathways within each cluster.
@@ -139,10 +139,10 @@ Gene signatures were defined as follows:
 
 8. snoRNA: SNORD38A, SNORD104,SNORD32A, SNORD68, SNORD66, SNORD100. 
 
-Signature scores are calculated as the median z-score of genes（基因的中位z分数） included in each signature for each sample. When summarized by patient group, as in Figure 1D, log2-transformed expression data were first aggregated by patient group using the mean, and subsequently converted to a group z-score.
+Signature scores are calculated as the median z-score of genes(基因的中位z分数) included in each signature for each sample. When summarized by patient group, as in Figure 1D, log2-transformed expression data were first aggregated by patient group using the mean, and subsequently converted to a group z-score.
 
 ==== 11.量化和统计分析
 
-All analyses were conducted using Rv3.6.1. Unless otherwise stated, all comparisons for continuous variables use the two-sided Mann-Whitney test (R function wilcox.test) for two groups and the Kruskal-Wallis test (R function kruskal.test) for more than two groups. Dunn’s post-hoc test was applied with Benjamini-Hochberg multiple testing correction for pairwise comparisons. For categorical variables, Pearson’s Chi-squared test with continuity correction was used (R function chisq.test). Unless otherwise stated, FDR-adjusted p-values are reported. \: p\<0.05; \: p\<0.01; : p\<0.001. Survival analyses were conducted using Cox-proportional hazard models using the R survival package (v3.1.7). Log-rank p-values were reported for survival analyses including more than two groups. For all boxplots, the horizontal line represents the median. The lower and upper hinges correspond to the first and third quartiles. The upper whisker extends from the hinge to the largest value no further than 1.5 \ IQR from the hinge (where IQR is the interquartile range, or distance between the first and third quartiles). The lower whisker extends from the hinge to the smallest value at most 1.5  IQR of the hinge.
+All analyses were conducted using Rv3.6.1. Unless otherwise stated, all comparisons for continuous variables use the two-sided Mann-Whitney test (R function wilcox.test) for two groups and the Kruskal-Wallis test (R function kruskal.test) for more than two groups. Dunn’s post-hoc test was applied with Benjamini-Hochberg multiple testing correction for pairwise comparisons. For categorical variables, Pearson’s Chi-squared test with continuity correction was used (R function chisq.test). Unless otherwise stated, FDR-adjusted p-values are reported. : p\<0.05; : p\<0.01; : p\<0.001. Survival analyses were conducted using Cox-proportional hazard models using the R survival package (v3.1.7). Log-rank p-values were reported for survival analyses including more than two groups. For all boxplots, the horizontal line represents the median. The lower and upper hinges correspond to the first and third quartiles. The upper whisker extends from the hinge to the largest value no further than 1.5  IQR from the hinge (where IQR is the interquartile range, or distance between the first and third quartiles). The lower whisker extends from the hinge to the smallest value at most 1.5  IQR of the hinge.
 
 

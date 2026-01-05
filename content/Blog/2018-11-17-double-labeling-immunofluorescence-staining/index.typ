@@ -7,7 +7,7 @@
 
 + ⽤ 10 g L 戊巴⽐妥钠腹腔 注射⿇醉后 , 经左⼼室插管 , ⽣理盐⽔灌洗 , 然后⽤ 40 g L 多聚甲醛全⾝灌注固 定 。 取出⼤⿏⼤脑 , 将 其放⼊ 40 g L 多聚甲醛进⾏后固定 24 h 。经 200 g L 蔗糖( 40 g L 多聚 甲醛配制)脱⽔ ,直⾄组 织沉底 。在恒冷箱冰冻切⽚机切⽚ , ⽚厚 10 μ m。[1]
 
-+ The frozen sections (10-µM thick; frozen at -80˚C) of brain tissues were defrosted, fixed with acetone at 4˚C for 30 min, and washed with PBS （0 . 01 mol/ L？）for 5 min three times. [3]
++ The frozen sections (10-µM thick; frozen at -80˚C) of brain tissues were defrosted, fixed with acetone at 4˚C for 30 min, and washed with PBS (0 . 01 mol/ L？)for 5 min three times. [3]
 
 + Antigen retrieval was performed by boiling in antigen retrieval solution I at 100˚C for 5 min, and washed with PBS for 5 min three times. Sections were blocked with bovine serum albumin (BSA； ⽜⾎清蛋⽩？？) at room temperature for 1 h. [3]
 
@@ -20,7 +20,7 @@
 
 + The following day, the sections were rewarmed at room temperature for 1 h and washed three times with PBS for 5 min. [3]
 
-+ Secondary antibodies（⼆抗） [cat. no. ta130022; fluorescein isothiocyanate (FITC) conjugated goat anti-rabbit IgG, 1:64【最适浓度？】; and ta130012, Cy3-conjugated goat anti-mouse IgG, 1:50【最适 浓度？】；] were added and incubated away from light, at room temperature for 4 h, followed by washing in the dark with PBS for 5 min three times. Nuclear staining was performed with DAPI (OriGene Technologies, Inc.) for 5 min, and sections were washed in the dark with PBS for 5 min three times. [3]
++ Secondary antibodies(⼆抗) [cat. no. ta130022; fluorescein isothiocyanate (FITC) conjugated goat anti-rabbit IgG, 1:64【最适浓度？】; and ta130012, Cy3-conjugated goat anti-mouse IgG, 1:50【最适 浓度？】；] were added and incubated away from light, at room temperature for 4 h, followed by washing in the dark with PBS for 5 min three times. Nuclear staining was performed with DAPI (OriGene Technologies, Inc.) for 5 min, and sections were washed in the dark with PBS for 5 min three times. [3]
 
   \> fluorescein isothiocyanate (FITC) conjugated goat anti-rabbit IgG-荧光素异硫氰酸酯(FITC)结合 ⼭⽺抗兔IgG
   \> Cy3-conjugated goat anti-mouse IgG-cy3标记的⼭⽺抗小⿏IgG

@@ -13,7 +13,7 @@
 3. networkX
 - R
 1. igraph (graph data ,visualisation)
-2. scapGNN (Active Pathway and Gene Module Inference from Single-cell Multi-omics Data) 
+2. scapGNN (Active Pathway and Gene Module Inference from Single-cell Multi-omics Data)
 3. scGNNLTMG #link("https://github.com/BMEngineeR/scGNNLTMG")[BMEngineeR/scGNNLTMG: LTMG for scGNN (github.com)]
 4. cancerID_GNN #link("https://github.com/chopper6/cancerID_GNN")[chopper6/cancerID_GNN: Biointelligence project: a graph neural network identifies cancer subtypes (github.com)]
 5. Graph_PlusMinus #link("https://github.com/conormalone/Graph_PlusMinus")[conormalone/Graph_PlusMinus: GNN based plus minus from NBA PBP Data (github.com)]
@@ -34,7 +34,7 @@
 10. Spatial Transcriptomics Prediction from Histology jointly through Transformer and Graph Neural Networks #link("https://github.com/biomed-AI/Hist2ST")[biomed-AI/Hist2ST (github.com)]
 11. Use of a graph neural network to the weighted gene co-expression network analysis of Korean native cattle #link("https://github.com/gywns6287/gmcNet")[gywns6287/gmcNet: gene module clustering network (github.com)]
 12.  GraphGONet: a self-explaining neural network encapsulating the Gene Ontology graph for phenotype prediction on gene expression#link("https://forge.ibisc.univ-evry.fr/vbourgeais/GraphGONet")[Victoria BOURGEAIS / GraphGONet · GitLab (univ-evry.fr)]
-13. # Prediction of Time Series Gene Expression and Structural Analysis of Gene Regulatory Networks Using Recurrent Neural Networks https://github.com/jonathan-f/DA_RNN_GENEXP
+13. Prediction of Time Series Gene Expression and Structural Analysis of Gene Regulatory Networks Using Recurrent Neural Networks #link("https://github.com/jonathan-f/DA_RNN_GENEXP")[https://github.com/jonathan-f/DA_RNN_GENEXP]
 14.  Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network #link("https://github.com/DHUDBlab/scDSC")[DHUDBlab/scDSC (github.com)]
 15. Multi-level attention graph neural network based on co-expression gene modules for disease diagnosis and prognosis #link("https://github.com/TencentAILabHealthcare/MLA-GNN")[github.com]
 16. 【important】Identifying Cancer Subtypes Using a Residual Graph Convolution Model on a Sample Similarity Network #link("https://github.com/weiba/ERGCN/tree/master")[weiba/ERGCN at master (github.com)]

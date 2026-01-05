@@ -20,9 +20,9 @@ it is useful to think of an essay as consisting of three main sections:
 
 ```
 
-1） introduction: the opening paragraph  
-2） the development or body of the essay  
-3） the conclusion
+1) introduction: the opening paragraph  
+2) the development or body of the essay  
+3) the conclusion
 
 ```
 

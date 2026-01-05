@@ -10,7 +10,7 @@
 
 === simple diffusion: Fick equation
 
-net flux = A \([s1]-[s2]) \D/d
+net flux = A ([s1]-[s2]) D/d
 
 A is area available for diffusion.
 
@@ -26,7 +26,7 @@ net flux = Vmax[s]/(Km+[s])
 
 === The flow of water through membranes by osmosis.Described by the osmotic flow equation.
 
-flow = k \ L \(pai1 -pai2)
+flow = k  L (pai1 -pai2)
 
 K is reflection coefficient.(varies between 1[impermeable] and 0[freely permeable])
 
@@ -54,7 +54,7 @@ KIC is the osmolarity of solution.Plasma osmolarity is estimated as 2[Na+]+[Gluc
 
 when V changes.
 
-pai inital \Vi =pai final \Vf
+pai inital Vi =pai final Vf
 
 === PH of plasma: Henderson - Hasselbalch equation
 
@@ -68,7 +68,7 @@ E x+ =(60/z)log ([x+]out/[x+]in)
 
 === Dalton law :the total pressure of a gaseous mixture.such as atmosphere is equal to the sum of the partial pressure of the constituent gases.
 
-Pgas =(Ptotal)(F\Igas) = (Ptotal -Ph20)(F\Igas)=(Ptotal -47mmhg)(%gas/100)
+Pgas =(Ptotal)(FIgas) = (Ptotal -Ph20)(FIgas)=(Ptotal -47mmhg)(%gas/100)
 
 Pao2 = Pco2- (Paco2/R)
 

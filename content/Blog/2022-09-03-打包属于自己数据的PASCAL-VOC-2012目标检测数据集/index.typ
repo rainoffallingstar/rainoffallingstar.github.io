@@ -8,21 +8,21 @@ Pascal voc 2012数据集可以用于分类、检测和分割。这篇文章主�
 
 原始的Pascal voc 2012数据集仅仅包含1464个训练数据集，可在官网|#link("http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar")[地址]下载。其文件目录如下：
 
-~~~
+#block.raw(
 + VOCdevkit 
 	+ VOC2012 
-		+ Annotations # 存放目标检测的标注XML文件
+		+ Annotations — 存放目标检测的标注XML文件
 		+ ImageSets 
-			+ main    # 包括trainval、train和val 这3个txt文件主要描述训练集及验证集的文件划分
-		+ JPEGImages  # 存放目标检测的原始图像
-		+ SegmentationClass    # 语义分割任务中用到的label图片
-		+ SegmentationObject   # 实例分割任务用到的label图片
-~~~
+			+ main — 包括trainval、train和val 这3个txt文件主要描述训练集及验证集的文件划分
+		+ JPEGImages — 存放目标检测的原始图像
+		+ SegmentationClass — 语义分割任务中用到的label图片
+		+ SegmentationObject — 实例分割任务用到的label图片
+)
 
 === Step 1 ：图像标注与预处理
 1. 将图像统一转格式为jpeg格式，并将维度降为3维。
 
-~~~
+#block.raw(
 import cv2
 import numpy as np
 import #link("https://docs.python.org/3/library/os.path.html")[os.path]
@@ -44,7 +44,7 @@ for img_name in images:
     num = len(images)
     rotated_360 = rotate(img, 360)
     cv2.imwrite(target_path + "/" + img_name[0:-4] + '.jpg', rotated_360)
-~~~
+)
 
 2. 将图像导入label-studio，选定模板进行标注完成后点击导出时按pascal voc 2012格式导出。
 3. 将imges、Annotations文件夹内文件分别复制到pascal voc 2012模板目录内的JPEGImages、Annotations文件夹。
@@ -52,7 +52,7 @@ for img_name in images:
 === Step 2 ：建立文件索引
 1. 统计文件夹内图像，建立文件索引，按比例划分训练集及验证集。
 
-~~~
+#block.raw(
 import os
 import os.path
 
@@ -81,7 +81,7 @@ filename = open(r'D:/迅雷下载/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/Imag
 out_train = open(r'D:/迅雷下载/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/ImageSets/Main/train.txt', 'w',encoding='utf-8')
 out_test = open(r'D:/迅雷下载/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/ImageSets/Main/val.txt', 'w',encoding='utf-8')
 for line in filename:
-    #    items = line.strip().split()
+ — items = line.strip().split()
     c.append(line)
 
 c_train, c_test = model_selection.train_test_split(c, test_size=0.2)
@@ -89,7 +89,7 @@ for i in c_train:
     out_train.write(i)
 for i in c_test:
     out_test.write(i)
-~~~
+)
 
 
 

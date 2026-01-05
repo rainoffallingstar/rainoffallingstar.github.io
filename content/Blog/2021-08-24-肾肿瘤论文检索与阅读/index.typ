@@ -10,8 +10,8 @@
 
  PUBMED标注 :[i]=most important ; [i-]=less important;[i--]=little important;[u]= usual; [F]=free article; [?]=unknown; [s]=unmatched
 
- 搜索结果页a#link("https://pubmed.ncbi.nlm.nih.gov/?term=kidney%20cancer%20prognosis&filter=pubt.review&sort=date&page=6")[\>\>\>] 
- 搜索结果页b#link("https://pubmed.ncbi.nlm.nih.gov/?term=kidney%20cancer%20target&filter=pubt.review&page=4")[\>\>\>]
+ 搜索结果页a#link("https://pubmed.ncbi.nlm.nih.gov/?term=kidney%20cancer%20prognosis&filter=pubt.review&sort=date&page=6")[>>>] 
+ 搜索结果页b#link("https://pubmed.ncbi.nlm.nih.gov/?term=kidney%20cancer%20target&filter=pubt.review&page=4")[>>>]
 
 1. [i]Histological subtypes of renal cell carcinoma : Overview and new developments] https://dx.doi.org/10.1007/s00292-021-00937-6
 
@@ -100,7 +100,7 @@
 
 === 肿瘤预后分析与基因预测
 
-搜索结果c #link("https://pubmed.ncbi.nlm.nih.gov/?term=deep%20learning%20prognosis&filter=pubt.review&page=3")[\>\>\>]
+搜索结果c #link("https://pubmed.ncbi.nlm.nih.gov/?term=deep%20learning%20prognosis&filter=pubt.review&page=3")[>>>]
 
 1. [i] [F]The Application of Deep Learning in Cancer Prognosis Prediction https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32150991/
 
@@ -126,7 +126,7 @@
 
 7. [i-]Advanced atherosclerosis imaging by CT: Radiomics, machine learning and deep learning https://linkinghub.elsevier.com/retrieve/pii/S1934-5925(18)30615-4
 
-8. [i-]\Application of Artificial Intelligence to Gastroenterology and Hepatology https://linkinghub.elsevier.com/retrieve/pii/S0016-5085(19)41412-1
+8. [i-]Application of Artificial Intelligence to Gastroenterology and Hepatology https://linkinghub.elsevier.com/retrieve/pii/S0016-5085(19)41412-1
 
 9. [i-] [F]Artificial intelligence in digital breast pathology: Techniques and applications https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31935669/
 
@@ -137,21 +137,21 @@
 
 1. [i] Cancer immunoediting and resistance to T cell-based immunotherapy https://doi.org/10.1038/s41571-018-0142-8 #link("https://www.sci-hub.ren/10.1038/s41571-018-0142-8")[SCIHUB]
     
-    \>肿瘤的免疫基因组学信息。免疫疗法如何更好被用于早期肿瘤的治疗。基于TMB+GEP 或者TILs+PD-L1，将肿瘤免疫微环境（TME）分为4个模型。
+    \>肿瘤的免疫基因组学信息。免疫疗法如何更好被用于早期肿瘤的治疗。基于TMB+GEP 或者TILs+PD-L1，将肿瘤免疫微环境(TME)分为4个模型。
 
 2. [i] Conserved pan-cancer microenvironment subtypes predict response to immunotherapy https://linkinghub.elsevier.com/retrieve/pii/S1535-6108(21)00222-1 参考：https://c.m.163.com/news/a/GBNCCTDE051182D7.html?from=wap_redirect&spss=wap_refluxdl_2018&referFrom=
     
-    \> 分子靶向疗法的临床用途正在迅速发展，但主要集中在基因组改变上。转录组学分析为剖析肿瘤的复杂性提供了机会。肿瘤微环境（TME）是癌症进展和治疗结果的关键介质。通过对超过10,000名癌症患者的转录组分析进行TME分类，识别出20种不同癌症中保守的4种不同的TME亚型。TME亚型可预测多种癌症对免疫疗法的反应，拥有免疫有利的TME亚型的患者从免疫治疗中受益最大。TME亚型还可作为许多癌症类型的通用免疫治疗生物标志物。整合转录组学和基因组数据的可视化工具提供了完整的肿瘤绘像，描述了肿瘤框架，突变负荷，免疫组成，抗肿瘤免疫力和免疫抑制性逃逸机制。整合分析和可视化可以帮助发现生物标志物和治疗方案的个性化。
+    \> 分子靶向疗法的临床用途正在迅速发展，但主要集中在基因组改变上。转录组学分析为剖析肿瘤的复杂性提供了机会。肿瘤微环境(TME)是癌症进展和治疗结果的关键介质。通过对超过10,000名癌症患者的转录组分析进行TME分类，识别出20种不同癌症中保守的4种不同的TME亚型。TME亚型可预测多种癌症对免疫疗法的反应，拥有免疫有利的TME亚型的患者从免疫治疗中受益最大。TME亚型还可作为许多癌症类型的通用免疫治疗生物标志物。整合转录组学和基因组数据的可视化工具提供了完整的肿瘤绘像，描述了肿瘤框架，突变负荷，免疫组成，抗肿瘤免疫力和免疫抑制性逃逸机制。整合分析和可视化可以帮助发现生物标志物和治疗方案的个性化。
     
-    \> 在临床试验和标准护理中，肿瘤的基因组表征越来越普遍。虽然人们越来越多地接受基因组分析作为临床决策的一部分，但基因组表征通常需要在仅包含少量致癌性改变的有限基因中，靶向检测。转录组学分析为剖析肿瘤的复杂性和异质性以及发现可用于开发新的治疗策略的新生物标志物提供了额外的机会。全外显子测序（WES）和RNA测序（RNA-seq）以及常规的病理学，免疫组化和临床测试为肿瘤特征提供了多方面的视角，并有可能导致进一步鉴定和优化个体癌症患者的治疗方法。尽管如此，大规模的外显子组和转录组测序提供了数千个参数，对于常规治疗决策来说，过多的参数通常难以全面利用，反而让决策变得困难。目前发现肿瘤微环境（TME）对临床结果和治疗反应具有显著的作用。破解肿瘤免疫微环境的概况可以改善量身定制的免疫治疗策略的效果。但是，迄今为止，全面评估肿瘤和整个TME，整合基因组和转录组的分析仍然很少见.
+    \> 在临床试验和标准护理中，肿瘤的基因组表征越来越普遍。虽然人们越来越多地接受基因组分析作为临床决策的一部分，但基因组表征通常需要在仅包含少量致癌性改变的有限基因中，靶向检测。转录组学分析为剖析肿瘤的复杂性和异质性以及发现可用于开发新的治疗策略的新生物标志物提供了额外的机会。全外显子测序(WES)和RNA测序(RNA-seq)以及常规的病理学，免疫组化和临床测试为肿瘤特征提供了多方面的视角，并有可能导致进一步鉴定和优化个体癌症患者的治疗方法。尽管如此，大规模的外显子组和转录组测序提供了数千个参数，对于常规治疗决策来说，过多的参数通常难以全面利用，反而让决策变得困难。目前发现肿瘤微环境(TME)对临床结果和治疗反应具有显著的作用。破解肿瘤免疫微环境的概况可以改善量身定制的免疫治疗策略的效果。但是，迄今为止，全面评估肿瘤和整个TME，整合基因组和转录组的分析仍然很少见.
     
-    \> 为了使用转录组分析对TME进行分类，首先使用已发表的文献搜索出TME各组分（如肿瘤主要成分、免疫、基质细胞和其他细胞群）的功能基因表达特征（FGE），构建出全面描绘TME的单一模型。最终共选择29个FGEs，涵盖TME中已知的细胞和功能特征，每个FGE都只包含与一个特定细胞类型或生物过程有关的基因。研究人员利用TCGA、ICGC或GTEx等多种数据库中数据集对FGEs分类的准确性进行验证，发现FGEs具有高度细胞类型特异性，例如与正常组织和痣相比，肿瘤增殖特征的表达（包括细胞周期和肿瘤进展相关基因）与恶性黑色素瘤具有强相关性。随后利用29个GFEs对黑色素瘤TME进行分类分析，划分出4种不同的微环境：1）免疫富集且纤维化（IE/F）；2）免疫富集，非纤维化（IE）；3）纤维化（F）；4）免疫缺乏（D）。这些TME亚型之间差异显著，且该差异在之前的分析中也能观察到。在黑色素瘤中经常发现的基因组改变在各TME亚型中也不一致。
+    \> 为了使用转录组分析对TME进行分类，首先使用已发表的文献搜索出TME各组分(如肿瘤主要成分、免疫、基质细胞和其他细胞群)的功能基因表达特征(FGE)，构建出全面描绘TME的单一模型。最终共选择29个FGEs，涵盖TME中已知的细胞和功能特征，每个FGE都只包含与一个特定细胞类型或生物过程有关的基因。研究人员利用TCGA、ICGC或GTEx等多种数据库中数据集对FGEs分类的准确性进行验证，发现FGEs具有高度细胞类型特异性，例如与正常组织和痣相比，肿瘤增殖特征的表达(包括细胞周期和肿瘤进展相关基因)与恶性黑色素瘤具有强相关性。随后利用29个GFEs对黑色素瘤TME进行分类分析，划分出4种不同的微环境：1)免疫富集且纤维化(IE/F)；2)免疫富集，非纤维化(IE)；3)纤维化(F)；4)免疫缺乏(D)。这些TME亚型之间差异显著，且该差异在之前的分析中也能观察到。在黑色素瘤中经常发现的基因组改变在各TME亚型中也不一致。
     
     \> 研究者通过对多种肿瘤的肿瘤微环境分析后发现，每一种肿瘤，甚至每一位患者的肿瘤浸润免疫细胞都存在差异。其中比较受研究者广泛认可的就是肿瘤的三大免疫分型：“免疫浸润型”、“免疫排斥型”、“免疫沙漠型”。研究者通过对肿瘤组织进行免疫组化染色后发现这三类显著的差异，在“免疫浸润型”肿瘤中，CD8+ T细胞可以浸润到肿瘤内部；“免疫排斥型”肿瘤中，虽然也有较高的CD8+ T细胞浸润程度，但都是集中在肿瘤外围；而“免疫沙漠型”肿瘤中很少有CD8+ T细胞的浸润。
 
 3. [i+][课题本组相关]Pazopanib in patients with metastatic renal cell carcinoma: a single-center, real-world, retrospective Chinese study [EN]https://tau.amegroups.com/article/view/65180/html [CH]https://mp.weixin.qq.com/s/nOoG__64OrsZpCZ4OXffBg
    
-     \> mRCC的治疗已经进入了免疫与靶向疗法并存的时代，对于IMDC低危人群，多项免疫联合靶向的III期临床试验如Keynoter426、Keynote 581/CLEAR、Checkmate 9ER等研究均证实了低危患者采用靶向单药治疗的OS获益与联合治疗并无差异。在本篇真实世界研究中，低危患者PFS达22.1个月，ORR率达58.3%，优于中高危患者，证实真实世界里，低危人群中可从TKI单药治疗中获益最大化。除低危患者外，本真实世界研究分析中危组具有1个危险因素患者PFS达17.8个月，优于中危组合并2个危险因素（PFS为8.0个月），中危患者约占晚期肾癌约50%，这提示对于中危这一大类人群“一刀切“并不适合，需要更精细的”再分层“。除外，ECOG ＜2分、转移器官数量为1个和仅肺转移的患者预后好。这类患者耐受性好，瘤负荷低，予TKI单药获益佳。既往的涉及肾癌分子分型研究（IMmotion150、IMmotion151、BIONIKK）亦提示存在一部分血管生成相关基因表达高的肾癌患者，这部分患者适合进行抗血管生成为主要作用机制的TKI药物治疗。未来晚期肾癌如何进行一线药物的选择，可能的发展方向应是肾癌的分子分型结合临床特征（如IMDC评分等）来指导精准用药。
+     \> mRCC的治疗已经进入了免疫与靶向疗法并存的时代，对于IMDC低危人群，多项免疫联合靶向的III期临床试验如Keynoter426、Keynote 581/CLEAR、Checkmate 9ER等研究均证实了低危患者采用靶向单药治疗的OS获益与联合治疗并无差异。在本篇真实世界研究中，低危患者PFS达22.1个月，ORR率达58.3%，优于中高危患者，证实真实世界里，低危人群中可从TKI单药治疗中获益最大化。除低危患者外，本真实世界研究分析中危组具有1个危险因素患者PFS达17.8个月，优于中危组合并2个危险因素(PFS为8.0个月)，中危患者约占晚期肾癌约50%，这提示对于中危这一大类人群“一刀切“并不适合，需要更精细的”再分层“。除外，ECOG ＜2分、转移器官数量为1个和仅肺转移的患者预后好。这类患者耐受性好，瘤负荷低，予TKI单药获益佳。既往的涉及肾癌分子分型研究(IMmotion150、IMmotion151、BIONIKK)亦提示存在一部分血管生成相关基因表达高的肾癌患者，这部分患者适合进行抗血管生成为主要作用机制的TKI药物治疗。未来晚期肾癌如何进行一线药物的选择，可能的发展方向应是肾癌的分子分型结合临床特征(如IMDC评分等)来指导精准用药。
 
 4. [u]影像组学在肾肿瘤中的研究进展 https://m.medlive.cn/cms/research/180264?_wx=1&info=eyJhY2Nlc3NfdG9rZW4iOiI0OF9DU0ZKRF95dGFJYTFPN1U0QzVsRXZqUXZWTUFjZ0h3U1RDY2dxVkFCb3p5YUdEWngtRUNwbzN4NnRXZnRVdTlPRVlxMXU3RU9mVXpYczE2WEtjcVh1aEJ4VFBkSFpHZTlPd0hRRGN0YkwyMCIsInJlZnJlc2hfdG9rZW4iOiI0OF9BVVJaWE9oQVdhNkRrNGg3WFc3NlFubENNV1I3S1hqOTBHOVJDLUlacXc2dzItd3I1V3pmQXEtMURoN2lYQTdRZGJ4dFV3VklPNHBwblR4aDduWVFfVkhuRU04TXBqUlJyeFFFbnJ5M19vNCIsIm9wZW5pZCI6Im9aWGVZamxWemhMOGZtNm9BMzNweDJSSmg0YWMifQ%3D%3D
 5. [i+] EAU 2020:肾癌精准诊疗的探索之路 http://www.360doc6.net/wxarticlenew/928174706.html
@@ -159,7 +159,7 @@
 
 === TME分型相关免疫治疗及生物标志物
 
-搜索结果D #link("https://pubmed.ncbi.nlm.nih.gov/?term=TME%20classification&filter=pubt.review")[\>\>\>]
+搜索结果D #link("https://pubmed.ncbi.nlm.nih.gov/?term=TME%20classification&filter=pubt.review")[>>>]
 1. [i-][F]Tumour-Associated Macrophages (TAMs) in Colon Cancer and How to Reeducate Them https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/30931335/
    
     \> The characteristic of TAM is largely dependent on the stimuli present in its tumour microenvironment (TME). 

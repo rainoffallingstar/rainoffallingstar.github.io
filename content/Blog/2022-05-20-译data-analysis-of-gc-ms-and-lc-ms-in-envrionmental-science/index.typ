@@ -25,7 +25,7 @@ For high-resolution MS, building such matrix is tricky. We might need to bin the
 
 When you perform a selected ions monitor(SIM) mode analysis, only few mass data were collected and each mass would have counts and retention time as a time seris data. In this package, we treat such data as `data.frame` type.
 
-当您执行所选离子监测器（SIM）模式分析时，仅收集了少量质量数据，并且每个质量都将计数和保留时间作为时间序列数据。在这个包中，我们将这些数据视为“data.frame“类型。
+当您执行所选离子监测器(SIM)模式分析时，仅收集了少量质量数据，并且每个质量都将计数和保留时间作为时间序列数据。在这个包中，我们将这些数据视为“data.frame“类型。
 
 == Data input
 
@@ -98,9 +98,9 @@ Some functions could be used to caculate the molecular isotope ratio. EIC data c
 
 If you want a graphical user interface for SCCPs analysis, a shiny application is developed in this package. You could use `runsccp()` to power on the application in a browser.
 
-`enviGCMS`的提供函数来利用Q-tof数据对短链氯化石蜡（SCCP）进行定量分析。使用“getsccp”对短链氯化石蜡进行定量分析。
+`enviGCMS`的提供函数来利用Q-tof数据对短链氯化石蜡(SCCP)进行定量分析。使用“getsccp”对短链氯化石蜡进行定量分析。
 
-如果您想要一个用于短链氯化石蜡分析的图形用户界面，那么可以使用此软件包中开发一个shiny应用。您可以使用“runsccp（）”在浏览器中打开应用程序。
+如果您想要一个用于短链氯化石蜡分析的图形用户界面，那么可以使用此软件包中开发一个shiny应用。您可以使用“runsccp()”在浏览器中打开应用程序。
 
 == Data analysis for multiple samples
 

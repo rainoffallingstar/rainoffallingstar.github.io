@@ -7,7 +7,7 @@
 
 + 所谓medline  ：#link("https://www.bilibili.com/video/av91763822")[所谓medline]
 
-+ PUBMED ： #link("https://www.bilibili.com/video/BV1si4y1x7au/?spm_id_from=333.788.recommend_more_video.1")[PubMed（新版）从入门到精通]
++ PUBMED ： #link("https://www.bilibili.com/video/BV1si4y1x7au/?spm_id_from=333.788.recommend_more_video.1")[PubMed(新版)从入门到精通]
 
 + 中国知网 ：#link("https://www.bilibili.com/video/av243819651?from=search&seid=11841527704480423826&spm_id_from=333.337.0.0")[公开课：CNKI 中国知网的检索方法]
 

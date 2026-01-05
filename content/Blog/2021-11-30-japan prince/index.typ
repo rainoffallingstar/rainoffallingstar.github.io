@@ -18,7 +18,7 @@ Critical coverage of their engagement has left Mako, who relinquished[放弃] he
 
 “If you read the tabloids[小报], well – I’m not sure how to say this exactly – but there’s a lot of things in there that are fabricated[捏造], although there are also some opinions we should listen to,” Akishino said in unusually frank comments at a press conference held to mark his 56th birthday on Tuesday.
 
-\Akishino’s broadside[抨击] was a departure from press conferences customarily given by members of the imperial family, whose answers to questions submitted in advance are usually designed to ruffle[激怒，担心] as few feathers as possible.[Akishino的抨击离开了通常皇室家庭在新闻发布会上的发言，在此之前他们对于这些提前提交的问题的回答通常设计得尽可能少得表现出作父亲的担心和激怒。]
+Akishino’s broadside[抨击] was a departure from press conferences customarily given by members of the imperial family, whose answers to questions submitted in advance are usually designed to ruffle[激怒，担心] as few feathers as possible.[Akishino的抨击离开了通常皇室家庭在新闻发布会上的发言，在此之前他们对于这些提前提交的问题的回答通常设计得尽可能少得表现出作父亲的担心和激怒。]
 
 Weekly magazine reports that Komuro’s mother, Kayo, was in a dispute over a ¥4m [$35,000] “loan” from a former fiance led to intense media scrutiny of his family, online abuse and questions among some members of the public about his suitability as the future husband of the emperor’s eldest niece.
 
