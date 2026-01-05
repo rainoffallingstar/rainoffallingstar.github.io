@@ -26,14 +26,14 @@
         <p>对于高分辨率MS，构建这样的矩阵很棘手。我们可能需要将原始数据装箱，以便将不同扫描对齐到一个矩阵中。这些工作可以由“xcms”完成。</p>
         <h3>Data structure of GC-MS SIM mode</h3>
         <p>When you perform a selected ions monitor(SIM) mode analysis, only few mass data were collected and each mass would have counts and retention time as a time seris data. In this package, we treat such data as <code>data.frame</code> type.</p>
-        <p>当您执行所选离子监测器（SIM）模式分析时，仅收集了少量质量数据，并且每个质量都将计数和保留时间作为时间序列数据。在这个包中，我们将这些数据视为“data.frame“类型。</p>
+        <p>当您执行所选离子监测器(SIM)模式分析时，仅收集了少量质量数据，并且每个质量都将计数和保留时间作为时间序列数据。在这个包中，我们将这些数据视为“data.frame“类型。</p>
         <h3>Data input</h3>
         <p>You could use <code>getmd</code> to import the mass spectrum data as supported by <code>xcms</code> and get the profile of GC-MS data matrix. <code>mzstep</code> is the bin step for mass:</p>
-        <pre><code>data &lt;- enviGCMS:::getmd('data/data1.CDF', mzstep = 0.1)</code></pre>
+        <pre><code>data \&lt;- enviGCMS:::getmd('data/data1.CDF', mzstep = 0.1)</code></pre>
         <p>You could also subset the data by the mass(m/z 100-1000) or retention time range(40-100s) in <code>getmd</code> function:</p>
-        <pre><code>data &lt;- enviGCMS:::getmd(data,mzrange=c(100,1000),rtrange=c(40,100))</code></pre>
+        <pre><code>data \&lt;- enviGCMS:::getmd(data,mzrange=c(100,1000),rtrange=c(40,100))</code></pre>
         <p>You could also combined the mass full-scan data with the same range of retention time by <code>cbmd</code>:</p>
-        <pre><code>data &lt;- cbmd(data1,data2,data3)</code></pre>
+        <pre><code>data \&lt;- cbmd(data1,data2,data3)</code></pre>
         <h3>Visulation of mass spectrum data</h3>
         <p>You could plot the Total Ion Chromatogram(TIC) for certain RT and mass range.</p>
         <pre><code>plottic(data,rt=c(3.1,25),ms=c(100,1000))</code></pre>
@@ -54,8 +54,8 @@
         <h3>Quantitative analysis for short-chain chlorinated paraffins(SCCPs)</h3>
         <p><code>enviGCMS</code> supply function to perform Quantitative analysis for short-chain chlorinated paraffins(SCCPs) with Q-tof data. Use <code>getsccp</code> to make Quantitative analysis for SCCPs.</p>
         <p>If you want a graphical user interface for SCCPs analysis, a shiny application is developed in this package. You could use <code>runsccp()</code> to power on the application in a browser.</p>
-        <p><code>enviGCMS</code>的提供函数来利用Q-tof数据对短链氯化石蜡（SCCP）进行定量分析。使用“getsccp”对短链氯化石蜡进行定量分析。</p>
-        <p>如果您想要一个用于短链氯化石蜡分析的图形用户界面，那么可以使用此软件包中开发一个shiny应用。您可以使用“runsccp（）”在浏览器中打开应用程序。</p>
+        <p><code>enviGCMS</code>的提供函数来利用Q-tof数据对短链氯化石蜡(SCCP)进行定量分析。使用“getsccp”对短链氯化石蜡进行定量分析。</p>
+        <p>如果您想要一个用于短链氯化石蜡分析的图形用户界面，那么可以使用此软件包中开发一个shiny应用。您可以使用“runsccp()”在浏览器中打开应用程序。</p>
         <h3>Data analysis for multiple samples</h3>
         <p>In environmetnal non-target analysis, when multiple samples are collected, problem will raise from the heterogeneity among samples. For example, retention time would shift due to the column. In those cases, <code>xcms</code> package could be used to get a peaks list across samples within certain retention time and m/z. <code>enviGCMS</code> package has some wrapped function to get the peaks list. Besides, some specific functions such as group comparision, batch correction and visulization are also included.</p>
         <p>在环境非靶向分析中，当采集多个样本时，样本之间的异质性会引发问题。例如，保留时间会因列而改变。在这些情况下，“xcms”包可用于在一定的保留时间和m/z内获取样本的峰值列表。“enviGCMS”包具有一些包装函数来获取峰值列表。此外，还包括一些具体的功能，如组比较、批量校正和可视化。</p>
