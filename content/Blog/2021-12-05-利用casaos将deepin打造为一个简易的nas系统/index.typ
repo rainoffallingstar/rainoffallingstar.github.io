@@ -10,7 +10,7 @@
 
 它是一个基于docker的家庭云管理系统，简单地说就是用于docker可视化的。
 
-> CasaOS is an open-source Home Cloud system based on the Docker ecosystem and designed for home scenarios. It is committed to building the world's most simple, easy-to-use, and elegant Home Cloud system.#link("https://github.com/IceWhaleTech/CasaOS")[github地址]
+\> CasaOS is an open-source Home Cloud system based on the Docker ecosystem and designed for home scenarios. It is committed to building the world's most simple, easy-to-use, and elegant Home Cloud system.#link("https://github.com/IceWhaleTech/CasaOS")[github地址]
 
 == 测试出来的优缺点
 
@@ -37,7 +37,7 @@
    wget -qO- https://get.icewhale.io/casaos.sh | bash
    #block.raw("
 
-> Notice：此脚本中安装包是在github中下载，建议根据#link("https://get.icewhale.io/casaos.sh")[链接]下载casaos.sh后修改其第343行处链接为github镜像链接加速。我手动修改过的脚本#link("https://gitee.com/rainoffallingstar/rapid-configs-for-my-manjaro/blob/master/casaos.sh")[下载]
+\> Notice：此脚本中安装包是在github中下载，建议根据#link("https://get.icewhale.io/casaos.sh")[链接]下载casaos.sh后修改其第343行处链接为github镜像链接加速。我手动修改过的脚本#link("https://gitee.com/rainoffallingstar/rapid-configs-for-my-manjaro/blob/master/casaos.sh")[下载]
 
 3. 安装中可能会提示依赖问题（20.3中未提示有依赖问题），安装成功后即可在终端得到地址链接。一般为本机hostip号。
 
@@ -45,8 +45,8 @@
    
    !#link("02.png")[截图_选择区域_20211205182818.png]
 
-> 默认支持一键安装应用如上图，不需手动配置，记住默认帐号密码即可。
+\> 默认支持一键安装应用如上图，不需手动配置，记住默认帐号密码即可。
 
 !#link("03.png")[截图_选择区域_20211205182858.png]
 
-> 手动安装配置页面如上，填写dockerimage的名称如###/&&&即可自动生成链接，填写webui处的端口以便于在casaos界面内跳转。其他各参数可参考网络上各配置命令行设置。
+\> 手动安装配置页面如上，填写dockerimage的名称如###/&&&即可自动生成链接，填写webui处的端口以便于在casaos界面内跳转。其他各参数可参考网络上各配置命令行设置。

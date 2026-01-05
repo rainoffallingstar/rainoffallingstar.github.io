@@ -4,13 +4,13 @@
 == The basic principal of physiology
 
 
-== **The basic principal of physiology**
+== The basic principal of physiology
 
  According to Lecture notes 2017 physiology and pre-test
 
-=== **simple diffusion: Fick equation**
+=== simple diffusion: Fick equation
 
-net flux = A *([s1]-[s2]) *D/d
+net flux = A \([s1]-[s2]) \D/d
 
 A is area available for diffusion.
 
@@ -20,13 +20,13 @@ d is distance for diffusion.
 
 D is diffusion coefficient of the substance.
 
-=== **Mediate transport: lineweaver-burk equation**
+=== Mediate transport: lineweaver-burk equation
 
-net flux = Vmax*[s]/(Km+[s])
+net flux = Vmax[s]/(Km+[s])
 
-=== **The flow of water through membranes by osmosis.Described by the osmotic flow equation.**
+=== The flow of water through membranes by osmosis.Described by the osmotic flow equation.
 
-flow = k * L *(pai1 -pai2)
+flow = k \ L \(pai1 -pai2)
 
 K is reflection coefficient.(varies between 1[impermeable] and 0[freely permeable])
 
@@ -36,7 +36,7 @@ pai1 -pai2 is osmotic pressure difference across membrane.
 
 pai is the pressure necessary to prevent solute migration.
 
-=== **The osmotic pressure: van't hoff equation.**
+=== The osmotic pressure: van't hoff equation.
 
 pai =RT(kIC)
 
@@ -54,37 +54,37 @@ KIC is the osmolarity of solution.Plasma osmolarity is estimated as 2[Na+]+[Gluc
 
 when V changes.
 
-pai inital *Vi =pai final *Vf
+pai inital \Vi =pai final \Vf
 
-=== **PH of plasma: Henderson - Hasselbalch equation**
+=== PH of plasma: Henderson - Hasselbalch equation
 
 PH = PK1 + log([hco3-]/[dissolved co2])
 
-=== **Equilibrium potential (E) is calculated with Nernst equation**
+=== Equilibrium potential (E) is calculated with Nernst equation
 
 E ion = 61.5log(C out/C in)
 
 E x+ =(60/z)log ([x+]out/[x+]in)
 
-=== **Dalton law :the total pressure of a gaseous mixture.such as atmosphere is equal to the sum of the partial pressure of the constituent gases.**
+=== Dalton law :the total pressure of a gaseous mixture.such as atmosphere is equal to the sum of the partial pressure of the constituent gases.
 
-Pgas =(Ptotal)(F*Igas) = (Ptotal -Ph20)(F*Igas)=(Ptotal -47mmhg)(%gas/100)
+Pgas =(Ptotal)(F\Igas) = (Ptotal -Ph20)(F\Igas)=(Ptotal -47mmhg)(%gas/100)
 
 Pao2 = Pco2- (Paco2/R)
 
 R is the respiratory gas exchange ratio.(Vco2/Vo2) which under normal circumstances, its value depends on metabolism and is equal to 0.8.
 
-VE minute ventilation = Vt(tidal volume)*respiratory rate.(breaths/min)
+VE minute ventilation = Vt(tidal volume)respiratory rate.(breaths/min)
 
 Vd ,anatomical dead space, is estimated as 1ml/lb of body weight.
 
 Vd/Vt =Paco2-Peco2/Paco2.
 
-Thus alveolar ventilation = (Vt-Vd)*respiratory rate.
+Thus alveolar ventilation = (Vt-Vd)respiratory rate.
 
 Paco2 =Vco2/Va
 
-=== **poseuille law**
+=== poseuille law
 
 compliance is defined as Vchange/Pchange
 
@@ -92,13 +92,13 @@ airway resistance,R aw =Pchange/V=(Patm-Paw,cmh2o)/Flowrate,l/sec =8ln/pai r4.
 
 l is length.n is viscosity.r is radius.
 
-=== ***CO = HR\*SV(stroke volume)**
+=== CO = HRSV(stroke volume)
 
-=== **Laplace law***
+=== Laplace law
 
-wall stress(T) = P(systolic pressure) *r(radius of the ventricle)/w(thickness of the ventriclar wall)
+wall stress(T) = P(systolic pressure) r(radius of the ventricle)/w(thickness of the ventriclar wall)
 
-=== **capillary fluid balance**
+=== capillary fluid balance
 
 depend on the balance between the hydrostatic(P) and the osmotic pressure (pai),and the permeability of capillary wall(Kf), starling law.
 
@@ -108,7 +108,7 @@ During an inflammatory response.Kf increases,plasma proteins decrease,pai cap de
 
 in the situation of kindney,the starling forces between the glomerular capillary and bowman capsules(BC),And the filtration is called GFR.
 
-=== **ideal gas situation equation**
+=== ideal gas situation equation
 
 PV =NRT
 

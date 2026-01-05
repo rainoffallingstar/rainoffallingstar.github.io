@@ -19,7 +19,7 @@
     
   - 核小体水平：核小体组装，组蛋白修饰
     
-    > 组蛋白修饰包括：乙酰化作用、甲基化、磷酸化作用、ADP核糖基化、泛素化、Sumolation
+    \> 组蛋白修饰包括：乙酰化作用、甲基化、磷酸化作用、ADP核糖基化、泛素化、Sumolation
     
   - 染色质水平：ATP依赖性染色质重塑 ATP-dependent chromatin remodeling
     
@@ -114,19 +114,19 @@ The new field of epigenetics is showing how your environment and your choices ca
     
 - DNA甲基化机制：
   
-  > 参考文献：
-  > 
-  > 1. Identification of DNA motifs that regulate DNA methylation
-  >   
-  > 2. nature review cancer
-  >   
+  \> 参考文献：
+  \> 
+  \> 1. Identification of DNA motifs that regulate DNA methylation
+  \>   
+  \> 2. nature review cancer
+  \>   
   
   - DNA methylation plays crucial roles in many biological processes, and aberrant DNA methylation patterns are often observed in diseases.
     
   - DNA methylase, DNMTs:DNMT1/3A/3B
     
   
-  > Three DNA methyltransferases(DNMTs) in human that are responsible for denovo or maintaining methylation of cytosine.
+  \> Three DNA methyltransferases(DNMTs) in human that are responsible for denovo or maintaining methylation of cytosine.
   
   - DNA binding proteins or non-coding RNAs recognize specific DNA motifs and their binding recruits DNMTs to a particular locus to methylate cytosines in the region.
 - DNA甲基化的研究策略
@@ -153,9 +153,9 @@ The new field of epigenetics is showing how your environment and your choices ca
 
 - 组蛋白修饰种类与表型
   
-  > 参考文献：
-  > 
-  > 1. The language of covalent histone modifications
+  \> 参考文献：
+  \> 
+  \> 1. The language of covalent histone modifications
   
   - 乙酰化：一般与活化的染色质构型相关联，乙酰化修饰大多发生在H3、H4的Lys残基上。
     
@@ -189,7 +189,7 @@ Kouzarides T.“Chromatinmodificationsandtheirfunction”Coll(2007)128:693-705.�
   
   - 组蛋白乙酰化：由组蛋白乙酰基转移酶(HAT)和组蛋白去乙酰基酶(HDAC)协调催化完成，修饰的部位一般位于N末端保守的赖氨酸残基上。是一个可逆的动力学过程，可以调节基因的转录。中和AA的正电荷，C=O只有一定的负电，能够增加与DNA的太力，使得DNA结构得疏松，从而导致基因的转录活化
     
-    > 组蛋白修饰主要是氨基端的甲基化修饰和(或)乙酰化修饰，特定组蛋白的氨基酸残基被甲基化和乙酰化也可抑制基因表达。
+    \> 组蛋白修饰主要是氨基端的甲基化修饰和(或)乙酰化修饰，特定组蛋白的氨基酸残基被甲基化和乙酰化也可抑制基因表达。
     
   - 组蛋白甲基化: 多发生于组蛋白H3、H4的赖氨酸(3位点)和精氮酸(2位点)残基上，由特异的组蛋白赖氨酸甲基转移酶(HMT)催化完成，也是一个可调控的动态修饰过程。而组蛋白的去甲基化是由赖氨酸去甲基酶(LSD1)催化完成。
     
@@ -287,7 +287,7 @@ on mRNA or other forms of RNA as the third component of the central dogma had be
 chemical reversibility of certaintypes of RNA methylation prompted us to raise the question of reversible RNA modifications in gene expression regulation.
 
 m6ARNA methylation in eukaryotes
-Discovered in the1970s, m6A is the most prevalent internal modification in polyadenylated mRNA sandlong non-coding RNAs(IncRNAs) in higher eukaryotes. m6A is widely conserved among eukaryotic species that range from yeast, plants, flies to mammals, as well as among viral RNAs with a nuclear phase. The identified sequence content of m6A— obtained from mutational studies and substrate preference of the methyltransferase enzyme in vitro—is [G/A/U][G>A]m6AC[U>A>C].The total amount of m6A in RNA can be probed by several methods,including two-dimensional thin layer chromatography, dot-blot and high-performance liquid chromatography coupled with triple-quadrupolet and emmassspectrometry(HPLC-QqQ-MS/MS)
+Discovered in the1970s, m6A is the most prevalent internal modification in polyadenylated mRNA sandlong non-coding RNAs(IncRNAs) in higher eukaryotes. m6A is widely conserved among eukaryotic species that range from yeast, plants, flies to mammals, as well as among viral RNAs with a nuclear phase. The identified sequence content of m6A— obtained from mutational studies and substrate preference of the methyltransferase enzyme in vitro—is [G/A/U][G\>A]m6AC[U\>A\>C].The total amount of m6A in RNA can be probed by several methods,including two-dimensional thin layer chromatography, dot-blot and high-performance liquid chromatography coupled with triple-quadrupolet and emmassspectrometry(HPLC-QqQ-MS/MS)
 
 ==== 不同种类表观遗传学修饰之间相互影响
 

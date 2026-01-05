@@ -12,7 +12,7 @@
 
 == Text 1
 
-> source: 彭博商业周刊（20091105）
+\> source: 彭博商业周刊（20091105）
 
 When Liam McGee departed as president of Bank of America in August, his explanation was surprisingly straight up. Rather than cloaking[掩盖，掩饰] his exit in the usual vague[含糊不清的] excuses, he came right out and said he was leaving “to pursue my goal of running a company.” Broadcasting his ambition was “very much my decision,” McGee says. Within two weeks, he was talking for the first time with the board of Hartford Financial Services Group, which named him CEO and chairman on September 29.
 
@@ -27,7 +27,7 @@ Many recruiters say the old disgrace is fading for top performers. The financial
 
 == Text 2
 
-> source:福布斯（20100112）
+\> source:福布斯（20100112）
 
 The rough guide to marketing success used to be that you got what you paid for. No longer. While traditional “paid” media – such as television commercials and print advertisements – still play a major role, companies today can exploit many alternative forms of media. Consumers passionate about a product may create “earned” media by willingly promoting it to friends, and a company may leverage “owned” media by sending e-mail alerts about products and sales to customers registered with its Web site. The way consumers now approach the process of making purchase decisions means that marketing’s impact stems from a broad range of factors beyond conventional paid media.
 
@@ -39,21 +39,21 @@ If that happens, passionate consumers would try to persuade others to boycott[�
 
 == Text 3
 
-> source:新闻周刊（20100709）
+\> source:新闻周刊（20100709）
 
 It’s no surprise that Jennifer Senior’s insightful[富有洞察力的], provocative[煽动性的] magazine  cover story, “I love My Children, I Hate My Life, ” is arousing much chatter[喋喋不休] – nothing gets people talking like the suggestion that child rearing[抚养] is anything less than a completely fulfilling, life-enriching experience. Rather than concluding that children  make parents either happy or miserable[悲惨], Senior suggests we need to redefine happiness: instead of thinking of it as something that can be measured by moment-to-moment joy, we should consider being happy as a past-tense condition. Even  though  the day-to-day experience of raising kids can be soul-crushingly hard, Senior writes that “the very things that in the moment dampen[抑制] our moods can later be sources of intense gratification and delight.”
 
 The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week. There are also stories about newly adoptive – and newly single – mom Sandra Bullock, as well as the usual “Jennifer Aniston is pregnant” news. Practically[事实上] every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands.
 
-In a society that so persistently celebrates procreation[生殖], is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing? It doesn’t seem quite fair, then, to compare the regrets of parents to the regrets of the childless. Unhappy parents rarely are provoked to wonder if they shouldn’t have had kids, but unhappy childless folks are bothered with the message that children are the single most important thing in the world:  *obviously their misery must be a direct result of the gaping baby-size holes in their lives.[很明显他们的不幸一定是在他们的人生中抚养孩子这段时间的缺失的直接结果]* 
+In a society that so persistently celebrates procreation[生殖], is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing? It doesn’t seem quite fair, then, to compare the regrets of parents to the regrets of the childless. Unhappy parents rarely are provoked to wonder if they shouldn’t have had kids, but unhappy childless folks are bothered with the message that children are the single most important thing in the world:  \obviously their misery must be a direct result of the gaping baby-size holes in their lives.[很明显他们的不幸一定是在他们的人生中抚养孩子这段时间的缺失的直接结果]\ 
 
 Of course, the image of parenthood that celebrity[名人] magazines like Us Weekly and People present is hugely unrealistic, especially when the parents are single mothers like Bullock. According to several studies concluding that parents are less happy than childless couples, single parents are the least happy of all. No shock there,  considering how much work it is to raise a kid without a partner to lean on[依赖，依靠]; yet to  hear Sandra and Britney tell it, raising a kid on their “own” (read: with round-the-clock help) is a piece of cake.
 
-It’s hard to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous[迷人的，富有魅力的]: most adults understand that a baby is not a haircut[发型].  *But it’s interesting to wonder if the images we see every week  of stress-free, happiness-enhancing parenthood aren’t in some small, subconscious[潜意识的] way contributing[增加，增进] to our own dissatisfactions with the actual experience,*  in the same way that a small part of us hoped getting “the Rachel” might make us look just a little bit like Jennifer Aniston.
+It’s hard to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous[迷人的，富有魅力的]: most adults understand that a baby is not a haircut[发型].  \But it’s interesting to wonder if the images we see every week  of stress-free, happiness-enhancing parenthood aren’t in some small, subconscious[潜意识的] way contributing[增加，增进] to our own dissatisfactions with the actual experience,\  in the same way that a small part of us hoped getting “the Rachel” might make us look just a little bit like Jennifer Aniston.
 
 == Text 4
 
-> source:波士顿环球报（20110424）
+\> source:波士顿环球报（20110424）
 
 A deal is a deal – except, apparently, when Entergy is involved. The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging[违背] on a longstanding commitment[承诺] to abide[遵守] by the state’s strict nuclear regulations.
 Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality[宪法] of Vermont’s rules in the federal court, as part of a desperate effort to keep its Vermont Yankee nuclear power plant running. It’s a stunning[令人震惊] move.
@@ -68,7 +68,7 @@ The company seems to have concluded that its reputation in Vermont is already so
 
 == Text 5
 
-> source:经济学人（20110317）
+\> source:经济学人（20110317）
 
 If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants. When Hoffa’s Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do. In 2009 the  number of unionists in America’s public sector passed that of their fellow members in the private sector. In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized.
 
@@ -85,7 +85,7 @@ John Donahue at Harvard’s Kennedy School points out that the norms of culture 
 
 == Text 6
 
-> source:自然（20110420）
+\> source:自然（20110420）
 
 Since the days of Aristotle[亚里士多德], a search for universal principles has characterized the scientific enterprise[企业]. In some ways, this quest for commonalities[共同点] defines science. Newton’s laws of motion and Darwinian evolution each bind a host of different phenomena into a single explicatory framework.
 
@@ -102,7 +102,7 @@ Gray and his colleagues have put them to the test by examining four family trees
 
 == Text 7
 
-> source:经济学人（20120609）
+\> source:经济学人（20120609）
 
 An old saying has it that half of all advertising budgets are wasted – the trouble is, no one knows which half. In the internet age, at least in theory, this fraction can be much reduced. By watching what people search for, click on and say online, companies can aim “behavioural” ads at those most likely to buy.
 
@@ -120,11 +120,11 @@ Also unclear is why Microsoft has gone it alone. After all[毕竟，居然], it 
 
 == Text 8
 
-> source:华尔街日报（20120627）
+\> source:华尔街日报（20120627）
 
 On a five to three vote, the Supreme Court knocked out[淘汰，击败] much of Arizona’s immigration law Monday – a modest policy victory for the Obama Administration. But on the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration’s effort to upset[扰乱] the balance of power between the federal government and the states.
 
-In *Arizona* *v.* *United States*, the majority overturned[撤销，击败] three of the four contested provisions[争议性条款] of Arizona’s controversial[引起争议的] plan to have state and local police enforce[执行，强制执行] federal immigration law. The Constitutional principles that Washington alone has the power to “establish a uniform Rule of Naturalization” and that federal laws precede state laws are noncontroversial[不具争议]. Arizona had attempted to fashion[塑造] state policies that ran parallel to the existing federal ones.
+In \Arizona\ \v.\ \United States\, the majority overturned[撤销，击败] three of the four contested provisions[争议性条款] of Arizona’s controversial[引起争议的] plan to have state and local police enforce[执行，强制执行] federal immigration law. The Constitutional principles that Washington alone has the power to “establish a uniform Rule of Naturalization” and that federal laws precede state laws are noncontroversial[不具争议]. Arizona had attempted to fashion[塑造] state policies that ran parallel to the existing federal ones.
 
 Justice Anthony Kennedy, joined by Chief Justice John Roberts and the Court’s liberals, ruled that the state flew too close to the federal sun[亚利桑纳州对联邦政府的挑战已经越界]. On the overturned provisions the majority held Congress had deliberately “occupied the field” and Arizona had thus intruded[侵犯] on the federal’s privileged powers.
 
@@ -138,19 +138,19 @@ Some powers do belong exclusively to the federal government, and control of citi
 
 == Text 9
 
-> source:未找到来源
+\> source:未找到来源
 
 It is speculated that gardens arise from a basic human need in the individuals who made them: the need for creative expression. There is no doubt that gardens evidence an irrepressible[不可抑制的，热情高涨的] urge to create, express, fashion, and beautify and that self-expression is a basic human urge; (46) yet when one looks at the photographs of the gardens created by the homeless, it strikes one that, for all their diversity of styles, these gardens speak of various other fundamental urges, beyond that of decoration and creative expression.
 
 One of these urges has to do with creating a state of peace in the midst of turbulence[骚乱], a “still point of the turning world,” to borrow a phrase from T. S. Eliot.
 
-(47) A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need. This distinction is so much so that where the latter is lacking, as it is for these unlikely gardeners, the former becomes all the more urgent. Composure is a state of mind made possible by the structuring of one’s relation to one’s environment. (48) The gardens of the homeless, which are in effect[实际上] homeless gardens, introduce *form* into an urban environment where it either didn’t exist or was not discernible[不可辨别] as such. In so doing they give composure to a segment of the inarticulate environment in which they take their  stand.
+(47) A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need. This distinction is so much so that where the latter is lacking, as it is for these unlikely gardeners, the former becomes all the more urgent. Composure is a state of mind made possible by the structuring of one’s relation to one’s environment. (48) The gardens of the homeless, which are in effect[实际上] homeless gardens, introduce \form\ into an urban environment where it either didn’t exist or was not discernible[不可辨别] as such. In so doing they give composure to a segment of the inarticulate environment in which they take their  stand.
 
-Another urge or need that these gardens appear to respond to, or to arise from, is so intrinsic that we are barely ever conscious of its abiding[长久以来的] claims on us. When we are deprived of green, of plants, of trees, (49) most of us give in to a demoralization[萎缩] of spirit which we usually blame on some psychological conditions, until one day we find ourselves in a garden and feel the oppression[压迫] vanish as if by magic. In most of  the homeless gardens of New York City the actual cultivation of plants is unfeasible[不可实现的], yet even so the compositions often seem to represent attempts to call forth the spirit  of plant and animal life, if only symbolically, through a clumplike[丛林状的] arrangement of materials, an introduction of colors, small pools of water, and a frequent presence of petals[花瓣] or leaves as well as of stuffed animals. On display here are various fantasy elements whose reference, at some basic level, seems to be the natural world. (50) It  is this implicit[含蓄的] or explicit reference to nature that fully justifies the use of the word *garden*, though in a “liberated” sense, to describe these synthetic[合成的] constructions. In them we can see biophilia – a yearning for contact with nonhuman life – assuming uncanny[不可思议的] representational forms.
+Another urge or need that these gardens appear to respond to, or to arise from, is so intrinsic that we are barely ever conscious of its abiding[长久以来的] claims on us. When we are deprived of green, of plants, of trees, (49) most of us give in to a demoralization[萎缩] of spirit which we usually blame on some psychological conditions, until one day we find ourselves in a garden and feel the oppression[压迫] vanish as if by magic. In most of  the homeless gardens of New York City the actual cultivation of plants is unfeasible[不可实现的], yet even so the compositions often seem to represent attempts to call forth the spirit  of plant and animal life, if only symbolically, through a clumplike[丛林状的] arrangement of materials, an introduction of colors, small pools of water, and a frequent presence of petals[花瓣] or leaves as well as of stuffed animals. On display here are various fantasy elements whose reference, at some basic level, seems to be the natural world. (50) It  is this implicit[含蓄的] or explicit reference to nature that fully justifies the use of the word \garden\, though in a “liberated” sense, to describe these synthetic[合成的] constructions. In them we can see biophilia – a yearning for contact with nonhuman life – assuming uncanny[不可思议的] representational forms.
 
 == Text 10
 
-> source:华盛顿邮报（20140428）
+\> source:华盛顿邮报（20140428）
 
 Just how much does the Constitution protect your digital data? The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant[许可证] if the phone is on or around a person during an arrest.
 
@@ -168,7 +168,7 @@ But the justices should not swallow California’s argument whole. New, disrupti
 
 == Text 11
 
-> source:经济学人（20150625）
+\> source:经济学人（20150625）
 
 “There is one and only one social responsibility of business,” wrote Milton Friedman, a Nobel prize-winning economist, “That is, to use its resources and engage in activities designed to increase its profits.” But even if you accept Friedman’s premise and regard corporate social responsibility (CSR) policies as a waste of shareholders’ money, things may not be absolutely clear-cut[一目了然].  New research suggests that CSR may create monetary value for  companies  – at  least when they are prosecuted[指控] for corruption.
 
@@ -176,7 +176,7 @@ The largest firms in America and Britain together spend more  than $15 billion  
 
 Previous studies on CSR have had  trouble differentiating  these effects  because consumers can be affected by all three. A recent study attempts  to  separate them by looking at bribery[行贿] prosecutions under America’s  Foreign Corrupt Practices Act (FCPA). It argues that since prosecutors do not consume a company’s products as part of their investigations, they  could  be  influenced  only by the halo effect.
 
-The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient[宽大，慈善] penalties[惩罚].  *Their analysis ruled out the possibility that it was firms’ political influence, rather than  their CSR stand, that accounted for the leniency: Companies that contributed more   to political campaigns did not receive lower fines.[他们的分析排除了公司的政治影响力导致了宽大处理的可能（而不是他们的CSR行为）-对政治运动献金的公司并没有得到更低的罚金。]* 
+The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient[宽大，慈善] penalties[惩罚].  \Their analysis ruled out the possibility that it was firms’ political influence, rather than  their CSR stand, that accounted for the leniency: Companies that contributed more   to political campaigns did not receive lower fines.[他们的分析排除了公司的政治影响力导致了宽大处理的可能（而不是他们的CSR行为）-对政治运动献金的公司并没有得到更低的罚金。]\ 
 
 In all, the study concludes that whereas prosecutors should  only  evaluate  a case based on its merits, they do seem to be influenced by a company’s record in CSR. “We estimate that either eliminating a substantial[巨大的，大量的]  labour-rights  concern, such as child labour, or increasing corporate giving by about 20% results  in fines  that generally are 40% lower than the typical punishment for bribing foreign officials,” says one researcher.
 
@@ -184,7 +184,7 @@ Researchers admit that their study does not answer the question of how much busi
 
 == Text 12
 
-> source:独立报（20160722）
+\> source:独立报（20160722）
 
 Robert F. Kennedy once said that a country’s GDP measures  “everything  except that which makes life worthwhile.” With Britain voting to leave the European Union, and GDP already predicted to slow as a result, it is now a timely moment to assess what he was referring to.
 
@@ -202,7 +202,7 @@ The sharp hit to growth predicted around the world and in the UK could lead   to
 
 == Text 13
 
-> source:基督科学箴言报（20160627）
+\> source:基督科学箴言报（20160627）
 
 In a rare unanimous[一致同意] ruling, the US Supreme Court has overturned the  corruption conviction of a former Virginia governor, Robert McDonnell. But it did so while holding  its nose at the ethics of his conduct[行为的伦理], which  included  accepting  gifts such as a Rolex watch and a Ferrari automobile from a  company  seeking access to government.
 
@@ -222,7 +222,7 @@ The court’s ruling is a step forward in the struggle against both corruption a
 
 == Text 14
 
-> source:书籍《English Next》
+\> source:书籍《English Next》
 
 The growth of the use of English as the world’s primary language for international communication has obviously been continuing for several decades.
 
@@ -242,7 +242,7 @@ It gives a basis to all organisations which seek to  promote the  learning and u
 
 == Text 15
 
-> source:华盛顿邮报（20170213）
+\> source:华盛顿邮报（20170213）
 
 The U.S. Postal Service (USPS) continues to bleed red ink. It reported a net loss of $5.6 billion for fiscal[财政] 2016, the 10th straight year its expenses have exceeded revenue[收入]. Meanwhile, it has more than $120 billion in unfunded liabilities[负债], mostly for employee health and retirement costs. There are many reasons this formerly stable federal institution finds itself at the brink[边缘] of bankruptcy. Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.
 
@@ -254,7 +254,7 @@ If it clears the House, this measure would still have to get through the Senate 
 
 == Text 16
 
-> source:书籍《The Facts about Shakespeare》
+\> source:书籍《The Facts about Shakespeare》
 
 Shakespeare’s lifetime was coincident[在同一地方发生的] with a period of extraordinary activity and achievement in the drama. (46) By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive[激励] of classical tragedy and comedy. These new forms were at first mainly written by scholars and performed by amateurs, but in England, as everywhere else in western Europe, the growth of a class of professional actors was threatening to make the drama popular, whether it should be new or old, classical or medieval, literary or farcical[荒唐]. Court, school, organizations of amateurs[业余爱好者], and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and (47) no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England.
 
@@ -264,7 +264,7 @@ The development of the Elizabethan drama for the next twenty-five years is of ex
 
 == Text 17
 
-> source:大西洋月刊（201806）
+\> source:大西洋月刊（201806）
 
 Grade inflation – the gradual increase in average GPAs (grade-point averages) over the past few decades – is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased. But another, related force – a policy often buried deep in course catalogs called “grade forgiveness” – is helping raise GPAs.
 
@@ -280,7 +280,7 @@ Indeed, grade forgiveness is just another way that universities are responding t
 
 == Text 18
 
-> source:美联社（20180621）
+\> source:美联社（20180621）
 
 States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.
 
@@ -298,7 +298,7 @@ Retail trade groups praised the ruling, saying it levels the playing field for l
 
 == Text 19
 
-> source:每日电讯报（20200102）
+\> source:每日电讯报（20200102）
 
 How can the train operators possibly justify yet another increase to rail passenger fares? It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise. This year’s rise, an average of 2.7 per cent, may be a fraction lower than last year’s, but it is still well above the official Consumer Price Index (CPI) measure of inflation.
 
@@ -310,7 +310,7 @@ The Government has pledged to change the law to introduce a minimum service requ
 
 == Text 20
 
-> source:洛杉矶时报（20191002）
+\> source:洛杉矶时报（20191002）
 
 From the early days of broadband, advocates for consumers and web-based companies worried that the cable and phone companies selling broadband connections had the power and incentive to favor affiliated websites over their rivals’. That’s why there has been such a strong demand for rules that would prevent broadband providers from picking winners and losers online, preserving the freedom and innovation that have been the lifeblood of the Internet.
 

@@ -348,7 +348,7 @@ def inject_head_tags(html_path: Path):
         modified_content = content.replace("</head>", HEAD_INJECTION + "</head>")
         html_path.write_text(modified_content, encoding="utf-8")
     except Exception as e:
-        print(f"  ⚠ 注入 HTML 标签失败: {html_path} - {e}")
+        print(f"  [WARNING] 注入 HTML 标签失败: {html_path} - {e}")
 
 
 def run_typst_command(args: List[str]) -> bool:
@@ -364,15 +364,15 @@ def run_typst_command(args: List[str]) -> bool:
     try:
         result = subprocess.run(["typst"] + args, capture_output=True, text=True, encoding="utf-8")
         if result.returncode != 0:
-            print(f"  ❌ Typst 错误: {result.stderr.strip()}")
+            print(f"  [ERROR] Typst error: {result.stderr.strip()}")
             return False
         return True
     except FileNotFoundError:
-        print("  ❌ 错误: 未找到 typst 命令。请确保已安装 Typst 并添加到 PATH 环境变量中。")
-        print("  📝 安装说明: https://typst.app/open-source/#download")
+        print("  [ERROR] 错误: 未找到 typst 命令。请确保已安装 Typst 并添加到 PATH 环境变量中。")
+        print("  [INFO] 安装说明: https://typst.app/open-source/#download")
         return False
     except Exception as e:
-        print(f"  ❌ 执行 typst 命令时出错: {e}")
+        print(f"  [ERROR] 执行 typst 命令时出错: {e}")
         return False
 
 
@@ -394,7 +394,7 @@ def build_html(force: bool = False):
     html_files = [f for f in typ_files if "pdf" not in f.stem.lower()]
 
     if not html_files:
-        print("  ⚠️ 未找到任何 HTML 文件。")
+        print("  [WARNING] 未找到任何 HTML 文件。")
         return True
 
     print("正在构建 HTML 文件...")
@@ -436,7 +436,7 @@ def build_html(force: bool = False):
             inject_head_tags(html_output)
             success_count += 1
         else:
-            print(f"  ❌ {typ_file} 编译失败")
+            print(f"  [ERROR] {typ_file} 编译失败")
             fail_count += 1
 
     status_parts = []
@@ -448,7 +448,7 @@ def build_html(force: bool = False):
         status_parts.append(f"失败: {fail_count}")
 
     status_str = ", ".join(status_parts) if status_parts else "无文件需要处理"
-    print(f"✅ HTML 构建完成。{status_str}")
+    print(f"[OK] HTML 构建完成。{status_str}")
     return fail_count == 0
 
 
@@ -490,7 +490,7 @@ def build_pdf(force: bool = False):
         if run_typst_command(args):
             success_count += 1
         else:
-            print(f"  ❌ {typ_file} 编译失败")
+            print(f"  [ERROR] {typ_file} 编译失败")
             fail_count += 1
 
     status_parts = []
@@ -502,7 +502,7 @@ def build_pdf(force: bool = False):
         status_parts.append(f"失败: {fail_count}")
 
     status_str = ", ".join(status_parts) if status_parts else "无文件需要处理"
-    print(f"✅ PDF 构建完成。{status_str}")
+    print(f"[OK] PDF 构建完成。{status_str}")
     return fail_count == 0
 
 
@@ -511,7 +511,7 @@ def copy_assets() -> bool:
     复制静态资源到输出目录。
     """
     if not ASSETS_DIR.exists():
-        print(f"  ⚠ 静态资源目录 {ASSETS_DIR} 不存在。")
+        print(f"  [WARNING] 静态资源目录 {ASSETS_DIR} 不存在。")
         return True
 
     target_dir = SITE_DIR / "assets"
@@ -522,7 +522,7 @@ def copy_assets() -> bool:
         shutil.copytree(ASSETS_DIR, target_dir)
         return True
     except Exception as e:
-        print(f"  ❌ 复制静态资源失败: {e}")
+        print(f"  [ERROR] 复制静态资源失败: {e}")
         return False
 
 
@@ -535,7 +535,7 @@ def copy_content_assets(force: bool = False) -> bool:
         force: 是否强制复制所有文件
     """
     if not CONTENT_DIR.exists():
-        print(f"  ⚠ 内容目录 {CONTENT_DIR} 不存在，跳过。")
+        print(f"  [WARNING] 内容目录 {CONTENT_DIR} 不存在，跳过。")
         return True
 
     try:
@@ -570,7 +570,7 @@ def copy_content_assets(force: bool = False) -> bool:
 
         return True
     except Exception as e:
-        print(f"  ❌ 复制内容资源文件失败: {e}")
+        print(f"  [ERROR] 复制内容资源文件失败: {e}")
         return False
 
 
@@ -592,10 +592,10 @@ def clean() -> bool:
             else:
                 item.unlink()
 
-        print(f"  ✅ 已清理 {SITE_DIR}/ 目录。")
+        print(f"  [OK] 已清理 {SITE_DIR}/ 目录。")
         return True
     except Exception as e:
-        print(f"  ❌ 清理失败: {e}")
+        print(f"  [ERROR] 清理失败: {e}")
         return False
 
 
@@ -611,7 +611,7 @@ def preview(port: int = 8000, open_browser_flag: bool = True) -> bool:
         open_browser_flag: 是否自动打开浏览器，默认为 True
     """
     if not SITE_DIR.exists():
-        print(f"  ⚠ 输出目录 {SITE_DIR} 不存在，请先运行 build 命令。")
+        print(f"  [WARNING] 输出目录 {SITE_DIR} 不存在，请先运行 build 命令。")
         return False
 
     print("正在启动本地预览服务器（按 Ctrl+C 停止）...")
@@ -653,7 +653,7 @@ def preview(port: int = 8000, open_browser_flag: bool = True) -> bool:
         print("\n服务器已停止。")
         return True
     except Exception as e:
-        print(f"  ❌ 启动服务器失败: {e}")
+        print(f"  [ERROR] 启动服务器失败: {e}")
         return False
 
 
@@ -666,9 +666,9 @@ def build(force: bool = False):
     """
     print("-" * 60)
     if force:
-        print("🛠️ 开始完整构建...")
+        print("[INFO] Starting full build...")
     else:
-        print("🚀 开始增量构建...")
+        print("[INFO] Starting incremental build...")
     print("-" * 60)
 
     # 确保输出目录存在
@@ -686,10 +686,10 @@ def build(force: bool = False):
 
     print("-" * 60)
     if all(results):
-        print("✅ 所有构建任务完成！")
+        print("[OK] 所有构建任务完成！")
         print(f"  📂 输出目录: {SITE_DIR.absolute()}")
     else:
-        print("⚠ 构建完成，但有部分任务失败。")
+        print("[WARNING] 构建完成，但有部分任务失败。")
     print("-" * 60)
 
     return all(results)

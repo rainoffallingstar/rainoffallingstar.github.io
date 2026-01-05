@@ -59,7 +59,7 @@ The CC is the starting place  for making a differential diagnosis; the details o
 
 History of present illness. The HPI is the patient’s story of  their illness experience; it is the  most important par t of the  diagnostic  examination. It should be recorded in complete sentences as a lucid, succinct, and chronologic narrative. Ideally, the HPI should be brief , so that it is easily read and digested, but this is only possible if  the history is relatively straight forward. Some stories are complex and the diagnostic possibilities broad, requiring inclusion of  more detail since you can’t be certain what is pertinent and what superfluous. 
 You must avoid premature interpretation such as replacing their words with medical terminology or  failing to record seemingly irrelevant symptoms or events.
-**The chief  purpose of  the history is to help you  form diagnostic hypotheses
+The chief  purpose of  the history is to help you  form diagnostic hypotheses
 
 
 Past medical history 

@@ -8,7 +8,7 @@
 
 #link("d41586-021-03637-6.pdf")[d41586-021-03637-6.pdf Download ]
 
-> source:nature
+\> source:nature
 
 It was best to work at night — they could see in the dark, after all.
 
@@ -52,7 +52,7 @@ She heard the emotional undercurrent[暗流，潜在感情] in his voice. “So 
 
 “Hurry up, now. We’ve got a lot of work to do.”
 
-****
+
 
 Their next assignment was the library at Alamut in AD 1276 — a two-month job. A repository of Middle Eastern knowledge in a mountaintop fortress, destined to be burnt by invading Mongols under Hulagu Khan.
 
@@ -78,7 +78,7 @@ She shook her head. “I wish we could talk to the scholars here. To hear about 
 
 She returned to the book at hand, and the ones after that.
 
-***
+
 
 1562, Yucatán.
 
@@ -92,7 +92,7 @@ Victor shrugged. “Knowledge of the past helps the future.”
 
 “So we have more to do.”
 
-****
+
 
 After that they went to Pompeii to scan a patrician[贵族的] library before the volcano burnt it, and to Persepolis before the Macedonians burnt it, and to Athens before the Persians burnt it. Monica felt herself growing numb to the tragedy of it all.
 

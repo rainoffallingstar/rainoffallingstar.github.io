@@ -28,31 +28,31 @@
    | Layer(Funtions)               | Output Shape    | Stride | Filter shape      |
    | ----------------------------- | --------------- | ------ | ----------------- |
    | Input Layer                   | None,256,256,3  | /      | /                 |
-   | Conv1 (Conv+BN+ReLU6)         | None,128,128,32 | 2      | 3 *3 *32          |
-   | inverted_residual (Linear)    | None,128,128,16 | 1      | 1 *1 *32 *16      |
-   | inverted_residual_1 (ReLU6)   | None,64,64,24   | 2      | 3 * 3 *16 *24     |
-   | inverted_residual_2 (Linear)  | None,64,64,24   | 1      | 1*1 *24           |
-   | inverted_residual_3 (ReLU6)   | None,32,32,32   | 2      | 3 * 3 *24 *32     |
-   | inverted_residual_4 (Linear)  | None,32,32,32   | 1      | 1*1 *32           |
-   | inverted_residual_5 (Linear)  | None,32,32,32   | 1      | 1*1 *32           |
-   | inverted_residual_6 (ReLU6)   | None,16,16,64   | 2      | 3*3*32*64         |
-   | inverted_residual_7 (Linear)  | None,16,16,64   | 1      | 1*1 *64           |
-   | inverted_residual_8 (Linear)  | None,16,16,64   | 1      | 1*1 *64           |
-   | inverted_residual_9 (Linear)  | None,16,16,64   | 1      | 1* 1*64           |
-   | inverted_residual_10 (Linear) | None,16,16,96   | 1      | 1  * 1 *64*96     |
-   | inverted_residual_11 (Linear) | None,16,16,96   | 1      | 1*1 *96           |
-   | inverted_residual_12 (Linear) | None,16,16,96   | 1      | 1* 1*96           |
-   | inverted_residual_13 (ReLU6)  | None,8,8,160    | 2      | 3*3 *96 *160      |
-   | inverted_residual_14 (Linear) | None,8,8,160    | 1      | 1*1 *160          |
-   | inverted_residual_15 (Linear) | None,8,8,160    | 1      | 1*1 *160          |
-   | inverted_residual_16 (Linear) | None,8,8,320    | 1      | 1*1*160*320       |
-   | Conv (ReLU6)                  | None,8,8,1280   | 1      | 1*1*320*1280      |
-   | Global average pooling        | None,1280       | 1      | Pool 8*8          |
+   | Conv1 (Conv+BN+ReLU6)         | None,128,128,32 | 2      | 3 \\3 \\32          |
+   | inverted_residual (Linear)    | None,128,128,16 | 1      | 1 \\1 \\32 \16      |
+   | inverted_residual_1 (ReLU6)   | None,64,64,24   | 2      | 3 \\ 3 \\16 \24     |
+   | inverted_residual_2 (Linear)  | None,64,64,24   | 1      | 1\\1 \\24           |
+   | inverted_residual_3 (ReLU6)   | None,32,32,32   | 2      | 3 \\ 3 \\24 \32     |
+   | inverted_residual_4 (Linear)  | None,32,32,32   | 1      | 1\\1 \\32           |
+   | inverted_residual_5 (Linear)  | None,32,32,32   | 1      | 1\\1 \\32           |
+   | inverted_residual_6 (ReLU6)   | None,16,16,64   | 2      | 3\\3\\32\64         |
+   | inverted_residual_7 (Linear)  | None,16,16,64   | 1      | 1\\1 \\64           |
+   | inverted_residual_8 (Linear)  | None,16,16,64   | 1      | 1\\1 \\64           |
+   | inverted_residual_9 (Linear)  | None,16,16,64   | 1      | 1\\ 1\\64           |
+   | inverted_residual_10 (Linear) | None,16,16,96   | 1      | 1  \\ 1 \\64\96     |
+   | inverted_residual_11 (Linear) | None,16,16,96   | 1      | 1\\1 \\96           |
+   | inverted_residual_12 (Linear) | None,16,16,96   | 1      | 1\\ 1\\96           |
+   | inverted_residual_13 (ReLU6)  | None,8,8,160    | 2      | 3\\3 \\96 \160      |
+   | inverted_residual_14 (Linear) | None,8,8,160    | 1      | 1\\1 \\160          |
+   | inverted_residual_15 (Linear) | None,8,8,160    | 1      | 1\\1 \\160          |
+   | inverted_residual_16 (Linear) | None,8,8,320    | 1      | 1\\1\\160\320       |
+   | Conv (ReLU6)                  | None,8,8,1280   | 1      | 1\\1\\320\1280      |
+   | Global average pooling        | None,1280       | 1      | Pool 8\8          |
    | Dropout                       | None,1280       | 1      | Probability = 0.2 |
    | Clssifier(ReLU)               | None,2          | /      | Classifier        |
    
    !#link("model.png")[这是图片]
-3. 正式训练：将预训练模型删除分类层，将训练集、验证集向量化，输入模型，初始学习率设置为1e-4，采用adam算法优化学习率，设置分类数为3，最大epoch为30。训练在云端一台搭载了tensorflow2.4的RTX2080ti（10G显存）、6*E5cpu的服务器内实现。默认保存在验证集上表现最优的模型权重。
+3. 正式训练：将预训练模型删除分类层，将训练集、验证集向量化，输入模型，初始学习率设置为1e-4，采用adam算法优化学习率，设置分类数为3，最大epoch为30。训练在云端一台搭载了tensorflow2.4的RTX2080ti（10G显存）、6E5cpu的服务器内实现。默认保存在验证集上表现最优的模型权重。
 
 4. 测试模型效能：在测试集上进行模型能力测试，计算准确率、召回率、正确率、假阳性率、F1分数等评价指标，绘出ROC曲线并计算曲线下面积。
 

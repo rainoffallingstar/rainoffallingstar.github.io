@@ -8,7 +8,7 @@
 
 === Part 1 真题单词
 
-##### 完形填空
+==== 完形填空
 
 [A] otherwise [B] defensible站得住脚的 [C] replaceable [D] exceptional
 
@@ -42,7 +42,7 @@ catered 满足
 
 exaggerate 使)扩大, (使)增加
 
-##### author attitude
+==== author attitude
 
 [A]doubtful.[B]enthusiastic.[C]confident.[D]puzzled.
 

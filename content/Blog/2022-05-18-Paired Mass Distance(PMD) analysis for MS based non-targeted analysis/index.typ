@@ -51,16 +51,16 @@ In this package, a data set from _in vivo_ solid phase micro-extraction(SPME) 
 library(pmd)
 data("spmeinvivo")
 str(spmeinvivo)
-#> List of 4
-#>  $ data : num [1:1459, 1:9] 1095 10439 10154 2797 90211 ...
-#>   ..- attr(*, "dimnames")=List of 2
-#>   .. ..$ : chr [1:1459] "100.1/170" "100.5/86" "101/85" "103.1/348" ...
-#>   .. ..$ : chr [1:9] "1405_Fish1_F1" "1405_Fish1_F2" "1405_Fish1_F3" "1405_Fish2_F1" ...
-#>  $ group:'data.frame':   9 obs. of  2 variables:
-#>   ..$ sample_name : chr [1:9] "1405_Fish1_F1" "1405_Fish1_F2" "1405_Fish1_F3" "1405_Fish2_F1" ...
-#>   ..$ sample_group: chr [1:9] "fish1" "fish1" "fish1" "fish2" ...
-#>  $ mz   : num [1:1459] 100 101 101 103 104 ...
-#>  $ rt   : num [1:1459] 170.2 86.3 84.9 348.1 48.8 ...
+#\> List of 4
+#\>  $ data : num [1:1459, 1:9] 1095 10439 10154 2797 90211 ...
+#\>   ..- attr(, "dimnames")=List of 2
+#\>   .. ..$ : chr [1:1459] "100.1/170" "100.5/86" "101/85" "103.1/348" ...
+#\>   .. ..$ : chr [1:9] "1405_Fish1_F1" "1405_Fish1_F2" "1405_Fish1_F3" "1405_Fish2_F1" ...
+#\>  $ group:'data.frame':   9 obs. of  2 variables:
+#\>   ..$ sample_name : chr [1:9] "1405_Fish1_F1" "1405_Fish1_F2" "1405_Fish1_F3" "1405_Fish2_F1" ...
+#\>   ..$ sample_group: chr [1:9] "fish1" "fish1" "fish1" "fish2" ...
+#\>  $ mz   : num [1:1459] 100 101 101 103 104 ...
+#\>  $ rt   : num [1:1459] 170.2 86.3 84.9 348.1 48.8 ...
 #block.raw("
 
 You could build this `list` or `mzrt` object from the `xcms` objects via `enviGCMS` package. When you have a `xcmsSet` object or `XCMSnExp` object named `xset`, you could use `enviGCMS::getmzrt(xset)` to get such list. Of course you could build such list by yourself.
@@ -82,13 +82,13 @@ knitr::include_graphics('https://yufree.github.io/presentation/figure/GlobalStd.
 == STEP1: Retention time hierarchical clustering 保留时间层次聚类分析
 
 #block.raw("
-pmd <- getpaired(spmeinvivo)
-#> 75 retention time cluster found.
-#> 369 paired masses found
-#> 5 unique within RT clusters high frequency PMD(s) used for further investigation.
-#> The unique within RT clusters high frequency PMD(s) is(are)  28.03 21.98 44.03 17.03 18.01.
-#> 719 isotopologue(s) related paired mass found.
-#> 492 multi-charger(s) related paired mass found.
+pmd \<- getpaired(spmeinvivo)
+#\> 75 retention time cluster found.
+#\> 369 paired masses found
+#\> 5 unique within RT clusters high frequency PMD(s) used for further investigation.
+#\> The unique within RT clusters high frequency PMD(s) is(are)  28.03 21.98 44.03 17.03 18.01.
+#\> 719 isotopologue(s) related paired mass found.
+#\> 492 multi-charger(s) related paired mass found.
 plotrtg(pmd)
 #block.raw("
 
@@ -123,8 +123,8 @@ You could also show the distribution of PMD relationship by index:
 #block.raw("
 # show the unique PMD found by getpaired function
 for(i in 1:length(unique(pmd$paired$diff2))){
-        diff <- unique(pmd$paired$diff2)[i]
-        index <- pmd$paired$diff2 == diff
+        diff \<- unique(pmd$paired$diff2)[i]
+        index \<- pmd$paired$diff2 == diff
         plotpaired(pmd,index)
 }
 #block.raw("
@@ -141,13 +141,13 @@ You could use `getstd` function to get the independent peaks. Independent peak
 
 您可以使用“getstd”函数来获取独立的峰值。独立峰是指去除步骤2中PMD分析发现的加合物、中性损失、同位素和注释碎片离子等冗余峰的峰列表。理想情况下，这些峰可能是分子离子，而它们可能仍然包含冗余峰。
 #block.raw("
-std <- getstd(pmd)
-#> 8 retention group(s) have single peaks. 14 23 32 33 54 55 56 75
-#> 11 group(s) with multiple peaks while no isotope/paired relationship 4 5 7 8 11 41 42 49 68 72 73
-#> 9 group(s) with multiple peaks with isotope without paired relationship 2 9 22 26 52 62 64 66 70
-#> 4 group(s) with paired relationship without isotope 1 10 15 18
-#> 43 group(s) with paired relationship and isotope 3 6 12 13 16 17 19 20 21 24 25 27 28 29 30 31 34 35 36 37 38 39 40 43 44 45 46 47 48 50 51 53 57 58 59 60 61 63 65 67 69 71 74
-#> 291 std mass found.
+std \<- getstd(pmd)
+#\> 8 retention group(s) have single peaks. 14 23 32 33 54 55 56 75
+#\> 11 group(s) with multiple peaks while no isotope/paired relationship 4 5 7 8 11 41 42 49 68 72 73
+#\> 9 group(s) with multiple peaks with isotope without paired relationship 2 9 22 26 52 62 64 66 70
+#\> 4 group(s) with paired relationship without isotope 1 10 15 18
+#\> 43 group(s) with paired relationship and isotope 3 6 12 13 16 17 19 20 21 24 25 27 28 29 30 31 34 35 36 37 38 39 40 43 44 45 46 47 48 50 51 53 57 58 59 60 61 63 65 67 69 71 74
+#\> 291 std mass found.
 #block.raw("
 
 Here you could plot the peaks by `plotstd` function to show the distribution of independent peaks:
@@ -179,13 +179,13 @@ Original GlobalStd algorithm only use mass to charge ratio and retention time of
 原GlobalStd算法仅利用峰的质量电荷比和保留时间来选择独立的峰。然而，如果样本间的强度数据可用，则可以使用成对离子的相关系数来进一步过滤高频PMD中的随机噪声。您可以设置峰值之间Pearson相关系数的阈值，以优化GlobalStd在相同保留时间组内选择的峰值。在这种情况下，所选独立峰的数量将进一步减少。使用此参数时，请确保强度数据来自真实样本，而不是空白样本，这将影响相关系数的计算。
 
 #block.raw("
-std2 <- getstd(pmd,corcutoff = 0.9)
-#> 8 retention group(s) have single peaks. 14 23 32 33 54 55 56 75
-#> 23 group(s) with multiple peaks while no isotope/paired relationship 2 4 5 7 8 10 11 15 18 26 35 39 41 42 49 50 59 62 68 69 70 72 73
-#> 14 group(s) with multiple peaks with isotope without paired relationship 9 12 22 24 27 28 34 51 52 57 60 64 66 71
-#> 3 group(s) with paired relationship without isotope 1 53 74
-#> 27 group(s) with paired relationship and isotope 3 6 13 16 17 19 20 21 25 29 30 31 36 37 38 40 43 44 45 46 47 48 58 61 63 65 67
-#> 120 std mass found.
+std2 \<- getstd(pmd,corcutoff = 0.9)
+#\> 8 retention group(s) have single peaks. 14 23 32 33 54 55 56 75
+#\> 23 group(s) with multiple peaks while no isotope/paired relationship 2 4 5 7 8 10 11 15 18 26 35 39 41 42 49 50 59 62 68 69 70 72 73
+#\> 14 group(s) with multiple peaks with isotope without paired relationship 9 12 22 24 27 28 34 51 52 57 60 64 66 71
+#\> 3 group(s) with paired relationship without isotope 1 53 74
+#\> 27 group(s) with paired relationship and isotope 3 6 13 16 17 19 20 21 25 29 30 31 36 37 38 40 43 44 45 46 47 48 58 61 63 65 67
+#\> 120 std mass found.
 #block.raw("
 
 = Validation by principal components analysis(PCA) 主要成分分析验证
@@ -215,9 +215,9 @@ GlobalStd algorithm in `pmd` package could be treated as a method to extract p
 pmd包中的GlobalStd算法可以作为一种提取伪谱的方法。您可以使用“getcluster”获取所有GlobalStd峰值的峰值组信息。当某个峰值涉及多个集群时，此函数将考虑GlobalStd峰值的合并。然后，您可以在每个GlobalStd合并峰组中选择具有最高强度的输出峰或基峰。同时，还可以在其中使用相关系数阈值，以进一步提高数据质量。
 
 #block.raw("
-stdcluster <- getcluster(std)
+stdcluster \<- getcluster(std)
 # extract pseudospectra for std peak 71
-idx <- unique(stdcluster$cluster$largei[stdcluster$cluster$i==71])
+idx \<- unique(stdcluster$cluster$largei[stdcluster$cluster$i==71])
 plot(stdcluster$cluster$mz[stdcluster$cluster$largei==idx],stdcluster$cluster$ins[stdcluster$cluster$largei==idx],type = 'h',xlab = 'm/z',ylab = 'intensity',main = 'pseudo spectra for GlobalStd peak 71')
 #block.raw("
 
@@ -225,11 +225,11 @@ plot(stdcluster$cluster$mz[stdcluster$cluster$largei==idx],stdcluster$cluster$in
 
 #block.raw("
 # export peaks with the highest intensities in each GlobalStd peaks groups.
-data <- stdcluster$data[stdcluster$stdmassindex2,]
+data \<- stdcluster$data[stdcluster$stdmassindex2,]
 # considering the correlation coefficient cutoff
-stdcluster2 <- getcluster(std, corcutoff = 0.9)
+stdcluster2 \<- getcluster(std, corcutoff = 0.9)
 # considering the correlation coefficient cutoff for both psedospectra extraction and GlobalStd algorithm
-stdcluster3 <- getcluster(std2, corcutoff = 0.9)
+stdcluster3 \<- getcluster(std2, corcutoff = 0.9)
 #block.raw("
 
 We supplied `getcorcluster` to find peaks groups by correlation analysis only. The base peaks of correlation cluster were selected to stand for the compounds.
@@ -237,10 +237,10 @@ We supplied `getcorcluster` to find peaks groups by correlation analysis only.
 我们提供了“getcorcluster”，仅通过相关分析找到峰群。选择相关簇的基峰代表化合物。
 
 #block.raw("
-corcluster <- getcorcluster(spmeinvivo)
-#> 75 retention time cluster found.
+corcluster \<- getcorcluster(spmeinvivo)
+#\> 75 retention time cluster found.
 # extract pseudospectra 1@46
-peak <- corcluster$cluster[corcluster$cluster$largei == '1@46',]
+peak \<- corcluster$cluster[corcluster$cluster$largei == '1@46',]
 plot(peak$ins~peak$mz,type = 'h',xlab = 'm/z',ylab = 'intensity',main = 'pseudo spectra for correlation cluster')
 #block.raw("
 
@@ -260,23 +260,23 @@ plotpca(std$data[corcluster$stdmassindex2,],lv = as.numeric(as.factor(std$group$
 plotpca(std$data,lv = as.numeric(as.factor(std$group$sample_group)),main = paste(nrow(std$data),"all peaks"))
 plotpca(std$data[stdcluster3$stdmassindex2,],lv = as.numeric(as.factor(std$group$sample_group)),main = paste(sum(stdcluster3$stdmassindex2),"reduced independent base peaks"))
 pcasf(std$data, std$data[std$stdmassindex,])
-#>     pcasf 
-#> 0.9993497
+#\>     pcasf 
+#\> 0.9993497
 pcasf(std$data, std$data[stdcluster$stdmassindex2,])
-#>     pcasf 
-#> 0.9993578
+#\>     pcasf 
+#\> 0.9993578
 pcasf(std$data, std$data[stdcluster2$stdmassindex2,])
-#>    pcasf 
-#> 0.999346
+#\>    pcasf 
+#\> 0.999346
 pcasf(std$data, std$data[corcluster$stdmassindex,])
-#>     pcasf 
-#> 0.9471586
+#\>     pcasf 
+#\> 0.9471586
 pcasf(std$data, std$data[corcluster$stdmassindex2,])
-#>     pcasf 
-#> 0.9497193
+#\>     pcasf 
+#\> 0.9497193
 pcasf(std$data, std$data[stdcluster3$stdmassindex2,])
-#>    pcasf 
-#> 0.713527
+#\>    pcasf 
+#\> 0.713527
 #block.raw("
 
 #image("imgs/data:image/png;base64,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")
@@ -292,62 +292,62 @@ In this case, five peaks selection algorithms are fine to stand for the original
 `getsda `函数可用于执行结构/反应导向分析。通过PMD网络分析，以所有节点的最大平均距离自动找到频率阈值。
 
 #block.raw("
-sda <- getsda(std)
-#> PMD frequency cutoff is 6 by PMD network analysis with largest network average distance 6.67 .
-#> 53 groups were found as high frequency PMD group.
-#> 0 was found as high frequency PMD. 
-#> 1.98 was found as high frequency PMD. 
-#> 2.01 was found as high frequency PMD. 
-#> 2.02 was found as high frequency PMD. 
-#> 6.97 was found as high frequency PMD. 
-#> 11.96 was found as high frequency PMD. 
-#> 12 was found as high frequency PMD. 
-#> 13.98 was found as high frequency PMD. 
-#> 14.02 was found as high frequency PMD. 
-#> 14.05 was found as high frequency PMD. 
-#> 15.99 was found as high frequency PMD. 
-#> 16.03 was found as high frequency PMD. 
-#> 19.04 was found as high frequency PMD. 
-#> 28.03 was found as high frequency PMD. 
-#> 30.05 was found as high frequency PMD. 
-#> 31.99 was found as high frequency PMD. 
-#> 33.02 was found as high frequency PMD. 
-#> 37.02 was found as high frequency PMD. 
-#> 42.05 was found as high frequency PMD. 
-#> 48.04 was found as high frequency PMD. 
-#> 48.98 was found as high frequency PMD. 
-#> 49.02 was found as high frequency PMD. 
-#> 54.05 was found as high frequency PMD. 
-#> 56.06 was found as high frequency PMD. 
-#> 56.1 was found as high frequency PMD. 
-#> 58.04 was found as high frequency PMD. 
-#> 58.08 was found as high frequency PMD. 
-#> 58.11 was found as high frequency PMD. 
-#> 63.96 was found as high frequency PMD. 
-#> 66.05 was found as high frequency PMD. 
-#> 68.06 was found as high frequency PMD. 
-#> 70.04 was found as high frequency PMD. 
-#> 70.08 was found as high frequency PMD. 
-#> 74.02 was found as high frequency PMD. 
-#> 80.03 was found as high frequency PMD. 
-#> 82.08 was found as high frequency PMD. 
-#> 88.05 was found as high frequency PMD. 
-#> 91.1 was found as high frequency PMD. 
-#> 93.12 was found as high frequency PMD. 
-#> 94.1 was found as high frequency PMD. 
-#> 96.09 was found as high frequency PMD. 
-#> 101.05 was found as high frequency PMD. 
-#> 108.13 was found as high frequency PMD. 
-#> 110.11 was found as high frequency PMD. 
-#> 112.16 was found as high frequency PMD. 
-#> 116.08 was found as high frequency PMD. 
-#> 122.15 was found as high frequency PMD. 
-#> 124.16 was found as high frequency PMD. 
-#> 126.14 was found as high frequency PMD. 
-#> 144.18 was found as high frequency PMD. 
-#> 148.04 was found as high frequency PMD. 
-#> 150.2 was found as high frequency PMD. 
-#> 173.18 was found as high frequency PMD.
+sda \<- getsda(std)
+#\> PMD frequency cutoff is 6 by PMD network analysis with largest network average distance 6.67 .
+#\> 53 groups were found as high frequency PMD group.
+#\> 0 was found as high frequency PMD. 
+#\> 1.98 was found as high frequency PMD. 
+#\> 2.01 was found as high frequency PMD. 
+#\> 2.02 was found as high frequency PMD. 
+#\> 6.97 was found as high frequency PMD. 
+#\> 11.96 was found as high frequency PMD. 
+#\> 12 was found as high frequency PMD. 
+#\> 13.98 was found as high frequency PMD. 
+#\> 14.02 was found as high frequency PMD. 
+#\> 14.05 was found as high frequency PMD. 
+#\> 15.99 was found as high frequency PMD. 
+#\> 16.03 was found as high frequency PMD. 
+#\> 19.04 was found as high frequency PMD. 
+#\> 28.03 was found as high frequency PMD. 
+#\> 30.05 was found as high frequency PMD. 
+#\> 31.99 was found as high frequency PMD. 
+#\> 33.02 was found as high frequency PMD. 
+#\> 37.02 was found as high frequency PMD. 
+#\> 42.05 was found as high frequency PMD. 
+#\> 48.04 was found as high frequency PMD. 
+#\> 48.98 was found as high frequency PMD. 
+#\> 49.02 was found as high frequency PMD. 
+#\> 54.05 was found as high frequency PMD. 
+#\> 56.06 was found as high frequency PMD. 
+#\> 56.1 was found as high frequency PMD. 
+#\> 58.04 was found as high frequency PMD. 
+#\> 58.08 was found as high frequency PMD. 
+#\> 58.11 was found as high frequency PMD. 
+#\> 63.96 was found as high frequency PMD. 
+#\> 66.05 was found as high frequency PMD. 
+#\> 68.06 was found as high frequency PMD. 
+#\> 70.04 was found as high frequency PMD. 
+#\> 70.08 was found as high frequency PMD. 
+#\> 74.02 was found as high frequency PMD. 
+#\> 80.03 was found as high frequency PMD. 
+#\> 82.08 was found as high frequency PMD. 
+#\> 88.05 was found as high frequency PMD. 
+#\> 91.1 was found as high frequency PMD. 
+#\> 93.12 was found as high frequency PMD. 
+#\> 94.1 was found as high frequency PMD. 
+#\> 96.09 was found as high frequency PMD. 
+#\> 101.05 was found as high frequency PMD. 
+#\> 108.13 was found as high frequency PMD. 
+#\> 110.11 was found as high frequency PMD. 
+#\> 112.16 was found as high frequency PMD. 
+#\> 116.08 was found as high frequency PMD. 
+#\> 122.15 was found as high frequency PMD. 
+#\> 124.16 was found as high frequency PMD. 
+#\> 126.14 was found as high frequency PMD. 
+#\> 144.18 was found as high frequency PMD. 
+#\> 148.04 was found as high frequency PMD. 
+#\> 150.2 was found as high frequency PMD. 
+#\> 173.18 was found as high frequency PMD.
 #block.raw("
 
 Such largest mean distance of all nodes is calculated for top 1 to 100 (if possible) high frequency PMDs. Here is a demo for the network generation process.
@@ -356,25 +356,25 @@ Such largest mean distance of all nodes is calculated for top 1 to 100 (if possi
 
 #block.raw("
 library(igraph)
-#> 
-#> Attaching package: 'igraph'
-#> The following objects are masked from 'package:stats':
-#> 
-#>     decompose, spectrum
-#> The following object is masked from 'package:base':
-#> 
-#>     union
-cdf <- sda$sda
+#\> 
+#\> Attaching package: 'igraph'
+#\> The following objects are masked from 'package:stats':
+#\> 
+#\>     decompose, spectrum
+#\> The following object is masked from 'package:base':
+#\> 
+#\>     union
+cdf \<- sda$sda
 # get the PMDs and frequency
-pmds <- as.numeric(names(sort(table(cdf$diff2),decreasing = T)))
-freq <- sort(table(cdf$diff2),decreasing = T)
+pmds \<- as.numeric(names(sort(table(cdf$diff2),decreasing = T)))
+freq \<- sort(table(cdf$diff2),decreasing = T)
 # filter the frequency larger than 10 for demo
-pmds <- pmds[freq>10]
-cdf <- sda$sda[sda$sda$diff2 %in% pmds,]
-g <- igraph::graph_from_data_frame(cdf,directed = F)
-l <- igraph::layout_with_fr(g)
+pmds \<- pmds[freq\>10]
+cdf \<- sda$sda[sda$sda$diff2 %in% pmds,]
+g \<- igraph::graph_from_data_frame(cdf,directed = F)
+l \<- igraph::layout_with_fr(g)
 for(i in 1:length(pmds)){
-  g2 <- igraph::delete_edges(g,which(E(g)$diff2%in%pmds[1:i]))
+  g2 \<- igraph::delete_edges(g,which(E(g)$diff2%in%pmds[1:i]))
   plot(g2,edge.width=1,vertex.label="",vertex.size=1,layout=l,main=paste('Top',length(pmds)-i,'high frequency PMDs'))
 }
 #block.raw("
@@ -409,15 +409,15 @@ Structure/reaction directed analysis could be directly performed on all the peak
 结构/反应导向分析可直接对所有峰进行，但处理速度较慢：
 
 #block.raw("
-sdaall <- getsda(spmeinvivo)
-#> PMD frequency cutoff is 104 by PMD network analysis with largest network average distance 14.06 .
-#> 6 groups were found as high frequency PMD group.
-#> 0 was found as high frequency PMD. 
-#> 2.02 was found as high frequency PMD. 
-#> 28.03 was found as high frequency PMD. 
-#> 31.01 was found as high frequency PMD. 
-#> 58.04 was found as high frequency PMD. 
-#> 116.08 was found as high frequency PMD.
+sdaall \<- getsda(spmeinvivo)
+#\> PMD frequency cutoff is 104 by PMD network analysis with largest network average distance 14.06 .
+#\> 6 groups were found as high frequency PMD group.
+#\> 0 was found as high frequency PMD. 
+#\> 2.02 was found as high frequency PMD. 
+#\> 28.03 was found as high frequency PMD. 
+#\> 31.01 was found as high frequency PMD. 
+#\> 58.04 was found as high frequency PMD. 
+#\> 116.08 was found as high frequency PMD.
 par(mfrow = c(1,3),mar = c(4,4,2,1)+0.1)
 plotstdsda(sdaall,sdaall$sda$diff2 == 2.02)
 plotstdsda(sdaall,sdaall$sda$diff2 == 28.03)
@@ -433,50 +433,50 @@ Structure/Reaction directed analysis could also use correlation to restrict the 
 结构/反应导向分析也可以使用相关性来限制成对离子。然而，与GlobalStd算法类似，这种截止将删除低强度数据。研究人员应该有一个明确的想法来使用这个阈值。
 
 #block.raw("
-sda2 <- getsda(std, corcutoff = 0.9)
-#> PMD frequency cutoff is 6 by PMD network analysis with largest network average distance 6.67 .
-#> 41 groups were found as high frequency PMD group.
-#> 0 was found as high frequency PMD. 
-#> 1.98 was found as high frequency PMD. 
-#> 2.01 was found as high frequency PMD. 
-#> 2.02 was found as high frequency PMD. 
-#> 11.96 was found as high frequency PMD. 
-#> 12 was found as high frequency PMD. 
-#> 13.98 was found as high frequency PMD. 
-#> 14.02 was found as high frequency PMD. 
-#> 14.05 was found as high frequency PMD. 
-#> 15.99 was found as high frequency PMD. 
-#> 16.03 was found as high frequency PMD. 
-#> 19.04 was found as high frequency PMD. 
-#> 28.03 was found as high frequency PMD. 
-#> 30.05 was found as high frequency PMD. 
-#> 31.99 was found as high frequency PMD. 
-#> 33.02 was found as high frequency PMD. 
-#> 42.05 was found as high frequency PMD. 
-#> 48.98 was found as high frequency PMD. 
-#> 49.02 was found as high frequency PMD. 
-#> 54.05 was found as high frequency PMD. 
-#> 56.06 was found as high frequency PMD. 
-#> 58.04 was found as high frequency PMD. 
-#> 58.08 was found as high frequency PMD. 
-#> 63.96 was found as high frequency PMD. 
-#> 66.05 was found as high frequency PMD. 
-#> 68.06 was found as high frequency PMD. 
-#> 70.08 was found as high frequency PMD. 
-#> 74.02 was found as high frequency PMD. 
-#> 80.03 was found as high frequency PMD. 
-#> 82.08 was found as high frequency PMD. 
-#> 88.05 was found as high frequency PMD. 
-#> 93.12 was found as high frequency PMD. 
-#> 94.1 was found as high frequency PMD. 
-#> 96.09 was found as high frequency PMD. 
-#> 108.13 was found as high frequency PMD. 
-#> 110.11 was found as high frequency PMD. 
-#> 112.16 was found as high frequency PMD. 
-#> 116.08 was found as high frequency PMD. 
-#> 122.15 was found as high frequency PMD. 
-#> 124.16 was found as high frequency PMD. 
-#> 126.14 was found as high frequency PMD.
+sda2 \<- getsda(std, corcutoff = 0.9)
+#\> PMD frequency cutoff is 6 by PMD network analysis with largest network average distance 6.67 .
+#\> 41 groups were found as high frequency PMD group.
+#\> 0 was found as high frequency PMD. 
+#\> 1.98 was found as high frequency PMD. 
+#\> 2.01 was found as high frequency PMD. 
+#\> 2.02 was found as high frequency PMD. 
+#\> 11.96 was found as high frequency PMD. 
+#\> 12 was found as high frequency PMD. 
+#\> 13.98 was found as high frequency PMD. 
+#\> 14.02 was found as high frequency PMD. 
+#\> 14.05 was found as high frequency PMD. 
+#\> 15.99 was found as high frequency PMD. 
+#\> 16.03 was found as high frequency PMD. 
+#\> 19.04 was found as high frequency PMD. 
+#\> 28.03 was found as high frequency PMD. 
+#\> 30.05 was found as high frequency PMD. 
+#\> 31.99 was found as high frequency PMD. 
+#\> 33.02 was found as high frequency PMD. 
+#\> 42.05 was found as high frequency PMD. 
+#\> 48.98 was found as high frequency PMD. 
+#\> 49.02 was found as high frequency PMD. 
+#\> 54.05 was found as high frequency PMD. 
+#\> 56.06 was found as high frequency PMD. 
+#\> 58.04 was found as high frequency PMD. 
+#\> 58.08 was found as high frequency PMD. 
+#\> 63.96 was found as high frequency PMD. 
+#\> 66.05 was found as high frequency PMD. 
+#\> 68.06 was found as high frequency PMD. 
+#\> 70.08 was found as high frequency PMD. 
+#\> 74.02 was found as high frequency PMD. 
+#\> 80.03 was found as high frequency PMD. 
+#\> 82.08 was found as high frequency PMD. 
+#\> 88.05 was found as high frequency PMD. 
+#\> 93.12 was found as high frequency PMD. 
+#\> 94.1 was found as high frequency PMD. 
+#\> 96.09 was found as high frequency PMD. 
+#\> 108.13 was found as high frequency PMD. 
+#\> 110.11 was found as high frequency PMD. 
+#\> 112.16 was found as high frequency PMD. 
+#\> 116.08 was found as high frequency PMD. 
+#\> 122.15 was found as high frequency PMD. 
+#\> 124.16 was found as high frequency PMD. 
+#\> 126.14 was found as high frequency PMD.
 plotstdsda(sda2)
 #block.raw("
 
@@ -489,9 +489,9 @@ When you only have data of peaks without retention time or compounds list, struc
 当您只有没有保留时间或化合物列表的峰数据时，也可以通过“getrda”功能进行结构/反应导向分析。
 
 #block.raw("
-sda <- getrda(spmeinvivo$mz[std$stdmassindex])
-#> 36668 pmd found.
-#> 3 pmd used.
+sda \<- getrda(spmeinvivo$mz[std$stdmassindex])
+#\> 36668 pmd found.
+#\> 3 pmd used.
 #block.raw("
 
 = Wrap function for GlobalStd algorithm GlobalStd算法的Wrap函数
@@ -501,19 +501,19 @@ sda <- getrda(spmeinvivo$mz[std$stdmassindex])
 `globalstd `函数是一个包装函数，用于在一行中处理globalstd算法和结构/反应导向分析。所有绘图函数都可以直接用于“globalstd”函数中的“list”对象。如果要执行结构/反应导向分析，请在“globalstd”函数中设置“sda=T”。
 
 #block.raw("
-result <- globalstd(spmeinvivo, sda=FALSE)
-#> 75 retention time cluster found.
-#> 369 paired masses found
-#> 5 unique within RT clusters high frequency PMD(s) used for further investigation.
-#> The unique within RT clusters high frequency PMD(s) is(are)  28.03 21.98 44.03 17.03 18.01.
-#> 719 isotopologue(s) related paired mass found.
-#> 492 multi-charger(s) related paired mass found.
-#> 8 retention group(s) have single peaks. 14 23 32 33 54 55 56 75
-#> 11 group(s) with multiple peaks while no isotope/paired relationship 4 5 7 8 11 41 42 49 68 72 73
-#> 9 group(s) with multiple peaks with isotope without paired relationship 2 9 22 26 52 62 64 66 70
-#> 4 group(s) with paired relationship without isotope 1 10 15 18
-#> 43 group(s) with paired relationship and isotope 3 6 12 13 16 17 19 20 21 24 25 27 28 29 30 31 34 35 36 37 38 39 40 43 44 45 46 47 48 50 51 53 57 58 59 60 61 63 65 67 69 71 74
-#> 291 std mass found.
+result \<- globalstd(spmeinvivo, sda=FALSE)
+#\> 75 retention time cluster found.
+#\> 369 paired masses found
+#\> 5 unique within RT clusters high frequency PMD(s) used for further investigation.
+#\> The unique within RT clusters high frequency PMD(s) is(are)  28.03 21.98 44.03 17.03 18.01.
+#\> 719 isotopologue(s) related paired mass found.
+#\> 492 multi-charger(s) related paired mass found.
+#\> 8 retention group(s) have single peaks. 14 23 32 33 54 55 56 75
+#\> 11 group(s) with multiple peaks while no isotope/paired relationship 4 5 7 8 11 41 42 49 68 72 73
+#\> 9 group(s) with multiple peaks with isotope without paired relationship 2 9 22 26 52 62 64 66 70
+#\> 4 group(s) with paired relationship without isotope 1 10 15 18
+#\> 43 group(s) with paired relationship and isotope 3 6 12 13 16 17 19 20 21 24 25 27 28 29 30 31 34 35 36 37 38 39 40 43 44 45 46 47 48 50 51 53 57 58 59 60 61 63 65 67 69 71 74
+#\> 291 std mass found.
 #block.raw("
 
 = Use independent peaks for MS/MS validation (PMDDA) 使用独立峰值进行MS/MS验证
@@ -524,50 +524,50 @@ Independent peaks are supposing generated from different compounds. We could use
 
 #block.raw("
 # you need retention time for independent peaks
-index <- gettarget(std$rt[std$stdmassindex])
-#> You need 10 injections!
+index \<- gettarget(std$rt[std$stdmassindex])
+#\> You need 10 injections!
 # output the ions for each injection
 table(index)
-#> index
-#>  1  2  3  4  5  6  7  8  9 10 
-#> 25 16 33 22 32 28 46 34 29 26
+#\> index
+#\>  1  2  3  4  5  6  7  8  9 10 
+#\> 25 16 33 22 32 28 46 34 29 26
 # show the ions for the first injection
 std$mz[index==1]
-#>   [1] 100.5107 112.0183 115.9640 118.0652 132.0779 137.0472 137.9885 149.9530
-#>   [9] 155.1293 155.1295 167.0709 170.0330 170.0932 174.9383 176.0305 181.9872
-#>  [17] 192.1380 195.1138 197.1285 198.1852 228.1973 236.9406 239.1490 245.1944
-#>  [25] 251.2385 261.2591 265.4216 267.1772 267.9535 270.3185 270.3185 270.3185
-#>  [33] 273.8902 277.1815 277.1896 286.3101 288.2546 291.0712 296.9066 301.1419
-#>  [41] 305.2480 309.2046 311.2560 313.1439 313.3297 337.3298 341.0180 341.3512
-#>  [49] 353.3603 358.2640 367.9923 372.3197 375.2147 376.3179 383.2052 385.2926
-#>  [57] 386.2783 394.8754 399.1231 399.3274 413.2660 416.0377 416.3062 420.3193
-#>  [65] 424.8970 429.3692 432.9177 440.8696 442.3373 444.3844 485.2901 494.8114
-#>  [73] 498.9017 514.8764 521.1371 538.1637 541.3942 543.1198 543.4015 556.4416
-#>  [81] 559.4247 560.2188 567.1783 568.8923 570.2830 593.1578 596.1559 598.8366
-#>  [89] 605.2231 608.8745 617.4657 630.7621 638.3081 640.1961 642.1942 680.4633
-#>  [97] 692.4941 695.5039 707.8415 711.3532 736.4916 744.8477 750.7856 752.5158
-#> [105] 764.5237 768.6393 771.6456 779.5153 786.8255 787.5110 808.6510 813.3338
-#> [113] 814.4154 826.6806 833.8251 840.3407 855.8153 864.3202 867.6960 868.4448
-#> [121] 911.7489 925.4477 929.8218 949.8072 970.7962 997.8091
+#\>   [1] 100.5107 112.0183 115.9640 118.0652 132.0779 137.0472 137.9885 149.9530
+#\>   [9] 155.1293 155.1295 167.0709 170.0330 170.0932 174.9383 176.0305 181.9872
+#\>  [17] 192.1380 195.1138 197.1285 198.1852 228.1973 236.9406 239.1490 245.1944
+#\>  [25] 251.2385 261.2591 265.4216 267.1772 267.9535 270.3185 270.3185 270.3185
+#\>  [33] 273.8902 277.1815 277.1896 286.3101 288.2546 291.0712 296.9066 301.1419
+#\>  [41] 305.2480 309.2046 311.2560 313.1439 313.3297 337.3298 341.0180 341.3512
+#\>  [49] 353.3603 358.2640 367.9923 372.3197 375.2147 376.3179 383.2052 385.2926
+#\>  [57] 386.2783 394.8754 399.1231 399.3274 413.2660 416.0377 416.3062 420.3193
+#\>  [65] 424.8970 429.3692 432.9177 440.8696 442.3373 444.3844 485.2901 494.8114
+#\>  [73] 498.9017 514.8764 521.1371 538.1637 541.3942 543.1198 543.4015 556.4416
+#\>  [81] 559.4247 560.2188 567.1783 568.8923 570.2830 593.1578 596.1559 598.8366
+#\>  [89] 605.2231 608.8745 617.4657 630.7621 638.3081 640.1961 642.1942 680.4633
+#\>  [97] 692.4941 695.5039 707.8415 711.3532 736.4916 744.8477 750.7856 752.5158
+#\> [105] 764.5237 768.6393 771.6456 779.5153 786.8255 787.5110 808.6510 813.3338
+#\> [113] 814.4154 826.6806 833.8251 840.3407 855.8153 864.3202 867.6960 868.4448
+#\> [121] 911.7489 925.4477 929.8218 949.8072 970.7962 997.8091
 std$rt[index==1]
-#>   [1]   86.3490   85.3860   85.0640  639.2070  212.6550  161.8250  727.2225
-#>   [8] 1079.6400  775.8610  785.8260  538.2950  215.0585  235.9920  216.1500
-#>  [15]  166.9580   48.8480  462.2210  169.9680  170.6010  612.2700  453.1570
-#>  [22]  147.8960  170.2755  615.0550  639.1010  639.1010  145.8285  416.1050
-#>  [29]  146.3950  895.9095  823.9060  802.2200  145.9680  588.6960  439.6780
-#>  [36]  895.6960  486.4080  161.3960  145.1090  583.7690  599.8400  600.9120
-#>  [43]  585.6975  581.3045  636.9560  595.1260  717.1835  639.3140  648.9580
-#>  [50]  480.8010  762.5750  659.8815  218.8600  594.6970  574.3400  561.2700
-#>  [57]  493.3975  217.1550  527.9020  582.4810  665.0290  762.5750  503.1510
-#>  [64]  687.8085  213.7130  613.1270  213.9420  214.8080  404.5340  582.4815
-#>  [71]  582.6970  870.6220  213.7270  215.7020  762.5770  762.7890  628.3425
-#>  [78]  762.7890  439.2500  546.9100  439.4630  170.0260  762.3630  213.7270
-#>  [85]  473.5890  819.4060  819.5150  216.9670  762.5750  213.9410  455.1500
-#>  [92]  145.1850  630.7000  818.9790  818.7645  468.4360  528.2230  698.3510
-#>  [99]  214.2010  215.2290  714.7460  214.3560  217.4155  522.4370  773.9350
-#> [106]  624.0560  613.5550  519.6690  215.4870  692.6730  628.5550  214.9295
-#> [113]  490.2940  628.4480  214.0170  213.3340  215.4970  639.2070  632.6270
-#> [120]  493.9370  650.4570  476.5790  213.3340  214.6300  213.9110  213.3590
+#\>   [1]   86.3490   85.3860   85.0640  639.2070  212.6550  161.8250  727.2225
+#\>   [8] 1079.6400  775.8610  785.8260  538.2950  215.0585  235.9920  216.1500
+#\>  [15]  166.9580   48.8480  462.2210  169.9680  170.6010  612.2700  453.1570
+#\>  [22]  147.8960  170.2755  615.0550  639.1010  639.1010  145.8285  416.1050
+#\>  [29]  146.3950  895.9095  823.9060  802.2200  145.9680  588.6960  439.6780
+#\>  [36]  895.6960  486.4080  161.3960  145.1090  583.7690  599.8400  600.9120
+#\>  [43]  585.6975  581.3045  636.9560  595.1260  717.1835  639.3140  648.9580
+#\>  [50]  480.8010  762.5750  659.8815  218.8600  594.6970  574.3400  561.2700
+#\>  [57]  493.3975  217.1550  527.9020  582.4810  665.0290  762.5750  503.1510
+#\>  [64]  687.8085  213.7130  613.1270  213.9420  214.8080  404.5340  582.4815
+#\>  [71]  582.6970  870.6220  213.7270  215.7020  762.5770  762.7890  628.3425
+#\>  [78]  762.7890  439.2500  546.9100  439.4630  170.0260  762.3630  213.7270
+#\>  [85]  473.5890  819.4060  819.5150  216.9670  762.5750  213.9410  455.1500
+#\>  [92]  145.1850  630.7000  818.9790  818.7645  468.4360  528.2230  698.3510
+#\>  [99]  214.2010  215.2290  714.7460  214.3560  217.4155  522.4370  773.9350
+#\> [106]  624.0560  613.5550  519.6690  215.4870  692.6730  628.5550  214.9295
+#\> [113]  490.2940  628.4480  214.0170  213.3340  215.4970  639.2070  632.6270
+#\> [120]  493.9370  650.4570  476.5790  213.3340  214.6300  213.9110  213.3590
 #block.raw("
 
 = Shiny application Shiny应用
@@ -590,4 +590,4 @@ Then you could run `runPMD()` to start the Graphical user interface(GUI) for G
 [^4]: 质谱信号强度
 [^5]: 黑试样
 [^6]:  DIA（data-independent acquisition，数据非依赖性采集）技术是近年来发展起来的一种新的质谱技术，属于非标记蛋白质组学方法。采用数据非依赖性扫描模式：将质谱整个全扫描范围分为若干个窗口，然后对每个窗口中的所有离子进行检测、碎裂，从而无遗漏、无差异地获得样本中所有离子的信息。从而降低样本检测的缺失值，同时提高定量准确性和重复性，实现大样本队列中高稳定，高准确的蛋白质组定量分析。 与DDA技术相比，DIA技术的优势包括：（1）采集所有的离子信息，实现更高的数据覆盖度；（2）减少采集的随机性，实现更高的检测重现性、稳定性；（3）采用碎片离子定量，定量精密度、准确性、线性范围大大提高。基于上述技术优势，DIA技术尤其适用于大规模样本的高度覆盖、稳定和可追溯地分析。
-[^7]: *DDA为数据依赖性采集方式*，选择一级质谱中特定数量的肽段分子（如信号强度最强的前10个离子）进行高能碰撞碎裂，产生的碎片离子送入二级质谱检测。
+[^7]: \DDA为数据依赖性采集方式\，选择一级质谱中特定数量的肽段分子（如信号强度最强的前10个离子）进行高能碰撞碎裂，产生的碎片离子送入二级质谱检测。
