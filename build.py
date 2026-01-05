@@ -436,7 +436,13 @@ def build_html(force: bool = False):
             inject_head_tags(html_output)
             success_count += 1
         else:
-            print(f"  [ERROR] {typ_file} 编译失败")
+            try:
+                print(f"  [ERROR] {typ_file} 编译失败")
+            except (UnicodeEncodeError, AttributeError):
+                try:
+                    print(f"  [ERROR] {str(typ_file).encode('utf-8', errors='ignore').decode('utf-8')} 编译失败")
+                except:
+                    print(f"  [ERROR] (file name encoding error) 编译失败")
             fail_count += 1
 
     status_parts = []
