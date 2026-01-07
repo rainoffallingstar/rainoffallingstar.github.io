@@ -367,9 +367,39 @@ def should_include_article(article):
 # =============================================================================
 
 
+def save_daily_articles(date_str, articles):
+    """
+    保存当天所有文章到每日数据库
+
+    Args:
+        date_str: 日期字符串 (YYYY-MM-DD)
+        articles: 文章列表
+    """
+    daily_db_path = CONTENT_DIR / f".zhuimi_daily_{date_str}.json"
+    with open(daily_db_path, "w", encoding="utf-8") as f:
+        json.dump(articles, f, ensure_ascii=False, indent=2)
+
+
+def load_daily_articles(date_str):
+    """
+    加载当天所有文章
+
+    Args:
+        date_str: 日期字符串 (YYYY-MM-DD)
+
+    Returns:
+        list: 当天的文章列表，如果数据库不存在返回空列表
+    """
+    daily_db_path = CONTENT_DIR / f".zhuimi_daily_{date_str}.json"
+    if daily_db_path.exists():
+        with open(daily_db_path, encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+
 def load_existing_articles(date_str):
     """
-    加载当天已存在的文章
+    加载当天已存在的文章（已废弃，使用 load_daily_articles 代替）
 
     Args:
         date_str: 日期字符串 (YYYY-MM-DD)
@@ -377,14 +407,8 @@ def load_existing_articles(date_str):
     Returns:
         list: 已存在的文章列表，如果文件不存在返回空列表
     """
-    report_path = CONTENT_DIR / date_str / "index.typ"
-    if not report_path.exists():
-        return []
-
-    # 从现有报告中提取文章ID
-    # 简单实现：返回空列表，让去重数据库来处理
-    # 更复杂的实现可以解析Typst文件提取已有文章
-    return []
+    # 直接使用新的每日数据库函数
+    return load_daily_articles(date_str)
 
 
 def generate_daily_report(date_str, scored_articles, append_mode=False):
@@ -581,12 +605,26 @@ def main():
     today = datetime.now().strftime("%Y-%m-%d")
     today_report_path = CONTENT_DIR / today / "index.typ"
 
-    # 检查当天报告是否已存在
+    # 检查当天报告是否已存在，加载已有文章
     append_mode = today_report_path.exists()
     if append_mode:
         print(f"  [INFO] 检测到当天报告已存在，启用追加模式")
+        # 加载当天已有文章
+        existing_articles = load_daily_articles(today)
+        # 合并文章（通过链接去重，新文章覆盖旧文章）
+        seen = {a["link"]: a for a in existing_articles}
+        for article in filtered_articles:
+            seen[article["link"]] = article
+        all_articles = list(seen.values())
+        print(f"  [INFO] 合并后共 {len(all_articles)} 篇文章")
+    else:
+        all_articles = filtered_articles
 
-    generate_daily_report(today, filtered_articles, append_mode=append_mode)
+    # 保存每日数据库
+    save_daily_articles(today, all_articles)
+
+    # 生成报告
+    generate_daily_report(today, all_articles, append_mode=False)
 
     # 更新索引
     print("\n[STEP 8] 更新索引页面...")
