@@ -169,10 +169,37 @@ def fetch_articles(feed_urls, days=1, max_articles=50):
 # =============================================================================
 
 
-def get_article_id(title, link):
-    """生成文章唯一ID"""
-    content = f"{title}{link}"
-    return hashlib.md5(content.encode("utf-8")).hexdigest()
+def get_article_id(article):
+    """
+    生成文章唯一ID，优先使用 DOI
+
+    Args:
+        article: 文章字典，包含 title, link, doi 等字段
+
+    Returns:
+        str: 文章唯一ID
+    """
+    # 优先使用 DOI（最稳定的唯一标识）
+    doi = article.get("doi")
+    if doi:
+        return f"doi:{doi}"
+
+    # 其次使用链接（去除查询参数，避免 URL 参数变化）
+    link = article.get("link", "")
+    if link:
+        # 去除 URL 中的查询参数和片段
+        link = link.split("?")[0].split("#")[0]
+        return f"link:{hashlib.md5(link.encode('utf-8')).hexdigest()}"
+
+    # 最后才使用标题（最不稳定）
+    title = article.get("title", "").strip()
+    if title:
+        # 标题规范化：转小写，去除特殊字符
+        title_normalized = re.sub(r"[^\w\s]", "", title.lower().strip())
+        return f"title:{hashlib.md5(title_normalized.encode('utf-8')).hexdigest()}"
+
+    # 如果都没有，使用一个基于时间戳的 ID
+    return f"unknown:{datetime.now(timezone.utc).isoformat()}"
 
 
 def load_analyzed_articles():
@@ -502,9 +529,7 @@ def main():
 
     # 过滤已分析文章
     print("\n[STEP 4] 过滤已分析文章...")
-    new_articles = [
-        a for a in articles if get_article_id(a["title"], a["link"]) not in analyzed_ids
-    ]
+    new_articles = [a for a in articles if get_article_id(a) not in analyzed_ids]
     print(f"  [INFO] 新文章数: {len(new_articles)}")
 
     if not new_articles:
@@ -527,7 +552,7 @@ def main():
     for article in tqdm(new_articles, desc="  AI评分进度"):
         scores, reason = score_article(article, client, model)
         scored_articles.append({**article, "scores": scores, "reason": reason})
-        analyzed_ids.add(get_article_id(article["title"], article["link"]))
+        analyzed_ids.add(get_article_id(article))
 
     # 立即保存去重数据库（避免中途退出导致丢失）
     print(f"  [INFO] 保存去重数据库...")
