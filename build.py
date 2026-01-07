@@ -172,7 +172,11 @@ def find_typ_dependencies(typ_file: Path) -> Set[Path]:
             # 规范化路径，只追踪 .typ 文件
             try:
                 dep_path = dep_path.resolve()
-                if dep_path.exists() and dep_path.suffix == ".typ" and is_dep_file(dep_path):
+                if (
+                    dep_path.exists()
+                    and dep_path.suffix == ".typ"
+                    and is_dep_file(dep_path)
+                ):
                     dependencies.add(dep_path)
             except Exception:
                 pass
@@ -180,7 +184,9 @@ def find_typ_dependencies(typ_file: Path) -> Set[Path]:
     return dependencies
 
 
-def get_all_dependencies(typ_file: Path, visited: Optional[Set[Path]] = None) -> Set[Path]:
+def get_all_dependencies(
+    typ_file: Path, visited: Optional[Set[Path]] = None
+) -> Set[Path]:
     """
     递归获取 .typ 文件的所有依赖（包括传递依赖）。
 
@@ -212,7 +218,9 @@ def get_all_dependencies(typ_file: Path, visited: Optional[Set[Path]] = None) ->
     return all_deps
 
 
-def needs_rebuild(source: Path, target: Path, extra_deps: Optional[List[Path]] = None) -> bool:
+def needs_rebuild(
+    source: Path, target: Path, extra_deps: Optional[List[Path]] = None
+) -> bool:
     """
     判断是否需要重新构建。
 
@@ -362,13 +370,17 @@ def run_typst_command(args: List[str]) -> bool:
         bool: 命令是否成功执行
     """
     try:
-        result = subprocess.run(["typst"] + args, capture_output=True, text=True, encoding="utf-8")
+        result = subprocess.run(
+            ["typst"] + args, capture_output=True, text=True, encoding="utf-8"
+        )
         if result.returncode != 0:
             print(f"  [ERROR] Typst error: {result.stderr.strip()}")
             return False
         return True
     except FileNotFoundError:
-        print("  [ERROR] 错误: 未找到 typst 命令。请确保已安装 Typst 并添加到 PATH 环境变量中。")
+        print(
+            "  [ERROR] 错误: 未找到 typst 命令。请确保已安装 Typst 并添加到 PATH 环境变量中。"
+        )
         print("  [INFO] 安装说明: https://typst.app/open-source/#download")
         return False
     except Exception as e:
@@ -440,7 +452,9 @@ def build_html(force: bool = False):
                 print(f"  [ERROR] {typ_file} 编译失败")
             except (UnicodeEncodeError, AttributeError):
                 try:
-                    print(f"  [ERROR] {str(typ_file).encode('utf-8', errors='ignore').decode('utf-8')} 编译失败")
+                    print(
+                        f"  [ERROR] {str(typ_file).encode('utf-8', errors='ignore').decode('utf-8')} 编译失败"
+                    )
                 except:
                     print(f"  [ERROR] (file name encoding error) 编译失败")
             fail_count += 1
@@ -491,7 +505,15 @@ def build_pdf(force: bool = False):
         pdf_output.parent.mkdir(parents=True, exist_ok=True)
 
         # 编译 PDF
-        args = ["compile", "--root", ".", "--font-path", str(ASSETS_DIR), str(typ_file), str(pdf_output)]
+        args = [
+            "compile",
+            "--root",
+            ".",
+            "--font-path",
+            str(ASSETS_DIR),
+            str(typ_file),
+            str(pdf_output),
+        ]
 
         if run_typst_command(args):
             success_count += 1
@@ -651,7 +673,14 @@ def preview(port: int = 8000, open_browser_flag: bool = True) -> bool:
     try:
         print("使用 Python 内置 http.server...")
         result = subprocess.run(
-            [sys.executable, "-m", "http.server", str(port), "--directory", str(SITE_DIR)],
+            [
+                sys.executable,
+                "-m",
+                "http.server",
+                str(port),
+                "--directory",
+                str(SITE_DIR),
+            ],
             check=False,
         )
         return result.returncode == 0
@@ -690,6 +719,9 @@ def build(force: bool = False):
     results.append(copy_assets())
     results.append(copy_content_assets(force))
 
+    # 更新追觅索引页面
+    update_zhuimi_index()
+
     print("-" * 60)
     if all(results):
         print("[OK] 所有构建任务完成！")
@@ -699,6 +731,55 @@ def build(force: bool = False):
     print("-" * 60)
 
     return all(results)
+
+
+# ============================================================================
+# 追觅索引更新
+# ============================================================================
+
+
+def update_zhuimi_index():
+    """
+    更新追觅页面的索引。
+
+    扫描 content/ZhuiMi/ 目录下的所有日报，更新 index.typ 文件。
+    """
+    zhuimi_dir = CONTENT_DIR / "ZhuiMi"
+    if not zhuimi_dir.exists():
+        return
+
+    # 查找所有日报目录
+    report_dirs = sorted(
+        [d for d in zhuimi_dir.iterdir() if d.is_dir() and (d / "index.typ").exists()],
+        reverse=True,
+    )
+
+    if not report_dirs:
+        return
+
+    # 生成索引内容
+    content_lines = [
+        '#import "../../config.typ": template, tufted',
+        '#show: template.with(title: "追觅")',
+        "",
+        "= 追觅",
+        "",
+        "每日文献追踪与AI评分报告。",
+        "",
+        "== 历史报告",
+        "",
+    ]
+
+    for report_dir in report_dirs:
+        date_str = report_dir.name
+        content_lines.append(f'- #link("/ZhuiMi/{date_str}/")[{date_str}]')
+
+    # 写入索引文件
+    index_file = zhuimi_dir / "index.typ"
+    with open(index_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(content_lines))
+
+    print(f"[OK] 追觅索引已更新: {len(report_dirs)} 个报告")
 
 
 # ============================================================================
@@ -727,7 +808,9 @@ def create_parser():
 """,
     )
 
-    subparsers = parser.add_subparsers(dest="command", title="可用命令", metavar="<command>")
+    subparsers = parser.add_subparsers(
+        dest="command", title="可用命令", metavar="<command>"
+    )
 
     build_parser = subparsers.add_parser("build", help="完整构建 (HTML + PDF + 资源)")
     build_parser.add_argument("-f", "--force", action="store_true", help="强制完整重建")
@@ -771,11 +854,20 @@ if __name__ == "__main__":
     # 执行对应的命令
     commands = {
         "build": lambda: build(force),
-        "html": lambda: (SITE_DIR.mkdir(parents=True, exist_ok=True), build_html(force))[1],
-        "pdf": lambda: (SITE_DIR.mkdir(parents=True, exist_ok=True), build_pdf(force))[1],
-        "assets": lambda: (SITE_DIR.mkdir(parents=True, exist_ok=True), copy_assets())[1],
+        "html": lambda: (
+            SITE_DIR.mkdir(parents=True, exist_ok=True),
+            build_html(force),
+        )[1],
+        "pdf": lambda: (SITE_DIR.mkdir(parents=True, exist_ok=True), build_pdf(force))[
+            1
+        ],
+        "assets": lambda: (SITE_DIR.mkdir(parents=True, exist_ok=True), copy_assets())[
+            1
+        ],
         "clean": clean,
-        "preview": lambda: preview(getattr(args, "port", 8000), getattr(args, "open_browser", True)),
+        "preview": lambda: preview(
+            getattr(args, "port", 8000), getattr(args, "open_browser", True)
+        ),
     }
 
     success = commands[args.command]()

@@ -1,0 +1,34 @@
+# 追觅 - 文献追踪配置文件
+
+# RSS抓取配置
+rss:
+  days_window: 3 # 抓取最近几天的文章
+  max_feeds: 100 # 最多使用的RSS源数量
+
+# AI评分配置
+ai:
+  model: "deepseek-ai/DeepSeek-V3.2-thinking" # 默认模型
+  max_tokens: 150000
+  temperature: 1
+  timeout_seconds: 120
+
+# 评分维度说明
+dimensions:
+  - name: "Research"
+    description: "Innovation, methodological rigor, data reliability"
+  - name: "Social"
+    description: "Public attention, policy relevance"
+  - name: "Blood"
+    description: "Relevance to hematological diseases, including applicability and reference value for hematology research (可借鉴性)"
+  - name: "Recommendation"
+    description: "Overall recommendation for reading"
+
+# 报告配置
+report:
+  sort_by: "recommendation" # 按推荐度排序 (research/social/blood/recommendation)
+  max_articles: 200 # 每日最多分析文章数
+
+# 输出配置
+output:
+  content_dir: "content/ZhuiMi"
+  analyzed_db: "scripts/.zhuimi_analyzed.json"
