@@ -14,6 +14,7 @@ from pathlib import Path
 import feedparser
 import yaml
 from openai import OpenAI
+from tqdm import tqdm
 
 # =============================================================================
 # 配置
@@ -523,12 +524,7 @@ def main():
     model = os.getenv("OPENAI_MODEL", config.get("ai", {}).get("model", "gpt-4o-mini"))
 
     scored_articles = []
-    for i, article in enumerate(new_articles, 1):
-        # 安全地打印标题，避免编码问题
-        title_safe = (
-            article["title"][:50].encode("ascii", "ignore").decode("ascii", "ignore")
-        )
-        print(f"  [{i}/{len(new_articles)}] {title_safe}...")
+    for article in tqdm(new_articles, desc="  AI评分进度"):
         scores, reason = score_article(article, client, model)
         scored_articles.append({**article, "scores": scores, "reason": reason})
         analyzed_ids.add(get_article_id(article["title"], article["link"]))

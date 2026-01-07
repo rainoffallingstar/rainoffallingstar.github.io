@@ -2,7 +2,12 @@ name: Deploy Tufted Blog
 
 on:
   push:
-    branches: [ githubversion ]
+    branches: [githubversion]
+    paths:
+      - "content/**"
+      - "assets/**"
+      - "config.typ"
+      - "build.py"
   workflow_dispatch:
 
 permissions:
@@ -22,7 +27,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Build site
         run: |
