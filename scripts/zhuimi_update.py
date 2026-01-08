@@ -557,9 +557,28 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         abstract = article.get("abstract", "")[:1000]  # 限制摘要长度
 
         # 转义内容，处理Typst特殊字符
-        abstract_text = abstract.replace("#", "\\#")
+        # 需要转义的字符：# < > [ ] ( ) 等
+        abstract_text = (
+            abstract.replace("#", "\\#")
+            .replace("<", "\\<")
+            .replace(">", "\\>")
+            .replace("[", "\\[")
+            .replace("]", "\\]")
+            .replace("(", "\\(")
+            .replace(")", "\\)")
+        )
         reason = article.get("reason", "")
-        reason_text = reason.replace("#", "\\#") if reason else ""
+        reason_text = (
+            reason.replace("#", "\\#")
+            .replace("<", "\\<")
+            .replace(">", "\\>")
+            .replace("[", "\\[")
+            .replace("]", "\\]")
+            .replace("(", "\\(")
+            .replace(")", "\\)")
+            if reason
+            else ""
+        )
 
         content += f'''
 == #{i}. {title}
