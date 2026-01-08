@@ -433,7 +433,18 @@ def rebuild_daily_db_from_report(date_str):
             # 提取标题 (第一行)
             lines = block.strip().split("\n")
             if lines:
-                article["title"] = lines[0].strip()
+                # 反转义所有Typst特殊字符
+                title_text = lines[0].strip()
+                article["title"] = (
+                    title_text.replace("\\@", "@")
+                    .replace("\\#", "#")
+                    .replace("\\<", "<")
+                    .replace("\\>", ">")
+                    .replace("\\[", "[")
+                    .replace("\\]", "]")
+                    .replace("\\(", "(")
+                    .replace("\\)", ")")
+                )
 
             # 提取评分
             scores = {}
@@ -467,15 +478,35 @@ def rebuild_daily_db_from_report(date_str):
                 r"推荐理由: (.+?)(?:\n\n|\n摘要:)", block, re.DOTALL
             )
             if reason_match:
-                article["reason"] = reason_match.group(1).strip().replace("\\#", "#")
+                # 反转义所有Typst特殊字符
+                reason_text = reason_match.group(1).strip()
+                article["reason"] = (
+                    reason_text.replace("\\@", "@")
+                    .replace("\\#", "#")
+                    .replace("\\<", "<")
+                    .replace("\\>", ">")
+                    .replace("\\[", "[")
+                    .replace("\\]", "]")
+                    .replace("\\(", "(")
+                    .replace("\\)", ")")
+                )
 
             # 提取摘要
             abstract_match = re.search(
                 r"摘要: (.+?)(?:\n\n---|\n---)", block, re.DOTALL
             )
             if abstract_match:
+                # 反转义所有Typst特殊字符
+                abstract_text = abstract_match.group(1).strip()
                 article["abstract"] = (
-                    abstract_match.group(1).strip().replace("\\#", "#")
+                    abstract_text.replace("\\@", "@")
+                    .replace("\\#", "#")
+                    .replace("\\<", "<")
+                    .replace("\\>", ">")
+                    .replace("\\[", "[")
+                    .replace("\\]", "]")
+                    .replace("\\(", "(")
+                    .replace("\\)", ")")
                 )
 
             # pub_date 无法从报告中恢复，设为 None
@@ -556,11 +587,12 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         link = article["link"]
         abstract = article.get("abstract", "")[:1000]  # 限制摘要长度
 
-        # 转义内容，处理Typst特殊字符
-        # 需要转义的字符：# < > [ ] ( ) 等
+        # 转义内容，处理Typst特殊字符和HTML标签
+        # 需要转义的字符：# < > [ ] ( ) @ 等
         # 标题转义
         title_escaped = (
-            title.replace("#", "\\#")
+            title.replace("@", "\\@")
+            .replace("#", "\\#")
             .replace("<", "\\<")
             .replace(">", "\\>")
             .replace("[", "\\[")
@@ -570,7 +602,8 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         )
         # 摘要转义
         abstract_text = (
-            abstract.replace("#", "\\#")
+            abstract.replace("@", "\\@")
+            .replace("#", "\\#")
             .replace("<", "\\<")
             .replace(">", "\\>")
             .replace("[", "\\[")
@@ -581,7 +614,8 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         # 推荐理由转义
         reason = article.get("reason", "")
         reason_text = (
-            reason.replace("#", "\\#")
+            reason.replace("@", "\\@")
+            .replace("#", "\\#")
             .replace("<", "\\<")
             .replace(">", "\\>")
             .replace("[", "\\[")

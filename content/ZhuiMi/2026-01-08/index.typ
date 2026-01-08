@@ -3,7 +3,7 @@
 
 = 追觅 - 2026-01-08
 
-生成时间: #2026-01-08 07:01
+生成时间: #2026-01-08 15:32
 
 分析文章数量: #147
 
@@ -19,7 +19,7 @@
 
 推荐理由: 该研究基于多中心大样本的回顾性数据，全面更新了侵袭性NK细胞白血病的临床特征，为这一罕见血液病的诊断和治疗提供了重要的当代参考依据。
 
-摘要: Aggressive NK-cell leukemia \(ANKL\) is a rare NK-cell leukemia characterized by, an aggressive clinical course, and frequent Epstein-Barr virus association. We retrospectively collected 126 ANKL patients diagnosed between 2000 and 2021 from 71 institutes; 108 were evaluable for analysis to characterize the recent advances. The median age was 49 years \(range: 17-90\), and 63 patients were male. The median percentage of leukemic cells in the bone marrow and peripheral blood was 19.7% and 10.0%,...
+摘要: Aggressive NK-cell leukemia (ANKL) is a rare NK-cell leukemia characterized by, an aggressive clinical course, and frequent Epstein-Barr virus association. We retrospectively collected 126 ANKL patients diagnosed between 2000 and 2021 from 71 institutes; 108 were evaluable for analysis to characterize the recent advances. The median age was 49 years (range: 17-90), and 63 patients were male. The median percentage of leukemic cells in the bone marrow and peripheral blood was 19.7% and 10.0%,...
 
 ---
 
@@ -51,7 +51,7 @@
 
 推荐理由: 该文章聚焦ABO血型不相容移植中的抗体清除难题，提出了对现有广泛B细胞清除疗法的批判性思考，并指向靶向治疗新方向，对血液免疫学及输血相关移植研究具有直接借鉴价值。
 
-摘要: Organ transplantation is a pivotal treatment for patients with organ failure. ABO-incompatible \(ABOi\) transplantation, developed to expand the donor pool, presents significant clinical challenges due to pre-existing antibodies targeting ABO antigens on donor organs. Current therapies employing broad B-cell depletion, such as rituximab, effectively reduce antibody-mediated rejection but increase infection risks. Therefore, there is a critical need of targeted methods to specifically eliminate...
+摘要: Organ transplantation is a pivotal treatment for patients with organ failure. ABO-incompatible (ABOi) transplantation, developed to expand the donor pool, presents significant clinical challenges due to pre-existing antibodies targeting ABO antigens on donor organs. Current therapies employing broad B-cell depletion, such as rituximab, effectively reduce antibody-mediated rejection but increase infection risks. Therefore, there is a critical need of targeted methods to specifically eliminate...
 
 ---
 
@@ -67,7 +67,7 @@
 
 推荐理由: 该研究聚焦高危骨髓增生异常综合征的代谢脆弱性，为克服当前去甲基化药物疗效不足提供了创新方向，对血液肿瘤的机制研究与临床治疗具有重要借鉴价值。
 
-摘要: High-risk myelodysplastic syndrome \(HR-MDS\) is a malignant clonal disorder originating in hematopoietic stem and progenitor cells \(HSPCs\). The current standard of care for HR-MDS patients is hypomethylating agents; however, the response rate is poor. There is thus a need to explore vulnerabilities of HR-MDS HSPCs for better clinical outcomes. We demonstrate that HR-MDS HSPCs have significant upregulation of metabolic proteins required for glycolysis, citric acid cycle, and oxidative...
+摘要: High-risk myelodysplastic syndrome (HR-MDS) is a malignant clonal disorder originating in hematopoietic stem and progenitor cells (HSPCs). The current standard of care for HR-MDS patients is hypomethylating agents; however, the response rate is poor. There is thus a need to explore vulnerabilities of HR-MDS HSPCs for better clinical outcomes. We demonstrate that HR-MDS HSPCs have significant upregulation of metabolic proteins required for glycolysis, citric acid cycle, and oxidative...
 
 ---
 
@@ -83,7 +83,7 @@
 
 推荐理由: 该研究从免疫细胞层面深入比较了BNCT与常规放疗的效应，为理解放疗的免疫调节机制提供了新视角，对血液肿瘤的放疗优化和免疫联合治疗具有直接借鉴价值。
 
-摘要: Radiotherapy can both activate and suppress immunity, making it difficult to predict or modulate these opposing effects for better cancer treatment. Boron neutron capture therapy \(BNCT\), a cellular-level radiotherapy, has demonstrated remarkable therapeutic efficacy in clinical practice, but mechanistically remains inadequately explored. Here, we compare the effects of BNCT with X-ray irradiation at equivalent radiation doses on immune cells and define the immunological mechanisms behind the...
+摘要: Radiotherapy can both activate and suppress immunity, making it difficult to predict or modulate these opposing effects for better cancer treatment. Boron neutron capture therapy (BNCT), a cellular-level radiotherapy, has demonstrated remarkable therapeutic efficacy in clinical practice, but mechanistically remains inadequately explored. Here, we compare the effects of BNCT with X-ray irradiation at equivalent radiation doses on immune cells and define the immunological mechanisms behind the...
 
 ---
 
@@ -99,7 +99,7 @@
 
 推荐理由: 该研究基于大规模回顾性队列数据，为乙肝疫苗接种策略（尤其是青少年加强针必要性）提供了重要循证依据，对公共卫生决策具有直接参考价值，且乙肝病毒感染与部分血液系统疾病（如淋巴瘤、再生障碍性贫血等）相关，其结论对血液科临床实践有一定借鉴意义。
 
-摘要: Whether a booster dose of hepatitis B vaccine is necessary for adolescents remains controversial. We conducted a retrospective cohort study from the Immunization Information System and The National Notifiable Disease Reporting System to evaluate the impact of hepatitis B virus \(HBV\) vaccination programs \(universal infant hepatitis B immunization and adolescent booster\) on HBV infection. The vaccine effectiveness \(VE\) of hepatitis B vaccine is 64.43% \(95% CI 57.78% - 71.08%\) within 10 years of...
+摘要: Whether a booster dose of hepatitis B vaccine is necessary for adolescents remains controversial. We conducted a retrospective cohort study from the Immunization Information System and The National Notifiable Disease Reporting System to evaluate the impact of hepatitis B virus (HBV) vaccination programs (universal infant hepatitis B immunization and adolescent booster) on HBV infection. The vaccine effectiveness (VE) of hepatitis B vaccine is 64.43% (95% CI 57.78% - 71.08%) within 10 years of...
 
 ---
 
@@ -115,7 +115,7 @@
 
 推荐理由: 该研究针对尚无批准疗法的拉沙热，展示了一种新型口服核苷类似物的治疗潜力，其针对出血热病毒引起的血液学病理机制具有直接参考价值，为病毒性出血热及相关血液紊乱的治疗研究提供了重要思路。
 
-摘要: There are no approved treatments for Lassa fever, which is estimated to cause 100,000 to 300,000 infections and 5,000 deaths annually in West Africa^\(1,2\). Recently, it was shown that 4'-fluorouridine \(also known as EIDD-2749\), an orally available ribonucleoside analogue, protected guinea pigs from lethal challenge with the lineage IV prototype Josiah strain of Lassa virus when treatment was delayed beyond the onset of clinical signs of disease³. Here we assessed the therapeutic efficacy of...
+摘要: There are no approved treatments for Lassa fever, which is estimated to cause 100,000 to 300,000 infections and 5,000 deaths annually in West Africa^(1,2). Recently, it was shown that 4'-fluorouridine (also known as EIDD-2749), an orally available ribonucleoside analogue, protected guinea pigs from lethal challenge with the lineage IV prototype Josiah strain of Lassa virus when treatment was delayed beyond the onset of clinical signs of disease³. Here we assessed the therapeutic efficacy of...
 
 ---
 
@@ -131,7 +131,7 @@
 
 推荐理由: 该研究提出的MINT模型针对蛋白质相互作用（PPI）进行专门建模，弥补了传统蛋白质语言模型的不足，对解析血液疾病中异常蛋白互作机制具有直接方法论借鉴价值。
 
-摘要: Protein Language Models \(PLMs\) trained on large databases of protein sequences have proven effective in modeling protein biology across a wide range of applications. However, while PLMs excel at capturing individual protein properties, they face challenges in natively representing protein-protein interactions \(PPIs\), which are crucial to understanding cellular processes and disease mechanisms. Here, we introduce MINT, a PLM specifically designed to model sets of interacting proteins in a...
+摘要: Protein Language Models (PLMs) trained on large databases of protein sequences have proven effective in modeling protein biology across a wide range of applications. However, while PLMs excel at capturing individual protein properties, they face challenges in natively representing protein-protein interactions (PPIs), which are crucial to understanding cellular processes and disease mechanisms. Here, we introduce MINT, a PLM specifically designed to model sets of interacting proteins in a...
 
 ---
 
@@ -147,7 +147,7 @@
 
 推荐理由: 该文章从历史病例出发，聚焦血管性血友病对女性健康的长期影响，兼具历史回顾与临床现实意义，对血液科医生在妇科相关出血管理方面有重要借鉴价值。
 
-摘要: Among the first patients with von Willebrand disease \(VWD\) described by Eric von Willebrand almost a century ago were young girls and women from a family in the Åland Islands who experienced "genital hemorrhage" so excessive that it led to exsanguination in five members.1 Only recently has attention focused on the risks and challenges that females with VWD face when experiencing heavy menstrual bleeding, conception, pregnancy, and delivery. The persistent monthly losses with heavy menstrual...
+摘要: Among the first patients with von Willebrand disease (VWD) described by Eric von Willebrand almost a century ago were young girls and women from a family in the Åland Islands who experienced "genital hemorrhage" so excessive that it led to exsanguination in five members.1 Only recently has attention focused on the risks and challenges that females with VWD face when experiencing heavy menstrual bleeding, conception, pregnancy, and delivery. The persistent monthly losses with heavy menstrual...
 
 ---
 
@@ -163,7 +163,7 @@
 
 推荐理由: 该综述系统梳理了血管性血友病的治疗进展，既总结了历史经验又展望了未来方向，对于血液科医生全面把握该病的临床管理策略具有很高的参考价值。
 
-摘要: Von Willebrand disease \(VWD\) is a heterogeneous group of defects characterized by a spectrum of bleeding symptoms ranging from mild to severe, which remain difficult to identify and assess quantitatively. Despite significant advances in our understanding of the pathophysiology of the disease, diagnosis and management remain challenging. This review examines the therapeutic landscape for VWD, discussing historical treatments, recent advancements and prospects. Decades of clinical evidence...
+摘要: Von Willebrand disease (VWD) is a heterogeneous group of defects characterized by a spectrum of bleeding symptoms ranging from mild to severe, which remain difficult to identify and assess quantitatively. Despite significant advances in our understanding of the pathophysiology of the disease, diagnosis and management remain challenging. This review examines the therapeutic landscape for VWD, discussing historical treatments, recent advancements and prospects. Decades of clinical evidence...
 
 ---
 
@@ -179,7 +179,7 @@
 
 推荐理由: 该摘要清晰概括了血管性血友病（VWD）的病理机制、诊断标准和分类，对血液科临床诊断和基础研究具有直接的参考价值，尤其适合作为该疾病的知识更新与教学材料。
 
-摘要: Von Willebrand disease \(VWD\) is a highly heterogeneous inherited bleeding disorder caused by reduced levels or activity of von Willebrand factor \(VWF\). VWD is associated with a wide spectrum of clinical and laboratory phenotypes, but diagnosis is based on three main criteria: a positive bleeding history, low levels of circulating VWF and autosomal inheritance patterns. VWD is classified into quantitative VWF deficiencies \(type 1, partial and type 3, almost total\) and peculiar qualitative defects...
+摘要: Von Willebrand disease (VWD) is a highly heterogeneous inherited bleeding disorder caused by reduced levels or activity of von Willebrand factor (VWF). VWD is associated with a wide spectrum of clinical and laboratory phenotypes, but diagnosis is based on three main criteria: a positive bleeding history, low levels of circulating VWF and autosomal inheritance patterns. VWD is classified into quantitative VWF deficiencies (type 1, partial and type 3, almost total) and peculiar qualitative defects...
 
 ---
 
@@ -195,7 +195,7 @@
 
 推荐理由: 该研究聚焦蛋白酶底物筛选这一基础问题，其方法创新对理解凝血相关蛋白酶机制具有直接借鉴价值，尤其可为出血性及血栓性疾病的诊断与治疗研究提供新思路。
 
-摘要: Proteases, enzymes that play critical roles in health and disease, exert their function through the cleavage of peptide bonds. Identifying substrates that are efficiently and selectively cleaved by target proteases is essential for studying protease activity and for harnessing it in protease-activated diagnostics and therapeutics. However, the vast design space of possible substrates \(c.a. 20^\(10\) amino acid combinations for a 10-mer peptide\) and the limited accessibility of high-throughput...
+摘要: Proteases, enzymes that play critical roles in health and disease, exert their function through the cleavage of peptide bonds. Identifying substrates that are efficiently and selectively cleaved by target proteases is essential for studying protease activity and for harnessing it in protease-activated diagnostics and therapeutics. However, the vast design space of possible substrates (c.a. 20^(10) amino acid combinations for a 10-mer peptide) and the limited accessibility of high-throughput...
 
 ---
 
@@ -211,7 +211,7 @@
 
 推荐理由: 该研究揭示了肥大细胞中Sirt6在肥胖相关代谢紊乱中的新机制，为造血来源的免疫细胞在系统代谢调控中的作用提供了重要借鉴，对血液免疫学研究具有直接参考价值。
 
-摘要: Mast cells \(MCs\) play a key role in obesity and insulin resistance, though the mechanisms driving adipose dysfunction remain unclear. We find that Sirt6 expression in MCs decreases with obesity in both male mice and humans. Selective depletion of Sirt6 in MCs worsens inflammation, fibrosis, and metabolic dysfunction in diet-induced obesity. Adoptive transfer of MC-deficient KitW-sh/W-sh mice with Sirt6-deficient MCs leads to greater weight gain on a high-fat diet compared to transfer with...
+摘要: Mast cells (MCs) play a key role in obesity and insulin resistance, though the mechanisms driving adipose dysfunction remain unclear. We find that Sirt6 expression in MCs decreases with obesity in both male mice and humans. Selective depletion of Sirt6 in MCs worsens inflammation, fibrosis, and metabolic dysfunction in diet-induced obesity. Adoptive transfer of MC-deficient KitW-sh/W-sh mice with Sirt6-deficient MCs leads to greater weight gain on a high-fat diet compared to transfer with...
 
 ---
 
@@ -227,7 +227,7 @@
 
 推荐理由: 该研究提出的多维分析平台能有效筛选高效抗病毒T细胞，对造血干细胞移植后病毒感染的防治具有直接参考价值，为血液科临床治疗提供了新方法。
 
-摘要: Allogeneic virus-specific T cell \(VST\) therapies offer distinct advantages, including scalability, rapid deployment, and manufacturing consistency, and have demonstrated efficacy in multiple clinical trials. However, identifying VST products with high therapeutic potential remains a major hurdle. Here, we present a multidimensional analytical platform that integrates in vitro and in vivo anti-viral reactivity, T cell receptor \(TCR\) repertoire analysis, gene expression profiling,...
+摘要: Allogeneic virus-specific T cell (VST) therapies offer distinct advantages, including scalability, rapid deployment, and manufacturing consistency, and have demonstrated efficacy in multiple clinical trials. However, identifying VST products with high therapeutic potential remains a major hurdle. Here, we present a multidimensional analytical platform that integrates in vitro and in vivo anti-viral reactivity, T cell receptor (TCR) repertoire analysis, gene expression profiling,...
 
 ---
 
@@ -243,7 +243,7 @@
 
 推荐理由: 该研究提出从造血干细胞体外从头工程化生成功能性T细胞的新策略，不仅为肿瘤免疫治疗提供了可规模化、可定制化的细胞来源，而且对理解胸腺微环境信号（如Notch-DLL4）在淋巴细胞发育中的作用具有重要借鉴价值，是血液学与免疫治疗交叉领域的前沿探索。
 
-摘要: T-cell-based immunotherapies have revolutionized cancer treatment, yet their reliance on patient-derived T-cells limits scalability and accessibility. Engineering functional T-cells de novo from human hematopoietic stem cells \(HSCs\) represents a promising alternative toward a renewable and customizable source of therapeutic lymphocytes. Successful HSC-derived T-cell generation requires recapitulation of key signaling and adhesion cues of the thymic microenvironment, particularly Notch1-DLL-4 and...
+摘要: T-cell-based immunotherapies have revolutionized cancer treatment, yet their reliance on patient-derived T-cells limits scalability and accessibility. Engineering functional T-cells de novo from human hematopoietic stem cells (HSCs) represents a promising alternative toward a renewable and customizable source of therapeutic lymphocytes. Successful HSC-derived T-cell generation requires recapitulation of key signaling and adhesion cues of the thymic microenvironment, particularly Notch1-DLL-4 and...
 
 ---
 
@@ -275,7 +275,7 @@
 
 推荐理由: 该研究采用多学科方法系统解析脂质转移蛋白的功能，其创新的研究框架和高通量脂质组学策略对研究脂质代谢异常相关的血液疾病（如贫血或脂质贮积症）具有重要的借鉴意义。
 
-摘要: Lipid transfer proteins \(LTPs\) maintain the specialized lipid compositions of organellar membranes^\(1,2\). In humans, many LTPs are implicated in diseases³, but for the majority, the cargo and auxiliary lipids facilitating transfer remain unknown. We have combined biochemical, lipidomic and computational methods to systematically characterize LTP-lipid complexes⁴ and measure how LTP gains of function affect cellular lipidomes. We identified bound lipids for approximately half of the hundred LTPs...
+摘要: Lipid transfer proteins (LTPs) maintain the specialized lipid compositions of organellar membranes^(1,2). In humans, many LTPs are implicated in diseases³, but for the majority, the cargo and auxiliary lipids facilitating transfer remain unknown. We have combined biochemical, lipidomic and computational methods to systematically characterize LTP-lipid complexes⁴ and measure how LTP gains of function affect cellular lipidomes. We identified bound lipids for approximately half of the hundred LTPs...
 
 ---
 
@@ -291,7 +291,7 @@
 
 推荐理由: 该研究大幅扩展了人类和小鼠的顺式调控元件数据库，为研究血液疾病中基因表达的调控机制提供了重要的基础数据和参考框架，尤其适用于造血分化、白血病等领域的深入探索。
 
-摘要: Mammalian genomes contain millions of regulatory elements that control the complex patterns of gene expression¹. Previously, the ENCODE consortium mapped biochemical signals across hundreds of cell types and tissues and integrated these data to develop a registry containing 0.9 million human and 300,000 mouse candidate cis-regulatory elements \(cCREs\) annotated with potential functions². Here we have expanded the registry to include 2.37 million human and 967,000 mouse cCREs, leveraging new...
+摘要: Mammalian genomes contain millions of regulatory elements that control the complex patterns of gene expression¹. Previously, the ENCODE consortium mapped biochemical signals across hundreds of cell types and tissues and integrated these data to develop a registry containing 0.9 million human and 300,000 mouse candidate cis-regulatory elements (cCREs) annotated with potential functions². Here we have expanded the registry to include 2.37 million human and 967,000 mouse cCREs, leveraging new...
 
 ---
 
@@ -307,7 +307,7 @@
 
 推荐理由: 该研究首次报道了双特异性抗体Alnuctamab在复发难治多发性骨髓瘤中的临床试验数据，为BCMA靶向治疗提供了新的机制探索和临床证据，对血液肿瘤的免疫治疗发展具有重要参考价值。
 
-摘要: B-cell maturation antigen \(BCMA\)-targeting therapies provide a new approach to treating multiple myeloma \(MM\). Alnuctamab \(ALNUC\) is a 2 + 1 immunoglobulin G1-based bispecific antibody binding BCMA and CD3ε receptors on myeloma and T cells, respectively. CC-93269-MM-001 is a first-in-human, phase 1 dose escalation/expansion study investigating ALNUC in relapsed/refractory MM. Patients had ≥3 prior regimens, disease progression ≤60 days of last regimen, and were BCMA-directed therapy-naïve. ALNUC...
+摘要: B-cell maturation antigen (BCMA)-targeting therapies provide a new approach to treating multiple myeloma (MM). Alnuctamab (ALNUC) is a 2 + 1 immunoglobulin G1-based bispecific antibody binding BCMA and CD3ε receptors on myeloma and T cells, respectively. CC-93269-MM-001 is a first-in-human, phase 1 dose escalation/expansion study investigating ALNUC in relapsed/refractory MM. Patients had ≥3 prior regimens, disease progression ≤60 days of last regimen, and were BCMA-directed therapy-naïve. ALNUC...
 
 ---
 
@@ -328,7 +328,7 @@
 ---
 
 
-== #21. Dynamic microvascular monitoring with miniaturized omnidirectional broadband photoacoustic imaging system for living entities \(MOBILE\)
+== #21. Dynamic microvascular monitoring with miniaturized omnidirectional broadband photoacoustic imaging system for living entities (MOBILE)
 
 - **研究分数**: #88
 - **社会影响**: #76
@@ -339,7 +339,7 @@
 
 推荐理由: 该研究提出的MOBILE系统在微循环动态监测方面实现了技术突破，其高分辨率和便携性为血液流变学、血栓性疾病及血管相关性血液病的研究提供了创新工具，对血液病早期诊断和病理机制探索具有重要借鉴价值。
 
-摘要: Microcirculation monitoring is crucial for evaluating cardiovascular health and detecting organ dysfunction early, but existing bedside imaging techniques often cannot provide sufficient resolution and depth for dynamic assessment during natural physiological activities. Here, we present MOBILE \(Miniaturized Omnidirectional Broadband Photoacoustic Imaging System for Living Entities\), a photoacoustic imaging system that allows unrestricted microcirculatory monitoring with 40 µm resolution and...
+摘要: Microcirculation monitoring is crucial for evaluating cardiovascular health and detecting organ dysfunction early, but existing bedside imaging techniques often cannot provide sufficient resolution and depth for dynamic assessment during natural physiological activities. Here, we present MOBILE (Miniaturized Omnidirectional Broadband Photoacoustic Imaging System for Living Entities), a photoacoustic imaging system that allows unrestricted microcirculatory monitoring with 40 µm resolution and...
 
 ---
 
@@ -355,7 +355,7 @@
 
 推荐理由: 该研究提出的自聚集纳米水凝胶（SANGs）
 
-摘要: RNA interference \(RNAi\) holds unique potential as a clinically viable modality to pharmacologically regulate oncogenes in sequence-specific manner. However, systemic delivery of RNAi to tumors encounters myriad obstructions, and strategies to overcome such barriers have largely consisted of academic demonstrations with few approaches reaching patients. Here we report the development of a self-agglomerating nanohydrogel \(SANGs\) platform that selectively localizes to tumor tissue, is efficiently...
+摘要: RNA interference (RNAi) holds unique potential as a clinically viable modality to pharmacologically regulate oncogenes in sequence-specific manner. However, systemic delivery of RNAi to tumors encounters myriad obstructions, and strategies to overcome such barriers have largely consisted of academic demonstrations with few approaches reaching patients. Here we report the development of a self-agglomerating nanohydrogel (SANGs) platform that selectively localizes to tumor tissue, is efficiently...
 
 ---
 
@@ -371,7 +371,7 @@
 
 推荐理由: 该文章建立的条形码Cre mRNA平台创新性地实现了体内脂质纳米颗粒的高通量筛选，对提高核酸药物递送效率和推动血液疾病（如基因治疗、mRNA疗法）的转化研究具有重要的可借鉴价值。
 
-摘要: Lipid nanoparticles \(LNPs\) efficiently deliver nucleic acids to cells in vivo and facilitate clinical applications including RNA-based vaccines and therapies. Discovery and optimization of LNPs remain challenging due to the complexity of input variables and low throughput workflows. To accelerate these processes, we report a broadly compatible barcoded Cre recombinase mRNA barcode platform that enables multiplexed LNP tracking in vivo in tdTomato reporter mice. We evaluate accumulation and...
+摘要: Lipid nanoparticles (LNPs) efficiently deliver nucleic acids to cells in vivo and facilitate clinical applications including RNA-based vaccines and therapies. Discovery and optimization of LNPs remain challenging due to the complexity of input variables and low throughput workflows. To accelerate these processes, we report a broadly compatible barcoded Cre recombinase mRNA barcode platform that enables multiplexed LNP tracking in vivo in tdTomato reporter mice. We evaluate accumulation and...
 
 ---
 
@@ -387,7 +387,7 @@
 
 推荐理由: 该研究提出的GFSeeker工具通过创新性算法显著提升了长读长RNA-seq中基因融合检测的准确性，对于血液肿瘤（如白血病、淋巴瘤）的融合基因鉴定具有直接的方法学借鉴价值。
 
-摘要: Gene fusions are critical oncogenic drivers and therapeutic targets in diverse cancers. Long-read ribonucleic acid sequencing \(RNA-seq\) offers an unprecedented opportunity to resolve the full-length structure of fusion isoforms, but its high intrinsic error rates pose significant challenges to the precise identification of true fusion events. Here, we developed GFSeeker, an innovative splicing-graph-based computational framework for accurate gene fusion detection from long-read RNA-seq. GFSeeker...
+摘要: Gene fusions are critical oncogenic drivers and therapeutic targets in diverse cancers. Long-read ribonucleic acid sequencing (RNA-seq) offers an unprecedented opportunity to resolve the full-length structure of fusion isoforms, but its high intrinsic error rates pose significant challenges to the precise identification of true fusion events. Here, we developed GFSeeker, an innovative splicing-graph-based computational framework for accurate gene fusion detection from long-read RNA-seq. GFSeeker...
 
 ---
 
@@ -403,7 +403,7 @@
 
 推荐理由: 该研究首次揭示了铁死亡中GPX4介导的免疫抑制新机制，对血液肿瘤免疫治疗及联合治疗策略设计具有直接借鉴价值。
 
-摘要: Understanding the immunogenic properties of different forms of cell death is critical for rationalized antineoplastic therapeutic development. Here, we identify a regulatory axis that suppresses the immunogenicity of ferroptosis. During ferroptosis, but not apoptosis, cuproptosis, or necroptosis, cancer cells release glutathione peroxidase 4 \(GPX4\), which binds to zona pellucida glycoprotein 3 \(ZP3\) on the surface of dendritic cells \(DCs\), activates the 3',5'-cyclic adenosine monophosphate...
+摘要: Understanding the immunogenic properties of different forms of cell death is critical for rationalized antineoplastic therapeutic development. Here, we identify a regulatory axis that suppresses the immunogenicity of ferroptosis. During ferroptosis, but not apoptosis, cuproptosis, or necroptosis, cancer cells release glutathione peroxidase 4 (GPX4), which binds to zona pellucida glycoprotein 3 (ZP3) on the surface of dendritic cells (DCs), activates the 3',5'-cyclic adenosine monophosphate...
 
 ---
 
@@ -419,7 +419,7 @@
 
 推荐理由: 该研究在免疫球蛋白基因解析方法学上有重要创新，为抗体相关血液疾病研究和疫苗研发提供了关键遗传学工具，对血液病机制探索具有直接参考价值。
 
-摘要: Rhesus macaques \(RMs\) are a vital model for studying human disease and are invaluable to preclinical vaccine research, particularly for the study of broadly neutralizing antibody responses. Such studies require robust genetic resources for antibody-encoding genes within the immunoglobulin \(IG\) loci. The complexity of the IG loci has historically made them challenging to characterize accurately. To address this, we developed experimental and computational methodologies to generate a collection of...
+摘要: Rhesus macaques (RMs) are a vital model for studying human disease and are invaluable to preclinical vaccine research, particularly for the study of broadly neutralizing antibody responses. Such studies require robust genetic resources for antibody-encoding genes within the immunoglobulin (IG) loci. The complexity of the IG loci has historically made them challenging to characterize accurately. To address this, we developed experimental and computational methodologies to generate a collection of...
 
 ---
 
@@ -435,7 +435,7 @@
 
 推荐理由: 该研究提出的VACmap方法在复杂基因重排检测上实现重大突破，尤其对涉及基因重复、倒位等机制的血液遗传病与肿瘤的基因组分析具有直接参考价值。
 
-摘要: Sequence alignment is essential for genomic research and clinical diagnostics, yet detecting complex rearrangements such as inversions, duplications, and gene conversions remains challenging due to allele complexity and limitations of current methods. We introduce VACmap, a non-linear mapping approach to enhance the detection and representation of all genetic variations. VACmap improves duplication detection from 20% to 90% in the Challenging Medically-Relevant Genes \(CMRG\) benchmark and...
+摘要: Sequence alignment is essential for genomic research and clinical diagnostics, yet detecting complex rearrangements such as inversions, duplications, and gene conversions remains challenging due to allele complexity and limitations of current methods. We introduce VACmap, a non-linear mapping approach to enhance the detection and representation of all genetic variations. VACmap improves duplication detection from 20% to 90% in the Challenging Medically-Relevant Genes (CMRG) benchmark and...
 
 ---
 
@@ -467,7 +467,7 @@
 
 推荐理由: 该研究提出了创新的瘤内疫苗嵌合体策略，通过重编程肿瘤细胞增强抗肿瘤免疫应答，为免疫治疗提供了新的技术思路，对肿瘤免疫微环境研究具有重要启发。
 
-摘要: Decreased cross-presentation by antigen-presenting cells induces the scarcity of tumour-reactive T cells within the tumour bed, rendering in situ T cell rejuvenation through immunogenicity reprogramming highly desirable yet challenging^\(1-3\). Here we developed an intratumoural vaccination chimera \(iVAC\) to reprogram tumour cells into an antigen-presenting state \(APC-like tumour cells\) with restored anti-tumour immunity. The iVAC chimeras consist of a covalently engineered PD-L1 degrader...
+摘要: Decreased cross-presentation by antigen-presenting cells induces the scarcity of tumour-reactive T cells within the tumour bed, rendering in situ T cell rejuvenation through immunogenicity reprogramming highly desirable yet challenging^(1-3). Here we developed an intratumoural vaccination chimera (iVAC) to reprogram tumour cells into an antigen-presenting state (APC-like tumour cells) with restored anti-tumour immunity. The iVAC chimeras consist of a covalently engineered PD-L1 degrader...
 
 ---
 
@@ -483,7 +483,7 @@
 
 推荐理由: 该研究深入揭示了异染色质表观遗传的“读写”机制，其保守性调控原理对理解血液肿瘤（如白血病）中表观遗传失调及靶向药物开发具有重要借鉴价值。
 
-摘要: Heterochromatin, marked by histone H3 lysine 9 methylation, can be epigenetically inherited through cell division^\(1-3\), maintaining gene repression that preserves cell identity and enables adaptation to environmental challenges^\(2-6\). Studies on Schizosaccharomyces pombe have shown that heterochromatin propagation depends on the read-write mechanism, wherein a sufficient density of H3K9me3-modified nucleosomes, stabilized by histone deacetylases, concentrates Clr4^\(SUV39H\) on chromatin to...
+摘要: Heterochromatin, marked by histone H3 lysine 9 methylation, can be epigenetically inherited through cell division^(1-3), maintaining gene repression that preserves cell identity and enables adaptation to environmental challenges^(2-6). Studies on Schizosaccharomyces pombe have shown that heterochromatin propagation depends on the read-write mechanism, wherein a sufficient density of H3K9me3-modified nucleosomes, stabilized by histone deacetylases, concentrates Clr4^(SUV39H) on chromatin to...
 
 ---
 
@@ -515,7 +515,7 @@
 
 推荐理由: 该研究采用随机双盲安慰剂对照试验设计，方法学严谨，为白塞综合征这一难治性血管炎疾病提供了低剂量IL-2治疗的新证据，对血液科免疫调节治疗研究具有重要借鉴价值。
 
-摘要: Behçet's syndrome \(BS\), a chronic vasculitis, leads to recurrent oral ulcers, severely impacting quality of life. Here we report the results of a randomized, double-blind, placebo-controlled trial \(NCT04065672\) to evaluate the efficacy and safety of low-dose interleukin-2 \(LD-IL-2\) in BS patients. 60 participants with active oral ulcers are randomly assigned to receive LD-IL-2 or placebo. The primary endpoint is the oral ulcer count at week 12. The LD-IL-2 group has significantly fewer oral...
+摘要: Behçet's syndrome (BS), a chronic vasculitis, leads to recurrent oral ulcers, severely impacting quality of life. Here we report the results of a randomized, double-blind, placebo-controlled trial (NCT04065672) to evaluate the efficacy and safety of low-dose interleukin-2 (LD-IL-2) in BS patients. 60 participants with active oral ulcers are randomly assigned to receive LD-IL-2 or placebo. The primary endpoint is the oral ulcer count at week 12. The LD-IL-2 group has significantly fewer oral...
 
 ---
 
@@ -547,7 +547,7 @@
 
 推荐理由: 该文章作为Cochrane系统评价方案，方法学严谨可靠，能间接提升血液病研究者高效获取最新证据的能力，对优化临床及科研决策有参考价值。
 
-摘要: This is a protocol for a Cochrane Review \(methodology\). The objectives are as follows: To evaluate the effects of educational interventions for improving health-related literature searching skills of health professionals and students.
+摘要: This is a protocol for a Cochrane Review (methodology). The objectives are as follows: To evaluate the effects of educational interventions for improving health-related literature searching skills of health professionals and students.
 
 ---
 
@@ -563,7 +563,7 @@
 
 推荐理由: 该文章探讨他汀类药物在骨髓增殖性肿瘤（MPN）预防和心血管并发症管理中的潜在双重作用，为血液疾病防治提供了跨学科临床借鉴思路，值得血液科医生关注。
 
-摘要: Myeloproliferative neoplasms \(MPNs\), including polycythemia vera \(PV\), essential thrombocythemia \(ET\), and myelofibrosis \(MF\), are chronic myeloid neoplasms associated with increased risk of cardiovascular disease \(CVD\). Statins are a common group of cholesterol-lower medications recommended for the primary and secondary prevention of CVD, including arterial thrombotic events. Emerging evidence suggests that statins may reduce the risk of developing MPNs and their use may be associated with...
+摘要: Myeloproliferative neoplasms (MPNs), including polycythemia vera (PV), essential thrombocythemia (ET), and myelofibrosis (MF), are chronic myeloid neoplasms associated with increased risk of cardiovascular disease (CVD). Statins are a common group of cholesterol-lower medications recommended for the primary and secondary prevention of CVD, including arterial thrombotic events. Emerging evidence suggests that statins may reduce the risk of developing MPNs and their use may be associated with...
 
 ---
 
@@ -579,7 +579,7 @@
 
 推荐理由: 该文章探讨了孟德尔随机化中罕见遗传变异作为工具变量的应用前景，方法学上具有前沿性和创新性，对血液疾病遗传风险因果推断的研究设计有重要借鉴价值。
 
-摘要: Mendelian randomization \(MR\) has become an important technique for establishing causal relationships between risk factors and health outcomes. By using genetic variants as instrumental variables, it can mitigate bias due to confounding and reverse causation in observational studies. Current MR analyses have predominantly used common genetic variants as instruments, which represent only part of the genetic architecture of complex traits. Rare variants, which can have larger effect sizes and...
+摘要: Mendelian randomization (MR) has become an important technique for establishing causal relationships between risk factors and health outcomes. By using genetic variants as instrumental variables, it can mitigate bias due to confounding and reverse causation in observational studies. Current MR analyses have predominantly used common genetic variants as instruments, which represent only part of the genetic architecture of complex traits. Rare variants, which can have larger effect sizes and...
 
 ---
 
@@ -595,7 +595,7 @@
 
 推荐理由: 该研究提出的多群体蛋白质预测框架能有效弥补现有遗传参考面板的不足，对于研究血液疾病的群体差异和分子机制具有重要的借鉴价值。
 
-摘要: Genetics-informed proteome-wide association studies \(PWASs\) provide an effective way to uncover proteomic mechanisms underlying complex diseases. PWAS relies on an ancestry-matched reference panel to model the impact of genetically determined protein expression on phenotype. However, reference panels from underrepresented populations remain relatively limited. We developed a multi-ancestry framework to enhance protein prediction in these populations by integrating diverse information-sharing...
+摘要: Genetics-informed proteome-wide association studies (PWASs) provide an effective way to uncover proteomic mechanisms underlying complex diseases. PWAS relies on an ancestry-matched reference panel to model the impact of genetically determined protein expression on phenotype. However, reference panels from underrepresented populations remain relatively limited. We developed a multi-ancestry framework to enhance protein prediction in these populations by integrating diverse information-sharing...
 
 ---
 
@@ -611,7 +611,7 @@
 
 推荐理由: 该文章系统回顾了血管性血友病因子基因的早期发现及其在疾病分型诊断中的应用，为血液病遗传机制研究和分子诊断策略提供了重要基础，对从事出血性疾病研究的血液科医师具有直接的参考价值。
 
-摘要: The gene for von Willebrand factor \(VWF\) was among the earliest genomic discoveries in the mid-1980s. It became feasible to use this new knowledge to better understand the genetic mechanisms responsible for von Willebrand disease \(VWD\) and to utilize the information to generate molecular genetic diagnostic testing strategies. Following initial studies demonstrating large structural variants in type 3 VWD patients, investigations focused on the genetic basis of the various type 2 forms of VWD,...
+摘要: The gene for von Willebrand factor (VWF) was among the earliest genomic discoveries in the mid-1980s. It became feasible to use this new knowledge to better understand the genetic mechanisms responsible for von Willebrand disease (VWD) and to utilize the information to generate molecular genetic diagnostic testing strategies. Following initial studies demonstrating large structural variants in type 3 VWD patients, investigations focused on the genetic basis of the various type 2 forms of VWD,...
 
 ---
 
@@ -627,7 +627,7 @@
 
 推荐理由: 该文章系统总结了血管性血友病因子（VWF）生物合成的关键机制与历史进展，对血液病特别是出凝血疾病的研究与临床理解具有很高的参考价值。
 
-摘要: Since the first description of a patient with von Willebrand disease \(VWD\) back in 1926, significant advances have been made in understanding the biology of von Willebrand factor \(VWF\). Under normal conditions, in vivo biosynthesis of VWF is restricted to endothelial cells and megakaryocytes only. This biosynthesis involves complex post-translational modifications \(including glycosylation and multimerization\) which play a key role in enabling the hemostatic functions of VWF. As a result, VWF...
+摘要: Since the first description of a patient with von Willebrand disease (VWD) back in 1926, significant advances have been made in understanding the biology of von Willebrand factor (VWF). Under normal conditions, in vivo biosynthesis of VWF is restricted to endothelial cells and megakaryocytes only. This biosynthesis involves complex post-translational modifications (including glycosylation and multimerization) which play a key role in enabling the hemostatic functions of VWF. As a result, VWF...
 
 ---
 
@@ -643,7 +643,7 @@
 
 推荐理由: 该文章系统回顾了血管性血友病的里程碑式发现，不仅具有重要的医学史价值，而且对现代血液病诊断与遗传机制研究仍有基础性参考意义。
 
-摘要: One hundred years ago Professor Erik von Willebrand, working at the Deaconess Hospital in Helsinki, Finland, published his landmark paper on hereditary pseudohemophilia \(the original paper, in Swedish, was entitled Hereditär pseudohemofili and was published in Finska Läkaresällskapets Handlingar\). In 1924, a 5-year-old girl named Hjördis, living in Föglö in the Åland Island archipelago, was brought to Erik von Willebrand's attention; his investigations of a large family living in the Åland...
+摘要: One hundred years ago Professor Erik von Willebrand, working at the Deaconess Hospital in Helsinki, Finland, published his landmark paper on hereditary pseudohemophilia (the original paper, in Swedish, was entitled Hereditär pseudohemofili and was published in Finska Läkaresällskapets Handlingar). In 1924, a 5-year-old girl named Hjördis, living in Föglö in the Åland Island archipelago, was brought to Erik von Willebrand's attention; his investigations of a large family living in the Åland...
 
 ---
 
@@ -689,14 +689,14 @@
 - **DOI**: #10.1038/s41467-025-66692-x
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41495023/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究提出的EcN@PDA@HP生物混合机器人技术具有显著创新性，其靶向递送系统对研究炎症相关贫血等血液学并发症具有方法学借鉴价值。
+推荐理由: 该研究提出的EcN\@PDA\@HP生物混合机器人技术具有显著创新性，其靶向递送系统对研究炎症相关贫血等血液学并发症具有方法学借鉴价值。
 
-摘要: Inflammatory bowel disease \(IBD\) involves elevated intestinal reactive oxygen species \(ROS\) and microbial imbalance. A key challenge is that current delivery systems cannot adequately protect active agents, such as antioxidants and probiotics, through the harsh gastric environment nor precisely deliver them to inflamed intestinal sites. Here, we present the EcN@PDA@HP biohybrid robot, composed of stress-trained microalgae, probiotics, and an intestinal braking system, enabling rapid gastric...
+摘要: Inflammatory bowel disease (IBD) involves elevated intestinal reactive oxygen species (ROS) and microbial imbalance. A key challenge is that current delivery systems cannot adequately protect active agents, such as antioxidants and probiotics, through the harsh gastric environment nor precisely deliver them to inflamed intestinal sites. Here, we present the EcN\@PDA\@HP biohybrid robot, composed of stress-trained microalgae, probiotics, and an intestinal braking system, enabling rapid gastric...
 
 ---
 
 
-== #44. Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N\<sup\>6\</sup\>-methyladenosine recognition protein YTHDC2
+== #44. Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine recognition protein YTHDC2
 
 - **研究分数**: #85
 - **社会影响**: #55
@@ -707,7 +707,7 @@
 
 推荐理由: 该文章创新性地将受体蛋白静电特征融入深度学习分子生成模型，针对血液疾病关键靶点YTHDC2开发新型抑制剂，为血液肿瘤治疗策略提供了可借鉴的前沿方法。
 
-摘要: YTHDC2, a unique YTH-domain-containing protein that recognizes N6-methyladenosine \(m⁶A\) on RNA, plays critical roles in diverse pathological processes and represents a promising therapeutic target. Despite its potential, no potent small-molecule inhibitors have been reported to date. To bridge this gap, we develop EPMolGen, a deep learning-based molecular generative model that explicitly incorporates the electrostatic features of receptor proteins. The model achieves state-of-the-art performance...
+摘要: YTHDC2, a unique YTH-domain-containing protein that recognizes N6-methyladenosine (m⁶A) on RNA, plays critical roles in diverse pathological processes and represents a promising therapeutic target. Despite its potential, no potent small-molecule inhibitors have been reported to date. To bridge this gap, we develop EPMolGen, a deep learning-based molecular generative model that explicitly incorporates the electrostatic features of receptor proteins. The model achieves state-of-the-art performance...
 
 ---
 
@@ -723,7 +723,7 @@
 
 推荐理由: 该研究在仿生光电神经突触器件领域实现了超宽光谱响应与大规模集成的重大突破，其跨学科思路与前沿材料设计对血液病检测设备的微型化与智能化具有潜在启发价值。
 
-摘要: Bio-inspired photosynapse hardware with wide spectrum information fusion imaging and neuromorphic processing is promising for complex environments perception. However, integrating ultra-wide spectrum responsivity within a single photosynapse device and scaling to a large array has remained challenging. Here, we demonstrate a 64k-scale \(65,536 pixels\) ultraviolet-to-mid-infrared photosynapse array based on carbon nanotube/molybdenum oxide heterojunctions. Typical photosynapse behaviors are...
+摘要: Bio-inspired photosynapse hardware with wide spectrum information fusion imaging and neuromorphic processing is promising for complex environments perception. However, integrating ultra-wide spectrum responsivity within a single photosynapse device and scaling to a large array has remained challenging. Here, we demonstrate a 64k-scale (65,536 pixels) ultraviolet-to-mid-infrared photosynapse array based on carbon nanotube/molybdenum oxide heterojunctions. Typical photosynapse behaviors are...
 
 ---
 
@@ -755,7 +755,7 @@
 
 推荐理由: 该文章提出的MELO方法在检测蛋白质细微结构变化方面具有创新性和高通量优势，对于研究血液疾病相关蛋白（如血红蛋白病、凝血因子突变等）的分子机制具有较高的借鉴价值。
 
-摘要: Understanding the impact that subtle variations \(missense mutation, environmental change, ion chelation, ligand binding, etc.\) have on protein structure helps to reveal their biological effects, but remain extremely challenging due to the difficulty in measuring and locating the changes in protein structure. Herein, a method entitled MELO is therefore constructed, which enable a systematic measurement based on residues' geometric characteristics & relative distance and a high-throughput location...
+摘要: Understanding the impact that subtle variations (missense mutation, environmental change, ion chelation, ligand binding, etc.) have on protein structure helps to reveal their biological effects, but remain extremely challenging due to the difficulty in measuring and locating the changes in protein structure. Herein, a method entitled MELO is therefore constructed, which enable a systematic measurement based on residues' geometric characteristics & relative distance and a high-throughput location...
 
 ---
 
@@ -771,7 +771,7 @@
 
 推荐理由: 该研究采用系统性的多学科方法揭示脂质转移蛋白的分子机制，虽非直接针对血液疾病，但其揭示的脂质代谢失调机制对理解相关血液疾病的病理生理具有重要借鉴价值。
 
-摘要: Lipid transfer proteins \(LTPs\) maintain the specialized lipid compositions of organellar membranes^\(1,2\). In humans, many LTPs are implicated in diseases³, but for the majority, the cargo and auxiliary lipids facilitating transfer remain unknown. We have combined biochemical, lipidomic and computational methods to systematically characterize LTP-lipid complexes⁴ and measure how LTP gains of function affect cellular lipidomes. We identified bound lipids for approximately half of the hundred LTPs...
+摘要: Lipid transfer proteins (LTPs) maintain the specialized lipid compositions of organellar membranes^(1,2). In humans, many LTPs are implicated in diseases³, but for the majority, the cargo and auxiliary lipids facilitating transfer remain unknown. We have combined biochemical, lipidomic and computational methods to systematically characterize LTP-lipid complexes⁴ and measure how LTP gains of function affect cellular lipidomes. We identified bound lipids for approximately half of the hundred LTPs...
 
 ---
 
@@ -803,7 +803,7 @@
 
 推荐理由: 该研究揭示了组蛋白乳酸化在肿瘤耐药中的新机制，其表观遗传学视角对血液肿瘤耐药研究具有重要借鉴意义。
 
-摘要: Histone lactylation, a recently discovered epigenetic modification, has been shown to play a critical role in regulating gene expression and cellular functions. However, its involvement in cisplatin \(CDDP\) resistance in non-small cell lung cancer \(NSCLC\) remains poorly understood. In this study, we demonstrated that histone lactylation is closely associated with CDDP resistance and correlates with poor prognosis of NSCLC. Mechanistically, H4K12la \(histone e 4 lysine 12 lactylation\) levels and...
+摘要: Histone lactylation, a recently discovered epigenetic modification, has been shown to play a critical role in regulating gene expression and cellular functions. However, its involvement in cisplatin (CDDP) resistance in non-small cell lung cancer (NSCLC) remains poorly understood. In this study, we demonstrated that histone lactylation is closely associated with CDDP resistance and correlates with poor prognosis of NSCLC. Mechanistically, H4K12la (histone e 4 lysine 12 lactylation) levels and...
 
 ---
 
@@ -819,7 +819,7 @@
 
 推荐理由: 该研究深入探讨了基质细胞在慢性炎症与纤维化中的作用机制，对理解血液疾病中免疫微环境调控及纤维化并发症具有重要借鉴价值。
 
-摘要: The stromal cell compartment plays a central part in the maintenance of tissue homeostasis by coordinating with the immune system throughout inception, amplification and resolution of inflammation¹. Chronic inflammation can impede the phased regulation of tissue restitution, resulting in the scarring complication of fibrosis. In inflammatory bowel disease, stromal fibroblasts have been implicated in treatment-refractory disease and fibrosis^\(2,3\); however, their mechanisms of activation have...
+摘要: The stromal cell compartment plays a central part in the maintenance of tissue homeostasis by coordinating with the immune system throughout inception, amplification and resolution of inflammation¹. Chronic inflammation can impede the phased regulation of tissue restitution, resulting in the scarring complication of fibrosis. In inflammatory bowel disease, stromal fibroblasts have been implicated in treatment-refractory disease and fibrosis^(2,3); however, their mechanisms of activation have...
 
 ---
 
@@ -835,7 +835,7 @@
 
 推荐理由: 该文章首次报道了靶向tRNA的CRISPR-Cas12a3系统，不仅为抗病毒免疫机制提供了全新视角，其tRNA调控机制对研究血液疾病中翻译异常（如贫血、白血病）具有重要借鉴意义。
 
-摘要: In all domains of life, tRNAs mediate the transfer of genetic information from mRNAs to proteins. As their depletion suppresses translation and, consequently, viral replication, tRNAs represent long-standing and increasingly recognized targets of innate immunity^\(1-5\). Here we report Cas12a3 effector nucleases from type V CRISPR-Cas adaptive immune systems in bacteria that preferentially cleave tRNAs after recognition of target RNA. Cas12a3 orthologues belong to one of two previously unreported...
+摘要: In all domains of life, tRNAs mediate the transfer of genetic information from mRNAs to proteins. As their depletion suppresses translation and, consequently, viral replication, tRNAs represent long-standing and increasingly recognized targets of innate immunity^(1-5). Here we report Cas12a3 effector nucleases from type V CRISPR-Cas adaptive immune systems in bacteria that preferentially cleave tRNAs after recognition of target RNA. Cas12a3 orthologues belong to one of two previously unreported...
 
 ---
 
@@ -851,7 +851,7 @@
 
 推荐理由: 该研究揭示了组蛋白乳酸化这一新型表观遗传修饰在肿瘤耐药中的关键机制，其研究思路与分子调控模式对探索血液肿瘤的耐药性及表观遗传治疗具有直接借鉴价值。
 
-摘要: Histone lactylation, a recently discovered epigenetic modification, has been shown to play a critical role in regulating gene expression and cellular functions. However, its involvement in cisplatin \(CDDP\) resistance in non-small cell lung cancer \(NSCLC\) remains poorly understood. In this study, we demonstrated that histone lactylation is closely associated with CDDP resistance and correlates with poor prognosis of NSCLC. Mechanistically, H4K12la \(histone e 4 lysine 12 lactylation\) levels and...
+摘要: Histone lactylation, a recently discovered epigenetic modification, has been shown to play a critical role in regulating gene expression and cellular functions. However, its involvement in cisplatin (CDDP) resistance in non-small cell lung cancer (NSCLC) remains poorly understood. In this study, we demonstrated that histone lactylation is closely associated with CDDP resistance and correlates with poor prognosis of NSCLC. Mechanistically, H4K12la (histone e 4 lysine 12 lactylation) levels and...
 
 ---
 
@@ -883,7 +883,7 @@
 
 推荐理由: 该研究通过大规模靶向测序明确了成人AML中NUP98重排的分子特征与临床意义，对完善AML危险分层和靶向治疗具有直接参考价值。
 
-摘要: NUP98 rearrangements represent a distinct, high-risk subtype of acute myeloid leukemia \(AML\), particularly in pediatric patients. However, their prevalence, genetic features, and clinical implications in adult AML remain poorly characterized. Using targeted-capture sequencing, we identified 41 cases with NUP98 rearrangements among 1569 AML cases, representing the majority of 44 NUP98-rearranged cases detected across 4753 myeloid neoplasms. Fifteen distinct fusion partners were detected, with...
+摘要: NUP98 rearrangements represent a distinct, high-risk subtype of acute myeloid leukemia (AML), particularly in pediatric patients. However, their prevalence, genetic features, and clinical implications in adult AML remain poorly characterized. Using targeted-capture sequencing, we identified 41 cases with NUP98 rearrangements among 1569 AML cases, representing the majority of 44 NUP98-rearranged cases detected across 4753 myeloid neoplasms. Fifteen distinct fusion partners were detected, with...
 
 ---
 
@@ -931,7 +931,7 @@
 
 推荐理由: 该研究虽非直接针对血液疾病，但通过分析H5N1交叉反应抗体与疾病严重性的关联，为理解感染相关免疫反应及血液学并发症（如细胞因子风暴、凝血异常）提供了重要参考，对血液科医生有间接借鉴价值。
 
-摘要: Highly pathogenic H5N1 avian influenza viruses of clade 2.3.4.4b cause sporadic human infections and currently raise concerns about a new influenza pandemic. Heterogeneities in disease severity have been observed in the past and are reported among infected farm workers in the United States. These may be attributed to differences in pre-existing H5N1 cross-reactive antibodies. In this study, we characterize H5N1 cross-reactive antibody landscapes in the current population \(\#NCT05794412 and...
+摘要: Highly pathogenic H5N1 avian influenza viruses of clade 2.3.4.4b cause sporadic human infections and currently raise concerns about a new influenza pandemic. Heterogeneities in disease severity have been observed in the past and are reported among infected farm workers in the United States. These may be attributed to differences in pre-existing H5N1 cross-reactive antibodies. In this study, we characterize H5N1 cross-reactive antibody landscapes in the current population (\#NCT05794412 and...
 
 ---
 
@@ -947,7 +947,7 @@
 
 推荐理由: 该研究基于大规模创伤数据开发并外部验证了AI预测模型，方法学严谨可靠，其预测思路与危重血液病患者（如大出血、凝血病）的早期识别与资源调配具有可借鉴的临床逻辑关联。
 
-摘要: Early identification of high-risk trauma patients in the prehospital setting is crucial for optimizing resource allocation and improving survival. We developed and externally validated a real-time AI model predicting emergency room mortality using 21 prehospital variables. Model development and internal validation utilized the Korean Trauma Data Bank \(KTDB; 204,189 patients\), and external validation included four South Korean trauma centers \(8,358 patients\) and one Australian Level 1 center...
+摘要: Early identification of high-risk trauma patients in the prehospital setting is crucial for optimizing resource allocation and improving survival. We developed and externally validated a real-time AI model predicting emergency room mortality using 21 prehospital variables. Model development and internal validation utilized the Korean Trauma Data Bank (KTDB; 204,189 patients), and external validation included four South Korean trauma centers (8,358 patients) and one Australian Level 1 center...
 
 ---
 
@@ -963,7 +963,7 @@
 
 推荐理由: 该研究提出了一种创新的非病毒基因递送方法，其模块化肽标记策略对提高基因治疗效率具有重要参考价值，未来可能为血液遗传性疾病的基因治疗研究提供新的技术思路。
 
-摘要: Efficient nuclear delivery of DNA remains a major challenge in non-viral gene therapy. While nuclear localization signal \(NLS\) peptides have been explored for enhancing nuclear translocation of DNA, their efficacy has been limited by DNA-peptide conjugation strategies. Leveraging E. coli tRNA guanine transglycosylase, we present a modular workflow for generating DNA oligonucleotide-peptide conjugates which are ligated to linear DNA to generate peptide-modified gene cassettes \(DNA-PepTAG\). Using...
+摘要: Efficient nuclear delivery of DNA remains a major challenge in non-viral gene therapy. While nuclear localization signal (NLS) peptides have been explored for enhancing nuclear translocation of DNA, their efficacy has been limited by DNA-peptide conjugation strategies. Leveraging E. coli tRNA guanine transglycosylase, we present a modular workflow for generating DNA oligonucleotide-peptide conjugates which are ligated to linear DNA to generate peptide-modified gene cassettes (DNA-PepTAG). Using...
 
 ---
 
@@ -979,7 +979,7 @@
 
 推荐理由: 该研究揭示了AMFR通过泛素化修饰调控TSPAN4进而影响迁移体的形成机制，为理解细胞迁移相关囊泡在血液疾病（如肿瘤转移、免疫细胞通讯）中的作用提供了新的分子视角，具有重要的基础研究借鉴价值。
 
-摘要: Migrasomes are migration-dependent organelles, serving as delivery packets to mediate release of cytoplasmic contents. Tetraspanin 4 \(TSPAN4\) acts as a marker for migrasomes and is essential for their formation. However, the regulatory mechanism\(s\) underlying TSPAN4-mediated migrasome biogenesis and its physiological functions remain to be elucidated. Here, we identified AMFR, an ER-resident E3 ligase, regulates migrasome formation through catalyzing the K48-linked polyubiquitination of TSPAN4...
+摘要: Migrasomes are migration-dependent organelles, serving as delivery packets to mediate release of cytoplasmic contents. Tetraspanin 4 (TSPAN4) acts as a marker for migrasomes and is essential for their formation. However, the regulatory mechanism(s) underlying TSPAN4-mediated migrasome biogenesis and its physiological functions remain to be elucidated. Here, we identified AMFR, an ER-resident E3 ligase, regulates migrasome formation through catalyzing the K48-linked polyubiquitination of TSPAN4...
 
 ---
 
@@ -995,12 +995,12 @@
 
 推荐理由: 该研究虽聚焦肝细胞癌，但其中PD-1抑制剂联合靶向药的免疫调节机制与血液肿瘤治疗策略高度相通，可为淋巴瘤、白血病等血液疾病的新型联合疗法提供重要思路参考。
 
-摘要: Postoperative recurrence significantly impacts long-term survival in patients with resectable hepatocellular carcinoma \(HCC\). In this single-arm, phase II trial \(NCT04834986\), 27 patients with resectable HCC at high recurrence risk received perioperative tislelizumab \(anti-PD-1\) plus lenvatinib \(multi-kinase inhibitor\). Co-primary endpoints were safety and feasibility. Secondary endpoints included objective response rate \(ORR\), 1-year and 2-year disease-free survival \(DFS\), median DFS, and...
+摘要: Postoperative recurrence significantly impacts long-term survival in patients with resectable hepatocellular carcinoma (HCC). In this single-arm, phase II trial (NCT04834986), 27 patients with resectable HCC at high recurrence risk received perioperative tislelizumab (anti-PD-1) plus lenvatinib (multi-kinase inhibitor). Co-primary endpoints were safety and feasibility. Secondary endpoints included objective response rate (ORR), 1-year and 2-year disease-free survival (DFS), median DFS, and...
 
 ---
 
 
-== #63. Automatic optimization of flat-field corrections by evaluation and enhancement \(EVEN\) in multimodal optical microscopy
+== #63. Automatic optimization of flat-field corrections by evaluation and enhancement (EVEN) in multimodal optical microscopy
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1011,7 +1011,7 @@
 
 推荐理由: 该文章提出的EVEN方法为光学显微镜图像的质量评估与校正提供了创新的机器学习工作流，这对于依赖高精度显微成像的血液病形态学诊断和细胞学研究具有重要的工具参考价值。
 
-摘要: Uneven illumination affects all images acquired by optical microscopes, especially large, multicolour and nonlinear measurements. Although removal is possible with various algorithms, evaluating raw and processed images is challenging due to the lack of established workflows for image quality assessment. This manuscript describes a machine learning-based method, EVEN \(Evaluation and Enhancement\), to assess and optimise corrections in optical microscopy. EVEN integrates quantitative image metrics...
+摘要: Uneven illumination affects all images acquired by optical microscopes, especially large, multicolour and nonlinear measurements. Although removal is possible with various algorithms, evaluating raw and processed images is challenging due to the lack of established workflows for image quality assessment. This manuscript describes a machine learning-based method, EVEN (Evaluation and Enhancement), to assess and optimise corrections in optical microscopy. EVEN integrates quantitative image metrics...
 
 ---
 
@@ -1043,7 +1043,7 @@
 
 推荐理由: 该研究运用单细胞测序技术创新性地揭示了EGPA区别于哮喘的I型干扰素驱动炎症机制，对理解嗜酸性粒细胞相关血管炎的发病机理及靶向治疗具有重要借鉴价值。
 
-摘要: Eosinophilic granulomatosis with polyangiitis \(EGPA\) and severe eosinophilic asthma \(SEA\) share a Type 2 \(T2\) inflammatory signature but exhibit distinct pathophysiology. We hypothesized that EGPA involves additional inflammatory mechanisms, beyond T2 immunity, that drive its systemic manifestations and treatment resistance. Using single-cell RNA sequencing, we identify interferon \(IFN-I\)-driven inflammation in EGPA, in contrast to TNF predominant pathway activation in SEA. IL1B^\(+\)MX1^\(+\)...
+摘要: Eosinophilic granulomatosis with polyangiitis (EGPA) and severe eosinophilic asthma (SEA) share a Type 2 (T2) inflammatory signature but exhibit distinct pathophysiology. We hypothesized that EGPA involves additional inflammatory mechanisms, beyond T2 immunity, that drive its systemic manifestations and treatment resistance. Using single-cell RNA sequencing, we identify interferon (IFN-I)-driven inflammation in EGPA, in contrast to TNF predominant pathway activation in SEA. IL1B^(+)MX1^(+)...
 
 ---
 
@@ -1059,7 +1059,7 @@
 
 推荐理由: 该研究不仅揭示了OGT在相分离调控中的非经典新功能，其揭示的液-液相分离机制和研究方法对研究血液系统疾病中异常蛋白聚集（如白血病相关融合蛋白）具有直接借鉴价值。
 
-摘要: Stress granules \(SGs\) are disease-relevant dynamic ribonucleoprotein condensates formed by liquid-liquid phase separation \(LLPS\) of proteins and mRNAs. Understanding their regulators and developing interventions are critical for therapeutic development. O-GlcNAc transferase \(OGT\) has been implicated in SG regulation, but functions beyond O-GlcNAcylation remain unclear. Here we uncover that, upon induced proximity, OGT suppresses LLPS of the SG marker G3BP1 and thereby SG assembly, independent of...
+摘要: Stress granules (SGs) are disease-relevant dynamic ribonucleoprotein condensates formed by liquid-liquid phase separation (LLPS) of proteins and mRNAs. Understanding their regulators and developing interventions are critical for therapeutic development. O-GlcNAc transferase (OGT) has been implicated in SG regulation, but functions beyond O-GlcNAcylation remain unclear. Here we uncover that, upon induced proximity, OGT suppresses LLPS of the SG marker G3BP1 and thereby SG assembly, independent of...
 
 ---
 
@@ -1075,7 +1075,7 @@
 
 推荐理由: 该研究揭示了MC4R突变导致肥胖却可能意外降低心血管风险的矛盾现象，为代谢综合征与血液脂质异常的关联机制提供了新的研究视角，对血液科探讨血脂代谢相关疾病具有启发意义。
 
-摘要: Mutations that impair the function of the melanocortin 4 receptor \(MC4R\) cause severe obesity in both heterozygous and homozygous carriers. However, recent findings indicate that individuals with this form of monogenic obesity may be unexpectedly protected against dyslipidemia and cardiovascular diseases.
+摘要: Mutations that impair the function of the melanocortin 4 receptor (MC4R) cause severe obesity in both heterozygous and homozygous carriers. However, recent findings indicate that individuals with this form of monogenic obesity may be unexpectedly protected against dyslipidemia and cardiovascular diseases.
 
 ---
 
@@ -1091,7 +1091,7 @@
 
 推荐理由: 该研究聚焦蛋白质乳酸化修饰在肿瘤进展与免疫调控中的作用，其揭示的代谢重编程机制对研究血液肿瘤（如淋巴瘤、白血病）的微环境调控和靶向治疗具有潜在借鉴价值。
 
-摘要: Colorectal cancer \(CRC\) is a leading cause of cancer-related mortality, and its molecular heterogeneity continues to impede accurate prognostic assessment and effective treatment stratification. Emerging evidence indicates that protein lactylation, a recently identified post-translational modification linked to metabolic reprogramming, plays an important role in tumor progression, immune regulation, and therapeutic response in multiple cancers. However, its functional relevance and prognostic...
+摘要: Colorectal cancer (CRC) is a leading cause of cancer-related mortality, and its molecular heterogeneity continues to impede accurate prognostic assessment and effective treatment stratification. Emerging evidence indicates that protein lactylation, a recently identified post-translational modification linked to metabolic reprogramming, plays an important role in tumor progression, immune regulation, and therapeutic response in multiple cancers. However, its functional relevance and prognostic...
 
 ---
 
@@ -1107,7 +1107,7 @@
 
 推荐理由: 该研究揭示了蛋白质相互作用中一种未被报道的β-链交叉连接新机制，为理解蛋白质聚集及构象疾病（如某些血液系统淀粉样变性病）的分子基础提供了创新视角。
 
-摘要: β-Strand motifs are essential recognition modules in protein-protein interactions \(PPIs\), which govern cellular signaling networks and regulate molecular pathway dynamics. Herein we present an unexpected discovery of a previously uncharacterized β-strand insertion mechanism termed as cross-β-strand linking, wherein β-strands within the β-sheet-rich aggregates form inter-β-sheet connections through insertion into adjacent β-sheets. These cross-β-strand linkers comprise \<15% of the total β-strands...
+摘要: β-Strand motifs are essential recognition modules in protein-protein interactions (PPIs), which govern cellular signaling networks and regulate molecular pathway dynamics. Herein we present an unexpected discovery of a previously uncharacterized β-strand insertion mechanism termed as cross-β-strand linking, wherein β-strands within the β-sheet-rich aggregates form inter-β-sheet connections through insertion into adjacent β-sheets. These cross-β-strand linkers comprise \<15% of the total β-strands...
 
 ---
 
@@ -1123,7 +1123,7 @@
 
 推荐理由: 该研究提出了一种创新的导电分子印迹聚合物策略，协同调控传质与电子转移，对解决水中新兴污染物的高效去除具有重要参考价值；虽然不直接涉及血液疾病，但其在环境毒物控制方面的进展可能间接影响血液健康相关的暴露风险研究。
 
-摘要: Emerging contaminants \(ECs\) pose escalating global threats to water security and human health, driving urgent demands for advanced remediation; however, electrocatalytic elimination of trace ECs remains intrinsically constrained by dual limitations: diffusion of ultra-dilute pollutants and sluggish interfacial electron transfer. Here, we introduce an integrated strategy that synergistically regulates mass transport and electron transfer using a conductive molecularly imprinted polymer \(c-MIP\)...
+摘要: Emerging contaminants (ECs) pose escalating global threats to water security and human health, driving urgent demands for advanced remediation; however, electrocatalytic elimination of trace ECs remains intrinsically constrained by dual limitations: diffusion of ultra-dilute pollutants and sluggish interfacial electron transfer. Here, we introduce an integrated strategy that synergistically regulates mass transport and electron transfer using a conductive molecularly imprinted polymer (c-MIP)...
 
 ---
 
@@ -1139,7 +1139,7 @@
 
 推荐理由: 该研究虽聚焦海洋生物学，但通过对极端长寿物种视觉系统的多组学与功能分析，为理解生物在严酷环境中的适应与衰老机制提供了独特视角，可间接启发血液疾病中细胞耐受性与衰老相关研究。
 
-摘要: The Greenland shark \(Somniosus microcephalus\) is the longest-living vertebrate and inhabits the exceptionally dim and cold waters of the Arctic deep sea. Due to its extreme lifespan, harsh environmental conditions, and prevalent corneal parasitisation, the Greenland shark has previously been thought to have impaired or degenerated vision. Here, we present genomic, transcriptomic, histological and functional evidence that the Greenland shark retains an intact visual system well-adapted for life...
+摘要: The Greenland shark (Somniosus microcephalus) is the longest-living vertebrate and inhabits the exceptionally dim and cold waters of the Arctic deep sea. Due to its extreme lifespan, harsh environmental conditions, and prevalent corneal parasitisation, the Greenland shark has previously been thought to have impaired or degenerated vision. Here, we present genomic, transcriptomic, histological and functional evidence that the Greenland shark retains an intact visual system well-adapted for life...
 
 ---
 
@@ -1155,7 +1155,7 @@
 
 推荐理由: 该文章提出的DRAP3R技术是研究Pol III转录本方法的重大创新，其单分子长读长测序能力对揭示RNA修饰机制具有突破性意义，而RNA修饰异常与多种血液系统疾病（如骨髓增生异常综合征、白血病）的发生发展密切相关，因此该技术平台可为血液病研究提供重要的方法学借鉴。
 
-摘要: RNA polymerase III \(Pol III\) transcribes cytosolic transfer RNAs \(tRNAs\) and other non-coding RNAs \(ncRNAs\) essential to cellular function. However, many aspects of Pol III transcription and processing, including RNA modifications, remain poorly understood, mainly due to a lack of available sensitive and systematic methods for their analysis. Here, we present DRAP3R \(Direct Read and Analysis of Polymerase III transcribed RNAs\), a modified nanopore direct RNA sequencing approach and analysis...
+摘要: RNA polymerase III (Pol III) transcribes cytosolic transfer RNAs (tRNAs) and other non-coding RNAs (ncRNAs) essential to cellular function. However, many aspects of Pol III transcription and processing, including RNA modifications, remain poorly understood, mainly due to a lack of available sensitive and systematic methods for their analysis. Here, we present DRAP3R (Direct Read and Analysis of Polymerase III transcribed RNAs), a modified nanopore direct RNA sequencing approach and analysis...
 
 ---
 
@@ -1171,7 +1171,7 @@
 
 推荐理由: 该研究揭示了GPR110在代谢相关脂肪性肝炎中的性别特异性调控机制，其肝脏选择性受体靶点及代谢通路的研究思路对血液系统疾病（如骨髓代谢异常、血细胞生成调控）具有潜在借鉴价值。
 
-摘要: Metabolic dysfunction-associated steatohepatitis \(MASH\) is an important phase in the progression of metabolic dysfunction-associated steatotic liver disease to end-stage liver diseases, posing an increasing threat to public health worldwide with limited treatment options. Here we show that GPR110 is a liver-selective G-protein-coupled receptor closely associated with MASH in a sex-specific manner. Hepatocyte-specific Gpr110 knockout protects against MASH in female, but not male mice. The GPR110...
+摘要: Metabolic dysfunction-associated steatohepatitis (MASH) is an important phase in the progression of metabolic dysfunction-associated steatotic liver disease to end-stage liver diseases, posing an increasing threat to public health worldwide with limited treatment options. Here we show that GPR110 is a liver-selective G-protein-coupled receptor closely associated with MASH in a sex-specific manner. Hepatocyte-specific Gpr110 knockout protects against MASH in female, but not male mice. The GPR110...
 
 ---
 
@@ -1219,7 +1219,7 @@
 
 推荐理由: 
 
-摘要: Introducing and stabilizing oxygen vacancies in the lattice of oxide support materials has been a huge challenge to boost the catalytic activity in redox reaction. Herein, we fabricate porous single-crystalline Nb\(2\)O\(5\) monoliths at the centimeter scale, then we introduce the oxygen vacancies in lattice by reduction treatment and stabilize the oxygen vacancy defects by the ordered lattice. We then deposit Pt clusters at surface in the porous microstructures to construct an interfacial system...
+摘要: Introducing and stabilizing oxygen vacancies in the lattice of oxide support materials has been a huge challenge to boost the catalytic activity in redox reaction. Herein, we fabricate porous single-crystalline Nb(2)O(5) monoliths at the centimeter scale, then we introduce the oxygen vacancies in lattice by reduction treatment and stabilize the oxygen vacancy defects by the ordered lattice. We then deposit Pt clusters at surface in the porous microstructures to construct an interfacial system...
 
 ---
 
@@ -1251,7 +1251,7 @@
 
 推荐理由: 该研究通过伞状综述系统评估GLP-1受体激动剂的多重疗效与安全性，方法学严谨、证据全面，虽未直接聚焦血液疾病，但对研究代谢药物在血液系统共病患者中的应用具有重要参考价值。
 
-摘要: Glucagon-like peptide-1 receptor agonists \(GLP-1 RAs\) were initially approved for type 2 diabetes mellitus. Recent evidence suggests their therapeutic potential in various diseases, though their efficacy and safety remain incompletely understood. Here, we conduct an umbrella review including 123 meta-analyses covering 464 outcomes from 5617 articles to comprehensively assess the effectiveness and adverse events \(AEs\) of GLP-1 RAs across diverse outcomes. GLP-1 RAs showed trends toward...
+摘要: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) were initially approved for type 2 diabetes mellitus. Recent evidence suggests their therapeutic potential in various diseases, though their efficacy and safety remain incompletely understood. Here, we conduct an umbrella review including 123 meta-analyses covering 464 outcomes from 5617 articles to comprehensively assess the effectiveness and adverse events (AEs) of GLP-1 RAs across diverse outcomes. GLP-1 RAs showed trends toward...
 
 ---
 
@@ -1267,7 +1267,7 @@
 
 推荐理由: 该研究通过结构生物学手段揭示了犬瘟热病毒受体结合蛋白的脆弱位点，并筛选出强效中和性单域抗体，其研究思路与抗体开发策略对病毒相关血液学研究具有方法学上的借鉴价值。
 
-摘要: Despite vaccine availability, the morbilliviruses measles virus and canine distemper virus \(CDV\) are still causing major health impairments in human and animal populations. Here, we identified two potent, neutralizing single domain antibodies directed against the tetrameric receptor binding \(H\) protein of CDV. Structural analyses spotlighted two vulnerable sites within the H protein. While the first overlaps with the receptor binding site, the second encompasses amino acid residues of two...
+摘要: Despite vaccine availability, the morbilliviruses measles virus and canine distemper virus (CDV) are still causing major health impairments in human and animal populations. Here, we identified two potent, neutralizing single domain antibodies directed against the tetrameric receptor binding (H) protein of CDV. Structural analyses spotlighted two vulnerable sites within the H protein. While the first overlaps with the receptor binding site, the second encompasses amino acid residues of two...
 
 ---
 
@@ -1283,7 +1283,7 @@
 
 推荐理由: 该研究在神经形态器件层面创新性地实现了侧抑制机制，为仿生传感系统提供了新思路，虽与血液疾病无直接关联，但其跨通道协同调控机制对研究细胞间信号交互具有启发意义。
 
-摘要: Lateral inhibition refers to the inhibition of neurons as caused by excitation of its neighboring neurons, which helps increase the contrast and sharpness of touch, and pinpoint exact touch position. However, such important operational logic has not yet been realized in neuromorphic sensing systems at the device level. Herein, we demonstrate a cross-channel synaptic transistor \(CST\) that possesses two perpendicularly-integrated channels with separate source and drain electrodes but the same...
+摘要: Lateral inhibition refers to the inhibition of neurons as caused by excitation of its neighboring neurons, which helps increase the contrast and sharpness of touch, and pinpoint exact touch position. However, such important operational logic has not yet been realized in neuromorphic sensing systems at the device level. Herein, we demonstrate a cross-channel synaptic transistor (CST) that possesses two perpendicularly-integrated channels with separate source and drain electrodes but the same...
 
 ---
 
@@ -1299,7 +1299,7 @@
 
 推荐理由: 该研究采用纵向队列设计和系统代谢组学分析，方法学严谨，数据可靠，其大规模动态代谢物追踪策略对血液疾病生物标志物研究具有重要参考价值。
 
-摘要: Neurodevelopmental disorders \(NDD\) are characterized by impairments in brain development that affect motor and cognitive systems. Early identification of NDD risk factors is crucial for prevention. Metabolomic profiling holds promise for early detection but remains underexplored in longitudinal studies. Here, we map the longitudinal metabolomic profiles in 3212 samples covering 683 metabolites from 581 mother-child pairs at six timepoints in the Danish COPSAC\(2010\) cohort to assess childhood NDD...
+摘要: Neurodevelopmental disorders (NDD) are characterized by impairments in brain development that affect motor and cognitive systems. Early identification of NDD risk factors is crucial for prevention. Metabolomic profiling holds promise for early detection but remains underexplored in longitudinal studies. Here, we map the longitudinal metabolomic profiles in 3212 samples covering 683 metabolites from 581 mother-child pairs at six timepoints in the Danish COPSAC(2010) cohort to assess childhood NDD...
 
 ---
 
@@ -1315,7 +1315,7 @@
 
 推荐理由: 该研究开发的scFOCAL平台能有效解析肿瘤异质性与可塑性，其单细胞水平药物敏感性预测方法对血液肿瘤（如白血病异质性与耐药机制）的研究具有重要借鉴意义。
 
-摘要: Glioblastoma \(GBM\) remains the most common and lethal adult malignant primary brain cancer with few treatment options. A significant issue hindering GBM therapeutic development is intratumor heterogeneity and plasticity. GBM tumors contain neoplastic cells within a fluid spectrum of diverse transcriptional states. Identifying effective therapeutics requires a platform that predicts the differential sensitivity and resistance of these states to various treatments. Here, we develop scFOCAL...
+摘要: Glioblastoma (GBM) remains the most common and lethal adult malignant primary brain cancer with few treatment options. A significant issue hindering GBM therapeutic development is intratumor heterogeneity and plasticity. GBM tumors contain neoplastic cells within a fluid spectrum of diverse transcriptional states. Identifying effective therapeutics requires a platform that predicts the differential sensitivity and resistance of these states to various treatments. Here, we develop scFOCAL...
 
 ---
 
@@ -1331,7 +1331,7 @@
 
 推荐理由: 该研究基于大规模前瞻性队列，方法严谨且关注食品添加剂这一公共健康议题，虽不直接针对血液疾病，但其暴露评估方法对血液学中环境因子研究有借鉴意义。
 
-摘要: Experimental studies suggested potential adverse effects of preservative food additives, but epidemiological data are lacking. We aim to investigate associations between exposure to these compounds and type 2 diabetes incidence in the NutriNet-Santé prospective cohort \(n = 108,723; 79.2%women; mean age=42.5 \(SD = 14.6\); France, 2009-2023\). Dietary intakes are assessed using repeated 24h-dietary records. Exposure is evaluated through multiple composition databases and ad-hoc laboratory assays in...
+摘要: Experimental studies suggested potential adverse effects of preservative food additives, but epidemiological data are lacking. We aim to investigate associations between exposure to these compounds and type 2 diabetes incidence in the NutriNet-Santé prospective cohort (n = 108,723; 79.2%women; mean age=42.5 (SD = 14.6); France, 2009-2023). Dietary intakes are assessed using repeated 24h-dietary records. Exposure is evaluated through multiple composition databases and ad-hoc laboratory assays in...
 
 ---
 
@@ -1352,7 +1352,7 @@
 ---
 
 
-== #85. Contextualizing T\<sub\>H\</sub\>17 cells in cancer
+== #85. Contextualizing T&lt;sub&gt;H&lt;/sub&gt;17 cells in cancer
 
 - **研究分数**: #78
 - **社会影响**: #65
@@ -1361,9 +1361,9 @@
 - **DOI**: #10.1038/s41577-025-01250-6
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41495217/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101124169&fc=None&ff=20260107215744&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该综述深入探讨了T\(H\)17细胞在肿瘤免疫中的双重作用，其机制解析对血液肿瘤（如淋巴瘤、白血病）的免疫治疗研究具有直接借鉴价值，有助于理解免疫微环境的复杂调控。
+推荐理由: 该综述深入探讨了T(H)17细胞在肿瘤免疫中的双重作用，其机制解析对血液肿瘤（如淋巴瘤、白血病）的免疫治疗研究具有直接借鉴价值，有助于理解免疫微环境的复杂调控。
 
-摘要: The immune system has evolved intricate and sophisticated mechanisms to recognize and eliminate tumours. Among these, T helper 17 \(T\(H\)17\) cells seem to have a complex role in tumour immunity. Substantial evidence indicates that T\(H\)17 cells can impair the ability of immune cells to kill tumours, but growing research suggests that T\(H\)17 cells may also be crucial for facilitating effective antitumour immune responses. This apparent paradox is likely rooted, at least in part, in the remarkable...
+摘要: The immune system has evolved intricate and sophisticated mechanisms to recognize and eliminate tumours. Among these, T helper 17 (T(H)17) cells seem to have a complex role in tumour immunity. Substantial evidence indicates that T(H)17 cells can impair the ability of immune cells to kill tumours, but growing research suggests that T(H)17 cells may also be crucial for facilitating effective antitumour immune responses. This apparent paradox is likely rooted, at least in part, in the remarkable...
 
 ---
 
@@ -1379,7 +1379,7 @@
 
 推荐理由: 该文章系统阐述了硬膜后穿刺头痛的病理机制与临床表现，对麻醉科和神经内科临床实践具有明确的指导意义，尤其有助于鉴别和处理此类医源性并发症。
 
-摘要: Post-dural puncture headache \(PDPH\) is a frequent yet often underestimated complication of neuraxial anesthesia. The presumed mechanism involves cerebrospinal fluid loss due to accidental dural perforation, leading to intracranial hypotension and a secondary compensatory vasodilation. Meningeal irritation and neuroinflammatory processes also contribute to the complex pathophysiology. The main symptom is a severe orthostatic headache with pain exacerbation in an upright posture. This can be...
+摘要: Post-dural puncture headache (PDPH) is a frequent yet often underestimated complication of neuraxial anesthesia. The presumed mechanism involves cerebrospinal fluid loss due to accidental dural perforation, leading to intracranial hypotension and a secondary compensatory vasodilation. Meningeal irritation and neuroinflammatory processes also contribute to the complex pathophysiology. The main symptom is a severe orthostatic headache with pain exacerbation in an upright posture. This can be...
 
 ---
 
@@ -1395,7 +1395,7 @@
 
 推荐理由: 该研究针对染色质空间互作分析中的非同源染色体接触（NHCCs）识别空白，提供了专门的计算工具iceDP，对血液疾病中染色体空间结构与基因调控机制的研究具有直接的方法学借鉴价值。
 
-摘要: Chromatin topological structure is critical for gene regulation. Hi-C based experiments have significantly advanced our understanding chromatin organization. Numerous computational tools have been developed to identify various structural levels of chromatin, ranging from compartments to loops. However, there remains a lack of specialized tools for identifying non-homologous inter-chromatin contacts \(NHCCs\), which play important roles in chromosome territories. In this study, we present iceDP, a...
+摘要: Chromatin topological structure is critical for gene regulation. Hi-C based experiments have significantly advanced our understanding chromatin organization. Numerous computational tools have been developed to identify various structural levels of chromatin, ranging from compartments to loops. However, there remains a lack of specialized tools for identifying non-homologous inter-chromatin contacts (NHCCs), which play important roles in chromosome territories. In this study, we present iceDP, a...
 
 ---
 
@@ -1411,7 +1411,7 @@
 
 推荐理由: 该文章在方法论上具有高度创新性和严谨性，其基于连接组学的自动神经元分类方法为跨学科研究（如细胞网络分析）提供了可借鉴的计算框架。
 
-摘要: Recent advances in electron microscopy and computer vision now allow the reconstruction of complete wiring diagrams, or connectomes, of animal brains. This creates an urgent need for methods that can automatically identify neuronal cell types directly from these large connectivity datasets. Here we show that synaptic connectivity alone can be used to assign neurons to cell types with high accuracy. We introduce NTAC \(Neuronal Type Assignment from Connectivity\), which groups neurons based only on...
+摘要: Recent advances in electron microscopy and computer vision now allow the reconstruction of complete wiring diagrams, or connectomes, of animal brains. This creates an urgent need for methods that can automatically identify neuronal cell types directly from these large connectivity datasets. Here we show that synaptic connectivity alone can be used to assign neurons to cell types with high accuracy. We introduce NTAC (Neuronal Type Assignment from Connectivity), which groups neurons based only on...
 
 ---
 
@@ -1448,7 +1448,7 @@
 ---
 
 
-== #91. Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma \(GINECO window-of-opportunity COLIBRI study\): a phase II trial
+== #91. Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma (GINECO window-of-opportunity COLIBRI study): a phase II trial
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -1459,7 +1459,7 @@
 
 推荐理由: 该研究展示了免疫联合疗法在局部晚期宫颈癌中的前沿探索，其免疫调节机制的分析为肿瘤免疫治疗策略提供了可借鉴的思路，尤其对涉及免疫微环境调控的血液肿瘤研究有一定参考价值。
 
-摘要: Combining immunotherapy with chemoradiation is effective in locally advanced cervical cancer. However, the impact of induction combination immunotherapy on immune modulation and treatment response is poorly understood. In this phase II trial \(NCT04256213\), 40 females with locally advanced cervical carcinoma received one cycle of nivolumab-plus-ipilimumab immunotherapy before standard chemoradiation, followed by maintenance nivolumab. We show, using multiplex-immunofluorescence tissue imaging, a...
+摘要: Combining immunotherapy with chemoradiation is effective in locally advanced cervical cancer. However, the impact of induction combination immunotherapy on immune modulation and treatment response is poorly understood. In this phase II trial (NCT04256213), 40 females with locally advanced cervical carcinoma received one cycle of nivolumab-plus-ipilimumab immunotherapy before standard chemoradiation, followed by maintenance nivolumab. We show, using multiplex-immunofluorescence tissue imaging, a...
 
 ---
 
@@ -1475,7 +1475,7 @@
 
 推荐理由: 该研究通过靶向ACLY和ACSS2抑制脂质合成，为代谢相关脂肪肝的机制与治疗提供了新视角，其涉及的代谢应激和纤维化通路对血液疾病（如骨髓纤维化或代谢异常相关血液病）的研究具有潜在借鉴价值。
 
-摘要: Lipogenesis is one of the main drivers of metabolic dysfunction-associated steatotic liver disease \(MASLD\). The previewed work decreased acetyl-CoA by inhibiting ATP citrate lyase \(ACLY\) and acyl-CoA synthetase short-chain family member 2 \(ACSS2\) via EVT0185, thus inhibiting lipogenesis, hepatocyte metabolic stress, and hepatic stellate cell activation, reducing liver fibrosis.
+摘要: Lipogenesis is one of the main drivers of metabolic dysfunction-associated steatotic liver disease (MASLD). The previewed work decreased acetyl-CoA by inhibiting ATP citrate lyase (ACLY) and acyl-CoA synthetase short-chain family member 2 (ACSS2) via EVT0185, thus inhibiting lipogenesis, hepatocyte metabolic stress, and hepatic stellate cell activation, reducing liver fibrosis.
 
 ---
 
@@ -1491,12 +1491,12 @@
 
 推荐理由: 该文章报道了Matteson同系化反应的重要方法学改进，简化了操作并提高了实用性，虽然不直接针对血液疾病，但其高效的碳链延伸策略可为合成血液病相关药物分子或探针提供有价值的合成工具借鉴。
 
-摘要: The Matteson homologation, first developed in 1980, elongates carbon chains by insertion into a C-B bond.¹ This versatile reaction traditionally requires three steps: carbanion formation, nucleophilic addition to organoboron, and a thermo- or Lewis acid-promoted boronate rearrangement. These processes often demand exacting conditions, including cryogenic temperatures and handling of air- and moisture-sensitive reagents.^\(2,3\) Here, we report a Matteson-type homologation which integrates these...
+摘要: The Matteson homologation, first developed in 1980, elongates carbon chains by insertion into a C-B bond.¹ This versatile reaction traditionally requires three steps: carbanion formation, nucleophilic addition to organoboron, and a thermo- or Lewis acid-promoted boronate rearrangement. These processes often demand exacting conditions, including cryogenic temperatures and handling of air- and moisture-sensitive reagents.^(2,3) Here, we report a Matteson-type homologation which integrates these...
 
 ---
 
 
-== #94. The Role and Mechanism of Post-Translational Modifications \(PTMs\) in Immune-Related Eye Diseases
+== #94. The Role and Mechanism of Post-Translational Modifications (PTMs) in Immune-Related Eye Diseases
 
 - **研究分数**: #75
 - **社会影响**: #40
@@ -1507,7 +1507,7 @@
 
 推荐理由: 该综述系统梳理了蛋白质翻译后修饰的类型与机制，为血液病相关蛋白质功能异常研究提供了基础理论框架，尤其适用于探索血液肿瘤或凝血疾病中的表观遗传调控机制。
 
-摘要: Post-translational modifications \(PTMs\) encompass the spectrum of chemical covalent alterations that proteins undergo after being synthesized from mRNA. These modifications typically involve the covalent bonding of chemical groups or small protein molecules to the amino acid backbones or side chains. Currently, over 650 types of PTMs have been identified, including significant ones such as phosphorylation, ubiquitination, SUMOylation, methylation, acetylation, glycosylation, among other novel...
+摘要: Post-translational modifications (PTMs) encompass the spectrum of chemical covalent alterations that proteins undergo after being synthesized from mRNA. These modifications typically involve the covalent bonding of chemical groups or small protein molecules to the amino acid backbones or side chains. Currently, over 650 types of PTMs have been identified, including significant ones such as phosphorylation, ubiquitination, SUMOylation, methylation, acetylation, glycosylation, among other novel...
 
 ---
 
@@ -1571,7 +1571,7 @@
 
 推荐理由: 该研究提出的hybrid-EDA成像框架在活细胞长时程观测方法上具有重要创新，通过事件驱动采集策略减少光毒性，对研究造血细胞动态、罕见细胞事件或血液肿瘤细胞的实时行为具有潜在借鉴价值。
 
-摘要: Fluorescence microscopy offers unparalleled access to the spatial organization and dynamics of biological events in living samples, yet capturing rare processes over extended durations remains challenging due to trade-offs between exposure to excitation light and sample health. Here, we introduce hybrid-EDA, an event-driven acquisition \(EDA\) framework that combines the gentleness and contextual richness of phase-contrast with the functional specificity of fluorescence. We develop surveillance...
+摘要: Fluorescence microscopy offers unparalleled access to the spatial organization and dynamics of biological events in living samples, yet capturing rare processes over extended durations remains challenging due to trade-offs between exposure to excitation light and sample health. Here, we introduce hybrid-EDA, an event-driven acquisition (EDA) framework that combines the gentleness and contextual richness of phase-contrast with the functional specificity of fluorescence. We develop surveillance...
 
 ---
 
@@ -1587,7 +1587,7 @@
 
 推荐理由: 该研究采用大队列出生样本与蛋白质组学分析，揭示了1型糖尿病发病前多年的炎症信号变化，其关于中性粒细胞迁移、细胞毒性等蛋白的发现可为血液病研究中免疫相关机制提供可借鉴的思路与方法。
 
-摘要: Type 1 diabetes \(T1D\) is increasing globally, yet the earliest biological determinants remain poorly defined, particularly in general population studies. We studied the Swedish population-based ABIS birth cohort \(n = 16,683\) to identify early-life risk factors. Olink proteomic analysis \(n = 286 controls, n = 146 cases\) of inflammatory signals at birth shows differential abundance years before diagnosis \(mean age 12.6 years\), with proteins enriched for neutrophil migration, cytotoxicity,...
+摘要: Type 1 diabetes (T1D) is increasing globally, yet the earliest biological determinants remain poorly defined, particularly in general population studies. We studied the Swedish population-based ABIS birth cohort (n = 16,683) to identify early-life risk factors. Olink proteomic analysis (n = 286 controls, n = 146 cases) of inflammatory signals at birth shows differential abundance years before diagnosis (mean age 12.6 years), with proteins enriched for neutrophil migration, cytotoxicity,...
 
 ---
 
@@ -1603,7 +1603,7 @@
 
 推荐理由: 该研究提出的CSA-LAG方法在药物晶型稳定性研究方面具有显著的方法学创新性，虽然不直接针对血液疾病，但其在药物固态研发中的技术思路对血液病药物制剂开发有潜在借鉴价值。
 
-摘要: Crystalline solvates, including hydrates, hold untapped potential in pharmaceutical development, yet their exploitation remains minimal due to the difficult and laborious task of unequivocally establishing their physical stabilities. We introduce Controlled Solvent-Activity Liquid-Assisted Grinding \(CSA-LAG\), a mechanochemical protocol that offers solvate phase boundary elucidation by varying the activity of a chosen solvent in defined binary/ternary mixtures and analysing the equilibrated...
+摘要: Crystalline solvates, including hydrates, hold untapped potential in pharmaceutical development, yet their exploitation remains minimal due to the difficult and laborious task of unequivocally establishing their physical stabilities. We introduce Controlled Solvent-Activity Liquid-Assisted Grinding (CSA-LAG), a mechanochemical protocol that offers solvate phase boundary elucidation by varying the activity of a chosen solvent in defined binary/ternary mixtures and analysing the equilibrated...
 
 ---
 
@@ -1624,7 +1624,7 @@
 ---
 
 
-== #102. Efficacy and safety of cAMP signalling-biased GLP-1 analogue ecnoglutide monotherapy versus placebo in patients with type 2 diabetes \(EECOH-1\): a multi-centre, randomised, double-blind, placebo-controlled, phase 3 trial
+== #102. Efficacy and safety of cAMP signalling-biased GLP-1 analogue ecnoglutide monotherapy versus placebo in patients with type 2 diabetes (EECOH-1): a multi-centre, randomised, double-blind, placebo-controlled, phase 3 trial
 
 - **研究分数**: #85
 - **社会影响**: #90
@@ -1635,7 +1635,7 @@
 
 推荐理由: 该研究设计严谨，作为GLP-1类似物的三期临床试验对代谢疾病领域有重要参考价值，但其与血液疾病的直接关联有限，主要可借鉴其临床试验方法论。
 
-摘要: Ecnoglutide is a cAMP-biased GLP-1 analogue developed for the treatment of type 2 diabetes mellitus \(T2DM\) and obesity. We conducted a randomised, double-blind, placebo-controlled, phase 3 trial to evaluate the efficacy and safety of ecnoglutide in adults with T2DM inadequately controlled with diet and exercise alone or with a single oral hypoglycaemic agent. The primary endpoint was change in glycated haemoglobin \(HbA\(1c\)\) from baseline at week 24. Between 29 December 2022 and 12 June 2024, 211...
+摘要: Ecnoglutide is a cAMP-biased GLP-1 analogue developed for the treatment of type 2 diabetes mellitus (T2DM) and obesity. We conducted a randomised, double-blind, placebo-controlled, phase 3 trial to evaluate the efficacy and safety of ecnoglutide in adults with T2DM inadequately controlled with diet and exercise alone or with a single oral hypoglycaemic agent. The primary endpoint was change in glycated haemoglobin (HbA(1c)) from baseline at week 24. Between 29 December 2022 and 12 June 2024, 211...
 
 ---
 
@@ -1672,7 +1672,7 @@
 ---
 
 
-== #105. Refrigeration down to 0.16 K using a frustrated magnet Gd\<sub\>2\</sub\>B\<sub\>2\</sub\>MoO\<sub\>9\</sub\>
+== #105. Refrigeration down to 0.16 K using a frustrated magnet Gd&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt;MoO&lt;sub&gt;9&lt;/sub&gt;
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1683,7 +1683,7 @@
 
 推荐理由: 该研究在超低温磁制冷材料领域取得了重要进展，虽然不直接涉及血液疾病，但其涉及的钆基材料在医学影像学（如MRI造影剂）中有潜在关联，可为相关交叉学科研究提供材料学借鉴。
 
-摘要: Magnetic refrigeration, utilizing the magnetocaloric effect in solid-state magnets, has emerged as a promising cooling technology. The development of practical ultra-low-temperature magnetic refrigeration applications has been limited by the absence of high-performance magnetic refrigerants. Herein, we provide a frustrated Gadolinium-dominated magnet, Gd\(2\)B\(2\)MoO\(9\) oxide, which exhibits remarkable ultra-low temperature magnetocaloric performances. The maximum magnetic entropy changes reach...
+摘要: Magnetic refrigeration, utilizing the magnetocaloric effect in solid-state magnets, has emerged as a promising cooling technology. The development of practical ultra-low-temperature magnetic refrigeration applications has been limited by the absence of high-performance magnetic refrigerants. Herein, we provide a frustrated Gadolinium-dominated magnet, Gd(2)B(2)MoO(9) oxide, which exhibits remarkable ultra-low temperature magnetocaloric performances. The maximum magnetic entropy changes reach...
 
 ---
 
@@ -1699,12 +1699,12 @@
 
 推荐理由: 该文章在柔性可穿戴传感技术方面具有显著的创新性和方法学严谨性，虽与血液疾病无直接关联，但其高精度动态捕捉技术可为血液病相关运动功能评估或康复器械研发提供跨学科思路参考。
 
-摘要: Current hand tracking technologies often suffer from inconsistent accuracy due to occlusion, electromagnetic interference, and ambiguous signals from soft sensors. These limitations hinder reliable motion capture for advanced human-machine interaction. To overcome them, we propose a liquid metal dynamic wetting-based flexible and wearable inertial skeletal tracking \(FWIST\) system. The system integrates 16 FWIST units on the hand to capture palm pitch/roll and finger bending angles in real time...
+摘要: Current hand tracking technologies often suffer from inconsistent accuracy due to occlusion, electromagnetic interference, and ambiguous signals from soft sensors. These limitations hinder reliable motion capture for advanced human-machine interaction. To overcome them, we propose a liquid metal dynamic wetting-based flexible and wearable inertial skeletal tracking (FWIST) system. The system integrates 16 FWIST units on the hand to capture palm pitch/roll and finger bending angles in real time...
 
 ---
 
 
-== #107. Ferroelectric switching of interfacial dipoles in α-RuCl\<sub\>3\</sub\>/graphene heterostructure
+== #107. Ferroelectric switching of interfacial dipoles in α-RuCl&lt;sub&gt;3&lt;/sub&gt;/graphene heterostructure
 
 - **研究分数**: #80
 - **社会影响**: #20
@@ -1715,7 +1715,7 @@
 
 推荐理由: 该研究在二维异质结中实现了一种新颖的纯界面电荷转移型铁电开关机制，方法严谨，在凝聚态物理领域具有较高创新性；但对血液疾病研究无直接关联，可借鉴性有限，仅建议相关交叉领域研究者参考其界面调控思路。
 
-摘要: We demonstrate electrically switchable, non-volatile dipoles in graphene/thin hBN/α-RuCl\(3\)alpha-RuCl3 heterostructures, stabilized purely by interfacial charge transfer across an atomically thin dielectric barrier. This mechanism requires no sliding or twisting to explicitly break inversion symmetry and produces robust ferroelectric-like hysteresis loops that emerge prominently near 30 K. Systematic measurements under strong in-plane and out-of-plane magnetic fields reveal negligible effects on...
+摘要: We demonstrate electrically switchable, non-volatile dipoles in graphene/thin hBN/α-RuCl(3)alpha-RuCl3 heterostructures, stabilized purely by interfacial charge transfer across an atomically thin dielectric barrier. This mechanism requires no sliding or twisting to explicitly break inversion symmetry and produces robust ferroelectric-like hysteresis loops that emerge prominently near 30 K. Systematic measurements under strong in-plane and out-of-plane magnetic fields reveal negligible effects on...
 
 ---
 
@@ -1731,7 +1731,7 @@
 
 推荐理由: 该研究在无线神经调控领域提出了创新的拓扑纤维结构声电容设计，材料科学方法严谨，但直接与血液疾病的相关性较弱，主要借鉴价值在于其跨学科的材料研发思路。
 
-摘要: Capacitively coupled electrical stimulation modulates neuronal activity through reversible charging and without charge transfer reactions. This represents a promising and safe neuromodulation scheme but achieving wireless and high capacitive charge density injection remains challenging. Here, we developed a topological fibrous-architecture sonocapacitor \(SonoCap\) that assembled from piezoelectric-dielectric composite nanosphere \(UCapT\) and two-dimensional cellulose. UCapT features a unique...
+摘要: Capacitively coupled electrical stimulation modulates neuronal activity through reversible charging and without charge transfer reactions. This represents a promising and safe neuromodulation scheme but achieving wireless and high capacitive charge density injection remains challenging. Here, we developed a topological fibrous-architecture sonocapacitor (SonoCap) that assembled from piezoelectric-dielectric composite nanosphere (UCapT) and two-dimensional cellulose. UCapT features a unique...
 
 ---
 
@@ -1763,7 +1763,7 @@
 
 推荐理由: 该研究虽未直接聚焦血液疾病，但其对非编码区微蛋白结构演化规律的探索，为血液肿瘤相关非编码突变或新抗原研究提供了潜在的分析框架与思路借鉴。
 
-摘要: Noncoding regions in eukaryotes are extensively expressed and represent a significant source of novel microproteins, some of which become fixed as de novo genes. However, the structural properties of these unevolved products and the features driving their fixation remain poorly understood. Particularly, the influence of nucleotide composition \(GC content\) on their structural properties and evolutionary trajectories is still unclear. Here, we predict the foldability and sequence properties of...
+摘要: Noncoding regions in eukaryotes are extensively expressed and represent a significant source of novel microproteins, some of which become fixed as de novo genes. However, the structural properties of these unevolved products and the features driving their fixation remain poorly understood. Particularly, the influence of nucleotide composition (GC content) on their structural properties and evolutionary trajectories is still unclear. Here, we predict the foldability and sequence properties of...
 
 ---
 
@@ -1779,7 +1779,7 @@
 
 推荐理由: 该研究深入揭示了原核Argonaute蛋白的非特异性核酸酶活性的结构基础，为理解原核生物防御机制提供了重要见解，对核酸酶学及抗病毒机制研究具有较高参考价值。
 
-摘要: The short prokaryotic Argonaute \(pAgo\) proteins, in conjunction with their associated effector molecules, constitute a defence mechanism in prokaryotes that protects against phage infections. The SPARDA is characterized by its collateral nuclease activity, which, upon activation through target DNA recognition, non-specifically cleaves a wide range of nucleic acid substrates. Nevertheless, the structural underpinnings of its collateral activity have remained elusive. In this study, we investigate...
+摘要: The short prokaryotic Argonaute (pAgo) proteins, in conjunction with their associated effector molecules, constitute a defence mechanism in prokaryotes that protects against phage infections. The SPARDA is characterized by its collateral nuclease activity, which, upon activation through target DNA recognition, non-specifically cleaves a wide range of nucleic acid substrates. Nevertheless, the structural underpinnings of its collateral activity have remained elusive. In this study, we investigate...
 
 ---
 
@@ -1827,7 +1827,7 @@
 
 推荐理由: 该研究采用多组学和多队列设计，方法学严谨，在肠道真菌组领域具有创新性；虽然不直接聚焦血液疾病，但其对黏膜免疫和慢性炎症机制的深入探讨可为血液系统炎症性疾病研究提供间接参考。
 
-摘要: Crohn's disease \(CD\) is a subtype of inflammatory bowel disease that most commonly affects the terminal ileum and is associated with abnormal gut microbiome composition. However, the fungi of the small bowel mucosa and their metabolic functions, particularly protective ones, remain largely unexplored. We enrolled patients with CD and healthy individuals from three independent cohorts and conducted multi-omics profiling of the ileal mucosal mycobiome and bacteriome, along with the faecal...
+摘要: Crohn's disease (CD) is a subtype of inflammatory bowel disease that most commonly affects the terminal ileum and is associated with abnormal gut microbiome composition. However, the fungi of the small bowel mucosa and their metabolic functions, particularly protective ones, remain largely unexplored. We enrolled patients with CD and healthy individuals from three independent cohorts and conducted multi-omics profiling of the ileal mucosal mycobiome and bacteriome, along with the faecal...
 
 ---
 
@@ -1859,7 +1859,7 @@
 
 推荐理由: 该研究在单细胞测序方法和神经精神疾病机制探索上具有高度严谨性与创新性，但其研究焦点为双相情感障碍的丘脑转录组病理，与血液疾病领域直接关联较弱，仅在其高通量测序数据分析方法上对血液病研究有一定可借鉴性。
 
-摘要: Bipolar disorder \(BD\) is a major global health burden, and its treatment challenges highlight the need for pathology-based therapeutic development. Emerging evidence suggests that the thalamus, particularly the paraventricular thalamic nucleus \(PVT\), is a key region in mood regulation. We performed single-nucleus RNA sequencing on 82 thalamic and cortical samples from 21 patients with BD and 20 controls to compare transcriptional pathology. PVT neurons showed the most striking abnormalities,...
+摘要: Bipolar disorder (BD) is a major global health burden, and its treatment challenges highlight the need for pathology-based therapeutic development. Emerging evidence suggests that the thalamus, particularly the paraventricular thalamic nucleus (PVT), is a key region in mood regulation. We performed single-nucleus RNA sequencing on 82 thalamic and cortical samples from 21 patients with BD and 20 controls to compare transcriptional pathology. PVT neurons showed the most striking abnormalities,...
 
 ---
 
@@ -1891,7 +1891,7 @@
 
 推荐理由: 该文章清晰阐述了血管性血友病的基本病理机制与临床表现，对血液科医生理解这一遗传性出血疾病具有扎实的参考价值，适合用于临床知识巩固或教学。
 
-摘要: von Willebrand disease \(VWD\) is a hereditary bleeding disorder first described by Erik von Willebrand in 1926. The disease is characterized by frequent bruising, bleeding from minor wounds, nosebleeds, heavy menstrual bleeding, bleeding after tooth extraction, gastrointestinal bleeding, and joint bleeds. The underlying cause of VWD was identified 45 years later as a deficiency of von Willebrand factor \(VWF\), a high-molecular-weight protein that circulates with factor VIII in plasma. The clinical...
+摘要: von Willebrand disease (VWD) is a hereditary bleeding disorder first described by Erik von Willebrand in 1926. The disease is characterized by frequent bruising, bleeding from minor wounds, nosebleeds, heavy menstrual bleeding, bleeding after tooth extraction, gastrointestinal bleeding, and joint bleeds. The underlying cause of VWD was identified 45 years later as a deficiency of von Willebrand factor (VWF), a high-molecular-weight protein that circulates with factor VIII in plasma. The clinical...
 
 ---
 
@@ -1907,7 +1907,7 @@
 
 推荐理由: 该研究在环境科学领域具有重要价值，揭示了人类活动对沉积物和碳通量的大规模影响，但对血液疾病研究缺乏直接关联，仅适合跨学科背景参考。
 
-摘要: The disturbance and relocation of coastal sediments by human activities constitutes a potentially large disruption to natural sediment and organic carbon fluxes, but large-scale estimates of these impacts are lacking. Here, we estimate the amounts of sediment and organic carbon disturbed and relocated in the North Sea resulting from \(1\) dredging in the form of mineral aggregate extraction and \(2\) material dumping during waterway maintenance. We show that despite disturbing less sediment than...
+摘要: The disturbance and relocation of coastal sediments by human activities constitutes a potentially large disruption to natural sediment and organic carbon fluxes, but large-scale estimates of these impacts are lacking. Here, we estimate the amounts of sediment and organic carbon disturbed and relocated in the North Sea resulting from (1) dredging in the form of mineral aggregate extraction and (2) material dumping during waterway maintenance. We show that despite disturbing less sediment than...
 
 ---
 
@@ -1923,7 +1923,7 @@
 
 推荐理由: 该研究在催化剂表面氧空位原位再生方法上具有显著创新性与技术参考价值，但其研究主题与血液疾病直接关联较弱，可作为交叉学科的材料表面改性思路间接借鉴。
 
-摘要: Oxygen vacancies \(O\(v\)\) on metal oxide surfaces exhibit high catalytic activity for activating peroxymonosulfate \(PMS\) in wastewater decontamination, yet their in-situ regeneration remains a significant challenge. This study successfully achieves in-situ real-time regeneration of O\(v\) on CuO surfaces through simple alkali etching without interrupting the contaminant removal process. The surface hydroxyl groups introduced by alkali treatment significantly reduce the formation energy of O\(v\) on...
+摘要: Oxygen vacancies (O(v)) on metal oxide surfaces exhibit high catalytic activity for activating peroxymonosulfate (PMS) in wastewater decontamination, yet their in-situ regeneration remains a significant challenge. This study successfully achieves in-situ real-time regeneration of O(v) on CuO surfaces through simple alkali etching without interrupting the contaminant removal process. The surface hydroxyl groups introduced by alkali treatment significantly reduce the formation energy of O(v) on...
 
 ---
 
@@ -2056,7 +2056,7 @@
 ---
 
 
-== #129. The Role and Mechanism of Post-Translational Modifications \(PTMs\) in Immune-Related Eye Diseases
+== #129. The Role and Mechanism of Post-Translational Modifications (PTMs) in Immune-Related Eye Diseases
 
 - **研究分数**: #65
 - **社会影响**: #30
@@ -2067,7 +2067,7 @@
 
 推荐理由: 该摘要提供了蛋白质翻译后修饰（PTMs）的全面基础概述，这对于理解血液系统疾病中异常蛋白质功能与修饰（如甲基化在白血病中的作用）的分子机制具有重要的背景知识价值。
 
-摘要: Post-translational modifications \(PTMs\) encompass the spectrum of chemical covalent alterations that proteins undergo after being synthesized from mRNA. These modifications typically involve the covalent bonding of chemical groups or small protein molecules to the amino acid backbones or side chains. Currently, over 650 types of PTMs have been identified, including significant ones such as phosphorylation, ubiquitination, SUMOylation, methylation, acetylation, glycosylation, among other novel...
+摘要: Post-translational modifications (PTMs) encompass the spectrum of chemical covalent alterations that proteins undergo after being synthesized from mRNA. These modifications typically involve the covalent bonding of chemical groups or small protein molecules to the amino acid backbones or side chains. Currently, over 650 types of PTMs have been identified, including significant ones such as phosphorylation, ubiquitination, SUMOylation, methylation, acetylation, glycosylation, among other novel...
 
 ---
 
@@ -2083,7 +2083,7 @@
 
 推荐理由: 该研究虽聚焦于水处理技术，但其揭示的石灰石电化学系统对钙/磷沉淀的调控机制，可能为血液领域研究病理性钙化或磷代谢异常提供间接的工程学借鉴思路。
 
-摘要: Lime-based precipitation, though widely adopted for wastewater phosphorus \(P\) removal, suffers from surface passivation. The passivation layer inhibits Ca^\(2+\) release, forcing excessive dosing while yielding low-quality sludge and effluent with elevated hardness and pH. Limestone, despite its economic and environmental benefits, exhibits limited efficacy under fluctuating alkalinity. Here, we develop a limestone-integrated electrochemical system that spatially decouples the dissolution and...
+摘要: Lime-based precipitation, though widely adopted for wastewater phosphorus (P) removal, suffers from surface passivation. The passivation layer inhibits Ca^(2+) release, forcing excessive dosing while yielding low-quality sludge and effluent with elevated hardness and pH. Limestone, despite its economic and environmental benefits, exhibits limited efficacy under fluctuating alkalinity. Here, we develop a limestone-integrated electrochemical system that spatially decouples the dissolution and...
 
 ---
 
@@ -2099,7 +2099,7 @@
 
 推荐理由: 该文章主要聚焦于神经科学领域的行为动机机制研究，虽与血液疾病无直接关联，但其对跨物种目标导向行为的神经基础探讨，或可间接为研究应激、情绪等因素相关的血液疾病（如免疫性血液病）提供神经-免疫交叉学科的启发思路。
 
-摘要: Animals continuously evaluate their surroundings to decide whether to approach rewarding opportunities or avoid potential threats. Assigning the appropriate importance to environmental stimuli is not only crucial for survival but also underlies complex forms of goal-directed behaviour that are shared across species, including humans^\(1-4\). Understanding how the brain translates such sensory cues into motivated behaviours is, therefore, central to neuroscience and psychology. The dorsomedial...
+摘要: Animals continuously evaluate their surroundings to decide whether to approach rewarding opportunities or avoid potential threats. Assigning the appropriate importance to environmental stimuli is not only crucial for survival but also underlies complex forms of goal-directed behaviour that are shared across species, including humans^(1-4). Understanding how the brain translates such sensory cues into motivated behaviours is, therefore, central to neuroscience and psychology. The dorsomedial...
 
 ---
 
@@ -2115,7 +2115,7 @@
 
 推荐理由: 该文章在有机合成方法学上具有高度创新性和技术严谨性，但其内容与血液疾病研究无直接关联，仅可能在合成相关药物分子时提供间接参考价值。
 
-摘要: Despite the widespread presence of all-carbon quaternary centers in natural products and bioactive compounds, a concise construction strategy remains very challenging. Herein, we introduce a highly controllable sequential dechlorination strategy of tetrachloromethane by means of relay catalysis with different photocatalysts of eosin Y, 1,2,3,5-tetrakis\(carbazol-9-yl\)-4,6-dicyanobenzene and Au\(2\)\(µ-dcpm\)\(2\)Cl\(2\). Four C-Cl bonds in CCl\(4\) can undergo sequential, highly selective cleavage by...
+摘要: Despite the widespread presence of all-carbon quaternary centers in natural products and bioactive compounds, a concise construction strategy remains very challenging. Herein, we introduce a highly controllable sequential dechlorination strategy of tetrachloromethane by means of relay catalysis with different photocatalysts of eosin Y, 1,2,3,5-tetrakis(carbazol-9-yl)-4,6-dicyanobenzene and Au(2)(µ-dcpm)(2)Cl(2). Four C-Cl bonds in CCl(4) can undergo sequential, highly selective cleavage by...
 
 ---
 
@@ -2131,7 +2131,7 @@
 
 推荐理由: 该文章在膜分离技术领域展示了创新的界面聚合调控策略，具有较高的方法学参考价值，但与血液疾病研究无直接关联，仅可能间接启发血液净化或透析设备的技术改进。
 
-摘要: Nanofiltration \(NF\) is a key membrane separation technology that is promising in various chemical and environmental applications. The need for high-performance thin-film composite \(TFC\) NF membranes, particularly those with enhanced salt selectivity and fouling resistance, necessitates effective strategies for optimizing their fabrication processes-interfacial polymerization \(IP\). In this study, we demonstrate an effective strategy for fine-tuning of IP process through integrating lyotropic...
+摘要: Nanofiltration (NF) is a key membrane separation technology that is promising in various chemical and environmental applications. The need for high-performance thin-film composite (TFC) NF membranes, particularly those with enhanced salt selectivity and fouling resistance, necessitates effective strategies for optimizing their fabrication processes-interfacial polymerization (IP). In this study, we demonstrate an effective strategy for fine-tuning of IP process through integrating lyotropic...
 
 ---
 
@@ -2163,7 +2163,7 @@
 
 推荐理由: 该研究在神经轴突代谢与修复机制上有创新发现，方法严谨，但主要聚焦于神经科学领域，对血液疾病研究的直接借鉴价值有限，仅可间接参考其关于PPP通路与氧化还原平衡的机制探讨。
 
-摘要: Homeostasis and repair in the nervous system are thought to rely on distinct molecular programs. Here, we uncover an unexpected role for the pentose phosphate pathway \(PPP\) in peripheral sensory axons, where it supports both homeostatic mechanosensation and axonal regeneration after injury. We show that the PPP is enriched and active in sciatic nerve axoplasms, where it maintains redox balance via NADPH production, enabling physiological mechanical sensation. However, following sciatic nerve...
+摘要: Homeostasis and repair in the nervous system are thought to rely on distinct molecular programs. Here, we uncover an unexpected role for the pentose phosphate pathway (PPP) in peripheral sensory axons, where it supports both homeostatic mechanosensation and axonal regeneration after injury. We show that the PPP is enriched and active in sciatic nerve axoplasms, where it maintains redox balance via NADPH production, enabling physiological mechanical sensation. However, following sciatic nerve...
 
 ---
 
@@ -2179,7 +2179,7 @@
 
 推荐理由: 该文章虽然研究扎实、社会关注度高，但内容主要涉及气候变暖与河流热浪的生态影响，与血液疾病或血液学研究无直接关联，血液病领域专家借鉴价值极低。
 
-摘要: Rivers and the organisms living within them are highly vulnerable to hot thermal extremes. However, very little is known about river heatwaves, consecutive episodes of anomalously high temperature in rivers, and how they may evolve under climate change. Here we show that river heatwaves will become more intense and more persistent globally by the end of the 21^\(st\) century, with some tropical rivers reaching a persistent year-round heatwave state in the early 21^\(st\) century. Under the...
+摘要: Rivers and the organisms living within them are highly vulnerable to hot thermal extremes. However, very little is known about river heatwaves, consecutive episodes of anomalously high temperature in rivers, and how they may evolve under climate change. Here we show that river heatwaves will become more intense and more persistent globally by the end of the 21^(st) century, with some tropical rivers reaching a persistent year-round heatwave state in the early 21^(st) century. Under the...
 
 ---
 
@@ -2195,7 +2195,7 @@
 
 推荐理由: 该文章在材料表征方法学上具有显著创新性和严谨性，但研究内容与血液疾病无直接关联，仅当涉及材料微观应变分析的方法学思路时，对血液细胞力学研究可能有间接参考价值。
 
-摘要: Lattice strain critically affects electrochemical performance and durability of battery electrode materials. Here we report an electron-backscatter-diffraction-based imaging method to quantify lattice strain evolution and its spatial heterogeneity in two technologically important layered oxide cathodes \(i.e. positive electrodes\). Quantitative analysis is achieved by examining numerical distribution of the crystal misorientation data from thousands of positive electrode particles, which follows a...
+摘要: Lattice strain critically affects electrochemical performance and durability of battery electrode materials. Here we report an electron-backscatter-diffraction-based imaging method to quantify lattice strain evolution and its spatial heterogeneity in two technologically important layered oxide cathodes (i.e. positive electrodes). Quantitative analysis is achieved by examining numerical distribution of the crystal misorientation data from thousands of positive electrode particles, which follows a...
 
 ---
 
@@ -2243,7 +2243,7 @@
 
 推荐理由: 该论文在古人类学与进化遗传学领域具有高度创新性和方法论严谨性，但对于血液疾病研究缺乏直接关联，仅适合对人类进化史有跨学科兴趣的血液学学者泛读参考。
 
-摘要: Palaeogenetic evidence suggests that the last common ancestor of present-day humans, Neanderthals and Denisovans lived around 765-550 thousand years ago \(ka\)¹. However, both the geographical distribution and the morphology of these ancestral humans remain uncertain. The Homo antecessor fossils from the TD6 layer of Gran Dolina at Atapuerca, Spain, dated between 950 ka and 770 ka \(ref. ²\), have been proposed as potential candidates for this ancestral population³. However, all securely dated Homo...
+摘要: Palaeogenetic evidence suggests that the last common ancestor of present-day humans, Neanderthals and Denisovans lived around 765-550 thousand years ago (ka)¹. However, both the geographical distribution and the morphology of these ancestral humans remain uncertain. The Homo antecessor fossils from the TD6 layer of Gran Dolina at Atapuerca, Spain, dated between 950 ka and 770 ka (ref. ²), have been proposed as potential candidates for this ancestral population³. However, all securely dated Homo...
 
 ---
 
@@ -2259,7 +2259,7 @@
 
 推荐理由: 该研究在海洋气候学方法上严谨可靠，虽与血液疾病无直接关联，但其示踪剂测年技术与跨学科研究方法对血液动力学或代谢物周转研究具有潜在借鉴意义。
 
-摘要: The North Atlantic Meridional Overturning Circulation \(AMOC\) ventilates a large part of the world ocean via the formation of mode waters and North Atlantic Deep Water. The extent to which human activities have impacted this ventilation system remains unclear. To assess the temporal variations of ocean ventilation in the North Atlantic, we calculated the "age" of seawater, that is, the duration since its last contact with the ocean surface, from both observed and simulated chlorofluorocarbon-12...
+摘要: The North Atlantic Meridional Overturning Circulation (AMOC) ventilates a large part of the world ocean via the formation of mode waters and North Atlantic Deep Water. The extent to which human activities have impacted this ventilation system remains unclear. To assess the temporal variations of ocean ventilation in the North Atlantic, we calculated the "age" of seawater, that is, the duration since its last contact with the ocean surface, from both observed and simulated chlorofluorocarbon-12...
 
 ---
 
@@ -2275,7 +2275,7 @@
 
 推荐理由: 该研究采用质谱技术对进行性多发性硬化症中枢神经系统进行蛋白质组学分析，方法学具有严谨性和可借鉴性，尤其适用于研究血液系统自身免疫或炎症相关疾病的分子机制。
 
-摘要: Progressive multiple sclerosis \(PMS\) is an autoimmune demyelinating disease of the central nervous system \(CNS\) in humans. PMS is defined by neuroinflammation and axonal damage with advancing neurological disabilities, although the underlying molecular mechanisms remain uncertain. To gain insight into the proteomic aspects of PMS, we used mass spectrometry to investigate proteomic profiles and specific protein changes in matched CNS tissues \(white matter, cortex, and lesions\) from persons with...
+摘要: Progressive multiple sclerosis (PMS) is an autoimmune demyelinating disease of the central nervous system (CNS) in humans. PMS is defined by neuroinflammation and axonal damage with advancing neurological disabilities, although the underlying molecular mechanisms remain uncertain. To gain insight into the proteomic aspects of PMS, we used mass spectrometry to investigate proteomic profiles and specific protein changes in matched CNS tissues (white matter, cortex, and lesions) from persons with...
 
 ---
 
@@ -2291,7 +2291,7 @@
 
 推荐理由: 本文虽在人工智能与大语言模型推理方法上具有较高创新性与方法论严谨性，但与血液疾病研究无直接关联，对血液学领域的可借鉴性极低，仅适合关注AI基础理论的研究者。
 
-摘要: Large language models \(LLMs\) are increasingly used as agents that interact with users and with the world. To do so successfully, LLMs must construct representations of the world and form probabilistic beliefs about them. To provide personalized recommendations, for example, the LLM needs to infer a user's preferences from their behavior over multiple interactions. The Bayesian inference framework lays out the optimal way for an agent to update its beliefs as it receives new information. We first...
+摘要: Large language models (LLMs) are increasingly used as agents that interact with users and with the world. To do so successfully, LLMs must construct representations of the world and form probabilistic beliefs about them. To provide personalized recommendations, for example, the LLM needs to infer a user's preferences from their behavior over multiple interactions. The Bayesian inference framework lays out the optimal way for an agent to update its beliefs as it receives new information. We first...
 
 ---
 
@@ -2307,7 +2307,7 @@
 
 推荐理由: 该研究在神经科学领域具有较高的方法学创新性和严谨性，但其内容与血液疾病直接相关性较弱，对血液学研究的可借鉴性有限。
 
-摘要: Social attachments are vital to mammalian health, but the neural microcircuitry underlying their formation remains unknown. Using prairie voles-which form lasting pair bonds-we investigate how the microcircuitry of the nucleus accumbens \(NAc\) transforms social interaction into attachment. We confirm that accumbal calcium-permeable AMPARs \(CP-AMPARs\) mediate excitation of fast-spiking interneurons \(FSIs\) in voles, and find that their blockade prevents pair bond formation. To understand the...
+摘要: Social attachments are vital to mammalian health, but the neural microcircuitry underlying their formation remains unknown. Using prairie voles-which form lasting pair bonds-we investigate how the microcircuitry of the nucleus accumbens (NAc) transforms social interaction into attachment. We confirm that accumbal calcium-permeable AMPARs (CP-AMPARs) mediate excitation of fast-spiking interneurons (FSIs) in voles, and find that their blockade prevents pair bond formation. To understand the...
 
 ---
 
@@ -2339,12 +2339,12 @@
 
 推荐理由: 该文章在材料冶金方法学上具有显著创新性和技术严谨性，但对于血液疾病研究直接关联性较弱，仅可作为金属生物相容性或器械材料的间接参考。
 
-摘要: With increasingly stringent application environments, there is a growing demand for designing and fabricating of promising structural materials. Conventional metallurgical methods typically struggle to produce positive mixing enthalpy alloys with uniform microstructures and consistent properties due to mutual immiscibility and uncontrollable segregation during solidification. To this end, we employ a bottom-up approach to fabricate Cu-50 vol% Fe\(55\)Cr\(25\)Mo\(16\)B\(2\)C\(2\) positive mixing enthalpy...
+摘要: With increasingly stringent application environments, there is a growing demand for designing and fabricating of promising structural materials. Conventional metallurgical methods typically struggle to produce positive mixing enthalpy alloys with uniform microstructures and consistent properties due to mutual immiscibility and uncontrollable segregation during solidification. To this end, we employ a bottom-up approach to fabricate Cu-50 vol% Fe(55)Cr(25)Mo(16)B(2)C(2) positive mixing enthalpy...
 
 ---
 
 
-== #147. \<em\>Erratum\</em\> to: "Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model"
+== #147. &lt;em&gt;Erratum&lt;/em&gt; to: "Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model"
 
 - **研究分数**: #30
 - **社会影响**: #30

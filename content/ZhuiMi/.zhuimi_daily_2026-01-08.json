@@ -221,7 +221,7 @@
     "reason": "该研究聚焦蛋白质乳酸化修饰在肿瘤进展与免疫调控中的作用，其揭示的代谢重编程机制对研究血液肿瘤（如淋巴瘤、白血病）的微环境调控和靶向治疗具有潜在借鉴价值。"
   },
   {
-    "title": "<em>Erratum</em> to: \"Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model\"",
+    "title": "&lt;em&gt;Erratum&lt;/em&gt; to: \"Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model\"",
     "abstract": "No abstract",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41496706/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
     "doi": "10.3324/haematol.2025.288211",
@@ -416,7 +416,7 @@
     "reason": "该文章虽在高分子材料循环领域具有创新性，但对血液疾病研究的直接关联性较弱；若您的研究涉及生物材料或医疗器械，其解交联策略或可提供间接参考。"
   },
   {
-    "title": "Refrigeration down to 0.16 K using a frustrated magnet Gd<sub>2</sub>B<sub>2</sub>MoO<sub>9</sub>",
+    "title": "Refrigeration down to 0.16 K using a frustrated magnet Gd&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt;MoO&lt;sub&gt;9&lt;/sub&gt;",
     "abstract": "Magnetic refrigeration, utilizing the magnetocaloric effect in solid-state magnets, has emerged as a promising cooling technology. The development of practical ultra-low-temperature magnetic refrigeration applications has been limited by the absence of high-performance magnetic refrigerants. Herein, we provide a frustrated Gadolinium-dominated magnet, Gd(2)B(2)MoO(9) oxide, which exhibits remarkable ultra-low temperature magnetocaloric performances. The maximum magnetic entropy changes reach...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495069/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41467-025-68278-z",
@@ -442,7 +442,7 @@
     "reason": "该文章在柔性可穿戴传感技术方面具有显著的创新性和方法学严谨性，虽与血液疾病无直接关联，但其高精度动态捕捉技术可为血液病相关运动功能评估或康复器械研发提供跨学科思路参考。"
   },
   {
-    "title": "Ferroelectric switching of interfacial dipoles in α-RuCl<sub>3</sub>/graphene heterostructure",
+    "title": "Ferroelectric switching of interfacial dipoles in α-RuCl&lt;sub&gt;3&lt;/sub&gt;/graphene heterostructure",
     "abstract": "We demonstrate electrically switchable, non-volatile dipoles in graphene/thin hBN/α-RuCl(3)alpha-RuCl3 heterostructures, stabilized purely by interfacial charge transfer across an atomically thin dielectric barrier. This mechanism requires no sliding or twisting to explicitly break inversion symmetry and produces robust ferroelectric-like hysteresis loops that emerge prominently near 30 K. Systematic measurements under strong in-plane and out-of-plane magnetic fields reveal negligible effects on...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495065/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41467-025-68072-x",
@@ -676,7 +676,7 @@
     "reason": "该研究提出的EcN@PDA@HP生物混合机器人技术具有显著创新性，其靶向递送系统对研究炎症相关贫血等血液学并发症具有方法学借鉴价值。"
   },
   {
-    "title": "Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N<sup>6</sup>-methyladenosine recognition protein YTHDC2",
+    "title": "Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine recognition protein YTHDC2",
     "abstract": "YTHDC2, a unique YTH-domain-containing protein that recognizes N6-methyladenosine (m⁶A) on RNA, plays critical roles in diverse pathological processes and represents a promising therapeutic target. Despite its potential, no potent small-molecule inhibitors have been reported to date. To bridge this gap, we develop EPMolGen, a deep learning-based molecular generative model that explicitly incorporates the electrostatic features of receptor proteins. The model achieves state-of-the-art performance...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495018/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41467-025-65542-0",
@@ -884,7 +884,7 @@
     "reason": "由于未提供摘要，无法评估文章的具体内容与价值，建议补充摘要信息以便进行准确评价。"
   },
   {
-    "title": "Contextualizing T<sub>H</sub>17 cells in cancer",
+    "title": "Contextualizing T&lt;sub&gt;H&lt;/sub&gt;17 cells in cancer",
     "abstract": "The immune system has evolved intricate and sophisticated mechanisms to recognize and eliminate tumours. Among these, T helper 17 (T(H)17) cells seem to have a complex role in tumour immunity. Substantial evidence indicates that T(H)17 cells can impair the ability of immune cells to kill tumours, but growing research suggests that T(H)17 cells may also be crucial for facilitating effective antitumour immune responses. This apparent paradox is likely rooted, at least in part, in the remarkable...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495217/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101124169&fc=None&ff=20260107215744&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41577-025-01250-6",
