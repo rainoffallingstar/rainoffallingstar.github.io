@@ -102,5 +102,81 @@
   {
     "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/14q4QWQ9WuP-q3xZxtevDd-mhMBvvPUxdBs51YqDH9ICOLAMHX/?limit=100&utm_campaign=pubmed-2&fc=20250701101016",
     "title": "Erasmus MC Cancer Institute[Affiliation]"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0417435/?limit=15&name=Haematologica&utm_campaign=journals",
+    "title": "Haematologica"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0410462/?limit=15&name=Nature&utm_campaign=journals",
+    "title": "Nature"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/101468937/?limit=15&name=J+Hematol+Oncol&utm_campaign=journals",
+    "title": "JHO"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0413066/?limit=15&name=Cell&utm_campaign=journals",
+    "title": "Cell"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/7603509/?limit=15&name=Blood&utm_campaign=journals",
+    "title": "Blood"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun/?limit=15&utm_campaign=pubmed-2&fc=20241228214438",
+    "title": "Lactylation"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/8704895/?limit=100&name=Leukemia&utm_campaign=journals",
+    "title": "Leukemia"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/9432918/?limit=100&name=Immunity&utm_campaign=journals",
+    "title": "Immunity"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/101233170/?limit=100&name=Cell+Metab&utm_campaign=journals",
+    "title": "cell metabolism"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1LACSUNLU00EAQgOoCTT5c9tw-pgfqm7wMz_BKTFW13BzQKouB/?limit=100&utm_campaign=pubmed-2&fc=20241228221813",
+    "title": "RS"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/101528555/?limit=100&name=Nat+Commun&utm_campaign=journals",
+    "title": "NC"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1v_5L1vltLnWcprZ9hqqqypOSc55yAOYKZ2wu6fp5XgBi65gVP/?limit=100&utm_campaign=pubmed-2&fc=20241228222919",
+    "title": "Andreas Trumpp[Author]"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/141xSAKGBJdCvJB6Wbndmor_9zTRe_44GGhIvuxDo2QeLIyEuP/?limit=100&utm_campaign=pubmed-2&fc=20241228223119",
+    "title": "Jordan CT[Author]"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/18SX-0JF_oBzJlA0evHJKTfQiTQS8vBC8lgok7ltOXcWVRWAll/?limit=100&utm_campaign=pubmed-2&fc=20241228223533",
+    "title": "Scadden DT[Author]"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/101736592/?limit=100&name=Nat+Metab&utm_campaign=journals",
+    "title": "Nat Metab"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/101568469/?limit=100&name=Blood+Cancer+J&utm_campaign=journals",
+    "title": "Blood Cancer J[JOUR]"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/100966032/?limit=100&name=Trends%20Immunol&utm_campaign=journals",
+    "title": "Trends in Immun"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/101124169/?limit=100&name=Nat%20Rev%20Immunol&utm_campaign=journals",
+    "title": "Nature reviews immunology"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/101688624/?limit=100&name=Sci+Immunol&utm_campaign=journals",
+    "title": "Sci Immunol"
   }
 ]
