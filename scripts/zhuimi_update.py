@@ -611,6 +611,30 @@ def main():
         print(f"  [INFO] 检测到当天报告已存在，启用追加模式")
         # 加载当天已有文章
         existing_articles = load_daily_articles(today)
+
+        # 降级处理：如果有报告但没有数据库
+        if not existing_articles:
+            print(f"  [WARNING] 未找到每日数据库文件 (.zhuimi_daily_{today}.json)")
+            print(f"  [WARNING] 这是一个旧版本报告，无法进行追加")
+            print(f"  [INFO] 将覆盖旧报告，只保留新文章")
+            print(f"  [INFO] 如需保留旧文章，请手动备份或删除旧报告后重新运行")
+            # 跳过追加，只保留新文章
+            all_articles = filtered_articles
+            # 保存数据库并生成报告
+            save_daily_articles(today, all_articles)
+            generate_daily_report(today, all_articles, append_mode=False)
+
+            # 更新索引
+            print("\n[STEP 8] 更新索引页面...")
+            update_index_page()
+
+            print("\n" + "=" * 60)
+            print(
+                f"[OK] 完成！分析了 {len(scored_articles)} 篇文章，筛选后 {len(filtered_articles)} 篇"
+            )
+            print("=" * 60)
+            return 0
+
         # 合并文章（通过链接去重，新文章覆盖旧文章）
         seen = {a["link"]: a for a in existing_articles}
         for article in filtered_articles:
