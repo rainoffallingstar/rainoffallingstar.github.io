@@ -376,6 +376,9 @@ def save_daily_articles(date_str, articles):
         articles: 文章列表
     """
     daily_db_path = CONTENT_DIR / f".zhuimi_daily_{date_str}.json"
+    # Remove pub_date field before saving to avoid datetime serialization error
+    for article in articles:
+        article.pop("pub_date", None)
     with open(daily_db_path, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
 
