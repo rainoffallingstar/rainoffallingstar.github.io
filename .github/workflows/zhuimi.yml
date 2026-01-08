@@ -33,7 +33,7 @@ jobs:
 
       - name: Extract PubMed feeds from OPML
         run: |
-          uv run scripts/extract_pubmed_feeds.py scripts/follow.opml scripts/pubmed_feeds.json
+          uv run scripts/extract_pubmed_feeds.py
 
       - name: Run literature update
         env:
