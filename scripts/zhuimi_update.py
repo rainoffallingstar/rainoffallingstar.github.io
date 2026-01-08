@@ -397,6 +397,95 @@ def load_daily_articles(date_str):
     return []
 
 
+def rebuild_daily_db_from_report(date_str):
+    """
+    从Typst报告中重建每日数据库
+
+    当存在报告但没有数据库时，尝试从报告解析文章数据
+
+    Args:
+        date_str: 日期字符串 (YYYY-MM-DD)
+
+    Returns:
+        list: 解析出的文章列表，如果解析失败返回空列表
+    """
+    report_path = CONTENT_DIR / date_str / "index.typ"
+    if not report_path.exists():
+        return []
+
+    try:
+        with open(report_path, encoding="utf-8") as f:
+            content = f.read()
+
+        articles = []
+        # 按文章分割 (以 == # 开头的标题)
+        article_blocks = re.split(r"\n== #\d+\. ", content)[1:]  # 跳过第一个空块
+
+        for block in article_blocks:
+            article = {}
+
+            # 提取标题 (第一行)
+            lines = block.strip().split("\n")
+            if lines:
+                article["title"] = lines[0].strip()
+
+            # 提取评分
+            scores = {}
+            research_match = re.search(r"\*\*研究分数\*\*: #(\d+)", block)
+            if research_match:
+                scores["research"] = int(research_match.group(1))
+            social_match = re.search(r"\*\*社会影响\*\*: #(\d+)", block)
+            if social_match:
+                scores["social"] = int(social_match.group(1))
+            blood_match = re.search(r"\*\*血液相关性\*\*: #(\d+)", block)
+            if blood_match:
+                scores["blood"] = int(blood_match.group(1))
+            rec_match = re.search(r"\*\*推荐度\*\*: #(\d+)", block)
+            if rec_match:
+                scores["recommendation"] = int(rec_match.group(1))
+            article["scores"] = scores
+
+            # 提取DOI
+            doi_match = re.search(r"\*\*DOI\*\*: #(.+?)$", block, re.MULTILINE)
+            if doi_match:
+                doi = doi_match.group(1).strip()
+                article["doi"] = doi if doi != "N/A" else None
+
+            # 提取链接
+            link_match = re.search(r'#link\("([^"]+)"\)', block)
+            if link_match:
+                article["link"] = link_match.group(1)
+
+            # 提取推荐理由
+            reason_match = re.search(
+                r"推荐理由: (.+?)(?:\n\n|\n摘要:)", block, re.DOTALL
+            )
+            if reason_match:
+                article["reason"] = reason_match.group(1).strip().replace("\\#", "#")
+
+            # 提取摘要
+            abstract_match = re.search(
+                r"摘要: (.+?)(?:\n\n---|\n---)", block, re.DOTALL
+            )
+            if abstract_match:
+                article["abstract"] = (
+                    abstract_match.group(1).strip().replace("\\#", "#")
+                )
+
+            # pub_date 无法从报告中恢复，设为 None
+            article["pub_date"] = None
+
+            # 验证必要字段
+            if article.get("title") and article.get("link") and article.get("scores"):
+                articles.append(article)
+
+        return articles
+
+    except Exception as e:
+        print(f"  [ERROR] 从报告重建数据库失败: {e}")
+        return []
+
+
 def load_existing_articles(date_str):
     """
     加载当天已存在的文章（已废弃，使用 load_daily_articles 代替）
@@ -612,28 +701,33 @@ def main():
         # 加载当天已有文章
         existing_articles = load_daily_articles(today)
 
-        # 降级处理：如果有报告但没有数据库
+        # 降级处理：如果有报告但没有数据库，尝试从报告重建
         if not existing_articles:
-            print(f"  [WARNING] 未找到每日数据库文件 (.zhuimi_daily_{today}.json)")
-            print(f"  [WARNING] 这是一个旧版本报告，无法进行追加")
-            print(f"  [INFO] 将覆盖旧报告，只保留新文章")
-            print(f"  [INFO] 如需保留旧文章，请手动备份或删除旧报告后重新运行")
-            # 跳过追加，只保留新文章
-            all_articles = filtered_articles
-            # 保存数据库并生成报告
-            save_daily_articles(today, all_articles)
-            generate_daily_report(today, all_articles, append_mode=False)
+            print(f"  [INFO] 未找到每日数据库文件，尝试从报告重建...")
+            existing_articles = rebuild_daily_db_from_report(today)
+            if existing_articles:
+                print(f"  [INFO] 成功从报告重建 {len(existing_articles)} 篇文章")
+                # 保存重建的数据库
+                save_daily_articles(today, existing_articles)
+            else:
+                print(f"  [WARNING] 从报告重建失败，将覆盖旧报告")
+                print(f"  [INFO] 如需保留旧文章，请手动备份或删除旧报告后重新运行")
+                # 跳过追加，只保留新文章
+                all_articles = filtered_articles
+                # 保存数据库并生成报告
+                save_daily_articles(today, all_articles)
+                generate_daily_report(today, all_articles, append_mode=False)
 
-            # 更新索引
-            print("\n[STEP 8] 更新索引页面...")
-            update_index_page()
+                # 更新索引
+                print("\n[STEP 8] 更新索引页面...")
+                update_index_page()
 
-            print("\n" + "=" * 60)
-            print(
-                f"[OK] 完成！分析了 {len(scored_articles)} 篇文章，筛选后 {len(filtered_articles)} 篇"
-            )
-            print("=" * 60)
-            return 0
+                print("\n" + "=" * 60)
+                print(
+                    f"[OK] 完成！分析了 {len(scored_articles)} 篇文章，筛选后 {len(filtered_articles)} 篇"
+                )
+                print("=" * 60)
+                return 0
 
         # 合并文章（通过链接去重，新文章覆盖旧文章）
         seen = {a["link"]: a for a in existing_articles}
