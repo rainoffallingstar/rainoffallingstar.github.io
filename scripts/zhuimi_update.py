@@ -136,6 +136,11 @@ def fetch_articles(feed_urls, days=1, max_articles=50):
                     if pub_date >= cutoff:
                         title = entry.get("title", "")
                         link = entry.get("link", "")
+                        abstract = entry.get("summary", entry.get("description", ""))
+
+                        # 过滤掉摘要为空的文章
+                        if not abstract or abstract.strip() == "":
+                            continue
 
                         # 使用link去重
                         if link in seen:
@@ -145,9 +150,7 @@ def fetch_articles(feed_urls, days=1, max_articles=50):
                         articles.append(
                             {
                                 "title": title,
-                                "abstract": entry.get(
-                                    "summary", entry.get("description", "")
-                                ),
+                                "abstract": abstract,
                                 "link": link,
                                 "doi": extract_doi(entry),
                                 "pub_date": pub_date,
