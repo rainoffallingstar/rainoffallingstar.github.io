@@ -558,6 +558,17 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
 
         # 转义内容，处理Typst特殊字符
         # 需要转义的字符：# < > [ ] ( ) 等
+        # 标题转义
+        title_escaped = (
+            title.replace("#", "\\#")
+            .replace("<", "\\<")
+            .replace(">", "\\>")
+            .replace("[", "\\[")
+            .replace("]", "\\]")
+            .replace("(", "\\(")
+            .replace(")", "\\)")
+        )
+        # 摘要转义
         abstract_text = (
             abstract.replace("#", "\\#")
             .replace("<", "\\<")
@@ -567,6 +578,7 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
             .replace("(", "\\(")
             .replace(")", "\\)")
         )
+        # 推荐理由转义
         reason = article.get("reason", "")
         reason_text = (
             reason.replace("#", "\\#")
@@ -581,7 +593,7 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         )
 
         content += f'''
-== #{i}. {title}
+== #{i}. {title_escaped}
 
 - **研究分数**: #{scores.get("research", "N/A")}
 - **社会影响**: #{scores.get("social", "N/A")}

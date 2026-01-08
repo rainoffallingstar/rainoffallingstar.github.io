@@ -417,14 +417,14 @@
 - **DOI**: #10.1038/s41467-025-66692-x
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41495023/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究提出的EcN@PDA@HP生物混合机器人技术具有显著创新性，其靶向递送系统对研究炎症相关贫血等血液学并发症具有方法学借鉴价值。
+推荐理由: 该研究提出的EcN-PDA-HP生物混合机器人技术具有显著创新性，其靶向递送系统对研究炎症相关贫血等血液学并发症具有方法学借鉴价值。
 
-摘要: Inflammatory bowel disease (IBD) involves elevated intestinal reactive oxygen species (ROS) and microbial imbalance. A key challenge is that current delivery systems cannot adequately protect active agents, such as antioxidants and probiotics, through the harsh gastric environment nor precisely deliver them to inflamed intestinal sites. Here, we present the EcN@PDA@HP biohybrid robot, composed of stress-trained microalgae, probiotics, and an intestinal braking system, enabling rapid gastric...
+摘要: Inflammatory bowel disease (IBD) involves elevated intestinal reactive oxygen species (ROS) and microbial imbalance. A key challenge is that current delivery systems cannot adequately protect active agents, such as antioxidants and probiotics, through the harsh gastric environment nor precisely deliver them to inflamed intestinal sites. Here, we present the EcN-PDA-HP biohybrid robot, composed of stress-trained microalgae, probiotics, and an intestinal braking system, enabling rapid gastric...
 
 ---
 
 
-== #27. Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N<sup>6</sup>-methyladenosine recognition protein YTHDC2
+== #27. Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N⁶-methyladenosine recognition protein YTHDC2
 
 - **研究分数**: #85
 - **社会影响**: #55
@@ -515,7 +515,7 @@
 
 推荐理由: 该研究揭示了蛋白质相互作用中一种未被报道的β-链交叉连接新机制，为理解蛋白质聚集及构象疾病（如某些血液系统淀粉样变性病）的分子基础提供了创新视角。
 
-摘要: β-Strand motifs are essential recognition modules in protein-protein interactions (PPIs), which govern cellular signaling networks and regulate molecular pathway dynamics. Herein we present an unexpected discovery of a previously uncharacterized β-strand insertion mechanism termed as cross-β-strand linking, wherein β-strands within the β-sheet-rich aggregates form inter-β-sheet connections through insertion into adjacent β-sheets. These cross-β-strand linkers comprise <15% of the total β-strands...
+摘要: β-Strand motifs are essential recognition modules in protein-protein interactions (PPIs), which govern cellular signaling networks and regulate molecular pathway dynamics. Herein we present an unexpected discovery of a previously uncharacterized β-strand insertion mechanism termed as cross-β-strand linking, wherein β-strands within the β-sheet-rich aggregates form inter-β-sheet connections through insertion into adjacent β-sheets. These cross-β-strand linkers comprise less than 15% of the total β-strands...
 
 ---
 
@@ -584,7 +584,7 @@
 ---
 
 
-== #37. Contextualizing T<sub>H</sub>17 cells in cancer
+== #37. Contextualizing T_H_17 cells in cancer
 
 - **研究分数**: #78
 - **社会影响**: #65
@@ -728,7 +728,7 @@
 ---
 
 
-== #46. Refrigeration down to 0.16 K using a frustrated magnet Gd<sub>2</sub>B<sub>2</sub>MoO<sub>9</sub>
+== #46. Refrigeration down to 0.16 K using a frustrated magnet Gd₂B₂MoO₉
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -760,7 +760,7 @@
 ---
 
 
-== #48. Ferroelectric switching of interfacial dipoles in α-RuCl<sub>3</sub>/graphene heterostructure
+== #48. Ferroelectric switching of interfacial dipoles in α-RuCl₃/graphene heterostructure
 
 - **研究分数**: #80
 - **社会影响**: #20
@@ -1126,4 +1126,3 @@
 摘要: No abstract
 
 ---
-
