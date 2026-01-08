@@ -221,7 +221,7 @@
     "reason": "该研究聚焦蛋白质乳酸化修饰在肿瘤进展与免疫调控中的作用，其揭示的代谢重编程机制对研究血液肿瘤（如淋巴瘤、白血病）的微环境调控和靶向治疗具有潜在借鉴价值。"
   },
   {
-    "title": "<em>Erratum</em> to: \"Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model\"",
+    "title": "&lt;em&gt;Erratum&lt;/em&gt; to: \"Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model\"",
     "abstract": "No abstract",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41496706/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
     "doi": "10.3324/haematol.2025.288211",
@@ -416,7 +416,7 @@
     "reason": "该文章虽在高分子材料循环领域具有创新性，但对血液疾病研究的直接关联性较弱；若您的研究涉及生物材料或医疗器械，其解交联策略或可提供间接参考。"
   },
   {
-    "title": "Refrigeration down to 0.16 K using a frustrated magnet Gd<sub>2</sub>B<sub>2</sub>MoO<sub>9</sub>",
+    "title": "Refrigeration down to 0.16 K using a frustrated magnet Gd&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt;MoO&lt;sub&gt;9&lt;/sub&gt;",
     "abstract": "Magnetic refrigeration, utilizing the magnetocaloric effect in solid-state magnets, has emerged as a promising cooling technology. The development of practical ultra-low-temperature magnetic refrigeration applications has been limited by the absence of high-performance magnetic refrigerants. Herein, we provide a frustrated Gadolinium-dominated magnet, Gd(2)B(2)MoO(9) oxide, which exhibits remarkable ultra-low temperature magnetocaloric performances. The maximum magnetic entropy changes reach...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495069/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41467-025-68278-z",
@@ -442,7 +442,7 @@
     "reason": "该文章在柔性可穿戴传感技术方面具有显著的创新性和方法学严谨性，虽与血液疾病无直接关联，但其高精度动态捕捉技术可为血液病相关运动功能评估或康复器械研发提供跨学科思路参考。"
   },
   {
-    "title": "Ferroelectric switching of interfacial dipoles in α-RuCl<sub>3</sub>/graphene heterostructure",
+    "title": "Ferroelectric switching of interfacial dipoles in α-RuCl&lt;sub&gt;3&lt;/sub&gt;/graphene heterostructure",
     "abstract": "We demonstrate electrically switchable, non-volatile dipoles in graphene/thin hBN/α-RuCl(3)alpha-RuCl3 heterostructures, stabilized purely by interfacial charge transfer across an atomically thin dielectric barrier. This mechanism requires no sliding or twisting to explicitly break inversion symmetry and produces robust ferroelectric-like hysteresis loops that emerge prominently near 30 K. Systematic measurements under strong in-plane and out-of-plane magnetic fields reveal negligible effects on...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495065/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41467-025-68072-x",
@@ -676,7 +676,7 @@
     "reason": "该研究提出的EcN@PDA@HP生物混合机器人技术具有显著创新性，其靶向递送系统对研究炎症相关贫血等血液学并发症具有方法学借鉴价值。"
   },
   {
-    "title": "Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N<sup>6</sup>-methyladenosine recognition protein YTHDC2",
+    "title": "Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine recognition protein YTHDC2",
     "abstract": "YTHDC2, a unique YTH-domain-containing protein that recognizes N6-methyladenosine (m⁶A) on RNA, plays critical roles in diverse pathological processes and represents a promising therapeutic target. Despite its potential, no potent small-molecule inhibitors have been reported to date. To bridge this gap, we develop EPMolGen, a deep learning-based molecular generative model that explicitly incorporates the electrostatic features of receptor proteins. The model achieves state-of-the-art performance...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495018/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41467-025-65542-0",
@@ -884,7 +884,7 @@
     "reason": "由于未提供摘要，无法评估文章的具体内容与价值，建议补充摘要信息以便进行准确评价。"
   },
   {
-    "title": "Contextualizing T<sub>H</sub>17 cells in cancer",
+    "title": "Contextualizing T&lt;sub&gt;H&lt;/sub&gt;17 cells in cancer",
     "abstract": "The immune system has evolved intricate and sophisticated mechanisms to recognize and eliminate tumours. Among these, T helper 17 (T(H)17) cells seem to have a complex role in tumour immunity. Substantial evidence indicates that T(H)17 cells can impair the ability of immune cells to kill tumours, but growing research suggests that T(H)17 cells may also be crucial for facilitating effective antitumour immune responses. This apparent paradox is likely rooted, at least in part, in the remarkable...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41495217/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101124169&fc=None&ff=20260107215744&v=2.18.0.post22+67771e2",
     "doi": "10.1038/s41577-025-01250-6",
@@ -908,5 +908,1006 @@
       "recommendation": 85
     },
     "reason": "该文章系统阐述了泛素化在免疫调控中的核心机制，对理解血液系统免疫相关疾病（如自身免疫性血细胞减少、白血病免疫逃逸等）的病理机制具有重要借鉴价值。"
+  },
+  {
+    "title": "Vascular access for hemodialysis and catheter-related bloodstream infections: a survey on preventive measures and treatment strategies by the EPDWG and ESPN Dialysis Working Group",
+    "abstract": "CONCLUSION: The suboptimal adherence to current VA recommendations and wide variability in catheter care practices including the prevention, diagnosis, and management of CRBSI highlight the need for standardized pediatric-specific protocols to enhance catheter longevity and improve patient outcomes.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501585/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108013919&v=2.18.0.post22+67771e2",
+    "doi": "10.1007/s00431-025-06703-7",
+    "scores": {
+      "research": 65,
+      "social": 70,
+      "blood": 85,
+      "recommendation": 75
+    },
+    "reason": "该研究直接关注导管相关性血流感染（CRBSI）的预防与管理，对长期依赖中心静脉导管的血液病（如白血病、淋巴瘤）患者具有重要临床借鉴意义，有助于降低感染风险、改善预后。"
+  },
+  {
+    "title": "Gut mucosal mycobiome profiling in Crohn's disease uncovers an AMP-mediated anti-inflammatory effect of Cladosporium sphaerospermum",
+    "abstract": "Crohn's disease (CD) is a subtype of inflammatory bowel disease that most commonly affects the terminal ileum and is associated with abnormal gut microbiome composition. However, the fungi of the small bowel mucosa and their metabolic functions, particularly protective ones, remain largely unexplored. We enrolled patients with CD and healthy individuals from three independent cohorts and conducted multi-omics profiling of the ileal mucosal mycobiome and bacteriome, along with the faecal...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501528/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108013919&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s42255-025-01420-9",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 30,
+      "recommendation": 65
+    },
+    "reason": "该研究采用多组学和多队列设计，方法学严谨，在肠道真菌组领域具有创新性；虽然不直接聚焦血液疾病，但其对黏膜免疫和慢性炎症机制的深入探讨可为血液系统炎症性疾病研究提供间接参考。"
+  },
+  {
+    "title": "Systematic analyses of lipid mobilization by human lipid transfer proteins",
+    "abstract": "Lipid transfer proteins (LTPs) maintain the specialized lipid compositions of organellar membranes^(1,2). In humans, many LTPs are implicated in diseases³, but for the majority, the cargo and auxiliary lipids facilitating transfer remain unknown. We have combined biochemical, lipidomic and computational methods to systematically characterize LTP-lipid complexes⁴ and measure how LTP gains of function affect cellular lipidomes. We identified bound lipids for approximately half of the hundred LTPs...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501472/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108013919&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-10040-y",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 70,
+      "recommendation": 80
+    },
+    "reason": "该研究采用系统性的多学科方法揭示脂质转移蛋白的分子机制，虽非直接针对血液疾病，但其揭示的脂质代谢失调机制对理解相关血液疾病的病理生理具有重要借鉴价值。"
+  },
+  {
+    "title": "Nutrient requirements of organ-specific metastasis in breast cancer",
+    "abstract": "Cancer metastasis is a major contributor to patient morbidity and mortality¹, yet the factors that determine the organs where cancers can metastasize are incompletely understood. Here we quantify the absolute levels of 124 metabolites in multiple tissues in mice and investigate how this relates to the ability of breast cancer cells to grow in different organs. We engineered breast cancer cells with broad metastatic potential to be auxotrophic for specific nutrients and assessed their ability to...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501456/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108013919&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09898-9",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 70,
+      "recommendation": 80
+    },
+    "reason": "该研究通过代谢组学与基因工程方法揭示了肿瘤转移的器官选择性机制，为血液肿瘤（如白血病、淋巴瘤）的髓外浸润研究提供了创新的代谢视角与可借鉴的实验策略。"
+  },
+  {
+    "title": "Large-scale phylogenomics reveals convergent genome evolution across repeated transitions to endosymbiosis in Enterobacterales",
+    "abstract": "Symbiogenesis stands among the major transitions in the history of life on Earth. Over the past three decades, extensive research has focused on specific host-symbiont associations to investigate their genome evolution. However, the idiosyncratic sequence evolution of endosymbionts has made it challenging to establish a robust phylogenetic framework for identifying broad-scale evolutionary patterns. Here, we establish the first genome-scale phylogenomic resolution for the Enterobacterales order,...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500269/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108013919&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.ympev.2026.108532",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 40,
+      "recommendation": 75
+    },
+    "reason": "该研究在基因组尺度上首次建立了肠杆菌目系统发育框架，方法学创新性强，对研究共生进化有重要参考价值；肠杆菌目中部分病原菌与血流感染相关，可为血液病合并感染的病原进化研究提供间接借鉴。"
+  },
+  {
+    "title": "Acetyl-CoA-producing enzymes are a targetable metabolic entry point to MASLD and liver fibrosis",
+    "abstract": "Lipogenesis is one of the main drivers of metabolic dysfunction-associated steatotic liver disease (MASLD). The previewed work decreased acetyl-CoA by inhibiting ATP citrate lyase (ACLY) and acyl-CoA synthetase short-chain family member 2 (ACSS2) via EVT0185, thus inhibiting lipogenesis, hepatocyte metabolic stress, and hepatic stellate cell activation, reducing liver fibrosis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500201/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108013919&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.cmet.2025.12.005",
+    "scores": {
+      "research": 75,
+      "social": 65,
+      "blood": 50,
+      "recommendation": 70
+    },
+    "reason": "该研究通过靶向ACLY和ACSS2抑制脂质合成，为代谢相关脂肪肝的机制与治疗提供了新视角，其涉及的代谢应激和纤维化通路对血液疾病（如骨髓纤维化或代谢异常相关血液病）的研究具有潜在借鉴价值。"
+  },
+  {
+    "title": "Biomarkers",
+    "abstract": "CONCLUSIONS: Our meta-analysis across multiple cohorts is expanding to include around 150 studies in dementias, movement disorders and in psychiatric conditions. The framework of analysis established in this study provides a foundation for future expansion of the database in various neurological disorders, such as psychiatric disorders, and to other proteomic platforms. These findings may contribute to the development of more accurate diagnostic tools and offer insights into the complex...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41499949/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108013919&v=2.18.0.post22+67771e2",
+    "doi": "10.1002/alz70856_105820",
+    "scores": {
+      "research": 75,
+      "social": 65,
+      "blood": 20,
+      "recommendation": 40
+    },
+    "reason": "该研究虽在神经精神疾病蛋白质组学分析框架上具有方法论参考价值，但未直接涉及血液疾病领域，对血液学研究的可借鉴性有限。"
+  },
+  {
+    "title": "An H4K12la/CEBPB-AKR1C2 signaling axis modulates the mTOR pathway to regulate cisplatin resistance in lung cancer",
+    "abstract": "Histone lactylation, a recently discovered epigenetic modification, has been shown to play a critical role in regulating gene expression and cellular functions. However, its involvement in cisplatin (CDDP) resistance in non-small cell lung cancer (NSCLC) remains poorly understood. In this study, we demonstrated that histone lactylation is closely associated with CDDP resistance and correlates with poor prognosis of NSCLC. Mechanistically, H4K12la (histone e 4 lysine 12 lactylation) levels and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501211/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260108013957&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41388-025-03669-6",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 55,
+      "recommendation": 80
+    },
+    "reason": "该研究揭示了组蛋白乳酸化在肿瘤耐药中的新机制，其表观遗传学视角对血液肿瘤耐药研究具有重要借鉴意义。"
+  },
+  {
+    "title": "Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer",
+    "abstract": "Mutations in epigenetic regulators are common in bladder cancer, yet their impact on therapeutic responses remains unclear. Here, we identify that loss-of-function mutations in KDM6A, a histone demethylase altered in about 26% of advanced bladder cancers, are associated with poor survival after cisplatin chemotherapy, whereas they correlate with improved outcomes with anti-PD-1 therapy. Using CRISPR-Cas9-engineered murine and human bladder cancer models, we show that KDM6A deficiency increases...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501085/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260108013957&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68132-2",
+    "scores": {
+      "research": 88,
+      "social": 75,
+      "blood": 70,
+      "recommendation": 82
+    },
+    "reason": "该研究通过表观遗传调控因子KDM6A突变与治疗响应的关联，为肿瘤精准治疗提供了重要机制见解，其研究思路与方法对血液肿瘤的类似表观遗传研究具有直接借鉴价值。"
+  },
+  {
+    "title": "The Role and Mechanism of Post-Translational Modifications (PTMs) in Immune-Related Eye Diseases",
+    "abstract": "Post-translational modifications (PTMs) encompass the spectrum of chemical covalent alterations that proteins undergo after being synthesized from mRNA. These modifications typically involve the covalent bonding of chemical groups or small protein molecules to the amino acid backbones or side chains. Currently, over 650 types of PTMs have been identified, including significant ones such as phosphorylation, ubiquitination, SUMOylation, methylation, acetylation, glycosylation, among other novel...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500399/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260108013957&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.exer.2026.110851",
+    "scores": {
+      "research": 65,
+      "social": 30,
+      "blood": 40,
+      "recommendation": 50
+    },
+    "reason": "该摘要提供了蛋白质翻译后修饰（PTMs）的全面基础概述，这对于理解血液系统疾病中异常蛋白质功能与修饰（如甲基化在白血病中的作用）的分子机制具有重要的背景知识价值。"
+  },
+  {
+    "title": "Systematic analyses of lipid mobilization by human lipid transfer proteins",
+    "abstract": "Lipid transfer proteins (LTPs) maintain the specialized lipid compositions of organellar membranes^(1,2). In humans, many LTPs are implicated in diseases³, but for the majority, the cargo and auxiliary lipids facilitating transfer remain unknown. We have combined biochemical, lipidomic and computational methods to systematically characterize LTP-lipid complexes⁴ and measure how LTP gains of function affect cellular lipidomes. We identified bound lipids for approximately half of the hundred LTPs...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501472/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-10040-y",
+    "scores": {
+      "research": 90,
+      "social": 65,
+      "blood": 75,
+      "recommendation": 85
+    },
+    "reason": "该研究采用多学科方法系统解析脂质转移蛋白的功能，其创新的研究框架和高通量脂质组学策略对研究脂质代谢异常相关的血液疾病（如贫血或脂质贮积症）具有重要的借鉴意义。"
+  },
+  {
+    "title": "Electrochemical defluorinative Matteson-type homologation",
+    "abstract": "The Matteson homologation, first developed in 1980, elongates carbon chains by insertion into a C-B bond.¹ This versatile reaction traditionally requires three steps: carbanion formation, nucleophilic addition to organoboron, and a thermo- or Lewis acid-promoted boronate rearrangement. These processes often demand exacting conditions, including cryogenic temperatures and handling of air- and moisture-sensitive reagents.^(2,3) Here, we report a Matteson-type homologation which integrates these...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501471/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-10002-4",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 40,
+      "recommendation": 70
+    },
+    "reason": "该文章报道了Matteson同系化反应的重要方法学改进，简化了操作并提高了实用性，虽然不直接针对血液疾病，但其高效的碳链延伸策略可为合成血液病相关药物分子或探针提供有价值的合成工具借鉴。"
+  },
+  {
+    "title": "Prefrontal neural geometry of learned cues guides motivated behaviours",
+    "abstract": "Animals continuously evaluate their surroundings to decide whether to approach rewarding opportunities or avoid potential threats. Assigning the appropriate importance to environmental stimuli is not only crucial for survival but also underlies complex forms of goal-directed behaviour that are shared across species, including humans^(1-4). Understanding how the brain translates such sensory cues into motivated behaviours is, therefore, central to neuroscience and psychology. The dorsomedial...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501468/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09902-2",
+    "scores": {
+      "research": 65,
+      "social": 40,
+      "blood": 10,
+      "recommendation": 45
+    },
+    "reason": "该文章主要聚焦于神经科学领域的行为动机机制研究，虽与血液疾病无直接关联，但其对跨物种目标导向行为的神经基础探讨，或可间接为研究应激、情绪等因素相关的血液疾病（如免疫性血液病）提供神经-免疫交叉学科的启发思路。"
+  },
+  {
+    "title": "Mimicking opioid analgesia in cortical pain circuits",
+    "abstract": "The anterior cingulate cortex is a key brain region involved in the affective and motivational dimensions of pain, but how opioid analgesics modulate this cortical circuit remains unclear¹. Uncovering how opioids alter nociceptive neural dynamics to produce pain relief is essential for developing safer and more targeted treatments for chronic pain. Here we show that a population of cingulate neurons encodes spontaneous pain-related behaviours and is selectively modulated by morphine. Using deep...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501467/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09908-w",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 10,
+      "recommendation": 40
+    },
+    "reason": "该研究在疼痛神经机制与阿片"
+  },
+  {
+    "title": "Bidirectional CRISPR screens decode a GLIS3-dependent fibrotic cell circuit",
+    "abstract": "The stromal cell compartment plays a central part in the maintenance of tissue homeostasis by coordinating with the immune system throughout inception, amplification and resolution of inflammation¹. Chronic inflammation can impede the phased regulation of tissue restitution, resulting in the scarring complication of fibrosis. In inflammatory bowel disease, stromal fibroblasts have been implicated in treatment-refractory disease and fibrosis^(2,3); however, their mechanisms of activation have...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501466/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09907-x",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 75,
+      "recommendation": 80
+    },
+    "reason": "该研究深入探讨了基质细胞在慢性炎症与纤维化中的作用机制，对理解血液疾病中免疫微环境调控及纤维化并发症具有重要借鉴价值。"
+  },
+  {
+    "title": "Intratumoural vaccination via checkpoint degradation-coupled antigen presentation",
+    "abstract": "Decreased cross-presentation by antigen-presenting cells induces the scarcity of tumour-reactive T cells within the tumour bed, rendering in situ T cell rejuvenation through immunogenicity reprogramming highly desirable yet challenging^(1-3). Here we developed an intratumoural vaccination chimera (iVAC) to reprogram tumour cells into an antigen-presenting state (APC-like tumour cells) with restored anti-tumour immunity. The iVAC chimeras consist of a covalently engineered PD-L1 degrader...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501465/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09903-1",
+    "scores": {
+      "research": 88,
+      "social": 75,
+      "blood": 40,
+      "recommendation": 82
+    },
+    "reason": "该研究提出了创新的瘤内疫苗嵌合体策略，通过重编程肿瘤细胞增强抗肿瘤免疫应答，为免疫治疗提供了新的技术思路，对肿瘤免疫微环境研究具有重要启发。"
+  },
+  {
+    "title": "Early hominins from Morocco basal to the Homo sapiens lineage",
+    "abstract": "Palaeogenetic evidence suggests that the last common ancestor of present-day humans, Neanderthals and Denisovans lived around 765-550 thousand years ago (ka)¹. However, both the geographical distribution and the morphology of these ancestral humans remain uncertain. The Homo antecessor fossils from the TD6 layer of Gran Dolina at Atapuerca, Spain, dated between 950 ka and 770 ka (ref. ²), have been proposed as potential candidates for this ancestral population³. However, all securely dated Homo...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501464/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09914-y",
+    "scores": {
+      "research": 85,
+      "social": 65,
+      "blood": 5,
+      "recommendation": 40
+    },
+    "reason": "该论文在古人类学与进化遗传学领域具有高度创新性和方法论严谨性，但对于血液疾病研究缺乏直接关联，仅适合对人类进化史有跨学科兴趣的血液学学者泛读参考。"
+  },
+  {
+    "title": "Oral 4'-fluorouridine rescues nonhuman primates from advanced Lassa fever",
+    "abstract": "There are no approved treatments for Lassa fever, which is estimated to cause 100,000 to 300,000 infections and 5,000 deaths annually in West Africa^(1,2). Recently, it was shown that 4'-fluorouridine (also known as EIDD-2749), an orally available ribonucleoside analogue, protected guinea pigs from lethal challenge with the lineage IV prototype Josiah strain of Lassa virus when treatment was delayed beyond the onset of clinical signs of disease³. Here we assessed the therapeutic efficacy of...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501462/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09906-y",
+    "scores": {
+      "research": 88,
+      "social": 85,
+      "blood": 82,
+      "recommendation": 86
+    },
+    "reason": "该研究针对尚无批准疗法的拉沙热，展示了一种新型口服核苷类似物的治疗潜力，其针对出血热病毒引起的血液学病理机制具有直接参考价值，为病毒性出血热及相关血液紊乱的治疗研究提供了重要思路。"
+  },
+  {
+    "title": "An expanded registry of candidate cis-regulatory elements",
+    "abstract": "Mammalian genomes contain millions of regulatory elements that control the complex patterns of gene expression¹. Previously, the ENCODE consortium mapped biochemical signals across hundreds of cell types and tissues and integrated these data to develop a registry containing 0.9 million human and 300,000 mouse candidate cis-regulatory elements (cCREs) annotated with potential functions². Here we have expanded the registry to include 2.37 million human and 967,000 mouse cCREs, leveraging new...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501460/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09909-9",
+    "scores": {
+      "research": 92,
+      "social": 65,
+      "blood": 78,
+      "recommendation": 85
+    },
+    "reason": "该研究大幅扩展了人类和小鼠的顺式调控元件数据库，为研究血液疾病中基因表达的调控机制提供了重要的基础数据和参考框架，尤其适用于造血分化、白血病等领域的深入探索。"
+  },
+  {
+    "title": "RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity",
+    "abstract": "In all domains of life, tRNAs mediate the transfer of genetic information from mRNAs to proteins. As their depletion suppresses translation and, consequently, viral replication, tRNAs represent long-standing and increasingly recognized targets of innate immunity^(1-5). Here we report Cas12a3 effector nucleases from type V CRISPR-Cas adaptive immune systems in bacteria that preferentially cleave tRNAs after recognition of target RNA. Cas12a3 orthologues belong to one of two previously unreported...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501459/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09852-9",
+    "scores": {
+      "research": 85,
+      "social": 65,
+      "blood": 70,
+      "recommendation": 80
+    },
+    "reason": "该文章首次报道了靶向tRNA的CRISPR-Cas12a3系统，不仅为抗病毒免疫机制提供了全新视角，其tRNA调控机制对研究血液疾病中翻译异常（如贫血、白血病）具有重要借鉴意义。"
+  },
+  {
+    "title": "Stress controls heterochromatin inheritance via histone H3 ubiquitylation",
+    "abstract": "Heterochromatin, marked by histone H3 lysine 9 methylation, can be epigenetically inherited through cell division^(1-3), maintaining gene repression that preserves cell identity and enables adaptation to environmental challenges^(2-6). Studies on Schizosaccharomyces pombe have shown that heterochromatin propagation depends on the read-write mechanism, wherein a sufficient density of H3K9me3-modified nucleosomes, stabilized by histone deacetylases, concentrates Clr4^(SUV39H) on chromatin to...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501458/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108014003&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09899-8",
+    "scores": {
+      "research": 88,
+      "social": 35,
+      "blood": 70,
+      "recommendation": 82
+    },
+    "reason": "该研究深入揭示了异染色质表观遗传的“读写”机制，其保守性调控原理对理解血液肿瘤（如白血病）中表观遗传失调及靶向药物开发具有重要借鉴价值。"
+  },
+  {
+    "title": "An H4K12la/CEBPB-AKR1C2 signaling axis modulates the mTOR pathway to regulate cisplatin resistance in lung cancer",
+    "abstract": "Histone lactylation, a recently discovered epigenetic modification, has been shown to play a critical role in regulating gene expression and cellular functions. However, its involvement in cisplatin (CDDP) resistance in non-small cell lung cancer (NSCLC) remains poorly understood. In this study, we demonstrated that histone lactylation is closely associated with CDDP resistance and correlates with poor prognosis of NSCLC. Mechanistically, H4K12la (histone e 4 lysine 12 lactylation) levels and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501211/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260108014007&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41388-025-03669-6",
+    "scores": {
+      "research": 85,
+      "social": 65,
+      "blood": 70,
+      "recommendation": 80
+    },
+    "reason": "该研究揭示了组蛋白乳酸化这一新型表观遗传修饰在肿瘤耐药中的关键机制，其研究思路与分子调控模式对探索血液肿瘤的耐药性及表观遗传治疗具有直接借鉴价值。"
+  },
+  {
+    "title": "Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer",
+    "abstract": "Mutations in epigenetic regulators are common in bladder cancer, yet their impact on therapeutic responses remains unclear. Here, we identify that loss-of-function mutations in KDM6A, a histone demethylase altered in about 26% of advanced bladder cancers, are associated with poor survival after cisplatin chemotherapy, whereas they correlate with improved outcomes with anti-PD-1 therapy. Using CRISPR-Cas9-engineered murine and human bladder cancer models, we show that KDM6A deficiency increases...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501085/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260108014007&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68132-2",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 60,
+      "recommendation": 80
+    },
+    "reason": "该研究通过表观遗传调控因子KDM6A突变与治疗反应的关联，为肿瘤精准医疗提供了重要机制见解，其研究方法与结论对血液肿瘤领域探索表观遗传靶向治疗具有借鉴意义。"
+  },
+  {
+    "title": "The Role and Mechanism of Post-Translational Modifications (PTMs) in Immune-Related Eye Diseases",
+    "abstract": "Post-translational modifications (PTMs) encompass the spectrum of chemical covalent alterations that proteins undergo after being synthesized from mRNA. These modifications typically involve the covalent bonding of chemical groups or small protein molecules to the amino acid backbones or side chains. Currently, over 650 types of PTMs have been identified, including significant ones such as phosphorylation, ubiquitination, SUMOylation, methylation, acetylation, glycosylation, among other novel...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500399/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260108014007&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.exer.2026.110851",
+    "scores": {
+      "research": 75,
+      "social": 40,
+      "blood": 65,
+      "recommendation": 70
+    },
+    "reason": "该综述系统梳理了蛋白质翻译后修饰的类型与机制，为血液病相关蛋白质功能异常研究提供了基础理论框架，尤其适用于探索血液肿瘤或凝血疾病中的表观遗传调控机制。"
+  },
+  {
+    "title": "NUP98 rearrangements in adult AML patients: evaluation of clinical implications and identification of novel fusion partners",
+    "abstract": "NUP98 rearrangements represent a distinct, high-risk subtype of acute myeloid leukemia (AML), particularly in pediatric patients. However, their prevalence, genetic features, and clinical implications in adult AML remain poorly characterized. Using targeted-capture sequencing, we identified 41 cases with NUP98 rearrangements among 1569 AML cases, representing the majority of 44 NUP98-rearranged cases detected across 4753 myeloid neoplasms. Fifteen distinct fusion partners were detected, with...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501506/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=8704895&fc=None&ff=20260108014008&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41375-025-02848-4",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 90,
+      "recommendation": 80
+    },
+    "reason": "该研究通过大规模靶向测序明确了成人AML中NUP98重排的分子特征与临床意义，对完善AML危险分层和靶向治疗具有直接参考价值。"
+  },
+  {
+    "title": "Advances in the treatment and prognosis of aggressive NK-cell leukemia: results from the ANKL22 study",
+    "abstract": "Aggressive NK-cell leukemia (ANKL) is a rare NK-cell leukemia characterized by, an aggressive clinical course, and frequent Epstein-Barr virus association. We retrospectively collected 126 ANKL patients diagnosed between 2000 and 2021 from 71 institutes; 108 were evaluable for analysis to characterize the recent advances. The median age was 49 years (range: 17-90), and 63 patients were male. The median percentage of leukemic cells in the bone marrow and peripheral blood was 19.7% and 10.0%,...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501503/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=8704895&fc=None&ff=20260108014008&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41375-025-02854-6",
+    "scores": {
+      "research": 85,
+      "social": 65,
+      "blood": 95,
+      "recommendation": 90
+    },
+    "reason": "该研究基于多中心大样本的回顾性数据，全面更新了侵袭性NK细胞白血病的临床特征，为这一罕见血液病的诊断和治疗提供了重要的当代参考依据。"
+  },
+  {
+    "title": "Alnuctamab, a bivalent B-cell maturation antigen-targeting T cell engager for patients with relapsed or refractory multiple myeloma: results from a phase 1, first-in-human study",
+    "abstract": "B-cell maturation antigen (BCMA)-targeting therapies provide a new approach to treating multiple myeloma (MM). Alnuctamab (ALNUC) is a 2 + 1 immunoglobulin G1-based bispecific antibody binding BCMA and CD3ε receptors on myeloma and T cells, respectively. CC-93269-MM-001 is a first-in-human, phase 1 dose escalation/expansion study investigating ALNUC in relapsed/refractory MM. Patients had ≥3 prior regimens, disease progression ≤60 days of last regimen, and were BCMA-directed therapy-naïve. ALNUC...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=8704895&fc=None&ff=20260108014008&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41375-025-02841-x",
+    "scores": {
+      "research": 82,
+      "social": 75,
+      "blood": 90,
+      "recommendation": 85
+    },
+    "reason": "该研究首次报道了双特异性抗体Alnuctamab在复发难治多发性骨髓瘤中的临床试验数据，为BCMA靶向治疗提供了新的机制探索和临床证据，对血液肿瘤的免疫治疗发展具有重要参考价值。"
+  },
+  {
+    "title": "Illuminating the influence of natural daylight on human metabolism",
+    "abstract": "Humankind currently lives largely under artificial light, potentially negatively impacting circadian-metabolic alignment and predisposing it to diseases. Harmsen et al.¹ show that natural daylight exposure during office hours improves several metabolic parameters including glucose regulation, enhancing fat oxidation, and advancing muscle-clock circadian phase in individuals with type 2 diabetes.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500200/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101233170&fc=None&ff=20260108014012&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.cmet.2025.11.017",
+    "scores": {
+      "research": 75,
+      "social": 80,
+      "blood": 40,
+      "recommendation": 70
+    },
+    "reason": "该研究通过揭示自然光对代谢指标的积极影响，为改善代谢性疾病提供了简单可行的生活干预思路，对关注代谢健康与昼夜节律的研究者具有启发意义。"
+  },
+  {
+    "title": "Benign form of monogenic obesity conferred by the melanocortin 4 receptor",
+    "abstract": "Mutations that impair the function of the melanocortin 4 receptor (MC4R) cause severe obesity in both heterozygous and homozygous carriers. However, recent findings indicate that individuals with this form of monogenic obesity may be unexpectedly protected against dyslipidemia and cardiovascular diseases.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500196/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101233170&fc=None&ff=20260108014012&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.cmet.2025.12.006",
+    "scores": {
+      "research": 82,
+      "social": 75,
+      "blood": 65,
+      "recommendation": 78
+    },
+    "reason": "该研究揭示了MC4R突变导致肥胖却可能意外降低心血管风险的矛盾现象，为代谢综合征与血液脂质异常的关联机制提供了新的研究视角，对血液科探讨血脂代谢相关疾病具有启发意义。"
+  },
+  {
+    "title": "Boosted catalytic activity by metal-oxide interface in porous single-crystalline niobium oxide monoliths",
+    "abstract": "Introducing and stabilizing oxygen vacancies in the lattice of oxide support materials has been a huge challenge to boost the catalytic activity in redox reaction. Herein, we fabricate porous single-crystalline Nb(2)O(5) monoliths at the centimeter scale, then we introduce the oxygen vacancies in lattice by reduction treatment and stabilize the oxygen vacancy defects by the ordered lattice. We then deposit Pt clusters at surface in the porous microstructures to construct an interfacial system...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501092/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68117-1",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 20,
+      "recommendation": 75
+    },
+    "reason": ""
+  },
+  {
+    "title": "Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer",
+    "abstract": "Mutations in epigenetic regulators are common in bladder cancer, yet their impact on therapeutic responses remains unclear. Here, we identify that loss-of-function mutations in KDM6A, a histone demethylase altered in about 26% of advanced bladder cancers, are associated with poor survival after cisplatin chemotherapy, whereas they correlate with improved outcomes with anti-PD-1 therapy. Using CRISPR-Cas9-engineered murine and human bladder cancer models, we show that KDM6A deficiency increases...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501085/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68132-2",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 65,
+      "recommendation": 80
+    },
+    "reason": "该研究通过表观遗传调控因子KDM6A突变与膀胱癌治疗响应的关联，揭示了表观遗传改变如何影响化疗与免疫治疗疗效的机制，其研究思路与发现对血液肿瘤（如淋巴瘤、白血病）的耐药性研究和免疫治疗策略具有重要借鉴价值。"
+  },
+  {
+    "title": "Dredging and dumping impact coastal fluxes of sediment and organic carbon",
+    "abstract": "The disturbance and relocation of coastal sediments by human activities constitutes a potentially large disruption to natural sediment and organic carbon fluxes, but large-scale estimates of these impacts are lacking. Here, we estimate the amounts of sediment and organic carbon disturbed and relocated in the North Sea resulting from (1) dredging in the form of mineral aggregate extraction and (2) material dumping during waterway maintenance. We show that despite disturbing less sediment than...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501083/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68105-5",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 10,
+      "recommendation": 60
+    },
+    "reason": "该研究在环境科学领域具有重要价值，揭示了人类活动对沉积物和碳通量的大规模影响，但对血液疾病研究缺乏直接关联，仅适合跨学科背景参考。"
+  },
+  {
+    "title": "The dorsal aortic compartment is a developmental source of brown adipose tissue in mice",
+    "abstract": "White adipose tissue primarily stores energy while brown adipose tissue dissipates energy as heat, holding promise for therapeutic use. Brown adipose tissue in the anterior trunk is believed to derive from the somitic mesoderm, although some depots are of partially unknown origin. Here we show that the subscapular, lateral, cervical and peri-aortic brown adipose depots, but not the interscapular depot, are in part formed by a non-somitic source. Single-cell sequencing along with genetic lineage...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501080/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68147-9",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 60,
+      "recommendation": 80
+    },
+    "reason": "该研究通过单细胞测序等技术揭示了非体节来源的棕色脂肪分布，为脂肪组织发育提供了新见解，对血液疾病中代谢与炎症交互作用的研究具有潜在启发价值。"
+  },
+  {
+    "title": "Continuous MXene fibers with near-gigapascal tensile strength via radial confinement and axial stretching",
+    "abstract": "Assembling titanium carbide MXene nanosheets into macroscopic high-performance fibers is very challenging because of the voids caused by transverse wrinkles, hindering their practical applications in wearable smart textiles. Here we continuously fabricate ultrastrong MXene fibers by coaxial-wet-spinning-assisted radial confining integrated with roll-to-roll-assisted axial stretching under near room temperature. Wet-spun MXene fibers are bridged with calcium ions and radially confined to reduce...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501079/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68038-z",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 10,
+      "recommendation": 65
+    },
+    "reason": "该文章在材料制备方法上具有显著创新性和技术严谨性，对高性能纤维研发有重要参考价值，但其内容与血液疾病研究无直接关联，可借鉴性有限。"
+  },
+  {
+    "title": "Spatially resolved integrative analysis of transcriptomic and metabolomic changes in tissue injury studies",
+    "abstract": "Recent developments in spatially resolved -omics have enabled the joint study of gene expression, metabolite levels and tissue morphology, offering greater insights into biological pathways. Integrating these modalities from matched tissue sections to probe spatially-coordinated processes, however, remains challenging. Here we introduce MAGPIE, a framework for co-registering spatially resolved transcriptomics, metabolomics, and tissue morphology from the same or consecutive sections. We show...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501078/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68003-w",
+    "scores": {
+      "research": 88,
+      "social": 75,
+      "blood": 60,
+      "recommendation": 85
+    },
+    "reason": "该文章提出的MAGPIE框架在多模态空间组学数据整合方法上具有显著创新性，其技术思路对血液病肿瘤微环境或骨髓空间异质性研究具有重要方法论借鉴价值。"
+  },
+  {
+    "title": "Computational design of dynamic biosensors for emerging synthetic opioids",
+    "abstract": "Nitazenes are an emergent class of synthetic opioids that often rival or exceed fentanyl in their potency. These compounds have been detected internationally in illicit drugs and are the cause of increasing numbers of hospitalizations and overdoses. New analogs are consistently released, making detection challenging - new ways of testing a wide range of nitazenes and their metabolic products are urgently needed. Here, we develop a computational protocol to redesign the plant abscisic acid...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501077/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67994-w",
+    "scores": {
+      "research": 75,
+      "social": 85,
+      "blood": 40,
+      "recommendation": 70
+    },
+    "reason": "该研究针对新兴合成阿片类药物尼塔烯的检测难题提出了创新的计算生物学解决方案，对公共卫生危机应对具有重要价值；其方法学思路可为血液学领域开发新型毒素或药物检测技术提供跨学科借鉴。"
+  },
+  {
+    "title": "Historical reconstruction of human moralization with word association and text corpora",
+    "abstract": "Moralization, the process by which concepts and practices gain moral attributes, plays a pivotal role in shaping individual and social behaviour. However, research on how moralization unfolds over time remains limited. We present HistMoral, an open-access computational framework based on human word association, historical text corpora, and graph neural networks that enables scalable, retrospective analysis of moral trajectories of many different concepts. We apply our framework to analyze the...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501075/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67891-2",
+    "scores": {
+      "research": 85,
+      "social": 80,
+      "blood": 10,
+      "recommendation": 70
+    },
+    "reason": "该研究在方法学上具有显著创新性，融合了计算语言学与图神经网络，为道德观念的历史演变提供了可扩展的分析框架；虽然与血液疾病无直接关联，但其研究范式对跨学科社会科学研究具有较高的借鉴价值。"
+  },
+  {
+    "title": "Smart hybrid microscopy for cell-friendly detection of rare events",
+    "abstract": "Fluorescence microscopy offers unparalleled access to the spatial organization and dynamics of biological events in living samples, yet capturing rare processes over extended durations remains challenging due to trade-offs between exposure to excitation light and sample health. Here, we introduce hybrid-EDA, an event-driven acquisition (EDA) framework that combines the gentleness and contextual richness of phase-contrast with the functional specificity of fluorescence. We develop surveillance...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501068/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68168-4",
+    "scores": {
+      "research": 90,
+      "social": 45,
+      "blood": 30,
+      "recommendation": 70
+    },
+    "reason": "该研究提出的hybrid-EDA成像框架在活细胞长时程观测方法上具有重要创新，通过事件驱动采集策略减少光毒性，对研究造血细胞动态、罕见细胞事件或血液肿瘤细胞的实时行为具有潜在借鉴价值。"
+  },
+  {
+    "title": "Adjuvanted influenza vaccination increases pre-existing H5N1 cross-reactive antibodies",
+    "abstract": "Highly pathogenic H5N1 avian influenza viruses of clade 2.3.4.4b cause sporadic human infections and currently raise concerns about a new influenza pandemic. Heterogeneities in disease severity have been observed in the past and are reported among infected farm workers in the United States. These may be attributed to differences in pre-existing H5N1 cross-reactive antibodies. In this study, we characterize H5N1 cross-reactive antibody landscapes in the current population (#NCT05794412 and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501066/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68137-x",
+    "scores": {
+      "research": 85,
+      "social": 90,
+      "blood": 60,
+      "recommendation": 80
+    },
+    "reason": "该研究虽非直接针对血液疾病，但通过分析H5N1交叉反应抗体与疾病严重性的关联，为理解感染相关免疫反应及血液学并发症（如细胞因子风暴、凝血异常）提供了重要参考，对血液科医生有间接借鉴价值。"
+  },
+  {
+    "title": "Prehospital real-time AI for trauma mortality prediction: a multi-institutional and multi-national validation study",
+    "abstract": "Early identification of high-risk trauma patients in the prehospital setting is crucial for optimizing resource allocation and improving survival. We developed and externally validated a real-time AI model predicting emergency room mortality using 21 prehospital variables. Model development and internal validation utilized the Korean Trauma Data Bank (KTDB; 204,189 patients), and external validation included four South Korean trauma centers (8,358 patients) and one Australian Level 1 center...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501064/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68198-y",
+    "scores": {
+      "research": 88,
+      "social": 85,
+      "blood": 65,
+      "recommendation": 80
+    },
+    "reason": "该研究基于大规模创伤数据开发并外部验证了AI预测模型，方法学严谨可靠，其预测思路与危重血液病患者（如大出血、凝血病）的早期识别与资源调配具有可借鉴的临床逻辑关联。"
+  },
+  {
+    "title": "Tau condensation on DNA mediates microtubule attachment suggesting a mitotic role for centromere-localized tau",
+    "abstract": "Tau protein, traditionally recognized for stabilizing microtubules and forming pathological aggregates, has recently been observed to form condensates in various contexts. While its condensation with RNA has been well studied, the interaction between tau and DNA, along with its biological significance, remains less explored. Here, using single-molecule experiments, we find that tau binds stably to naked DNA at nanomolar concentrations, leading to the local co-condensation of tau and DNA. These...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501063/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67888-x",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 65,
+      "recommendation": 75
+    },
+    "reason": "该研究采用单分子实验揭示了tau蛋白与DNA相互作用的精确机制，为血液病中DNA-蛋白质异常凝聚（如某些白血病或淋巴瘤相关机制）提供了新的分子水平借鉴思路。"
+  },
+  {
+    "title": "North Atlantic ventilation change over the past three decades is potentially driven by climate change",
+    "abstract": "The North Atlantic Meridional Overturning Circulation (AMOC) ventilates a large part of the world ocean via the formation of mode waters and North Atlantic Deep Water. The extent to which human activities have impacted this ventilation system remains unclear. To assess the temporal variations of ocean ventilation in the North Atlantic, we calculated the \"age\" of seawater, that is, the duration since its last contact with the ocean surface, from both observed and simulated chlorofluorocarbon-12...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501062/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67923-x",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 10,
+      "recommendation": 40
+    },
+    "reason": "该研究在海洋气候学方法上严谨可靠，虽与血液疾病无直接关联，但其示踪剂测年技术与跨学科研究方法对血液动力学或代谢物周转研究具有潜在借鉴意义。"
+  },
+  {
+    "title": "Learning the language of protein-protein interactions",
+    "abstract": "Protein Language Models (PLMs) trained on large databases of protein sequences have proven effective in modeling protein biology across a wide range of applications. However, while PLMs excel at capturing individual protein properties, they face challenges in natively representing protein-protein interactions (PPIs), which are crucial to understanding cellular processes and disease mechanisms. Here, we introduce MINT, a PLM specifically designed to model sets of interacting proteins in a...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501061/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67971-3",
+    "scores": {
+      "research": 88,
+      "social": 72,
+      "blood": 85,
+      "recommendation": 86
+    },
+    "reason": "该研究提出的MINT模型针对蛋白质相互作用（PPI）进行专门建模，弥补了传统蛋白质语言模型的不足，对解析血液疾病中异常蛋白互作机制具有直接方法论借鉴价值。"
+  },
+  {
+    "title": "Brain and neural cell type proteomics reveal extracellular matrix proteins enriched in progressive multiple sclerosis",
+    "abstract": "Progressive multiple sclerosis (PMS) is an autoimmune demyelinating disease of the central nervous system (CNS) in humans. PMS is defined by neuroinflammation and axonal damage with advancing neurological disabilities, although the underlying molecular mechanisms remain uncertain. To gain insight into the proteomic aspects of PMS, we used mass spectrometry to investigate proteomic profiles and specific protein changes in matched CNS tissues (white matter, cortex, and lesions) from persons with...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501060/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68118-0",
+    "scores": {
+      "research": 75,
+      "social": 50,
+      "blood": 30,
+      "recommendation": 40
+    },
+    "reason": "该研究采用质谱技术对进行性多发性硬化症中枢神经系统进行蛋白质组学分析，方法学具有严谨性和可借鉴性，尤其适用于研究血液系统自身免疫或炎症相关疾病的分子机制。"
+  },
+  {
+    "title": "Comprehensive evaluation of GLP-1 receptor agonists: an umbrella review of clinical outcomes across multiple diseases",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) were initially approved for type 2 diabetes mellitus. Recent evidence suggests their therapeutic potential in various diseases, though their efficacy and safety remain incompletely understood. Here, we conduct an umbrella review including 123 meta-analyses covering 464 outcomes from 5617 articles to comprehensively assess the effectiveness and adverse events (AEs) of GLP-1 RAs across diverse outcomes. GLP-1 RAs showed trends toward...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501059/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67701-9",
+    "scores": {
+      "research": 85,
+      "social": 90,
+      "blood": 60,
+      "recommendation": 75
+    },
+    "reason": "该研究通过伞状综述系统评估GLP-1受体激动剂的多重疗效与安全性，方法学严谨、证据全面，虽未直接聚焦血液疾病，但对研究代谢药物在血液系统共病患者中的应用具有重要参考价值。"
+  },
+  {
+    "title": "Dynamic oxygen vacancy engineering on CuO via refreshable catalytic surface for high-efficient water decontamination",
+    "abstract": "Oxygen vacancies (O(v)) on metal oxide surfaces exhibit high catalytic activity for activating peroxymonosulfate (PMS) in wastewater decontamination, yet their in-situ regeneration remains a significant challenge. This study successfully achieves in-situ real-time regeneration of O(v) on CuO surfaces through simple alkali etching without interrupting the contaminant removal process. The surface hydroxyl groups introduced by alkali treatment significantly reduce the formation energy of O(v) on...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501056/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68180-8",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 15,
+      "recommendation": 60
+    },
+    "reason": "该研究在催化剂表面氧空位原位再生方法上具有显著创新性与技术参考价值，但其研究主题与血液疾病直接关联较弱，可作为交叉学科的材料表面改性思路间接借鉴。"
+  },
+  {
+    "title": "Disturbances of paraventricular thalamic nucleus neurons in bipolar disorder revealed by single-nucleus analysis",
+    "abstract": "Bipolar disorder (BD) is a major global health burden, and its treatment challenges highlight the need for pathology-based therapeutic development. Emerging evidence suggests that the thalamus, particularly the paraventricular thalamic nucleus (PVT), is a key region in mood regulation. We performed single-nucleus RNA sequencing on 82 thalamic and cortical samples from 21 patients with BD and 20 controls to compare transcriptional pathology. PVT neurons showed the most striking abnormalities,...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501055/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68094-5",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 20,
+      "recommendation": 65
+    },
+    "reason": "该研究在单细胞测序方法和神经精神疾病机制探索上具有高度严谨性与创新性，但其研究焦点为双相情感障碍的丘脑转录组病理，与血液疾病领域直接关联较弱，仅在其高通量测序数据分析方法上对血液病研究有一定可借鉴性。"
+  },
+  {
+    "title": "AKAP95 condensates regulate transcription and can be targeted in MLL-fusion driven oncogenesis",
+    "abstract": "RNA binding proteins could regulate transcription through modulating RNA polymerase II involved transcriptional condensates with the aid of nascent RNA. However, whether this mechanism also contributes to tumorigenesis is still unknown. Here, we show the RBP AKAP95 is required for MLL rearranged leukemogenesis. Phase separation and RNA binding properties of AKAP95 modulate Pol II recruitment into condensates at genome-wide target sites. AKAP95 interact with MLL1 translocated fragment and their...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501053/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68192-4",
+    "scores": {
+      "research": 92,
+      "social": 70,
+      "blood": 95,
+      "recommendation": 90
+    },
+    "reason": "该研究创新性地揭示了RNA结合蛋白AKAP95通过相分离机制调控转录并驱动MLL重排白血病的发生，为血液肿瘤的靶向治疗提供了新思路。"
+  },
+  {
+    "title": "Chronic macrophage activation derails muscle repair by disrupting mannose-receptor-linked plasticity revealed by endogenous irg1/acod1 tracking",
+    "abstract": "Macrophages are central drivers of chronic inflammation, yet how a sustained inflammatory state alters their function remains unclear. Using GFP knock-in zebrafish targeting irg1/acod1 that marks macrophage activation, we track the dynamic transitions of macrophage states during acute muscle injury under homeostatic and chronically inflamed conditions, induced by genetic mutation of nlrc3l. In the chronic inflammation model, muscle repair is impaired and expression of the mannose receptor...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501052/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68204-3",
+    "scores": {
+      "research": 88,
+      "social": 45,
+      "blood": 70,
+      "recommendation": 82
+    },
+    "reason": "该研究通过斑马鱼模型动态追踪巨噬细胞在慢性炎症中的状态转变，为理解炎症相关血液疾病（如巨噬细胞功能紊乱）提供了新颖的机制视角与可借鉴的实验模型。"
+  },
+  {
+    "title": "Highly efficient expression of DNA-peptide conjugates in growth-arrested cells",
+    "abstract": "Efficient nuclear delivery of DNA remains a major challenge in non-viral gene therapy. While nuclear localization signal (NLS) peptides have been explored for enhancing nuclear translocation of DNA, their efficacy has been limited by DNA-peptide conjugation strategies. Leveraging E. coli tRNA guanine transglycosylase, we present a modular workflow for generating DNA oligonucleotide-peptide conjugates which are ligated to linear DNA to generate peptide-modified gene cassettes (DNA-PepTAG). Using...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501051/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68167-5",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 70,
+      "recommendation": 80
+    },
+    "reason": "该研究提出了一种创新的非病毒基因递送方法，其模块化肽标记策略对提高基因治疗效率具有重要参考价值，未来可能为血液遗传性疾病的基因治疗研究提供新的技术思路。"
+  },
+  {
+    "title": "Multiplexed lipid nanoparticle barcoding reveals tissue-dynamic kinetic insights and enriched cellular tropism in hepatic zones",
+    "abstract": "Lipid nanoparticles (LNPs) efficiently deliver nucleic acids to cells in vivo and facilitate clinical applications including RNA-based vaccines and therapies. Discovery and optimization of LNPs remain challenging due to the complexity of input variables and low throughput workflows. To accelerate these processes, we report a broadly compatible barcoded Cre recombinase mRNA barcode platform that enables multiplexed LNP tracking in vivo in tdTomato reporter mice. We evaluate accumulation and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501049/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68103-7",
+    "scores": {
+      "research": 86,
+      "social": 62,
+      "blood": 78,
+      "recommendation": 84
+    },
+    "reason": "该文章建立的条形码Cre mRNA平台创新性地实现了体内脂质纳米颗粒的高通量筛选，对提高核酸药物递送效率和推动血液疾病（如基因治疗、mRNA疗法）的转化研究具有重要的可借鉴价值。"
+  },
+  {
+    "title": "The inflammatory path toward type 1 diabetes begins during pregnancy",
+    "abstract": "Type 1 diabetes (T1D) is increasing globally, yet the earliest biological determinants remain poorly defined, particularly in general population studies. We studied the Swedish population-based ABIS birth cohort (n = 16,683) to identify early-life risk factors. Olink proteomic analysis (n = 286 controls, n = 146 cases) of inflammatory signals at birth shows differential abundance years before diagnosis (mean age 12.6 years), with proteins enriched for neutrophil migration, cytotoxicity,...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501048/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67712-6",
+    "scores": {
+      "research": 75,
+      "social": 65,
+      "blood": 40,
+      "recommendation": 70
+    },
+    "reason": "该研究采用大队列出生样本与蛋白质组学分析，揭示了1型糖尿病发病前多年的炎症信号变化，其关于中性粒细胞迁移、细胞毒性等蛋白的发现可为血液病研究中免疫相关机制提供可借鉴的思路与方法。"
+  },
+  {
+    "title": "Phase diagrams of pharmaceutical solvates from mechanochemistry",
+    "abstract": "Crystalline solvates, including hydrates, hold untapped potential in pharmaceutical development, yet their exploitation remains minimal due to the difficult and laborious task of unequivocally establishing their physical stabilities. We introduce Controlled Solvent-Activity Liquid-Assisted Grinding (CSA-LAG), a mechanochemical protocol that offers solvate phase boundary elucidation by varying the activity of a chosen solvent in defined binary/ternary mixtures and analysing the equilibrated...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501046/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67806-1",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 20,
+      "recommendation": 70
+    },
+    "reason": "该研究提出的CSA-LAG方法在药物晶型稳定性研究方面具有显著的方法学创新性，虽然不直接针对血液疾病，但其在药物固态研发中的技术思路对血液病药物制剂开发有潜在借鉴价值。"
+  },
+  {
+    "title": "Tetrachloromethane as an editable all-carbon quaternary source",
+    "abstract": "Despite the widespread presence of all-carbon quaternary centers in natural products and bioactive compounds, a concise construction strategy remains very challenging. Herein, we introduce a highly controllable sequential dechlorination strategy of tetrachloromethane by means of relay catalysis with different photocatalysts of eosin Y, 1,2,3,5-tetrakis(carbazol-9-yl)-4,6-dicyanobenzene and Au(2)(µ-dcpm)(2)Cl(2). Four C-Cl bonds in CCl(4) can undergo sequential, highly selective cleavage by...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501045/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68224-z",
+    "scores": {
+      "research": 85,
+      "social": 15,
+      "blood": 10,
+      "recommendation": 45
+    },
+    "reason": "该文章在有机合成方法学上具有高度创新性和技术严谨性，但其内容与血液疾病研究无直接关联，仅可能在合成相关药物分子时提供间接参考价值。"
+  },
+  {
+    "title": "Uncertainty-aware machine learning to predict non-cancer human toxicity for the global chemicals market",
+    "abstract": "Humans are exposed to thousands of chemicals, yet limited toxicity data hinder effective management of their impacts on human health. High-performing machine learning models hold potential for addressing this gap, but their uncharacterized prediction performance across the wider range of chemicals undermines confidence in their results. We develop uncertainty-aware models to predict reproductive/developmental and general non-cancer human toxicity effect doses. Our well-calibrated models provide...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501044/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67374-4",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 40,
+      "recommendation": 70
+    },
+    "reason": "该研究通过开发不确定性感知的机器学习模型，提升了化学物质毒性预测的可信度与校准性，虽不直接针对血液疾病，但其方法学创新对毒理学及血液系统相关的化学风险评估具有可借鉴的参考价值。"
+  },
+  {
+    "title": "Self-assembled lyotropic liquid crystal interlayer regulated interfacial polymerization for modulating structure and performance of nanofiltration membranes",
+    "abstract": "Nanofiltration (NF) is a key membrane separation technology that is promising in various chemical and environmental applications. The need for high-performance thin-film composite (TFC) NF membranes, particularly those with enhanced salt selectivity and fouling resistance, necessitates effective strategies for optimizing their fabrication processes-interfacial polymerization (IP). In this study, we demonstrate an effective strategy for fine-tuning of IP process through integrating lyotropic...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501040/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68116-2",
+    "scores": {
+      "research": 78,
+      "social": 65,
+      "blood": 20,
+      "recommendation": 45
+    },
+    "reason": "该文章在膜分离技术领域展示了创新的界面聚合调控策略，具有较高的方法学参考价值，但与血液疾病研究无直接关联，仅可能间接启发血液净化或透析设备的技术改进。"
+  },
+  {
+    "title": "O-GlcNAcylation of AMFR stabilizes TSPAN4 to regulate migrasome formation for viral release",
+    "abstract": "Migrasomes are migration-dependent organelles, serving as delivery packets to mediate release of cytoplasmic contents. Tetraspanin 4 (TSPAN4) acts as a marker for migrasomes and is essential for their formation. However, the regulatory mechanism(s) underlying TSPAN4-mediated migrasome biogenesis and its physiological functions remain to be elucidated. Here, we identified AMFR, an ER-resident E3 ligase, regulates migrasome formation through catalyzing the K48-linked polyubiquitination of TSPAN4...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501039/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68220-3",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 90,
+      "recommendation": 80
+    },
+    "reason": "该研究揭示了AMFR通过泛素化修饰调控TSPAN4进而影响迁移体的形成机制，为理解细胞迁移相关囊泡在血液疾病（如肿瘤转移、免疫细胞通讯）中的作用提供了新的分子视角，具有重要的基础研究借鉴价值。"
+  },
+  {
+    "title": "Bayesian teaching enables probabilistic reasoning in large language models",
+    "abstract": "Large language models (LLMs) are increasingly used as agents that interact with users and with the world. To do so successfully, LLMs must construct representations of the world and form probabilistic beliefs about them. To provide personalized recommendations, for example, the LLM needs to infer a user's preferences from their behavior over multiple interactions. The Bayesian inference framework lays out the optimal way for an agent to update its beliefs as it receives new information. We first...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501038/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67998-6",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 5,
+      "recommendation": 40
+    },
+    "reason": "本文虽在人工智能与大语言模型推理方法上具有较高创新性与方法论严谨性，但与血液疾病研究无直接关联，对血液学领域的可借鉴性极低，仅适合关注AI基础理论的研究者。"
+  },
+  {
+    "title": "Efficacy and safety of low-dose interleukin 2 for Behçet's syndrome: a randomized, placebo-controlled, double-blind, phase 2 clinical trial",
+    "abstract": "Behçet's syndrome (BS), a chronic vasculitis, leads to recurrent oral ulcers, severely impacting quality of life. Here we report the results of a randomized, double-blind, placebo-controlled trial (NCT04065672) to evaluate the efficacy and safety of low-dose interleukin-2 (LD-IL-2) in BS patients. 60 participants with active oral ulcers are randomly assigned to receive LD-IL-2 or placebo. The primary endpoint is the oral ulcer count at week 12. The LD-IL-2 group has significantly fewer oral...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501036/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68100-w",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 80,
+      "recommendation": 82
+    },
+    "reason": "该研究采用随机双盲安慰剂对照试验设计，方法学严谨，为白塞综合征这一难治性血管炎疾病提供了低剂量IL-2治疗的新证据，对血液科免疫调节治疗研究具有重要借鉴价值。"
+  },
+  {
+    "title": "Protection against lethal canine distemper virus infection by a dual epitope-targeting synthetic antibody",
+    "abstract": "Despite vaccine availability, the morbilliviruses measles virus and canine distemper virus (CDV) are still causing major health impairments in human and animal populations. Here, we identified two potent, neutralizing single domain antibodies directed against the tetrameric receptor binding (H) protein of CDV. Structural analyses spotlighted two vulnerable sites within the H protein. While the first overlaps with the receptor binding site, the second encompasses amino acid residues of two...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501035/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67600-z",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 30,
+      "recommendation": 75
+    },
+    "reason": "该研究通过结构生物学手段揭示了犬瘟热病毒受体结合蛋白的脆弱位点，并筛选出强效中和性单域抗体，其研究思路与抗体开发策略对病毒相关血液学研究具有方法学上的借鉴价值。"
+  },
+  {
+    "title": "Perioperative tislelizumab plus lenvatinib treatment for resectable hepatocellular carcinoma at high risk of recurrence: single-arm phase II trial",
+    "abstract": "Postoperative recurrence significantly impacts long-term survival in patients with resectable hepatocellular carcinoma (HCC). In this single-arm, phase II trial (NCT04834986), 27 patients with resectable HCC at high recurrence risk received perioperative tislelizumab (anti-PD-1) plus lenvatinib (multi-kinase inhibitor). Co-primary endpoints were safety and feasibility. Secondary endpoints included objective response rate (ORR), 1-year and 2-year disease-free survival (DFS), median DFS, and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501032/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68108-2",
+    "scores": {
+      "research": 75,
+      "social": 70,
+      "blood": 65,
+      "recommendation": 80
+    },
+    "reason": "该研究虽聚焦肝细胞癌，但其中PD-1抑制剂联合靶向药的免疫调节机制与血液肿瘤治疗策略高度相通，可为淋巴瘤、白血病等血液疾病的新型联合疗法提供重要思路参考。"
+  },
+  {
+    "title": "Perpendicular neuromorphic channels facilitate lateral inhibition for tactile location",
+    "abstract": "Lateral inhibition refers to the inhibition of neurons as caused by excitation of its neighboring neurons, which helps increase the contrast and sharpness of touch, and pinpoint exact touch position. However, such important operational logic has not yet been realized in neuromorphic sensing systems at the device level. Herein, we demonstrate a cross-channel synaptic transistor (CST) that possesses two perpendicularly-integrated channels with separate source and drain electrodes but the same...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501030/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68139-9",
+    "scores": {
+      "research": 85,
+      "social": 65,
+      "blood": 20,
+      "recommendation": 75
+    },
+    "reason": "该研究在神经形态器件层面创新性地实现了侧抑制机制，为仿生传感系统提供了新思路，虽与血液疾病无直接关联，但其跨通道协同调控机制对研究细胞间信号交互具有启发意义。"
+  },
+  {
+    "title": "Boron neutron capture therapy preserves immune cells and induces robust anti-tumour immunity in preclinical mouse model",
+    "abstract": "Radiotherapy can both activate and suppress immunity, making it difficult to predict or modulate these opposing effects for better cancer treatment. Boron neutron capture therapy (BNCT), a cellular-level radiotherapy, has demonstrated remarkable therapeutic efficacy in clinical practice, but mechanistically remains inadequately explored. Here, we compare the effects of BNCT with X-ray irradiation at equivalent radiation doses on immune cells and define the immunological mechanisms behind the...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501029/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67984-y",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 90,
+      "recommendation": 88
+    },
+    "reason": "该研究从免疫细胞层面深入比较了BNCT与常规放疗的效应，为理解放疗的免疫调节机制提供了新视角，对血液肿瘤的放疗优化和免疫联合治疗具有直接借鉴价值。"
+  },
+  {
+    "title": "Automatic optimization of flat-field corrections by evaluation and enhancement (EVEN) in multimodal optical microscopy",
+    "abstract": "Uneven illumination affects all images acquired by optical microscopes, especially large, multicolour and nonlinear measurements. Although removal is possible with various algorithms, evaluating raw and processed images is challenging due to the lack of established workflows for image quality assessment. This manuscript describes a machine learning-based method, EVEN (Evaluation and Enhancement), to assess and optimise corrections in optical microscopy. EVEN integrates quantitative image metrics...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501027/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68150-0",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 70,
+      "recommendation": 80
+    },
+    "reason": "该文章提出的EVEN方法为光学显微镜图像的质量评估与校正提供了创新的机器学习工作流，这对于依赖高精度显微成像的血液病形态学诊断和细胞学研究具有重要的工具参考价值。"
+  },
+  {
+    "title": "Efficacy and safety of cAMP signalling-biased GLP-1 analogue ecnoglutide monotherapy versus placebo in patients with type 2 diabetes (EECOH-1): a multi-centre, randomised, double-blind, placebo-controlled, phase 3 trial",
+    "abstract": "Ecnoglutide is a cAMP-biased GLP-1 analogue developed for the treatment of type 2 diabetes mellitus (T2DM) and obesity. We conducted a randomised, double-blind, placebo-controlled, phase 3 trial to evaluate the efficacy and safety of ecnoglutide in adults with T2DM inadequately controlled with diet and exercise alone or with a single oral hypoglycaemic agent. The primary endpoint was change in glycated haemoglobin (HbA(1c)) from baseline at week 24. Between 29 December 2022 and 12 June 2024, 211...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501026/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68165-7",
+    "scores": {
+      "research": 85,
+      "social": 90,
+      "blood": 40,
+      "recommendation": 70
+    },
+    "reason": "该研究设计严谨，作为GLP-1类似物的三期临床试验对代谢疾病领域有重要参考价值，但其与血液疾病的直接关联有限，主要可借鉴其临床试验方法论。"
+  },
+  {
+    "title": "Longitudinal metabolome profiling from pregnancy through childhood and risk of neurodevelopmental disorders at age 10",
+    "abstract": "Neurodevelopmental disorders (NDD) are characterized by impairments in brain development that affect motor and cognitive systems. Early identification of NDD risk factors is crucial for prevention. Metabolomic profiling holds promise for early detection but remains underexplored in longitudinal studies. Here, we map the longitudinal metabolomic profiles in 3212 samples covering 683 metabolites from 581 mother-child pairs at six timepoints in the Danish COPSAC(2010) cohort to assess childhood NDD...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501024/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68115-3",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 40,
+      "recommendation": 75
+    },
+    "reason": "该研究采用纵向队列设计和系统代谢组学分析，方法学严谨，数据可靠，其大规模动态代谢物追踪策略对血液疾病生物标志物研究具有重要参考价值。"
+  },
+  {
+    "title": "Drug and single-cell gene expression integration identifies sensitive and resistant glioblastoma cell populations",
+    "abstract": "Glioblastoma (GBM) remains the most common and lethal adult malignant primary brain cancer with few treatment options. A significant issue hindering GBM therapeutic development is intratumor heterogeneity and plasticity. GBM tumors contain neoplastic cells within a fluid spectrum of diverse transcriptional states. Identifying effective therapeutics requires a platform that predicts the differential sensitivity and resistance of these states to various treatments. Here, we develop scFOCAL...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501023/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67783-5",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 20,
+      "recommendation": 75
+    },
+    "reason": "该研究开发的scFOCAL平台能有效解析肿瘤异质性与可塑性，其单细胞水平药物敏感性预测方法对血液肿瘤（如白血病异质性与耐药机制）的研究具有重要借鉴意义。"
+  },
+  {
+    "title": "Dynamic microvascular monitoring with miniaturized omnidirectional broadband photoacoustic imaging system for living entities (MOBILE)",
+    "abstract": "Microcirculation monitoring is crucial for evaluating cardiovascular health and detecting organ dysfunction early, but existing bedside imaging techniques often cannot provide sufficient resolution and depth for dynamic assessment during natural physiological activities. Here, we present MOBILE (Miniaturized Omnidirectional Broadband Photoacoustic Imaging System for Living Entities), a photoacoustic imaging system that allows unrestricted microcirculatory monitoring with 40 µm resolution and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501022/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68190-6",
+    "scores": {
+      "research": 88,
+      "social": 76,
+      "blood": 90,
+      "recommendation": 85
+    },
+    "reason": "该研究提出的MOBILE系统在微循环动态监测方面实现了技术突破，其高分辨率和便携性为血液流变学、血栓性疾病及血管相关性血液病的研究提供了创新工具，对血液病早期诊断和病理机制探索具有重要借鉴价值。"
+  },
+  {
+    "title": "A Machine Learning-Driven Electrophysiological Platform for Real-Time Tumor-Neural Interaction Analysis and Modulation",
+    "abstract": "Neural-tumor electrophysiology-marked by pathological membrane potentials and ion channel dysregulation-emerges as actionable targets to curb tumor aggression. Yet, how neural-driven bioelectrical crosstalk dynamically regulates tumors within functional circuits remains elusive, demanding tools for real-time interaction decoding. Here, we present a machine learning-driven electrophysiological platform that integrates custom microfluidics with real-time decoding of complex neural-tumor signal...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501019/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66988-y",
+    "scores": {
+      "research": 85,
+      "social": 65,
+      "blood": 60,
+      "recommendation": 80
+    },
+    "reason": "该研究创新性地结合机器学习与微流控技术，实现了神经-肿瘤生物电信号交互的实时解码，为探索肿瘤微环境调控机制提供了前沿工具，其方法论对血液肿瘤如白血病微环境研究具有潜在借鉴价值。"
+  },
+  {
+    "title": "Airway immune profiles and therapeutic implications of IGF1 in eosinophilic granulomatosis with polyangiitis",
+    "abstract": "Eosinophilic granulomatosis with polyangiitis (EGPA) and severe eosinophilic asthma (SEA) share a Type 2 (T2) inflammatory signature but exhibit distinct pathophysiology. We hypothesized that EGPA involves additional inflammatory mechanisms, beyond T2 immunity, that drive its systemic manifestations and treatment resistance. Using single-cell RNA sequencing, we identify interferon (IFN-I)-driven inflammation in EGPA, in contrast to TNF predominant pathway activation in SEA. IL1B^(+)MX1^(+)...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501017/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68104-6",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 90,
+      "recommendation": 80
+    },
+    "reason": "该研究运用单细胞测序技术创新性地揭示了EGPA区别于哮喘的I型干扰素驱动炎症机制，对理解嗜酸性粒细胞相关血管炎的发病机理及靶向治疗具有重要借鉴价值。"
+  },
+  {
+    "title": "Associations between preservative food additives and type 2 diabetes incidence in the NutriNet-Santé prospective cohort",
+    "abstract": "Experimental studies suggested potential adverse effects of preservative food additives, but epidemiological data are lacking. We aim to investigate associations between exposure to these compounds and type 2 diabetes incidence in the NutriNet-Santé prospective cohort (n = 108,723; 79.2%women; mean age=42.5 (SD = 14.6); France, 2009-2023). Dietary intakes are assessed using repeated 24h-dietary records. Exposure is evaluated through multiple composition databases and ad-hoc laboratory assays in...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501013/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67360-w",
+    "scores": {
+      "research": 85,
+      "social": 90,
+      "blood": 40,
+      "recommendation": 75
+    },
+    "reason": "该研究基于大规模前瞻性队列，方法严谨且关注食品添加剂这一公共健康议题，虽不直接针对血液疾病，但其暴露评估方法对血液学中环境因子研究有借鉴意义。"
+  },
+  {
+    "title": "Targeted stress granule regulation by engineering a non-catalytic O-GlcNAc transferase",
+    "abstract": "Stress granules (SGs) are disease-relevant dynamic ribonucleoprotein condensates formed by liquid-liquid phase separation (LLPS) of proteins and mRNAs. Understanding their regulators and developing interventions are critical for therapeutic development. O-GlcNAc transferase (OGT) has been implicated in SG regulation, but functions beyond O-GlcNAcylation remain unclear. Here we uncover that, upon induced proximity, OGT suppresses LLPS of the SG marker G3BP1 and thereby SG assembly, independent of...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501012/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66689-6",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 75,
+      "recommendation": 80
+    },
+    "reason": "该研究不仅揭示了OGT在相分离调控中的非经典新功能，其揭示的液-液相分离机制和研究方法对研究血液系统疾病中异常蛋白聚集（如白血病相关融合蛋白）具有直接借鉴价值。"
+  },
+  {
+    "title": "Transport evidence of current-induced nematic Dirac valleys in a parity-time-symmetric antiferromagnet",
+    "abstract": "Itinerant antiferromagnets with broken time-reversal symmetry have recently attracted attention, since their spin-split bands enable large magnetotransport responses comparable to ferromagnets despite the negligible spontaneous magnetisation. When the inversion symmetry is further broken by the antiferromagnetic order, the emerging odd-parity multipole order renders the bands spin-degenerate but asymmetric in the momentum space. For such parity-time-symmetric antiferromagnets, it has been...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501011/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67229-y",
+    "scores": {
+      "research": 80,
+      "social": 30,
+      "blood": 5,
+      "recommendation": 60
+    },
+    "reason": "该研究在自旋电子学领域具有前沿性和方法论参考价值，可为血液病中涉及磁性或铁代谢机制的研究提供跨学科思路启发。"
+  },
+  {
+    "title": "Accumbal calcium-permeable AMPA receptors orchestrate neuronal ensembles underlying social attachment",
+    "abstract": "Social attachments are vital to mammalian health, but the neural microcircuitry underlying their formation remains unknown. Using prairie voles-which form lasting pair bonds-we investigate how the microcircuitry of the nucleus accumbens (NAc) transforms social interaction into attachment. We confirm that accumbal calcium-permeable AMPARs (CP-AMPARs) mediate excitation of fast-spiking interneurons (FSIs) in voles, and find that their blockade prevents pair bond formation. To understand the...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501009/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67459-0",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 10,
+      "recommendation": 40
+    },
+    "reason": "该研究在神经科学领域具有较高的方法学创新性和严谨性，但其内容与血液疾病直接相关性较弱，对血液学研究的可借鉴性有限。"
+  },
+  {
+    "title": "Phylogenomic profile of exon-intron organization across angiosperms, their relationships with protein domains, and functional implications",
+    "abstract": "Eukaryotic genes usually encode proteins and contain exons in different size, including micro and small exon categories. However, genome-wide gene exon-intron organizations and their conservation across angiosperms have not been investigated. Among exons of protein-coding genes from 46 angiosperms and four gymnosperms, ~35% are micro and small exons affecting most genes and the remaining exons are defined here as medium, large, or super exons. Exon-intron structural comparison using our new...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501004/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66816-3",
+    "scores": {
+      "research": 75,
+      "social": 30,
+      "blood": 15,
+      "recommendation": 60
+    },
+    "reason": "该研究在植物基因组外显子-内含子结构分类与进化比较方面方法系统，数据详实，对从事基因结构与进化研究的学者具有参考价值，但与血液疾病直接相关性较弱。"
+  },
+  {
+    "title": "Rapid photocontrollable dopamine polymerization for instant adaptive wet adhesion",
+    "abstract": "Dopamine-based adhesives offer strong, versatile adhesion through diverse interactions but are limited by slow, poorly controlled oxidative polymerization and dopamine's inhibition of radical polymerization. We present an efficient photochemical strategy for in-situ fabrication of high-performance polydopamine-containing hydrogels with instant wet adhesion. By integrating a scalable synthesis of a protected dopamine derivative with rational photochemical design, we enable simultaneous,...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500992/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66530-0",
+    "scores": {
+      "research": 85,
+      "social": 55,
+      "blood": 60,
+      "recommendation": 75
+    },
+    "reason": "该研究提出的光化学调控策略在高性能聚多巴胺水凝胶制备上具有显著方法学创新，其湿粘附技术的突破对开发新型血液接触材料（如止血敷料或血管工程支架）有潜在借鉴价值。"
+  },
+  {
+    "title": "Tumor agnostic drug delivery with dynamic nanohydrogels",
+    "abstract": "RNA interference (RNAi) holds unique potential as a clinically viable modality to pharmacologically regulate oncogenes in sequence-specific manner. However, systemic delivery of RNAi to tumors encounters myriad obstructions, and strategies to overcome such barriers have largely consisted of academic demonstrations with few approaches reaching patients. Here we report the development of a self-agglomerating nanohydrogel (SANGs) platform that selectively localizes to tumor tissue, is efficiently...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41500988/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260108014015&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66788-4",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 80,
+      "recommendation": 85
+    },
+    "reason": "该研究提出的自聚集纳米水凝胶（SANGs）"
   }
 ]
