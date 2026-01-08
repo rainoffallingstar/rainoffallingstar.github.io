@@ -1909,5 +1909,70 @@
       "recommendation": 85
     },
     "reason": "该研究提出的自聚集纳米水凝胶（SANGs）"
+  },
+  {
+    "title": "Insights into DNA repeat expansions among 900,000 biobank participants",
+    "abstract": "Expansions and contractions of tandem DNA repeats generate genetic variation in human populations and in human tissues. Some expanded repeats cause inherited disorders and some are also somatically unstable^(1,2). Here we analysed DNA sequencing data from over 900,000 participants in the UK Biobank and the All of Us Research Program using computational approaches to recognize, measure and learn from DNA-repeat instability. Repeats at different loci exhibited widely variable tissue-specific...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501457/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108053141&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09886-z",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 80,
+      "recommendation": 82
+    },
+    "reason": "该研究基于超90万人群的大规模基因组数据分析DNA重复序列不稳定性，为血液病中类似突变机制（如骨髓增生异常综合征）提供了重要的研究方法与数据参考，具有较高的可借鉴性。"
+  },
+  {
+    "title": "ipRGC properties prevent light from shifting the SCN clock during daytime",
+    "abstract": "The suprachiasmatic nucleus (SCN), the central circadian pacemaker, receives photic input exclusively from intrinsically photosensitive retinal ganglion cells (ipRGCs)^(1,2). However, light mainly shifts the SCN clock during night-time^(3-5). Here we induced phase shifts in the SCN clock during the daytime in mice by activating ipRGCs using chemogenetics or violet light. Our data reveal that the inability to induce daytime shifts with light in most animals is not only attributed to the SCN, as...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501453/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108053141&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09894-z",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 55,
+      "recommendation": 80
+    },
+    "reason": "该研究通过化学遗传学和紫光刺激突破性地揭示了视觉外感光神经节细胞（ipRGCs）在白天调控视交叉上核（SCN）节律的潜力，其方法学创新为研究生物钟调控机制提供了新范式；虽然不直接针对血液疾病，但生物钟紊乱与造血干细胞功能、免疫细胞节律"
+  },
+  {
+    "title": "Mitochondrial transfer from glia to neurons protects against peripheral neuropathy",
+    "abstract": "Primary sensory neurons in dorsal root ganglia (DRG) have long axons and a high demand for mitochondria, and mitochondrial dysfunction has been implicated in peripheral neuropathy after diabetes and chemotherapy^(1,2). However, the mechanisms by which primary sensory neurons maintain their mitochondrial supply remain unclear. Satellite glial cells (SGCs) in DRG encircle sensory neurons and regulate neuronal activity and pain³. Here we show that SGCs are capable of transferring mitochondria to...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501451/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108053141&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09896-x",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 40,
+      "recommendation": 80
+    },
+    "reason": "该研究首次揭示了背根神经节中卫星胶质细胞向感觉神经元线粒体转移的新机制，为理解周围神经病变提供了全新视角，其发现可能"
+  },
+  {
+    "title": "An ancient DNA perspective on the Russian conquest of Yakutia",
+    "abstract": "Yakut communities from northeastern Siberia inhabit some of the coldest environments on Earth, preserving an extraordinary archaeological record. Their history was profoundly reshaped by the Russian conquest, which introduced cereals, pathogens and Christianity beginning in 1632 (refs. ^(1-5)). However, the biological impact of these transformations remains unknown. Here we generated extensive ancient DNA data to elucidate contemporary changes in Yakut genomic diversity and oral microbiomes. We...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501450/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108053141&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09856-5",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 60,
+      "recommendation": 80
+    },
+    "reason": "该研究通过古DNA分析揭示了雅库特人在重大历史事件中的基因组与微生物组变化，为理解环境与人群遗传适应提供了独特案例，对血液疾病相关的群体遗传学研究具有间接参考价值。"
+  },
+  {
+    "title": "Genetic switch between unicellularity and multicellularity in marine yeasts",
+    "abstract": "The evolution of multicellularity is considered to be a major transition in the history of life on Earth¹. In the evolution from unicellularity to obligate multicellularity, facultative clonal multicellularity may constitute an intermediate state, in which unicellular proliferation and clonal multicellular growth are switchable^(2-4). However, little is known about the mechanisms of switching. Here we identify the genetic and cellular basis of nutrition-responsive facultative clonal...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501449/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260108053141&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41586-025-09881-4",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 40,
+      "recommendation": 65
+    },
+    "reason": "该研究虽未直接涉及血液"
   }
 ]
