@@ -1974,5 +1974,135 @@
       "recommendation": 65
     },
     "reason": "该研究虽未直接涉及血液"
+  },
+  {
+    "title": "Developing a smart and scalable tool for histopathological education-PATe 2.0",
+    "abstract": "Digital microscopy plays a crucial role in pathology education, providing scalable and standardized access to learning resources. In response, we present PATe 2.0, a scalable redeveloped web-application of the former PATe system from 2015. PATe 2.0 was developed using an agile, iterative process and built on a microservices architecture to ensure modularity, scalability, and reliability. It integrates a modern web-based user interface optimized for desktop and tablet use and automates key...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41503518/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.jpi.2025.100535",
+    "scores": {
+      "research": 65,
+      "social": 40,
+      "blood": 30,
+      "recommendation": 50
+    },
+    "reason": "该文章介绍了数字病理学教育平台PATe 2.0的技术升级，虽不直接针对血液疾病，但其模块化、可扩展的设计思路对血液病理学数字化教学具有可借鉴的参考价值。"
+  },
+  {
+    "title": "Decabromodiphenyl ethane, a flame retardant, acts as a thyroid hormone receptor antagonist",
+    "abstract": "Flame retardants are integral components in numerous consumer and industrial products. Accumulating research has shown that retardants disrupt the endocrine system via the modulation of thyroid hormone receptors (THRs). To investigate the mechanisms underlying this effect, we established a luciferase reporter assay system using HEK293 cells expressing the human THR isomers THRα and THRβ, and screened six flame-retardant compounds with agonistic or antagonistic activity. We examined THR agonism...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41503439/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1007/s43188-025-00316-w",
+    "scores": {
+      "research": 78,
+      "social": 65,
+      "blood": 40,
+      "recommendation": 70
+    },
+    "reason": "该研究通过建立稳定的报告基因检测系统筛选阻燃剂对甲状腺激素受体的干扰机制，方法严谨可靠，为研究环境内分泌干扰物对激素信号通路的影响提供了可借鉴的实验模型，有助于理解化学暴露对内分泌相关血液疾病的潜在影响。"
+  },
+  {
+    "title": "Size of decompressive craniectomy as prognostic factor in space-occupying ischemic cerebellar stroke -a multicentric retrospective study",
+    "abstract": "CONCLUSIONS: In ischemic cerebellar stroke, a suboccipital craniectomy with a maximum lateral diameter of ≥6.5 cm appears to yield better functional outcomes than smaller ones. Prospective studies are needed to confirm these results.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41503265/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.bas.2025.105911",
+    "scores": {
+      "research": 65,
+      "social": 40,
+      "blood": 30,
+      "recommendation": 60
+    },
+    "reason": "该研究为缺血性小脑卒中手术提供了具体的临床操作参考（骨窗直径≥6.5cm），对神经外科实践具有直接指导意义，但结论仍需前瞻性研究验证。"
+  },
+  {
+    "title": "Multinational cost-utility analysis of panel-based pharmacogenetics-guided treatment of patients enrolled in the U-PGx PREPARE study",
+    "abstract": "BACKGROUND: Pharmacogenetics (PGx) aims to revolutionize healthcare by individualizing drug doses and medication choices. However, clinical uptake will require positive evaluation evidence of both clinical utility and cost-effectiveness. We have recently demonstrated the clinical utility of this approach, using a panel-based PGx-guided treatment of patients from various indications recruited in seven countries (PREPARE study).",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41502919/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.eclinm.2025.103686",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 90,
+      "recommendation": 88
+    },
+    "reason": "该研究通过多国临床试验证实了药物基因组学（PGx）指导个体化用药的临床效用，为血液科精准用药（如华法林、氯吡格雷等药物剂量调整）提供了直接借鉴，是推动临床转化的重要循证依据。"
+  },
+  {
+    "title": "Clinical practice, barriers to implementation, and priorities for equitable access of Stereotactic Body Radiation Therapy: An analysis of the global status by the ESTRO SBRT Focus Group",
+    "abstract": "CONCLUSIONS: This ESTRO international survey provides the first global overview of SBRT practices. It demonstrates broad adoption but also substantial variability, highlighting the need for consensus guidelines, greater trial access, and expanded education to harmonize SBRT delivery and ensure equitable care worldwide.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41502557/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.ctro.2025.101096",
+    "scores": {
+      "research": 75,
+      "social": 70,
+      "blood": 40,
+      "recommendation": 65
+    },
+    "reason": "该文章首次系统概述了全球SBRT实践现状，其发现的实践差异性与共识需求对肿瘤放射治疗领域具有重要参考价值；尽管非直接针对血液疾病，但其关于技术标准化与公平医疗的讨论可为血液肿瘤的精准放疗提供间接借鉴。"
+  },
+  {
+    "title": "Amyloid-beta (1-40) peptide is associated with systemic metabolic health",
+    "abstract": "CONCLUSION: Our findings suggest that Aβ40 peptide is associated with metabolic traits and risk for metabolic disease. Future longitudinal studies are warranted to determine the prognostic value of Aβ40 for the development and progression of metabolic diseases.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41502294/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1111/eci.70171",
+    "scores": {
+      "research": 65,
+      "social": 70,
+      "blood": 20,
+      "recommendation": 50
+    },
+    "reason": "该研究虽聚焦代谢疾病领域，但Aβ40肽的发现可能为血液代谢相关疾病（如糖尿病并发症中的血管病变）提供间接参考，适合关注交叉学科的研究者拓展思路。"
+  },
+  {
+    "title": "Iron-related intercellular communication in the liver: Main players and mechanisms",
+    "abstract": "CONCLUSIONS: Iro-nrelated communication between different liver cell types is fundamental to maintaining its proper function.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41502243/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1111/eci.70168",
+    "scores": {
+      "research": 30,
+      "social": 20,
+      "blood": 40,
+      "recommendation": 30
+    },
+    "reason": "该摘要仅提供了一个结论性陈述，缺乏具体研究方法、数据及创新细节，对血液病研究的直接借鉴价值有限，仅适合关注肝脏铁代谢与血液系统间接关联的极专门领域读者。"
+  },
+  {
+    "title": "Respiratory Syncytial Virus Genotype ON1 Within-host Populations in Hospitalized Children: Deletion of the 72-Nucleotide Duplication in the G Gene",
+    "abstract": "CONCLUSIONS: Deep sequencing revealed a substantial genetic within-host variability of RSV in hospitalized children, and we first described the loss of the characteristic ON1 72-nt-duplication in children.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501987/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1097/INF.0000000000005140",
+    "scores": {
+      "research": 75,
+      "social": 60,
+      "blood": 20,
+      "recommendation": 65
+    },
+    "reason": "该研究首次描述了RSV病毒ON1特征性72-nt重复序列的缺失现象，揭示了病毒在宿主体内遗传变异的复杂性，为病原体进化机制研究提供了新视角。"
+  },
+  {
+    "title": "DNA methylation analysis of NOTCH1 variants reveals the first episignature for non-syndromic congenital heart defects",
+    "abstract": "CONCLUSIONS: We identified that NOTCH1-haploinsufficiency variants represented the most common monogenic cause in our cohort and accounted for an estimated 1 % of CHD cases. Furthermore, we conclude that methylation profiling can contribute to (NOTCH1) variant interpretation and improve the diagnostic management of CHD patients. Lastly, we established a NOTCH1-specific episignature, which represents the first non-syndromic signature, significantly extending the scope of patients that can benefit...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41501857/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2",
+    "doi": "10.1186/s13073-025-01587-6",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 80,
+      "recommendation": 82
+    },
+    "reason": "该研究不仅揭示了NOTCH1单倍剂量不足是先天性心脏病的重要单基因病因，其建立的甲基化谱分析方法与首个非综合征性表观遗传特征，为血液病（如NOTCH1相关白血病）的机制研究与诊断提供了可借鉴的新方法学路径。"
+  },
+  {
+    "title": "Clinical practice, barriers to implementation, and priorities for equitable access of Stereotactic Body Radiation Therapy: An analysis of the global status by the ESTRO SBRT Focus Group",
+    "abstract": "CONCLUSIONS: This ESTRO international survey provides the first global overview of SBRT practices. It demonstrates broad adoption but also substantial variability, highlighting the need for consensus guidelines, greater trial access, and expanded education to harmonize SBRT delivery and ensure equitable care worldwide.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41502557/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=14q4QWQ9WuP-q3xZxtevDd-mhMBvvPUxdBs51YqDH9ICOLAMHX&fc=20250701101016&ff=20260108172458&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.ctro.2025.101096",
+    "scores": {
+      "research": 75,
+      "social": 60,
+      "blood": 20,
+      "recommendation": 65
+    },
+    "reason": "该文章虽非直接针对血液疾病，但作为首个全球SBRT实践调查报告，其揭示的临床实践差异性和标准化需求对跨学科肿瘤治疗（包括部分血液肿瘤的放射治疗场景）具有方法学参考价值。"
   }
 ]

@@ -3,9 +3,9 @@
 
 = 追觅 - 2026-01-08
 
-生成时间: #2026-01-08 10:33
+生成时间: #2026-01-08 22:35
 
-分析文章数量: #152
+分析文章数量: #162
 
 
 == #1. Advances in the treatment and prognosis of aggressive NK-cell leukemia: results from the ANKL22 study
@@ -88,7 +88,23 @@
 ---
 
 
-== #6. Retrospective cohort study of hepatitis B immunization strategy effects in Beijing across 30 years
+== #6. Multinational cost-utility analysis of panel-based pharmacogenetics-guided treatment of patients enrolled in the U-PGx PREPARE study
+
+- **研究分数**: #85
+- **社会影响**: #75
+- **血液相关性**: #90
+- **推荐度**: #88
+- **DOI**: #10.1016/j.eclinm.2025.103686
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41502919/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过多国临床试验证实了药物基因组学（PGx）指导个体化用药的临床效用，为血液科精准用药（如华法林、氯吡格雷等药物剂量调整）提供了直接借鉴，是推动临床转化的重要循证依据。
+
+摘要: BACKGROUND: Pharmacogenetics \(PGx\) aims to revolutionize healthcare by individualizing drug doses and medication choices. However, clinical uptake will require positive evaluation evidence of both clinical utility and cost-effectiveness. We have recently demonstrated the clinical utility of this approach, using a panel-based PGx-guided treatment of patients from various indications recruited in seven countries \(PREPARE study\).
+
+---
+
+
+== #7. Retrospective cohort study of hepatitis B immunization strategy effects in Beijing across 30 years
 
 - **研究分数**: #85
 - **社会影响**: #88
@@ -104,7 +120,7 @@
 ---
 
 
-== #7. Oral 4'-fluorouridine rescues nonhuman primates from advanced Lassa fever
+== #8. Oral 4'-fluorouridine rescues nonhuman primates from advanced Lassa fever
 
 - **研究分数**: #88
 - **社会影响**: #85
@@ -120,7 +136,7 @@
 ---
 
 
-== #8. Learning the language of protein-protein interactions
+== #9. Learning the language of protein-protein interactions
 
 - **研究分数**: #88
 - **社会影响**: #72
@@ -136,7 +152,7 @@
 ---
 
 
-== #9. Gynecologic and obstetric management of girls and women with von Willebrand disease
+== #10. Gynecologic and obstetric management of girls and women with von Willebrand disease
 
 - **研究分数**: #75
 - **社会影响**: #85
@@ -152,7 +168,7 @@
 ---
 
 
-== #10. Historical, current and future treatments for von Willebrand disease
+== #11. Historical, current and future treatments for von Willebrand disease
 
 - **研究分数**: #75
 - **社会影响**: #70
@@ -168,7 +184,7 @@
 ---
 
 
-== #11. Von Willebrand disease: classification and epidemiology
+== #12. Von Willebrand disease: classification and epidemiology
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -184,7 +200,7 @@
 ---
 
 
-== #12. Deep learning guided design of protease substrates
+== #13. Deep learning guided design of protease substrates
 
 - **研究分数**: #82
 - **社会影响**: #65
@@ -200,7 +216,7 @@
 ---
 
 
-== #13. Sirt6 deficiency in mast cells promotes adipose fibroinflammation in obesity through galectin-3 signaling
+== #14. Sirt6 deficiency in mast cells promotes adipose fibroinflammation in obesity through galectin-3 signaling
 
 - **研究分数**: #82
 - **社会影响**: #65
@@ -216,7 +232,7 @@
 ---
 
 
-== #14. A multidimensional workflow profiling of allogeneic virus-specific T cell therapies reveals potency-linked signatures
+== #15. A multidimensional workflow profiling of allogeneic virus-specific T cell therapies reveals potency-linked signatures
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -232,7 +248,7 @@
 ---
 
 
-== #15. Human Progenitor T-Cell Differentiation Regulated by the Mechanical Resistance of Thymus-Mimetic Extracellular Matrices
+== #16. Human Progenitor T-Cell Differentiation Regulated by the Mechanical Resistance of Thymus-Mimetic Extracellular Matrices
 
 - **研究分数**: #82
 - **社会影响**: #76
@@ -248,7 +264,7 @@
 ---
 
 
-== #16. Ubiquitination and autophagy in host-pathogen interactions: from immune surveillance to therapeutic targeting
+== #17. Ubiquitination and autophagy in host-pathogen interactions: from immune surveillance to therapeutic targeting
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -264,7 +280,7 @@
 ---
 
 
-== #17. Systematic analyses of lipid mobilization by human lipid transfer proteins
+== #18. Systematic analyses of lipid mobilization by human lipid transfer proteins
 
 - **研究分数**: #90
 - **社会影响**: #65
@@ -280,7 +296,7 @@
 ---
 
 
-== #18. An expanded registry of candidate cis-regulatory elements
+== #19. An expanded registry of candidate cis-regulatory elements
 
 - **研究分数**: #92
 - **社会影响**: #65
@@ -296,7 +312,7 @@
 ---
 
 
-== #19. Alnuctamab, a bivalent B-cell maturation antigen-targeting T cell engager for patients with relapsed or refractory multiple myeloma: results from a phase 1, first-in-human study
+== #20. Alnuctamab, a bivalent B-cell maturation antigen-targeting T cell engager for patients with relapsed or refractory multiple myeloma: results from a phase 1, first-in-human study
 
 - **研究分数**: #82
 - **社会影响**: #75
@@ -312,7 +328,7 @@
 ---
 
 
-== #20. Spatially resolved integrative analysis of transcriptomic and metabolomic changes in tissue injury studies
+== #21. Spatially resolved integrative analysis of transcriptomic and metabolomic changes in tissue injury studies
 
 - **研究分数**: #88
 - **社会影响**: #75
@@ -328,7 +344,7 @@
 ---
 
 
-== #21. Dynamic microvascular monitoring with miniaturized omnidirectional broadband photoacoustic imaging system for living entities \(MOBILE\)
+== #22. Dynamic microvascular monitoring with miniaturized omnidirectional broadband photoacoustic imaging system for living entities \(MOBILE\)
 
 - **研究分数**: #88
 - **社会影响**: #76
@@ -344,7 +360,7 @@
 ---
 
 
-== #22. Tumor agnostic drug delivery with dynamic nanohydrogels
+== #23. Tumor agnostic drug delivery with dynamic nanohydrogels
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -360,7 +376,7 @@
 ---
 
 
-== #23. Multiplexed lipid nanoparticle barcoding reveals tissue-dynamic kinetic insights and enriched cellular tropism in hepatic zones
+== #24. Multiplexed lipid nanoparticle barcoding reveals tissue-dynamic kinetic insights and enriched cellular tropism in hepatic zones
 
 - **研究分数**: #86
 - **社会影响**: #62
@@ -376,7 +392,7 @@
 ---
 
 
-== #24. GFSeeker: a splicing-graph-based approach for accurate gene fusion detection from long-read RNA sequencing data
+== #25. GFSeeker: a splicing-graph-based approach for accurate gene fusion detection from long-read RNA sequencing data
 
 - **研究分数**: #88
 - **社会影响**: #65
@@ -392,7 +408,7 @@
 ---
 
 
-== #25. Extracellular GPX4 impairs antitumor immunity via dendritic ZP3 receptors
+== #26. Extracellular GPX4 impairs antitumor immunity via dendritic ZP3 receptors
 
 - **研究分数**: #88
 - **社会影响**: #65
@@ -408,7 +424,7 @@
 ---
 
 
-== #26. Population-level genomic analysis of immunoglobulin loci variation in rhesus macaques reveals extensive germline diversity
+== #27. Population-level genomic analysis of immunoglobulin loci variation in rhesus macaques reveals extensive germline diversity
 
 - **研究分数**: #88
 - **社会影响**: #65
@@ -424,7 +440,7 @@
 ---
 
 
-== #27. VACmap: an accurate long-read aligner for unraveling complex genomic rearrangements
+== #28. VACmap: an accurate long-read aligner for unraveling complex genomic rearrangements
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -440,7 +456,7 @@
 ---
 
 
-== #28. Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer
+== #29. Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer
 
 - **研究分数**: #88
 - **社会影响**: #75
@@ -456,7 +472,7 @@
 ---
 
 
-== #29. Intratumoural vaccination via checkpoint degradation-coupled antigen presentation
+== #30. Intratumoural vaccination via checkpoint degradation-coupled antigen presentation
 
 - **研究分数**: #88
 - **社会影响**: #75
@@ -472,7 +488,7 @@
 ---
 
 
-== #30. Stress controls heterochromatin inheritance via histone H3 ubiquitylation
+== #31. Stress controls heterochromatin inheritance via histone H3 ubiquitylation
 
 - **研究分数**: #88
 - **社会影响**: #35
@@ -488,7 +504,7 @@
 ---
 
 
-== #31. Chronic macrophage activation derails muscle repair by disrupting mannose-receptor-linked plasticity revealed by endogenous irg1/acod1 tracking
+== #32. Chronic macrophage activation derails muscle repair by disrupting mannose-receptor-linked plasticity revealed by endogenous irg1/acod1 tracking
 
 - **研究分数**: #88
 - **社会影响**: #45
@@ -504,7 +520,7 @@
 ---
 
 
-== #32. Efficacy and safety of low-dose interleukin 2 for Behçet's syndrome: a randomized, placebo-controlled, double-blind, phase 2 clinical trial
+== #33. Efficacy and safety of low-dose interleukin 2 for Behçet's syndrome: a randomized, placebo-controlled, double-blind, phase 2 clinical trial
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -520,7 +536,7 @@
 ---
 
 
-== #33. Insights into DNA repeat expansions among 900,000 biobank participants
+== #34. Insights into DNA repeat expansions among 900,000 biobank participants
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -536,7 +552,23 @@
 ---
 
 
-== #34. International Guideline Harmonization Group Recommendations for Breast Cancer Surveillance in Childhood, Adolescent, and Young Adult Cancer Survivors After Anthracyclines
+== #35. DNA methylation analysis of NOTCH1 variants reveals the first episignature for non-syndromic congenital heart defects
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #80
+- **推荐度**: #82
+- **DOI**: #10.1186/s13073-025-01587-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41501857/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究不仅揭示了NOTCH1单倍剂量不足是先天性心脏病的重要单基因病因，其建立的甲基化谱分析方法与首个非综合征性表观遗传特征，为血液病（如NOTCH1相关白血病）的机制研究与诊断提供了可借鉴的新方法学路径。
+
+摘要: CONCLUSIONS: We identified that NOTCH1-haploinsufficiency variants represented the most common monogenic cause in our cohort and accounted for an estimated 1 % of CHD cases. Furthermore, we conclude that methylation profiling can contribute to \(NOTCH1\) variant interpretation and improve the diagnostic management of CHD patients. Lastly, we established a NOTCH1-specific episignature, which represents the first non-syndromic signature, significantly extending the scope of patients that can benefit...
+
+---
+
+
+== #36. International Guideline Harmonization Group Recommendations for Breast Cancer Surveillance in Childhood, Adolescent, and Young Adult Cancer Survivors After Anthracyclines
 
 - **研究分数**: #75
 - **社会影响**: #85
@@ -552,7 +584,7 @@
 ---
 
 
-== #35. Educational interventions for improving health-related literature searching skills of health professionals and students
+== #37. Educational interventions for improving health-related literature searching skills of health professionals and students
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -568,7 +600,7 @@
 ---
 
 
-== #36. Impact of Statin Use on Cardiovascular and Hematologic Outcomes Among Patients with Myeloproliferative Neoplasms
+== #38. Impact of Statin Use on Cardiovascular and Hematologic Outcomes Among Patients with Myeloproliferative Neoplasms
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -584,7 +616,7 @@
 ---
 
 
-== #37. A novel two-sample Mendelian randomization framework integrating common and rare variants: application to assess the effect of HDL-C on preeclampsia risk
+== #39. A novel two-sample Mendelian randomization framework integrating common and rare variants: application to assess the effect of HDL-C on preeclampsia risk
 
 - **研究分数**: #88
 - **社会影响**: #65
@@ -600,7 +632,7 @@
 ---
 
 
-== #38. Cross-ancestry information transfer framework improves protein abundance prediction and protein-trait association identification
+== #40. Cross-ancestry information transfer framework improves protein abundance prediction and protein-trait association identification
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -616,7 +648,7 @@
 ---
 
 
-== #39. Molecular genetic testing in von Willebrand disease: past, present, and beyond
+== #41. Molecular genetic testing in von Willebrand disease: past, present, and beyond
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -632,7 +664,7 @@
 ---
 
 
-== #40. Structure and multiple functions of von Willebrand factor
+== #42. Structure and multiple functions of von Willebrand factor
 
 - **研究分数**: #75
 - **社会影响**: #40
@@ -648,7 +680,7 @@
 ---
 
 
-== #41. The landmark contribution by Erik von Willebrand
+== #43. The landmark contribution by Erik von Willebrand
 
 - **研究分数**: #70
 - **社会影响**: #85
@@ -664,7 +696,7 @@
 ---
 
 
-== #42. Multiple myeloma risk linked to DNA damage response genes
+== #44. Multiple myeloma risk linked to DNA damage response genes
 
 - **研究分数**: #75
 - **社会影响**: #60
@@ -680,7 +712,7 @@
 ---
 
 
-== #43. Individual and population-level risk factors for new HIV infections among adults in Eastern and Southern Africa
+== #45. Individual and population-level risk factors for new HIV infections among adults in Eastern and Southern Africa
 
 - **研究分数**: #85
 - **社会影响**: #90
@@ -696,7 +728,7 @@
 ---
 
 
-== #44. Stress-trained microalgae robots with probiotics backpack and intestinal brake for inflammatory bowel disease management
+== #46. Stress-trained microalgae robots with probiotics backpack and intestinal brake for inflammatory bowel disease management
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -712,7 +744,7 @@
 ---
 
 
-== #45. Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine recognition protein YTHDC2
+== #47. Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine recognition protein YTHDC2
 
 - **研究分数**: #85
 - **社会影响**: #55
@@ -728,7 +760,7 @@
 ---
 
 
-== #46. Ultra-wide spectrum photosynapse array with 64k-scale for neuromorphic fusion imaging
+== #48. Ultra-wide spectrum photosynapse array with 64k-scale for neuromorphic fusion imaging
 
 - **研究分数**: #92
 - **社会影响**: #45
@@ -744,7 +776,7 @@
 ---
 
 
-== #47. A disulfide redox switch mechanism regulates glycoside hydrolase function
+== #49. A disulfide redox switch mechanism regulates glycoside hydrolase function
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -760,7 +792,7 @@
 ---
 
 
-== #48. Measuring and locating the changes in protein structure using MELO
+== #50. Measuring and locating the changes in protein structure using MELO
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -776,7 +808,7 @@
 ---
 
 
-== #49. Systematic analyses of lipid mobilization by human lipid transfer proteins
+== #51. Systematic analyses of lipid mobilization by human lipid transfer proteins
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -792,7 +824,7 @@
 ---
 
 
-== #50. Nutrient requirements of organ-specific metastasis in breast cancer
+== #52. Nutrient requirements of organ-specific metastasis in breast cancer
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -808,7 +840,7 @@
 ---
 
 
-== #51. An H4K12la/CEBPB-AKR1C2 signaling axis modulates the mTOR pathway to regulate cisplatin resistance in lung cancer
+== #53. An H4K12la/CEBPB-AKR1C2 signaling axis modulates the mTOR pathway to regulate cisplatin resistance in lung cancer
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -824,7 +856,7 @@
 ---
 
 
-== #52. Bidirectional CRISPR screens decode a GLIS3-dependent fibrotic cell circuit
+== #54. Bidirectional CRISPR screens decode a GLIS3-dependent fibrotic cell circuit
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -840,7 +872,7 @@
 ---
 
 
-== #53. RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity
+== #55. RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity
 
 - **研究分数**: #85
 - **社会影响**: #65
@@ -856,7 +888,7 @@
 ---
 
 
-== #54. An H4K12la/CEBPB-AKR1C2 signaling axis modulates the mTOR pathway to regulate cisplatin resistance in lung cancer
+== #56. An H4K12la/CEBPB-AKR1C2 signaling axis modulates the mTOR pathway to regulate cisplatin resistance in lung cancer
 
 - **研究分数**: #85
 - **社会影响**: #65
@@ -872,7 +904,7 @@
 ---
 
 
-== #55. Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer
+== #57. Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -888,7 +920,7 @@
 ---
 
 
-== #56. NUP98 rearrangements in adult AML patients: evaluation of clinical implications and identification of novel fusion partners
+== #58. NUP98 rearrangements in adult AML patients: evaluation of clinical implications and identification of novel fusion partners
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -904,7 +936,7 @@
 ---
 
 
-== #57. Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer
+== #59. Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -920,7 +952,7 @@
 ---
 
 
-== #58. The dorsal aortic compartment is a developmental source of brown adipose tissue in mice
+== #60. The dorsal aortic compartment is a developmental source of brown adipose tissue in mice
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -936,7 +968,7 @@
 ---
 
 
-== #59. Adjuvanted influenza vaccination increases pre-existing H5N1 cross-reactive antibodies
+== #61. Adjuvanted influenza vaccination increases pre-existing H5N1 cross-reactive antibodies
 
 - **研究分数**: #85
 - **社会影响**: #90
@@ -952,7 +984,7 @@
 ---
 
 
-== #60. Prehospital real-time AI for trauma mortality prediction: a multi-institutional and multi-national validation study
+== #62. Prehospital real-time AI for trauma mortality prediction: a multi-institutional and multi-national validation study
 
 - **研究分数**: #88
 - **社会影响**: #85
@@ -968,7 +1000,7 @@
 ---
 
 
-== #61. Highly efficient expression of DNA-peptide conjugates in growth-arrested cells
+== #63. Highly efficient expression of DNA-peptide conjugates in growth-arrested cells
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -984,7 +1016,7 @@
 ---
 
 
-== #62. O-GlcNAcylation of AMFR stabilizes TSPAN4 to regulate migrasome formation for viral release
+== #64. O-GlcNAcylation of AMFR stabilizes TSPAN4 to regulate migrasome formation for viral release
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1000,7 +1032,7 @@
 ---
 
 
-== #63. Perioperative tislelizumab plus lenvatinib treatment for resectable hepatocellular carcinoma at high risk of recurrence: single-arm phase II trial
+== #65. Perioperative tislelizumab plus lenvatinib treatment for resectable hepatocellular carcinoma at high risk of recurrence: single-arm phase II trial
 
 - **研究分数**: #75
 - **社会影响**: #70
@@ -1016,7 +1048,7 @@
 ---
 
 
-== #64. Automatic optimization of flat-field corrections by evaluation and enhancement \(EVEN\) in multimodal optical microscopy
+== #66. Automatic optimization of flat-field corrections by evaluation and enhancement \(EVEN\) in multimodal optical microscopy
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1032,7 +1064,7 @@
 ---
 
 
-== #65. A Machine Learning-Driven Electrophysiological Platform for Real-Time Tumor-Neural Interaction Analysis and Modulation
+== #67. A Machine Learning-Driven Electrophysiological Platform for Real-Time Tumor-Neural Interaction Analysis and Modulation
 
 - **研究分数**: #85
 - **社会影响**: #65
@@ -1048,7 +1080,7 @@
 ---
 
 
-== #66. Airway immune profiles and therapeutic implications of IGF1 in eosinophilic granulomatosis with polyangiitis
+== #68. Airway immune profiles and therapeutic implications of IGF1 in eosinophilic granulomatosis with polyangiitis
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -1064,7 +1096,7 @@
 ---
 
 
-== #67. Targeted stress granule regulation by engineering a non-catalytic O-GlcNAc transferase
+== #69. Targeted stress granule regulation by engineering a non-catalytic O-GlcNAc transferase
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -1080,7 +1112,7 @@
 ---
 
 
-== #68. ipRGC properties prevent light from shifting the SCN clock during daytime
+== #70. ipRGC properties prevent light from shifting the SCN clock during daytime
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1096,7 +1128,7 @@
 ---
 
 
-== #69. Mitochondrial transfer from glia to neurons protects against peripheral neuropathy
+== #71. Mitochondrial transfer from glia to neurons protects against peripheral neuropathy
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -1112,7 +1144,7 @@
 ---
 
 
-== #70. An ancient DNA perspective on the Russian conquest of Yakutia
+== #72. An ancient DNA perspective on the Russian conquest of Yakutia
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -1128,7 +1160,7 @@
 ---
 
 
-== #71. Benign form of monogenic obesity conferred by the melanocortin 4 receptor
+== #73. Benign form of monogenic obesity conferred by the melanocortin 4 receptor
 
 - **研究分数**: #82
 - **社会影响**: #75
@@ -1144,7 +1176,7 @@
 ---
 
 
-== #72. Identification of a lactylation-related model for predicting prognosis, tumor-infiltrating immune cells, and chemotherapy response in colorectal cancer
+== #74. Identification of a lactylation-related model for predicting prognosis, tumor-infiltrating immune cells, and chemotherapy response in colorectal cancer
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1160,7 +1192,7 @@
 ---
 
 
-== #73. Atypical β-strand insertion mediates the noncovalent cross-linking in amyloid aggregates
+== #75. Atypical β-strand insertion mediates the noncovalent cross-linking in amyloid aggregates
 
 - **研究分数**: #85
 - **社会影响**: #25
@@ -1176,7 +1208,7 @@
 ---
 
 
-== #74. Unlocking efficient electrocatalytic removal of trace emerging contaminants via synchronized pollutant enrichment and electron delivery
+== #76. Unlocking efficient electrocatalytic removal of trace emerging contaminants via synchronized pollutant enrichment and electron delivery
 
 - **研究分数**: #85
 - **社会影响**: #90
@@ -1192,7 +1224,7 @@
 ---
 
 
-== #75. The visual system of the longest-living vertebrate, the Greenland shark
+== #77. The visual system of the longest-living vertebrate, the Greenland shark
 
 - **研究分数**: #82
 - **社会影响**: #68
@@ -1208,7 +1240,7 @@
 ---
 
 
-== #76. Defining expansions and perturbations to the RNA polymerase III transcriptome and epitranscriptome by modified direct RNA nanopore sequencing
+== #78. Defining expansions and perturbations to the RNA polymerase III transcriptome and epitranscriptome by modified direct RNA nanopore sequencing
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1224,7 +1256,7 @@
 ---
 
 
-== #77. Hepatic GPR110 contributes to sex disparity in the development of MASH through oestrogen receptor α-dependent signalling
+== #79. Hepatic GPR110 contributes to sex disparity in the development of MASH through oestrogen receptor α-dependent signalling
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1240,7 +1272,7 @@
 ---
 
 
-== #78. Vascular access for hemodialysis and catheter-related bloodstream infections: a survey on preventive measures and treatment strategies by the EPDWG and ESPN Dialysis Working Group
+== #80. Vascular access for hemodialysis and catheter-related bloodstream infections: a survey on preventive measures and treatment strategies by the EPDWG and ESPN Dialysis Working Group
 
 - **研究分数**: #65
 - **社会影响**: #70
@@ -1256,7 +1288,7 @@
 ---
 
 
-== #79. Large-scale phylogenomics reveals convergent genome evolution across repeated transitions to endosymbiosis in Enterobacterales
+== #81. Large-scale phylogenomics reveals convergent genome evolution across repeated transitions to endosymbiosis in Enterobacterales
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -1272,7 +1304,7 @@
 ---
 
 
-== #80. Boosted catalytic activity by metal-oxide interface in porous single-crystalline niobium oxide monoliths
+== #82. Boosted catalytic activity by metal-oxide interface in porous single-crystalline niobium oxide monoliths
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1288,7 +1320,7 @@
 ---
 
 
-== #81. Tau condensation on DNA mediates microtubule attachment suggesting a mitotic role for centromere-localized tau
+== #83. Tau condensation on DNA mediates microtubule attachment suggesting a mitotic role for centromere-localized tau
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -1304,7 +1336,7 @@
 ---
 
 
-== #82. Comprehensive evaluation of GLP-1 receptor agonists: an umbrella review of clinical outcomes across multiple diseases
+== #84. Comprehensive evaluation of GLP-1 receptor agonists: an umbrella review of clinical outcomes across multiple diseases
 
 - **研究分数**: #85
 - **社会影响**: #90
@@ -1320,7 +1352,7 @@
 ---
 
 
-== #83. Protection against lethal canine distemper virus infection by a dual epitope-targeting synthetic antibody
+== #85. Protection against lethal canine distemper virus infection by a dual epitope-targeting synthetic antibody
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1336,7 +1368,7 @@
 ---
 
 
-== #84. Perpendicular neuromorphic channels facilitate lateral inhibition for tactile location
+== #86. Perpendicular neuromorphic channels facilitate lateral inhibition for tactile location
 
 - **研究分数**: #85
 - **社会影响**: #65
@@ -1352,7 +1384,7 @@
 ---
 
 
-== #85. Longitudinal metabolome profiling from pregnancy through childhood and risk of neurodevelopmental disorders at age 10
+== #87. Longitudinal metabolome profiling from pregnancy through childhood and risk of neurodevelopmental disorders at age 10
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1368,7 +1400,7 @@
 ---
 
 
-== #86. Drug and single-cell gene expression integration identifies sensitive and resistant glioblastoma cell populations
+== #88. Drug and single-cell gene expression integration identifies sensitive and resistant glioblastoma cell populations
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1384,7 +1416,7 @@
 ---
 
 
-== #87. Associations between preservative food additives and type 2 diabetes incidence in the NutriNet-Santé prospective cohort
+== #89. Associations between preservative food additives and type 2 diabetes incidence in the NutriNet-Santé prospective cohort
 
 - **研究分数**: #85
 - **社会影响**: #90
@@ -1400,7 +1432,7 @@
 ---
 
 
-== #88. Rapid photocontrollable dopamine polymerization for instant adaptive wet adhesion
+== #90. Rapid photocontrollable dopamine polymerization for instant adaptive wet adhesion
 
 - **研究分数**: #85
 - **社会影响**: #55
@@ -1416,7 +1448,7 @@
 ---
 
 
-== #89. Contextualizing T&lt;sub&gt;H&lt;/sub&gt;17 cells in cancer
+== #91. Contextualizing T&lt;sub&gt;H&lt;/sub&gt;17 cells in cancer
 
 - **研究分数**: #78
 - **社会影响**: #65
@@ -1432,7 +1464,7 @@
 ---
 
 
-== #90. Post-dural puncture headache : From the diagnosis to treatment
+== #92. Post-dural puncture headache : From the diagnosis to treatment
 
 - **研究分数**: #65
 - **社会影响**: #40
@@ -1448,7 +1480,7 @@
 ---
 
 
-== #91. iceDP: identifying inter-chromatin engagement via density peaks clustering algorithm
+== #93. iceDP: identifying inter-chromatin engagement via density peaks clustering algorithm
 
 - **研究分数**: #80
 - **社会影响**: #30
@@ -1464,7 +1496,7 @@
 ---
 
 
-== #92. NTAC: Neuronal type assignment from connectivity
+== #94. NTAC: Neuronal type assignment from connectivity
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -1480,7 +1512,7 @@
 ---
 
 
-== #93. Highly efficient exciton-exciton annihilation in single conjugated polymer chains
+== #95. Highly efficient exciton-exciton annihilation in single conjugated polymer chains
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -1496,7 +1528,7 @@
 ---
 
 
-== #94. Deep learning and superoscillatory speckles empowered multimode fiber probe for in situ nano-displacement detection and micro-imaging
+== #96. Deep learning and superoscillatory speckles empowered multimode fiber probe for in situ nano-displacement detection and micro-imaging
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -1512,7 +1544,7 @@
 ---
 
 
-== #95. Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma \(GINECO window-of-opportunity COLIBRI study\): a phase II trial
+== #97. Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma \(GINECO window-of-opportunity COLIBRI study\): a phase II trial
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -1528,7 +1560,7 @@
 ---
 
 
-== #96. Acetyl-CoA-producing enzymes are a targetable metabolic entry point to MASLD and liver fibrosis
+== #98. Acetyl-CoA-producing enzymes are a targetable metabolic entry point to MASLD and liver fibrosis
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -1544,7 +1576,7 @@
 ---
 
 
-== #97. Electrochemical defluorinative Matteson-type homologation
+== #99. Electrochemical defluorinative Matteson-type homologation
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -1560,7 +1592,7 @@
 ---
 
 
-== #98. The Role and Mechanism of Post-Translational Modifications \(PTMs\) in Immune-Related Eye Diseases
+== #100. The Role and Mechanism of Post-Translational Modifications \(PTMs\) in Immune-Related Eye Diseases
 
 - **研究分数**: #75
 - **社会影响**: #40
@@ -1576,7 +1608,7 @@
 ---
 
 
-== #99. Illuminating the influence of natural daylight on human metabolism
+== #101. Illuminating the influence of natural daylight on human metabolism
 
 - **研究分数**: #75
 - **社会影响**: #80
@@ -1592,7 +1624,7 @@
 ---
 
 
-== #100. Computational design of dynamic biosensors for emerging synthetic opioids
+== #102. Computational design of dynamic biosensors for emerging synthetic opioids
 
 - **研究分数**: #75
 - **社会影响**: #85
@@ -1608,7 +1640,7 @@
 ---
 
 
-== #101. Historical reconstruction of human moralization with word association and text corpora
+== #103. Historical reconstruction of human moralization with word association and text corpora
 
 - **研究分数**: #85
 - **社会影响**: #80
@@ -1624,7 +1656,7 @@
 ---
 
 
-== #102. Smart hybrid microscopy for cell-friendly detection of rare events
+== #104. Smart hybrid microscopy for cell-friendly detection of rare events
 
 - **研究分数**: #90
 - **社会影响**: #45
@@ -1640,7 +1672,7 @@
 ---
 
 
-== #103. The inflammatory path toward type 1 diabetes begins during pregnancy
+== #105. The inflammatory path toward type 1 diabetes begins during pregnancy
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -1656,7 +1688,7 @@
 ---
 
 
-== #104. Phase diagrams of pharmaceutical solvates from mechanochemistry
+== #106. Phase diagrams of pharmaceutical solvates from mechanochemistry
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -1672,7 +1704,7 @@
 ---
 
 
-== #105. Uncertainty-aware machine learning to predict non-cancer human toxicity for the global chemicals market
+== #107. Uncertainty-aware machine learning to predict non-cancer human toxicity for the global chemicals market
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -1688,7 +1720,7 @@
 ---
 
 
-== #106. Efficacy and safety of cAMP signalling-biased GLP-1 analogue ecnoglutide monotherapy versus placebo in patients with type 2 diabetes \(EECOH-1\): a multi-centre, randomised, double-blind, placebo-controlled, phase 3 trial
+== #108. Efficacy and safety of cAMP signalling-biased GLP-1 analogue ecnoglutide monotherapy versus placebo in patients with type 2 diabetes \(EECOH-1\): a multi-centre, randomised, double-blind, placebo-controlled, phase 3 trial
 
 - **研究分数**: #85
 - **社会影响**: #90
@@ -1704,7 +1736,23 @@
 ---
 
 
-== #107. Extended-spectrum beta-lactamase-producing Escherichia coli and Klebsiella pneumoniae from human carriage, the human-polluted environment, and food: Molecular epidemiology of two prospective cohorts in five European metropolitan areas
+== #109. Decabromodiphenyl ethane, a flame retardant, acts as a thyroid hormone receptor antagonist
+
+- **研究分数**: #78
+- **社会影响**: #65
+- **血液相关性**: #40
+- **推荐度**: #70
+- **DOI**: #10.1007/s43188-025-00316-w
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41503439/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过建立稳定的报告基因检测系统筛选阻燃剂对甲状腺激素受体的干扰机制，方法严谨可靠，为研究环境内分泌干扰物对激素信号通路的影响提供了可借鉴的实验模型，有助于理解化学暴露对内分泌相关血液疾病的潜在影响。
+
+摘要: Flame retardants are integral components in numerous consumer and industrial products. Accumulating research has shown that retardants disrupt the endocrine system via the modulation of thyroid hormone receptors \(THRs\). To investigate the mechanisms underlying this effect, we established a luciferase reporter assay system using HEK293 cells expressing the human THR isomers THRα and THRβ, and screened six flame-retardant compounds with agonistic or antagonistic activity. We examined THR agonism...
+
+---
+
+
+== #110. Extended-spectrum beta-lactamase-producing Escherichia coli and Klebsiella pneumoniae from human carriage, the human-polluted environment, and food: Molecular epidemiology of two prospective cohorts in five European metropolitan areas
 
 - **研究分数**: #70
 - **社会影响**: #75
@@ -1720,7 +1768,7 @@
 ---
 
 
-== #108. Growth, Dissolution and Segregation of Genetically Encoded RNA Droplets by Ribozyme Catalysis
+== #111. Growth, Dissolution and Segregation of Genetically Encoded RNA Droplets by Ribozyme Catalysis
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1736,7 +1784,7 @@
 ---
 
 
-== #109. Refrigeration down to 0.16 K using a frustrated magnet Gd&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt;MoO&lt;sub&gt;9&lt;/sub&gt;
+== #112. Refrigeration down to 0.16 K using a frustrated magnet Gd&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt;MoO&lt;sub&gt;9&lt;/sub&gt;
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1752,7 +1800,7 @@
 ---
 
 
-== #110. A liquid metal dynamic wetting strategy for spatiotemporal monitoring of hand movements
+== #113. A liquid metal dynamic wetting strategy for spatiotemporal monitoring of hand movements
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1768,7 +1816,7 @@
 ---
 
 
-== #111. Ferroelectric switching of interfacial dipoles in α-RuCl&lt;sub&gt;3&lt;/sub&gt;/graphene heterostructure
+== #114. Ferroelectric switching of interfacial dipoles in α-RuCl&lt;sub&gt;3&lt;/sub&gt;/graphene heterostructure
 
 - **研究分数**: #80
 - **社会影响**: #20
@@ -1784,7 +1832,7 @@
 ---
 
 
-== #112. Soft sonocapacitor with topologically integrated piezodielectric nanospheres enables wireless epidural closed-loop neuromodulation
+== #115. Soft sonocapacitor with topologically integrated piezodielectric nanospheres enables wireless epidural closed-loop neuromodulation
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1800,7 +1848,7 @@
 ---
 
 
-== #113. Rapid enantioselective fluorescence recognition and chiral separation of free amino acids
+== #116. Rapid enantioselective fluorescence recognition and chiral separation of free amino acids
 
 - **研究分数**: #75
 - **社会影响**: #50
@@ -1816,7 +1864,7 @@
 ---
 
 
-== #114. Impact of GC content on de novo gene birth
+== #117. Impact of GC content on de novo gene birth
 
 - **研究分数**: #75
 - **社会影响**: #30
@@ -1832,7 +1880,7 @@
 ---
 
 
-== #115. Filament assembly induced by the recognition of target DNA activates the prokaryotic Argonaute SPARDA system
+== #118. Filament assembly induced by the recognition of target DNA activates the prokaryotic Argonaute SPARDA system
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -1848,7 +1896,7 @@
 ---
 
 
-== #116. Spontaneous chlorine production from chloride-containing brines
+== #119. Spontaneous chlorine production from chloride-containing brines
 
 - **研究分数**: #75
 - **社会影响**: #70
@@ -1864,7 +1912,7 @@
 ---
 
 
-== #117. Shape-morphing active particles with invertible effective polarizability for configurable locomotion and steering
+== #120. Shape-morphing active particles with invertible effective polarizability for configurable locomotion and steering
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -1880,7 +1928,7 @@
 ---
 
 
-== #118. Gut mucosal mycobiome profiling in Crohn's disease uncovers an AMP-mediated anti-inflammatory effect of Cladosporium sphaerospermum
+== #121. Gut mucosal mycobiome profiling in Crohn's disease uncovers an AMP-mediated anti-inflammatory effect of Cladosporium sphaerospermum
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1896,7 +1944,7 @@
 ---
 
 
-== #119. Continuous MXene fibers with near-gigapascal tensile strength via radial confinement and axial stretching
+== #122. Continuous MXene fibers with near-gigapascal tensile strength via radial confinement and axial stretching
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -1912,7 +1960,7 @@
 ---
 
 
-== #120. Disturbances of paraventricular thalamic nucleus neurons in bipolar disorder revealed by single-nucleus analysis
+== #123. Disturbances of paraventricular thalamic nucleus neurons in bipolar disorder revealed by single-nucleus analysis
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -1928,7 +1976,7 @@
 ---
 
 
-== #121. Genetic switch between unicellularity and multicellularity in marine yeasts
+== #124. Genetic switch between unicellularity and multicellularity in marine yeasts
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -1944,7 +1992,55 @@
 ---
 
 
-== #122. Surgical management of children with liver tumors in Germany : Evidence, care structures and future perspectives
+== #125. Clinical practice, barriers to implementation, and priorities for equitable access of Stereotactic Body Radiation Therapy: An analysis of the global status by the ESTRO SBRT Focus Group
+
+- **研究分数**: #75
+- **社会影响**: #70
+- **血液相关性**: #40
+- **推荐度**: #65
+- **DOI**: #10.1016/j.ctro.2025.101096
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41502557/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章首次系统概述了全球SBRT实践现状，其发现的实践差异性与共识需求对肿瘤放射治疗领域具有重要参考价值；尽管非直接针对血液疾病，但其关于技术标准化与公平医疗的讨论可为血液肿瘤的精准放疗提供间接借鉴。
+
+摘要: CONCLUSIONS: This ESTRO international survey provides the first global overview of SBRT practices. It demonstrates broad adoption but also substantial variability, highlighting the need for consensus guidelines, greater trial access, and expanded education to harmonize SBRT delivery and ensure equitable care worldwide.
+
+---
+
+
+== #126. Respiratory Syncytial Virus Genotype ON1 Within-host Populations in Hospitalized Children: Deletion of the 72-Nucleotide Duplication in the G Gene
+
+- **研究分数**: #75
+- **社会影响**: #60
+- **血液相关性**: #20
+- **推荐度**: #65
+- **DOI**: #10.1097/INF.0000000000005140
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41501987/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究首次描述了RSV病毒ON1特征性72-nt重复序列的缺失现象，揭示了病毒在宿主体内遗传变异的复杂性，为病原体进化机制研究提供了新视角。
+
+摘要: CONCLUSIONS: Deep sequencing revealed a substantial genetic within-host variability of RSV in hospitalized children, and we first described the loss of the characteristic ON1 72-nt-duplication in children.
+
+---
+
+
+== #127. Clinical practice, barriers to implementation, and priorities for equitable access of Stereotactic Body Radiation Therapy: An analysis of the global status by the ESTRO SBRT Focus Group
+
+- **研究分数**: #75
+- **社会影响**: #60
+- **血液相关性**: #20
+- **推荐度**: #65
+- **DOI**: #10.1016/j.ctro.2025.101096
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41502557/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=14q4QWQ9WuP-q3xZxtevDd-mhMBvvPUxdBs51YqDH9ICOLAMHX&fc=20250701101016&ff=20260108172458&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章虽非直接针对血液疾病，但作为首个全球SBRT实践调查报告，其揭示的临床实践差异性和标准化需求对跨学科肿瘤治疗（包括部分血液肿瘤的放射治疗场景）具有方法学参考价值。
+
+摘要: CONCLUSIONS: This ESTRO international survey provides the first global overview of SBRT practices. It demonstrates broad adoption but also substantial variability, highlighting the need for consensus guidelines, greater trial access, and expanded education to harmonize SBRT delivery and ensure equitable care worldwide.
+
+---
+
+
+== #128. Surgical management of children with liver tumors in Germany : Evidence, care structures and future perspectives
 
 - **研究分数**: #65
 - **社会影响**: #70
@@ -1960,7 +2056,7 @@
 ---
 
 
-== #123. Clinical and laboratory diagnosis of von Willebrand disease
+== #129. Clinical and laboratory diagnosis of von Willebrand disease
 
 - **研究分数**: #45
 - **社会影响**: #35
@@ -1976,7 +2072,7 @@
 ---
 
 
-== #124. Dredging and dumping impact coastal fluxes of sediment and organic carbon
+== #130. Dredging and dumping impact coastal fluxes of sediment and organic carbon
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -1992,7 +2088,7 @@
 ---
 
 
-== #125. Dynamic oxygen vacancy engineering on CuO via refreshable catalytic surface for high-efficient water decontamination
+== #131. Dynamic oxygen vacancy engineering on CuO via refreshable catalytic surface for high-efficient water decontamination
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -2008,7 +2104,7 @@
 ---
 
 
-== #126. Transport evidence of current-induced nematic Dirac valleys in a parity-time-symmetric antiferromagnet
+== #132. Transport evidence of current-induced nematic Dirac valleys in a parity-time-symmetric antiferromagnet
 
 - **研究分数**: #80
 - **社会影响**: #30
@@ -2024,7 +2120,7 @@
 ---
 
 
-== #127. Phylogenomic profile of exon-intron organization across angiosperms, their relationships with protein domains, and functional implications
+== #133. Phylogenomic profile of exon-intron organization across angiosperms, their relationships with protein domains, and functional implications
 
 - **研究分数**: #75
 - **社会影响**: #30
@@ -2040,7 +2136,23 @@
 ---
 
 
-== #128. The Supraclavicular Flap-Indications, Execution and Outcomes in Head and Neck Reconstruction
+== #134. Size of decompressive craniectomy as prognostic factor in space-occupying ischemic cerebellar stroke -a multicentric retrospective study
+
+- **研究分数**: #65
+- **社会影响**: #40
+- **血液相关性**: #30
+- **推荐度**: #60
+- **DOI**: #10.1016/j.bas.2025.105911
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41503265/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究为缺血性小脑卒中手术提供了具体的临床操作参考（骨窗直径≥6.5cm），对神经外科实践具有直接指导意义，但结论仍需前瞻性研究验证。
+
+摘要: CONCLUSIONS: In ischemic cerebellar stroke, a suboccipital craniectomy with a maximum lateral diameter of ≥6.5 cm appears to yield better functional outcomes than smaller ones. Prospective studies are needed to confirm these results.
+
+---
+
+
+== #135. The Supraclavicular Flap-Indications, Execution and Outcomes in Head and Neck Reconstruction
 
 - **研究分数**: #60
 - **社会影响**: #40
@@ -2056,7 +2168,7 @@
 ---
 
 
-== #129. Advances in orphan drug development for alpha-1 antitrypsin deficiency: a 2025 update from the FDA and EMA
+== #136. Advances in orphan drug development for alpha-1 antitrypsin deficiency: a 2025 update from the FDA and EMA
 
 - **研究分数**: #30
 - **社会影响**: #40
@@ -2072,7 +2184,7 @@
 ---
 
 
-== #130. Azithromycin for Infants in Mali to Reduce Mortality. Reply
+== #137. Azithromycin for Infants in Mali to Reduce Mortality. Reply
 
 - **研究分数**: #50
 - **社会影响**: #50
@@ -2088,7 +2200,7 @@
 ---
 
 
-== #131. Help small-scale gold miners to transition away from mercury use
+== #138. Help small-scale gold miners to transition away from mercury use
 
 - **研究分数**: #50
 - **社会影响**: #50
@@ -2104,7 +2216,7 @@
 ---
 
 
-== #132. These women helped to shape quantum mechanics - it's time to recognize them
+== #139. These women helped to shape quantum mechanics - it's time to recognize them
 
 - **研究分数**: #50
 - **社会影响**: #50
@@ -2120,7 +2232,7 @@
 ---
 
 
-== #133. Isocitrate dehydrogenase 1 mutations drive downregulation of IL1R1 and dysregulated inflammatory response in acute myeloid leukemia
+== #140. Isocitrate dehydrogenase 1 mutations drive downregulation of IL1R1 and dysregulated inflammatory response in acute myeloid leukemia
 
 - **研究分数**: #50
 - **社会影响**: #50
@@ -2136,7 +2248,7 @@
 ---
 
 
-== #134. The Role and Mechanism of Post-Translational Modifications \(PTMs\) in Immune-Related Eye Diseases
+== #141. The Role and Mechanism of Post-Translational Modifications \(PTMs\) in Immune-Related Eye Diseases
 
 - **研究分数**: #65
 - **社会影响**: #30
@@ -2152,7 +2264,39 @@
 ---
 
 
-== #135. Spatially decoupled electrochemical strategy for lime passivation prevention and sustainable phosphate recovery
+== #142. Developing a smart and scalable tool for histopathological education-PATe 2.0
+
+- **研究分数**: #65
+- **社会影响**: #40
+- **血液相关性**: #30
+- **推荐度**: #50
+- **DOI**: #10.1016/j.jpi.2025.100535
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41503518/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章介绍了数字病理学教育平台PATe 2.0的技术升级，虽不直接针对血液疾病，但其模块化、可扩展的设计思路对血液病理学数字化教学具有可借鉴的参考价值。
+
+摘要: Digital microscopy plays a crucial role in pathology education, providing scalable and standardized access to learning resources. In response, we present PATe 2.0, a scalable redeveloped web-application of the former PATe system from 2015. PATe 2.0 was developed using an agile, iterative process and built on a microservices architecture to ensure modularity, scalability, and reliability. It integrates a modern web-based user interface optimized for desktop and tablet use and automates key...
+
+---
+
+
+== #143. Amyloid-beta \(1-40\) peptide is associated with systemic metabolic health
+
+- **研究分数**: #65
+- **社会影响**: #70
+- **血液相关性**: #20
+- **推荐度**: #50
+- **DOI**: #10.1111/eci.70171
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41502294/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究虽聚焦代谢疾病领域，但Aβ40肽的发现可能为血液代谢相关疾病（如糖尿病并发症中的血管病变）提供间接参考，适合关注交叉学科的研究者拓展思路。
+
+摘要: CONCLUSION: Our findings suggest that Aβ40 peptide is associated with metabolic traits and risk for metabolic disease. Future longitudinal studies are warranted to determine the prognostic value of Aβ40 for the development and progression of metabolic diseases.
+
+---
+
+
+== #144. Spatially decoupled electrochemical strategy for lime passivation prevention and sustainable phosphate recovery
 
 - **研究分数**: #83
 - **社会影响**: #65
@@ -2168,7 +2312,7 @@
 ---
 
 
-== #136. Prefrontal neural geometry of learned cues guides motivated behaviours
+== #145. Prefrontal neural geometry of learned cues guides motivated behaviours
 
 - **研究分数**: #65
 - **社会影响**: #40
@@ -2184,7 +2328,7 @@
 ---
 
 
-== #137. Tetrachloromethane as an editable all-carbon quaternary source
+== #146. Tetrachloromethane as an editable all-carbon quaternary source
 
 - **研究分数**: #85
 - **社会影响**: #15
@@ -2200,7 +2344,7 @@
 ---
 
 
-== #138. Self-assembled lyotropic liquid crystal interlayer regulated interfacial polymerization for modulating structure and performance of nanofiltration membranes
+== #147. Self-assembled lyotropic liquid crystal interlayer regulated interfacial polymerization for modulating structure and performance of nanofiltration membranes
 
 - **研究分数**: #78
 - **社会影响**: #65
@@ -2216,7 +2360,7 @@
 ---
 
 
-== #139. Biomarkers
+== #148. Biomarkers
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -2232,7 +2376,7 @@
 ---
 
 
-== #140. A glycolytic shunt via the pentose phosphate pathway is a metabolic checkpoint for nervous system sensory homeostasis and axonal regeneration
+== #149. A glycolytic shunt via the pentose phosphate pathway is a metabolic checkpoint for nervous system sensory homeostasis and axonal regeneration
 
 - **研究分数**: #85
 - **社会影响**: #30
@@ -2248,7 +2392,7 @@
 ---
 
 
-== #141. Persistent river heatwaves are emerging worldwide under climate change
+== #150. Persistent river heatwaves are emerging worldwide under climate change
 
 - **研究分数**: #80
 - **社会影响**: #85
@@ -2264,7 +2408,7 @@
 ---
 
 
-== #142. Visualization and quantification of lattice strain in battery cathode particles through electron backscatter diffraction imaging
+== #151. Visualization and quantification of lattice strain in battery cathode particles through electron backscatter diffraction imaging
 
 - **研究分数**: #85
 - **社会影响**: #65
@@ -2280,7 +2424,7 @@
 ---
 
 
-== #143. Biomarkers
+== #152. Biomarkers
 
 - **研究分数**: #75
 - **社会影响**: #65
@@ -2296,7 +2440,7 @@
 ---
 
 
-== #144. Mimicking opioid analgesia in cortical pain circuits
+== #153. Mimicking opioid analgesia in cortical pain circuits
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -2312,7 +2456,7 @@
 ---
 
 
-== #145. Early hominins from Morocco basal to the Homo sapiens lineage
+== #154. Early hominins from Morocco basal to the Homo sapiens lineage
 
 - **研究分数**: #85
 - **社会影响**: #65
@@ -2328,7 +2472,7 @@
 ---
 
 
-== #146. North Atlantic ventilation change over the past three decades is potentially driven by climate change
+== #155. North Atlantic ventilation change over the past three decades is potentially driven by climate change
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -2344,7 +2488,7 @@
 ---
 
 
-== #147. Brain and neural cell type proteomics reveal extracellular matrix proteins enriched in progressive multiple sclerosis
+== #156. Brain and neural cell type proteomics reveal extracellular matrix proteins enriched in progressive multiple sclerosis
 
 - **研究分数**: #75
 - **社会影响**: #50
@@ -2360,7 +2504,7 @@
 ---
 
 
-== #148. Bayesian teaching enables probabilistic reasoning in large language models
+== #157. Bayesian teaching enables probabilistic reasoning in large language models
 
 - **研究分数**: #85
 - **社会影响**: #75
@@ -2376,7 +2520,7 @@
 ---
 
 
-== #149. Accumbal calcium-permeable AMPA receptors orchestrate neuronal ensembles underlying social attachment
+== #158. Accumbal calcium-permeable AMPA receptors orchestrate neuronal ensembles underlying social attachment
 
 - **研究分数**: #85
 - **社会影响**: #60
@@ -2392,7 +2536,7 @@
 ---
 
 
-== #150. Dynamic decrosslinking enables self-healing, reprocessability, and upcycling in polyurethane networks
+== #159. Dynamic decrosslinking enables self-healing, reprocessability, and upcycling in polyurethane networks
 
 - **研究分数**: #75
 - **社会影响**: #70
@@ -2408,7 +2552,7 @@
 ---
 
 
-== #151. Breaking immiscibility barriers: ultrafast sintering of interlocked Cu-Fe-based composites
+== #160. Breaking immiscibility barriers: ultrafast sintering of interlocked Cu-Fe-based composites
 
 - **研究分数**: #85
 - **社会影响**: #40
@@ -2424,7 +2568,23 @@
 ---
 
 
-== #152. &lt;em&gt;Erratum&lt;/em&gt; to: "Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model"
+== #161. Iron-related intercellular communication in the liver: Main players and mechanisms
+
+- **研究分数**: #30
+- **社会影响**: #20
+- **血液相关性**: #40
+- **推荐度**: #30
+- **DOI**: #10.1111/eci.70168
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41502243/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260108172420&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该摘要仅提供了一个结论性陈述，缺乏具体研究方法、数据及创新细节，对血液病研究的直接借鉴价值有限，仅适合关注肝脏铁代谢与血液系统间接关联的极专门领域读者。
+
+摘要: CONCLUSIONS: Iro-nrelated communication between different liver cell types is fundamental to maintaining its proper function.
+
+---
+
+
+== #162. &lt;em&gt;Erratum&lt;/em&gt; to: "Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model"
 
 - **研究分数**: #30
 - **社会影响**: #30
