@@ -219,5 +219,694 @@
       "recommendation": 75
     },
     "reason": "该研究聚焦蛋白质乳酸化修饰在肿瘤进展与免疫调控中的作用，其揭示的代谢重编程机制对研究血液肿瘤（如淋巴瘤、白血病）的微环境调控和靶向治疗具有潜在借鉴价值。"
+  },
+  {
+    "title": "<em>Erratum</em> to: \"Optimizing CRISPR methodology for precise gene editing in the erythroid cell line BEL-A with high efficiency generation of a sickle cell anemia model\"",
+    "abstract": "No abstract",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496706/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2025.288211",
+    "scores": {
+      "research": 30,
+      "social": 30,
+      "blood": 30,
+      "recommendation": 10
+    },
+    "reason": "该文献无法提供摘要，导致其研究价值、社会影响及专业相关性均无法判断。建议优先阅读摘要清晰、研究内容明确的文献，或重新获取本文的完整信息以进行评估。"
+  },
+  {
+    "title": "Gynecologic and obstetric management of girls and women with von Willebrand disease",
+    "abstract": "Among the first patients with von Willebrand disease (VWD) described by Eric von Willebrand almost a century ago were young girls and women from a family in the Åland Islands who experienced \"genital hemorrhage\" so excessive that it led to exsanguination in five members.1 Only recently has attention focused on the risks and challenges that females with VWD face when experiencing heavy menstrual bleeding, conception, pregnancy, and delivery. The persistent monthly losses with heavy menstrual...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496705/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2024.286059",
+    "scores": {
+      "research": 75,
+      "social": 85,
+      "blood": 90,
+      "recommendation": 85
+    },
+    "reason": "该文章从历史病例出发，聚焦血管性血友病对女性健康的长期影响，兼具历史回顾与临床现实意义，对血液科医生在妇科相关出血管理方面有重要借鉴价值。"
+  },
+  {
+    "title": "Historical, current and future treatments for von Willebrand disease",
+    "abstract": "Von Willebrand disease (VWD) is a heterogeneous group of defects characterized by a spectrum of bleeding symptoms ranging from mild to severe, which remain difficult to identify and assess quantitatively. Despite significant advances in our understanding of the pathophysiology of the disease, diagnosis and management remain challenging. This review examines the therapeutic landscape for VWD, discussing historical treatments, recent advancements and prospects. Decades of clinical evidence...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496704/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2024.286037",
+    "scores": {
+      "research": 75,
+      "social": 70,
+      "blood": 95,
+      "recommendation": 85
+    },
+    "reason": "该综述系统梳理了血管性血友病的治疗进展，既总结了历史经验又展望了未来方向，对于血液科医生全面把握该病的临床管理策略具有很高的参考价值。"
+  },
+  {
+    "title": "Molecular genetic testing in von Willebrand disease: past, present, and beyond",
+    "abstract": "The gene for von Willebrand factor (VWF) was among the earliest genomic discoveries in the mid-1980s. It became feasible to use this new knowledge to better understand the genetic mechanisms responsible for von Willebrand disease (VWD) and to utilize the information to generate molecular genetic diagnostic testing strategies. Following initial studies demonstrating large structural variants in type 3 VWD patients, investigations focused on the genetic basis of the various type 2 forms of VWD,...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496703/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2024.286014",
+    "scores": {
+      "research": 75,
+      "social": 65,
+      "blood": 90,
+      "recommendation": 80
+    },
+    "reason": "该文章系统回顾了血管性血友病因子基因的早期发现及其在疾病分型诊断中的应用，为血液病遗传机制研究和分子诊断策略提供了重要基础，对从事出血性疾病研究的血液科医师具有直接的参考价值。"
+  },
+  {
+    "title": "Clinical and laboratory diagnosis of von Willebrand disease",
+    "abstract": "von Willebrand disease (VWD) is a hereditary bleeding disorder first described by Erik von Willebrand in 1926. The disease is characterized by frequent bruising, bleeding from minor wounds, nosebleeds, heavy menstrual bleeding, bleeding after tooth extraction, gastrointestinal bleeding, and joint bleeds. The underlying cause of VWD was identified 45 years later as a deficiency of von Willebrand factor (VWF), a high-molecular-weight protein that circulates with factor VIII in plasma. The clinical...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496702/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2024.286011",
+    "scores": {
+      "research": 45,
+      "social": 35,
+      "blood": 95,
+      "recommendation": 60
+    },
+    "reason": "该文章清晰阐述了血管性血友病的基本病理机制与临床表现，对血液科医生理解这一遗传性出血疾病具有扎实的参考价值，适合用于临床知识巩固或教学。"
+  },
+  {
+    "title": "Von Willebrand disease: classification and epidemiology",
+    "abstract": "Von Willebrand disease (VWD) is a highly heterogeneous inherited bleeding disorder caused by reduced levels or activity of von Willebrand factor (VWF). VWD is associated with a wide spectrum of clinical and laboratory phenotypes, but diagnosis is based on three main criteria: a positive bleeding history, low levels of circulating VWF and autosomal inheritance patterns. VWD is classified into quantitative VWF deficiencies (type 1, partial and type 3, almost total) and peculiar qualitative defects...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496701/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2024.286058",
+    "scores": {
+      "research": 75,
+      "social": 65,
+      "blood": 95,
+      "recommendation": 85
+    },
+    "reason": "该摘要清晰概括了血管性血友病（VWD）的病理机制、诊断标准和分类，对血液科临床诊断和基础研究具有直接的参考价值，尤其适合作为该疾病的知识更新与教学材料。"
+  },
+  {
+    "title": "Structure and multiple functions of von Willebrand factor",
+    "abstract": "Since the first description of a patient with von Willebrand disease (VWD) back in 1926, significant advances have been made in understanding the biology of von Willebrand factor (VWF). Under normal conditions, in vivo biosynthesis of VWF is restricted to endothelial cells and megakaryocytes only. This biosynthesis involves complex post-translational modifications (including glycosylation and multimerization) which play a key role in enabling the hemostatic functions of VWF. As a result, VWF...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496700/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2024.286029",
+    "scores": {
+      "research": 75,
+      "social": 40,
+      "blood": 95,
+      "recommendation": 80
+    },
+    "reason": "该文章系统总结了血管性血友病因子（VWF）生物合成的关键机制与历史进展，对血液病特别是出凝血疾病的研究与临床理解具有很高的参考价值。"
+  },
+  {
+    "title": "The landmark contribution by Erik von Willebrand",
+    "abstract": "One hundred years ago Professor Erik von Willebrand, working at the Deaconess Hospital in Helsinki, Finland, published his landmark paper on hereditary pseudohemophilia (the original paper, in Swedish, was entitled Hereditär pseudohemofili and was published in Finska Läkaresällskapets Handlingar). In 1924, a 5-year-old girl named Hjördis, living in Föglö in the Åland Island archipelago, was brought to Erik von Willebrand's attention; his investigations of a large family living in the Åland...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41496698/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0417435&fc=None&ff=20260107215704&v=2.18.0.post22+67771e2",
+    "doi": "10.3324/haematol.2024.286012",
+    "scores": {
+      "research": 70,
+      "social": 85,
+      "blood": 100,
+      "recommendation": 80
+    },
+    "reason": "该文章系统回顾了血管性血友病的里程碑式发现，不仅具有重要的医学史价值，而且对现代血液病诊断与遗传机制研究仍有基础性参考意义。"
+  },
+  {
+    "title": "Help small-scale gold miners to transition away from mercury use",
+    "abstract": "No abstract",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495469/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260107215705&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/d41586-025-04121-1",
+    "scores": {
+      "research": 50,
+      "social": 50,
+      "blood": 50,
+      "recommendation": 50
+    },
+    "reason": "由于未提供摘要，无法评估文章的具体内容，因此所有评分均为中性基准分。建议补充摘要信息以便进行准确评价。"
+  },
+  {
+    "title": "These women helped to shape quantum mechanics - it's time to recognize them",
+    "abstract": "No abstract",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491033/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260107215705&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/d41586-025-04151-9",
+    "scores": {
+      "research": 50,
+      "social": 50,
+      "blood": 50,
+      "recommendation": 50
+    },
+    "reason": "由于未提供摘要，无法评估文章的具体内容、创新性或社会价值，因此所有评分均为中性基准分。建议提供摘要以便进行准确评价。"
+  },
+  {
+    "title": "Multiple myeloma risk linked to DNA damage response genes",
+    "abstract": "CONCLUSIONS: Our results suggest expansion of the phenotypic spectrum of some of these DDRG to include MM. The identification of these germline predisposition genes opens the avenue for targeted screening of higher risk individuals especially those with young-onset or a family history of plasma cell gammopathies.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495781/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101468937&fc=None&ff=20260107215706&v=2.18.0.post22+67771e2",
+    "doi": "10.1186/s13045-025-01776-1",
+    "scores": {
+      "research": 75,
+      "social": 60,
+      "blood": 90,
+      "recommendation": 80
+    },
+    "reason": "该研究通过揭示DNA损伤修复基因与多发性骨髓瘤的遗传关联，为早期筛查高危人群提供了重要依据，对血液肿瘤的精准预防和临床实践具有直接参考价值。"
+  },
+  {
+    "title": "Extracellular GPX4 impairs antitumor immunity via dendritic ZP3 receptors",
+    "abstract": "Understanding the immunogenic properties of different forms of cell death is critical for rationalized antineoplastic therapeutic development. Here, we identify a regulatory axis that suppresses the immunogenicity of ferroptosis. During ferroptosis, but not apoptosis, cuproptosis, or necroptosis, cancer cells release glutathione peroxidase 4 (GPX4), which binds to zona pellucida glycoprotein 3 (ZP3) on the surface of dendritic cells (DCs), activates the 3',5'-cyclic adenosine monophosphate...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41494530/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260107215707&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.cell.2025.12.002",
+    "scores": {
+      "research": 88,
+      "social": 65,
+      "blood": 85,
+      "recommendation": 82
+    },
+    "reason": "该研究首次揭示了铁死亡中GPX4介导的免疫抑制新机制，对血液肿瘤免疫治疗及联合治疗策略设计具有直接借鉴价值。"
+  },
+  {
+    "title": "A glycolytic shunt via the pentose phosphate pathway is a metabolic checkpoint for nervous system sensory homeostasis and axonal regeneration",
+    "abstract": "Homeostasis and repair in the nervous system are thought to rely on distinct molecular programs. Here, we uncover an unexpected role for the pentose phosphate pathway (PPP) in peripheral sensory axons, where it supports both homeostatic mechanosensation and axonal regeneration after injury. We show that the PPP is enriched and active in sciatic nerve axoplasms, where it maintains redox balance via NADPH production, enabling physiological mechanical sensation. However, following sciatic nerve...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41494529/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260107215707&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.cell.2025.12.003",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 10,
+      "recommendation": 40
+    },
+    "reason": "该研究在神经轴突代谢与修复机制上有创新发现，方法严谨，但主要聚焦于神经科学领域，对血液疾病研究的直接借鉴价值有限，仅可间接参考其关于PPP通路与氧化还原平衡的机制探讨。"
+  },
+  {
+    "title": "Population-level genomic analysis of immunoglobulin loci variation in rhesus macaques reveals extensive germline diversity",
+    "abstract": "Rhesus macaques (RMs) are a vital model for studying human disease and are invaluable to preclinical vaccine research, particularly for the study of broadly neutralizing antibody responses. Such studies require robust genetic resources for antibody-encoding genes within the immunoglobulin (IG) loci. The complexity of the IG loci has historically made them challenging to characterize accurately. To address this, we developed experimental and computational methodologies to generate a collection of...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41494536/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260107215714&v=2.18.0.post22+67771e2",
+    "doi": "10.1016/j.immuni.2025.12.002",
+    "scores": {
+      "research": 88,
+      "social": 65,
+      "blood": 85,
+      "recommendation": 82
+    },
+    "reason": "该研究在免疫球蛋白基因解析方法学上有重要创新，为抗体相关血液疾病研究和疫苗研发提供了关键遗传学工具，对血液病机制探索具有直接参考价值。"
+  },
+  {
+    "title": "Dynamic decrosslinking enables self-healing, reprocessability, and upcycling in polyurethane networks",
+    "abstract": "Thermosetting polymers are widely used for their high mechanical performance and long-term structural reliability, but their permanent crosslinked networks prevent reprocessing and recycling, leading to persistent environmental challenges. Existing dynamic covalent and supramolecular strategies offer partial solutions, yet often suffer from performance loss after repeated recycling due to incomplete reversibility and the accumulation of defects. Here, we present a strategy for the decrosslinking...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495077/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68263-6",
+    "scores": {
+      "research": 75,
+      "social": 70,
+      "blood": 15,
+      "recommendation": 35
+    },
+    "reason": "该文章虽在高分子材料循环领域具有创新性，但对血液疾病研究的直接关联性较弱；若您的研究涉及生物材料或医疗器械，其解交联策略或可提供间接参考。"
+  },
+  {
+    "title": "Refrigeration down to 0.16 K using a frustrated magnet Gd<sub>2</sub>B<sub>2</sub>MoO<sub>9</sub>",
+    "abstract": "Magnetic refrigeration, utilizing the magnetocaloric effect in solid-state magnets, has emerged as a promising cooling technology. The development of practical ultra-low-temperature magnetic refrigeration applications has been limited by the absence of high-performance magnetic refrigerants. Herein, we provide a frustrated Gadolinium-dominated magnet, Gd(2)B(2)MoO(9) oxide, which exhibits remarkable ultra-low temperature magnetocaloric performances. The maximum magnetic entropy changes reach...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495069/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68278-z",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 10,
+      "recommendation": 65
+    },
+    "reason": "该研究在超低温磁制冷材料领域取得了重要进展，虽然不直接涉及血液疾病，但其涉及的钆基材料在医学影像学（如MRI造影剂）中有潜在关联，可为相关交叉学科研究提供材料学借鉴。"
+  },
+  {
+    "title": "A liquid metal dynamic wetting strategy for spatiotemporal monitoring of hand movements",
+    "abstract": "Current hand tracking technologies often suffer from inconsistent accuracy due to occlusion, electromagnetic interference, and ambiguous signals from soft sensors. These limitations hinder reliable motion capture for advanced human-machine interaction. To overcome them, we propose a liquid metal dynamic wetting-based flexible and wearable inertial skeletal tracking (FWIST) system. The system integrates 16 FWIST units on the hand to capture palm pitch/roll and finger bending angles in real time...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495067/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68091-8",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 10,
+      "recommendation": 65
+    },
+    "reason": "该文章在柔性可穿戴传感技术方面具有显著的创新性和方法学严谨性，虽与血液疾病无直接关联，但其高精度动态捕捉技术可为血液病相关运动功能评估或康复器械研发提供跨学科思路参考。"
+  },
+  {
+    "title": "Ferroelectric switching of interfacial dipoles in α-RuCl<sub>3</sub>/graphene heterostructure",
+    "abstract": "We demonstrate electrically switchable, non-volatile dipoles in graphene/thin hBN/α-RuCl(3)alpha-RuCl3 heterostructures, stabilized purely by interfacial charge transfer across an atomically thin dielectric barrier. This mechanism requires no sliding or twisting to explicitly break inversion symmetry and produces robust ferroelectric-like hysteresis loops that emerge prominently near 30 K. Systematic measurements under strong in-plane and out-of-plane magnetic fields reveal negligible effects on...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495065/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68072-x",
+    "scores": {
+      "research": 80,
+      "social": 20,
+      "blood": 10,
+      "recommendation": 65
+    },
+    "reason": "该研究在二维异质结中实现了一种新颖的纯界面电荷转移型铁电开关机制，方法严谨，在凝聚态物理领域具有较高创新性；但对血液疾病研究无直接关联，可借鉴性有限，仅建议相关交叉领域研究者参考其界面调控思路。"
+  },
+  {
+    "title": "Soft sonocapacitor with topologically integrated piezodielectric nanospheres enables wireless epidural closed-loop neuromodulation",
+    "abstract": "Capacitively coupled electrical stimulation modulates neuronal activity through reversible charging and without charge transfer reactions. This represents a promising and safe neuromodulation scheme but achieving wireless and high capacitive charge density injection remains challenging. Here, we developed a topological fibrous-architecture sonocapacitor (SonoCap) that assembled from piezoelectric-dielectric composite nanosphere (UCapT) and two-dimensional cellulose. UCapT features a unique...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495062/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67723-3",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 20,
+      "recommendation": 65
+    },
+    "reason": "该研究在无线神经调控领域提出了创新的拓扑纤维结构声电容设计，材料科学方法严谨，但直接与血液疾病的相关性较弱，主要借鉴价值在于其跨学科的材料研发思路。"
+  },
+  {
+    "title": "Atypical β-strand insertion mediates the noncovalent cross-linking in amyloid aggregates",
+    "abstract": "β-Strand motifs are essential recognition modules in protein-protein interactions (PPIs), which govern cellular signaling networks and regulate molecular pathway dynamics. Herein we present an unexpected discovery of a previously uncharacterized β-strand insertion mechanism termed as cross-β-strand linking, wherein β-strands within the β-sheet-rich aggregates form inter-β-sheet connections through insertion into adjacent β-sheets. These cross-β-strand linkers comprise <15% of the total β-strands...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495057/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68185-3",
+    "scores": {
+      "research": 85,
+      "social": 25,
+      "blood": 55,
+      "recommendation": 75
+    },
+    "reason": "该研究揭示了蛋白质相互作用中一种未被报道的β-链交叉连接新机制，为理解蛋白质聚集及构象疾病（如某些血液系统淀粉样变性病）的分子基础提供了创新视角。"
+  },
+  {
+    "title": "Unlocking efficient electrocatalytic removal of trace emerging contaminants via synchronized pollutant enrichment and electron delivery",
+    "abstract": "Emerging contaminants (ECs) pose escalating global threats to water security and human health, driving urgent demands for advanced remediation; however, electrocatalytic elimination of trace ECs remains intrinsically constrained by dual limitations: diffusion of ultra-dilute pollutants and sluggish interfacial electron transfer. Here, we introduce an integrated strategy that synergistically regulates mass transport and electron transfer using a conductive molecularly imprinted polymer (c-MIP)...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495052/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68178-2",
+    "scores": {
+      "research": 85,
+      "social": 90,
+      "blood": 20,
+      "recommendation": 75
+    },
+    "reason": "该研究提出了一种创新的导电分子印迹聚合物策略，协同调控传质与电子转移，对解决水中新兴污染物的高效去除具有重要参考价值；虽然不直接涉及血液疾病，但其在环境毒物控制方面的进展可能间接影响血液健康相关的暴露风险研究。"
+  },
+  {
+    "title": "Rapid enantioselective fluorescence recognition and chiral separation of free amino acids",
+    "abstract": "Enantioselective recognition and chiral separation of amino acids hold significant importance in chemistry, materials science, and life science. Here, we report a water-soluble chiral fluorescent probe that enables visual chiral recognition and separation by incorporating a morpholinium quaternary cation into the 1,1'-bi-2-naphthol frameworks. Upon binding with free amino acid enantiomers, the probe achieves rapid chiral discrimination within 100 s, accompanied by distinct changes in...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495051/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68144-y",
+    "scores": {
+      "research": 75,
+      "social": 50,
+      "blood": 25,
+      "recommendation": 65
+    },
+    "reason": "该研究开发了一种"
+  },
+  {
+    "title": "Deep learning guided design of protease substrates",
+    "abstract": "Proteases, enzymes that play critical roles in health and disease, exert their function through the cleavage of peptide bonds. Identifying substrates that are efficiently and selectively cleaved by target proteases is essential for studying protease activity and for harnessing it in protease-activated diagnostics and therapeutics. However, the vast design space of possible substrates (c.a. 20^(10) amino acid combinations for a 10-mer peptide) and the limited accessibility of high-throughput...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495045/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67226-1",
+    "scores": {
+      "research": 82,
+      "social": 65,
+      "blood": 88,
+      "recommendation": 85
+    },
+    "reason": "该研究聚焦蛋白酶底物筛选这一基础问题，其方法创新对理解凝血相关蛋白酶机制具有直接借鉴价值，尤其可为出血性及血栓性疾病的诊断与治疗研究提供新思路。"
+  },
+  {
+    "title": "NTAC: Neuronal type assignment from connectivity",
+    "abstract": "Recent advances in electron microscopy and computer vision now allow the reconstruction of complete wiring diagrams, or connectomes, of animal brains. This creates an urgent need for methods that can automatically identify neuronal cell types directly from these large connectivity datasets. Here we show that synaptic connectivity alone can be used to assign neurons to cell types with high accuracy. We introduce NTAC (Neuronal Type Assignment from Connectivity), which groups neurons based only on...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495042/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68044-1",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 5,
+      "recommendation": 70
+    },
+    "reason": "该文章在方法论上具有高度创新性和严谨性，其基于连接组学的自动神经元分类方法为跨学科研究（如细胞网络分析）提供了可借鉴的计算框架。"
+  },
+  {
+    "title": "Impact of GC content on de novo gene birth",
+    "abstract": "Noncoding regions in eukaryotes are extensively expressed and represent a significant source of novel microproteins, some of which become fixed as de novo genes. However, the structural properties of these unevolved products and the features driving their fixation remain poorly understood. Particularly, the influence of nucleotide composition (GC content) on their structural properties and evolutionary trajectories is still unclear. Here, we predict the foldability and sequence properties of...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495041/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68022-7",
+    "scores": {
+      "research": 75,
+      "social": 30,
+      "blood": 40,
+      "recommendation": 65
+    },
+    "reason": "该研究虽未直接聚焦血液疾病，但其对非编码区微蛋白结构演化规律的探索，为血液肿瘤相关非编码突变或新抗原研究提供了潜在的分析框架与思路借鉴。"
+  },
+  {
+    "title": "Spatially decoupled electrochemical strategy for lime passivation prevention and sustainable phosphate recovery",
+    "abstract": "Lime-based precipitation, though widely adopted for wastewater phosphorus (P) removal, suffers from surface passivation. The passivation layer inhibits Ca^(2+) release, forcing excessive dosing while yielding low-quality sludge and effluent with elevated hardness and pH. Limestone, despite its economic and environmental benefits, exhibits limited efficacy under fluctuating alkalinity. Here, we develop a limestone-integrated electrochemical system that spatially decouples the dissolution and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495040/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67911-1",
+    "scores": {
+      "research": 83,
+      "social": 65,
+      "blood": 15,
+      "recommendation": 45
+    },
+    "reason": "该研究虽聚焦于水处理技术，但其揭示的石灰石电化学系统对钙/磷沉淀的调控机制，可能为血液领域研究病理性钙化或磷代谢异常提供间接的工程学借鉴思路。"
+  },
+  {
+    "title": "Filament assembly induced by the recognition of target DNA activates the prokaryotic Argonaute SPARDA system",
+    "abstract": "The short prokaryotic Argonaute (pAgo) proteins, in conjunction with their associated effector molecules, constitute a defence mechanism in prokaryotes that protects against phage infections. The SPARDA is characterized by its collateral nuclease activity, which, upon activation through target DNA recognition, non-specifically cleaves a wide range of nucleic acid substrates. Nevertheless, the structural underpinnings of its collateral activity have remained elusive. In this study, we investigate...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495039/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68195-1",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 20,
+      "recommendation": 65
+    },
+    "reason": "该研究深入揭示了原核Argonaute蛋白的非特异性核酸酶活性的结构基础，为理解原核生物防御机制提供了重要见解，对核酸酶学及抗病毒机制研究具有较高参考价值。"
+  },
+  {
+    "title": "Individual and population-level risk factors for new HIV infections among adults in Eastern and Southern Africa",
+    "abstract": "Despite substantial recent declines, general population HIV incidence in sub-Saharan Africa remains above international targets. Better description of risk factors for new infections would improve prioritisation of interventions. Using data from population-based cohorts in Kenya, Malawi, Tanzania, South Africa, Uganda, Zimbabwe we described the prevalence of risk factors for men and women aged 15-24 and 25-49 and estimated the association between individual and community-level risk factors and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495037/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67966-0",
+    "scores": {
+      "research": 85,
+      "social": 90,
+      "blood": 70,
+      "recommendation": 80
+    },
+    "reason": "该研究基于非洲多国人口队列数据，能系统揭示HIV感染风险因素，对高发地区的精准防控有直接参考价值，尤其适合公共卫生及流行病学研究人员借鉴。"
+  },
+  {
+    "title": "Highly efficient exciton-exciton annihilation in single conjugated polymer chains",
+    "abstract": "The number of excitons that conjugated polymers can support at any one time underpins their optoelectronic performance in light-emitting diodes and as laser gain media, as it sets a natural limit on exciton density. Here we have measured the time-resolved photon statistics of single, isolated chains of polyfluorene to extract the absolute number of independent emitting sites present and its time dependence by studying the intramolecular exciton-exciton annihilation. We find that after 100 ps...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495034/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67422-z",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 5,
+      "recommendation": 70
+    },
+    "reason": "该研究在单分子水平上测量共轭聚合物的激子动力学，方法学具有创新性和严谨性，可为光物理机制研究提供高精度实验参考，但内容与血液疾病无直接关联。"
+  },
+  {
+    "title": "Sirt6 deficiency in mast cells promotes adipose fibroinflammation in obesity through galectin-3 signaling",
+    "abstract": "Mast cells (MCs) play a key role in obesity and insulin resistance, though the mechanisms driving adipose dysfunction remain unclear. We find that Sirt6 expression in MCs decreases with obesity in both male mice and humans. Selective depletion of Sirt6 in MCs worsens inflammation, fibrosis, and metabolic dysfunction in diet-induced obesity. Adoptive transfer of MC-deficient KitW-sh/W-sh mice with Sirt6-deficient MCs leads to greater weight gain on a high-fat diet compared to transfer with...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495031/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66040-z",
+    "scores": {
+      "research": 82,
+      "social": 65,
+      "blood": 88,
+      "recommendation": 85
+    },
+    "reason": "该研究揭示了肥大细胞中Sirt6在肥胖相关代谢紊乱中的新机制，为造血来源的免疫细胞在系统代谢调控中的作用提供了重要借鉴，对血液免疫学研究具有直接参考价值。"
+  },
+  {
+    "title": "Breaking immiscibility barriers: ultrafast sintering of interlocked Cu-Fe-based composites",
+    "abstract": "With increasingly stringent application environments, there is a growing demand for designing and fabricating of promising structural materials. Conventional metallurgical methods typically struggle to produce positive mixing enthalpy alloys with uniform microstructures and consistent properties due to mutual immiscibility and uncontrollable segregation during solidification. To this end, we employ a bottom-up approach to fabricate Cu-50 vol% Fe(55)Cr(25)Mo(16)B(2)C(2) positive mixing enthalpy...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495030/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68107-3",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 10,
+      "recommendation": 30
+    },
+    "reason": "该文章在材料冶金方法学上具有显著创新性和技术严谨性，但对于血液疾病研究直接关联性较弱，仅可作为金属生物相容性或器械材料的间接参考。"
+  },
+  {
+    "title": "Spontaneous chlorine production from chloride-containing brines",
+    "abstract": "Chlorine, a crucial basic chemical, is primarily produced by the electrolysis of chloride-containing brines, a highly energy-intensive process with a substantial carbon footprint. Notably, concentrated chloride-containing brines, e.g., acidic wastewater, desalination wastewater, seawater, possess significant osmotic energy, which can be harnessed using membrane-based diffusion cells. Considering this, we here present a spontaneous chlorine production method by using the inherent energy and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495029/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68181-7",
+    "scores": {
+      "research": 75,
+      "social": 70,
+      "blood": 20,
+      "recommendation": 65
+    },
+    "reason": "该研究将渗透能利用与氯生产创新结合，在能源与环境领域具有潜在应用价值；虽与血液疾病无直接关联，但其涉及的氯离子跨膜传输机制可为红细胞膜生理或相关血液学研究提供间接参考。"
+  },
+  {
+    "title": "A multidimensional workflow profiling of allogeneic virus-specific T cell therapies reveals potency-linked signatures",
+    "abstract": "Allogeneic virus-specific T cell (VST) therapies offer distinct advantages, including scalability, rapid deployment, and manufacturing consistency, and have demonstrated efficacy in multiple clinical trials. However, identifying VST products with high therapeutic potential remains a major hurdle. Here, we present a multidimensional analytical platform that integrates in vitro and in vivo anti-viral reactivity, T cell receptor (TCR) repertoire analysis, gene expression profiling,...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495027/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67924-w",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 90,
+      "recommendation": 85
+    },
+    "reason": "该研究提出的多维分析平台能有效筛选高效抗病毒T细胞，对造血干细胞移植后病毒感染的防治具有直接参考价值，为血液科临床治疗提供了新方法。"
+  },
+  {
+    "title": "Persistent river heatwaves are emerging worldwide under climate change",
+    "abstract": "Rivers and the organisms living within them are highly vulnerable to hot thermal extremes. However, very little is known about river heatwaves, consecutive episodes of anomalously high temperature in rivers, and how they may evolve under climate change. Here we show that river heatwaves will become more intense and more persistent globally by the end of the 21^(st) century, with some tropical rivers reaching a persistent year-round heatwave state in the early 21^(st) century. Under the...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495025/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66868-5",
+    "scores": {
+      "research": 80,
+      "social": 85,
+      "blood": 5,
+      "recommendation": 40
+    },
+    "reason": "该文章虽然研究扎实、社会关注度高，但内容主要涉及气候变暖与河流热浪的生态影响，与血液疾病或血液学研究无直接关联，血液病领域专家借鉴价值极低。"
+  },
+  {
+    "title": "Stress-trained microalgae robots with probiotics backpack and intestinal brake for inflammatory bowel disease management",
+    "abstract": "Inflammatory bowel disease (IBD) involves elevated intestinal reactive oxygen species (ROS) and microbial imbalance. A key challenge is that current delivery systems cannot adequately protect active agents, such as antioxidants and probiotics, through the harsh gastric environment nor precisely deliver them to inflamed intestinal sites. Here, we present the EcN@PDA@HP biohybrid robot, composed of stress-trained microalgae, probiotics, and an intestinal braking system, enabling rapid gastric...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495023/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66692-x",
+    "scores": {
+      "research": 85,
+      "social": 75,
+      "blood": 60,
+      "recommendation": 80
+    },
+    "reason": "该研究提出的EcN@PDA@HP生物混合机器人技术具有显著创新性，其靶向递送系统对研究炎症相关贫血等血液学并发症具有方法学借鉴价值。"
+  },
+  {
+    "title": "Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N<sup>6</sup>-methyladenosine recognition protein YTHDC2",
+    "abstract": "YTHDC2, a unique YTH-domain-containing protein that recognizes N6-methyladenosine (m⁶A) on RNA, plays critical roles in diverse pathological processes and represents a promising therapeutic target. Despite its potential, no potent small-molecule inhibitors have been reported to date. To bridge this gap, we develop EPMolGen, a deep learning-based molecular generative model that explicitly incorporates the electrostatic features of receptor proteins. The model achieves state-of-the-art performance...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495018/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-65542-0",
+    "scores": {
+      "research": 85,
+      "social": 55,
+      "blood": 90,
+      "recommendation": 80
+    },
+    "reason": "该文章创新性地将受体蛋白静电特征融入深度学习分子生成模型，针对血液疾病关键靶点YTHDC2开发新型抑制剂，为血液肿瘤治疗策略提供了可借鉴的前沿方法。"
+  },
+  {
+    "title": "Ultra-wide spectrum photosynapse array with 64k-scale for neuromorphic fusion imaging",
+    "abstract": "Bio-inspired photosynapse hardware with wide spectrum information fusion imaging and neuromorphic processing is promising for complex environments perception. However, integrating ultra-wide spectrum responsivity within a single photosynapse device and scaling to a large array has remained challenging. Here, we demonstrate a 64k-scale (65,536 pixels) ultraviolet-to-mid-infrared photosynapse array based on carbon nanotube/molybdenum oxide heterojunctions. Typical photosynapse behaviors are...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495016/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-66810-9",
+    "scores": {
+      "research": 92,
+      "social": 45,
+      "blood": 15,
+      "recommendation": 80
+    },
+    "reason": "该研究在仿生光电神经突触器件领域实现了超宽光谱响应与大规模集成的重大突破，其跨学科思路与前沿材料设计对血液病检测设备的微型化与智能化具有潜在启发价值。"
+  },
+  {
+    "title": "Shape-morphing active particles with invertible effective polarizability for configurable locomotion and steering",
+    "abstract": "Active particles are analogs of microorganisms in that they locally dissipate energy to propel in low Reynolds number fluids. However, most active particles lack the ability to undergo controlled shape transformations that change how they move in response to environmental cues. Here, we present a class of stimuli-responsive active particles that exhibit fully reversible, shape-dependent propulsion. The particles consist of a bilayer of a thermoresponsive hydrogel and a non-swelling glassy...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495015/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-65482-9",
+    "scores": {
+      "research": 85,
+      "social": 30,
+      "blood": 20,
+      "recommendation": 65
+    },
+    "reason": "该研究在刺激响应型微纳马达的设计上具有高度创新性和方法学严谨性，虽然不直接涉及血液疾病，但其可控形变与运动机制可为靶向药物递送或微环境响应型诊疗策略提供跨学科借鉴思路。"
+  },
+  {
+    "title": "Deep learning and superoscillatory speckles empowered multimode fiber probe for in situ nano-displacement detection and micro-imaging",
+    "abstract": "High-precision metrology has laid the foundation for semiconductor fabrication and life sciences. However, existing displacement measurement approaches are incapable of performing flexible probing within complex equipment interiors. Here, we present a in situ, non-contact nano-displacement measurement approach. Leveraging a multimode fiber probe empowered by deep learning, fine feature information can be efficiently extracted from superoscillatory speckles, achieving single-ended detection with...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491775/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67942-8",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 30,
+      "recommendation": 70
+    },
+    "reason": "该研究提出的高精度纳米位移测量方法虽不直接针对血液疾病，但其在复杂设备内部进行灵活探测的技术思路，可能为血液学精密仪器（如细胞分析或显微操作平台）的研发提供创新性测量参考。"
+  },
+  {
+    "title": "A disulfide redox switch mechanism regulates glycoside hydrolase function",
+    "abstract": "Disulfide bonds are a key post-translational modification involved in protein folding, structural stability, and functional regulation. Here, we demonstrate that a glycoside hydrolase from the GH2 family undergoes reversible redox regulation through an intramolecular disulfide bond. The enzyme is inactive in its oxidized state and becomes active when reduced through a fully reversible process. Under oxidative conditions, multiple crystallographic and cryo-EM structures revealed a pronounced...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491304/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67225-2",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 65,
+      "recommendation": 80
+    },
+    "reason": "该研究揭示了蛋白质二硫键可逆氧化还原调控的新机制，虽然不直接针对血液疾病，但其调控原理对研究红细胞酶功能或凝血因子氧化应激损伤具有重要借鉴意义。"
+  },
+  {
+    "title": "Retrospective cohort study of hepatitis B immunization strategy effects in Beijing across 30 years",
+    "abstract": "Whether a booster dose of hepatitis B vaccine is necessary for adolescents remains controversial. We conducted a retrospective cohort study from the Immunization Information System and The National Notifiable Disease Reporting System to evaluate the impact of hepatitis B virus (HBV) vaccination programs (universal infant hepatitis B immunization and adolescent booster) on HBV infection. The vaccine effectiveness (VE) of hepatitis B vaccine is 64.43% (95% CI 57.78% - 71.08%) within 10 years of...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491184/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68243-w",
+    "scores": {
+      "research": 85,
+      "social": 88,
+      "blood": 75,
+      "recommendation": 87
+    },
+    "reason": "该研究基于大规模回顾性队列数据，为乙肝疫苗接种策略（尤其是青少年加强针必要性）提供了重要循证依据，对公共卫生决策具有直接参考价值，且乙肝病毒感染与部分血液系统疾病（如淋巴瘤、再生障碍性贫血等）相关，其结论对血液科临床实践有一定借鉴意义。"
+  },
+  {
+    "title": "Visualization and quantification of lattice strain in battery cathode particles through electron backscatter diffraction imaging",
+    "abstract": "Lattice strain critically affects electrochemical performance and durability of battery electrode materials. Here we report an electron-backscatter-diffraction-based imaging method to quantify lattice strain evolution and its spatial heterogeneity in two technologically important layered oxide cathodes (i.e. positive electrodes). Quantitative analysis is achieved by examining numerical distribution of the crystal misorientation data from thousands of positive electrode particles, which follows a...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491177/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68166-6",
+    "scores": {
+      "research": 85,
+      "social": 65,
+      "blood": 5,
+      "recommendation": 40
+    },
+    "reason": "该文章在材料表征方法学上具有显著创新性和严谨性，但研究内容与血液疾病无直接关联，仅当涉及材料微观应变分析的方法学思路时，对血液细胞力学研究可能有间接参考价值。"
+  },
+  {
+    "title": "VACmap: an accurate long-read aligner for unraveling complex genomic rearrangements",
+    "abstract": "Sequence alignment is essential for genomic research and clinical diagnostics, yet detecting complex rearrangements such as inversions, duplications, and gene conversions remains challenging due to allele complexity and limitations of current methods. We introduce VACmap, a non-linear mapping approach to enhance the detection and representation of all genetic variations. VACmap improves duplication detection from 20% to 90% in the Challenging Medically-Relevant Genes (CMRG) benchmark and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491162/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67096-7",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 80,
+      "recommendation": 82
+    },
+    "reason": "该研究提出的VACmap方法在复杂基因重排检测上实现重大突破，尤其对涉及基因重复、倒位等机制的血液遗传病与肿瘤的基因组分析具有直接参考价值。"
+  },
+  {
+    "title": "The visual system of the longest-living vertebrate, the Greenland shark",
+    "abstract": "The Greenland shark (Somniosus microcephalus) is the longest-living vertebrate and inhabits the exceptionally dim and cold waters of the Arctic deep sea. Due to its extreme lifespan, harsh environmental conditions, and prevalent corneal parasitisation, the Greenland shark has previously been thought to have impaired or degenerated vision. Here, we present genomic, transcriptomic, histological and functional evidence that the Greenland shark retains an intact visual system well-adapted for life...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491153/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67429-6",
+    "scores": {
+      "research": 82,
+      "social": 68,
+      "blood": 40,
+      "recommendation": 75
+    },
+    "reason": "该研究虽聚焦海洋生物学，但通过对极端长寿物种视觉系统的多组学与功能分析，为理解生物在严酷环境中的适应与衰老机制提供了独特视角，可间接启发血液疾病中细胞耐受性与衰老相关研究。"
+  },
+  {
+    "title": "Defining expansions and perturbations to the RNA polymerase III transcriptome and epitranscriptome by modified direct RNA nanopore sequencing",
+    "abstract": "RNA polymerase III (Pol III) transcribes cytosolic transfer RNAs (tRNAs) and other non-coding RNAs (ncRNAs) essential to cellular function. However, many aspects of Pol III transcription and processing, including RNA modifications, remain poorly understood, mainly due to a lack of available sensitive and systematic methods for their analysis. Here, we present DRAP3R (Direct Read and Analysis of Polymerase III transcribed RNAs), a modified nanopore direct RNA sequencing approach and analysis...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41490974/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68230-1",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 65,
+      "recommendation": 75
+    },
+    "reason": "该文章提出的DRAP3R技术是研究Pol III转录本方法的重大创新，其单分子长读长测序能力对揭示RNA修饰机制具有突破性意义，而RNA修饰异常与多种血液系统疾病（如骨髓增生异常综合征、白血病）的发生发展密切相关，因此该技术平台可为血液病研究提供重要的方法学借鉴。"
+  },
+  {
+    "title": "Measuring and locating the changes in protein structure using MELO",
+    "abstract": "Understanding the impact that subtle variations (missense mutation, environmental change, ion chelation, ligand binding, etc.) have on protein structure helps to reveal their biological effects, but remain extremely challenging due to the difficulty in measuring and locating the changes in protein structure. Herein, a method entitled MELO is therefore constructed, which enable a systematic measurement based on residues' geometric characteristics & relative distance and a high-throughput location...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41490886/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-68110-8",
+    "scores": {
+      "research": 85,
+      "social": 40,
+      "blood": 75,
+      "recommendation": 80
+    },
+    "reason": "该文章提出的MELO方法在检测蛋白质细微结构变化方面具有创新性和高通量优势，对于研究血液疾病相关蛋白（如血红蛋白病、凝血因子突变等）的分子机制具有较高的借鉴价值。"
+  },
+  {
+    "title": "Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma (GINECO window-of-opportunity COLIBRI study): a phase II trial",
+    "abstract": "Combining immunotherapy with chemoradiation is effective in locally advanced cervical cancer. However, the impact of induction combination immunotherapy on immune modulation and treatment response is poorly understood. In this phase II trial (NCT04256213), 40 females with locally advanced cervical carcinoma received one cycle of nivolumab-plus-ipilimumab immunotherapy before standard chemoradiation, followed by maintenance nivolumab. We show, using multiplex-immunofluorescence tissue imaging, a...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41490885/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260107215719&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41467-025-67646-z",
+    "scores": {
+      "research": 75,
+      "social": 65,
+      "blood": 20,
+      "recommendation": 70
+    },
+    "reason": "该研究展示了免疫联合疗法在局部晚期宫颈癌中的前沿探索，其免疫调节机制的分析为肿瘤免疫治疗策略提供了可借鉴的思路，尤其对涉及免疫微环境调控的血液肿瘤研究有一定参考价值。"
+  },
+  {
+    "title": "The Nicotinamide Salvage Pathway is a Metabolic Vulnerability of High-Risk MDS Stem Cells",
+    "abstract": "High-risk myelodysplastic syndrome (HR-MDS) is a malignant clonal disorder originating in hematopoietic stem and progenitor cells (HSPCs). The current standard of care for HR-MDS patients is hypomethylating agents; however, the response rate is poor. There is thus a need to explore vulnerabilities of HR-MDS HSPCs for better clinical outcomes. We demonstrate that HR-MDS HSPCs have significant upregulation of metabolic proteins required for glycolysis, citric acid cycle, and oxidative...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41497578/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=141xSAKGBJdCvJB6Wbndmor_9zTRe_44GGhIvuxDo2QeLIyEuP&fc=20241228223119&ff=20260107215726&v=2.18.0.post22+67771e2",
+    "doi": "10.64898/2025.12.19.695528",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 95,
+      "recommendation": 88
+    },
+    "reason": "该研究聚焦高危骨髓增生异常综合征的代谢脆弱性，为克服当前去甲基化药物疗效不足提供了创新方向，对血液肿瘤的机制研究与临床治疗具有重要借鉴价值。"
+  },
+  {
+    "title": "Human Progenitor T-Cell Differentiation Regulated by the Mechanical Resistance of Thymus-Mimetic Extracellular Matrices",
+    "abstract": "T-cell-based immunotherapies have revolutionized cancer treatment, yet their reliance on patient-derived T-cells limits scalability and accessibility. Engineering functional T-cells de novo from human hematopoietic stem cells (HSCs) represents a promising alternative toward a renewable and customizable source of therapeutic lymphocytes. Successful HSC-derived T-cell generation requires recapitulation of key signaling and adhesion cues of the thymic microenvironment, particularly Notch1-DLL-4 and...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41486735/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=18SX-0JF_oBzJlA0evHJKTfQiTQS8vBC8lgok7ltOXcWVRWAll&fc=20241228223533&ff=20260107215733&v=2.18.0.post22+67771e2",
+    "doi": "10.1002/adhm.202504316",
+    "scores": {
+      "research": 82,
+      "social": 76,
+      "blood": 88,
+      "recommendation": 85
+    },
+    "reason": "该研究提出从造血干细胞体外从头工程化生成功能性T细胞的新策略，不仅为肿瘤免疫治疗提供了可规模化、可定制化的细胞来源，而且对理解胸腺微环境信号（如Notch-DLL4）在淋巴细胞发育中的作用具有重要借鉴价值，是血液学与免疫治疗交叉领域的前沿探索。"
+  },
+  {
+    "title": "Hepatic GPR110 contributes to sex disparity in the development of MASH through oestrogen receptor α-dependent signalling",
+    "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is an important phase in the progression of metabolic dysfunction-associated steatotic liver disease to end-stage liver diseases, posing an increasing threat to public health worldwide with limited treatment options. Here we show that GPR110 is a liver-selective G-protein-coupled receptor closely associated with MASH in a sex-specific manner. Hepatocyte-specific Gpr110 knockout protects against MASH in female, but not male mice. The GPR110...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491303/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101736592&fc=None&ff=20260107215737&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s42255-025-01436-1",
+    "scores": {
+      "research": 85,
+      "social": 70,
+      "blood": 40,
+      "recommendation": 75
+    },
+    "reason": "该研究揭示了GPR110在代谢相关脂肪性肝炎中的性别特异性调控机制，其肝脏选择性受体靶点及代谢通路的研究思路对血液系统疾病（如骨髓代谢异常、血细胞生成调控）具有潜在借鉴价值。"
+  },
+  {
+    "title": "Isocitrate dehydrogenase 1 mutations drive downregulation of IL1R1 and dysregulated inflammatory response in acute myeloid leukemia",
+    "abstract": "No abstract",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495035/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101568469&fc=None&ff=20260107215741&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41408-025-01445-z",
+    "scores": {
+      "research": 50,
+      "social": 50,
+      "blood": 50,
+      "recommendation": 50
+    },
+    "reason": "由于未提供摘要，无法评估文章的具体内容与价值，建议补充摘要信息以便进行准确评价。"
+  },
+  {
+    "title": "Contextualizing T<sub>H</sub>17 cells in cancer",
+    "abstract": "The immune system has evolved intricate and sophisticated mechanisms to recognize and eliminate tumours. Among these, T helper 17 (T(H)17) cells seem to have a complex role in tumour immunity. Substantial evidence indicates that T(H)17 cells can impair the ability of immune cells to kill tumours, but growing research suggests that T(H)17 cells may also be crucial for facilitating effective antitumour immune responses. This apparent paradox is likely rooted, at least in part, in the remarkable...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41495217/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101124169&fc=None&ff=20260107215744&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41577-025-01250-6",
+    "scores": {
+      "research": 78,
+      "social": 65,
+      "blood": 70,
+      "recommendation": 72
+    },
+    "reason": "该综述深入探讨了T(H)17细胞在肿瘤免疫中的双重作用，其机制解析对血液肿瘤（如淋巴瘤、白血病）的免疫治疗研究具有直接借鉴价值，有助于理解免疫微环境的复杂调控。"
+  },
+  {
+    "title": "Ubiquitination and autophagy in host-pathogen interactions: from immune surveillance to therapeutic targeting",
+    "abstract": "Ubiquitination, the covalent attachment of ubiquitin to proteins and other cellular substrates, is a dynamic post-translational modification that enables cells to rapidly respond to internal and external threats. Beyond its canonical role in targeting proteins for proteasomal degradation, ubiquitination orchestrates the assembly of signalling complexes that regulate innate and adaptive immune responses, modulates inflammatory pathways and directs selective autophagy to eliminate intracellular...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41491841/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101124169&fc=None&ff=20260107215744&v=2.18.0.post22+67771e2",
+    "doi": "10.1038/s41577-025-01239-1",
+    "scores": {
+      "research": 85,
+      "social": 60,
+      "blood": 80,
+      "recommendation": 85
+    },
+    "reason": "该文章系统阐述了泛素化在免疫调控中的核心机制，对理解血液系统免疫相关疾病（如自身免疫性血细胞减少、白血病免疫逃逸等）的病理机制具有重要借鉴价值。"
   }
 ]
