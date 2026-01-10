@@ -1,0 +1,1177 @@
+#import "../../../config.typ": template, tufted
+#show: template.with(title: "追觅 - 2026-01-10")
+
+= 追觅 - 2026-01-10
+
+生成时间: #2026-01-10 22:39
+
+分析文章数量: #73
+
+
+== #1. When heme is low, copper kills cancer
+
+- **研究分数**: #95
+- **社会影响**: #70
+- **血液相关性**: #100
+- **推荐度**: #90
+- **DOI**: #10.1016/j.cell.2025.12.010
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512845/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究首次揭示了血红素通过破坏呼吸链复合物IV释放铜离子、从而诱导急性髓系白血病细胞发生铜死亡的新机制，为血液肿瘤治疗提供了全新的潜在靶点和策略。
+
+摘要: Heme carries oxygen and is critical for the control of redox reactions. In this issue of Cell, Lewis and Gruber et al. demonstrate how low concentrations of heme destabilize complex IV of the respiratory chain to release copper and kill acute myeloid leukemia cells by cuproptosis.
+
+---
+
+
+== #2. When heme is low, copper kills cancer
+
+- **研究分数**: #88
+- **社会影响**: #65
+- **血液相关性**: #95
+- **推荐度**: #90
+- **DOI**: #10.1016/j.cell.2025.12.010
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512845/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260110172311&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究创新性地揭示了低浓度血红素通过诱导铜死亡清除急性髓系白血病细胞的机制，为血液肿瘤治疗提供了新的潜在靶点与思路。
+
+摘要: Heme carries oxygen and is critical for the control of redox reactions. In this issue of Cell, Lewis and Gruber et al. demonstrate how low concentrations of heme destabilize complex IV of the respiratory chain to release copper and kill acute myeloid leukemia cells by cuproptosis.
+
+---
+
+
+== #3. Next-Generation JAK Inhibitors in the Treatment of Myeloproliferative Neoplasms
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #95
+- **推荐度**: #90
+- **DOI**: #10.1182/blood.2025028645
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511882/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=7603509&fc=None&ff=20260110172311&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章系统阐述了JAK抑制剂从经典作用机制到新型伪激酶域靶向治疗的演进，对骨髓增殖性肿瘤等血液疾病的精准治疗具有前沿的借鉴价值，适合血液科研究者跟进最新药物研发方向。
+
+摘要: JAK inhibitors have changed the treatment landscape of myeloproliferative neoplasms, graft-versus host and several autoimmune conditions. While approved JAK inhibitors generally target the JAK2 kinase domain, and several also the JAK1 kinase domain in active form \(type I inhibition\), new inhibitors have progressed to clinical trials that either exhibit a type II mechanism of inhibition of the kinase domain in an inactive state or that target the pseudokinase domain with potential preference or...
+
+---
+
+
+== #4. B cells disrupt tertiary lymphoid structure formation and suppress anti-tumor immunity
+
+- **研究分数**: #90
+- **社会影响**: #70
+- **血液相关性**: #85
+- **推荐度**: #88
+- **DOI**: #10.1016/j.ccell.2025.12.011
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512868/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101130617&fc=None&ff=20260110172225&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究首次在膀胱癌中发现IGLL5+ B细胞亚群并阐明其通过破坏三级淋巴结构削弱免疫治疗的机制，为血液肿瘤领域理解B细胞介导的免疫调节提供了新的可借鉴视角。
+
+摘要: Tertiary lymphoid structures \(TLSs\) promote antigen-specific anti-tumor immunity, but the regulators of TLSs homeostasis in cancer remain unclear. Using single-cell RNA-sequencing and spatial transcriptomics, we identify an IGLL5^\(+\) B cell subset in bladder cancer \(BCa\). In genetically engineered and humanized mouse models, these IGLL5^\(+\) B cells disrupt TLS's integrity and impair immunotherapy responses. Mechanistically, IGLL5^\(+\) B cells bind high endothelial venules \(HEVs\) via IGLL5-LTβR...
+
+---
+
+
+== #5. K5 polysaccharides inhibit SARS-CoV-2 infection by preventing spike-proteolytic priming
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #90
+- **推荐度**: #88
+- **DOI**: #10.1038/s44298-025-00163-4
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513808/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过改造K5多糖避免肝素的抗凝血副作用，为抗病毒药物研发提供了新思路，同时其机制研究对血液科抗凝药物的优化具有直接借鉴价值。
+
+摘要: SARS-CoV-2 spike glycoprotein is a promising drug target due to its crucial role in viral infection. Heparin, a long linear polysaccharide that inhibits SARS-CoV-2 infection by acting on spike, has limited antiviral applications due to its anticoagulant effect. E. coli K5 polysaccharides share the same structure as the heparin precursor and can be chemically modified to be devoid of anticoagulant activity. Here, biochemical assays and computer simulations reveal that K5 with high degree of...
+
+---
+
+
+== #6. Next steps in regulatory T cells: Biology and clinical application
+
+- **研究分数**: #85
+- **社会影响**: #80
+- **血液相关性**: #90
+- **推荐度**: #88
+- **DOI**: #10.1016/j.cell.2025.11.035
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512846/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260110172311&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章系统总结了调节性T细胞（Treg）作为“活体药物”的最新生物学进展与临床转化前景，对于研究自身免疫性血液疾病及移植相关免疫调控具有直接借鉴价值。
+
+摘要: Recent advances in regulatory T cell \(Treg\) biology and clinical application of Treg-based treatments show promise as a new generation of transforming therapeutics for immune-related disorders, positioning Tregs as a "living drug" to rebuild immune tolerance and repair damaged tissues simultaneously. This perspective summarizes the key knowledge on Treg biology and highlights the recent important discoveries in the development of clinical applications based on Treg biology, from low-dose...
+
+---
+
+
+== #7. Next-Generation JAK Inhibitors in the Treatment of Myeloproliferative Neoplasms
+
+- **研究分数**: #85
+- **社会影响**: #80
+- **血液相关性**: #90
+- **推荐度**: #85
+- **DOI**: #10.1182/blood.2025028645
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511882/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=7603509&fc=None&ff=20260110172232&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该摘要清晰地勾勒了JAK抑制剂从经典Type I到新型Type II及靶向假激酶域的发展脉络，其揭示的新机制对于解决现有JAK抑制剂的临床耐药性问题具有重要潜力，是血液肿瘤靶向治疗领域非常值得关注的前沿进展。
+
+摘要: JAK inhibitors have changed the treatment landscape of myeloproliferative neoplasms, graft-versus host and several autoimmune conditions. While approved JAK inhibitors generally target the JAK2 kinase domain, and several also the JAK1 kinase domain in active form \(type I inhibition\), new inhibitors have progressed to clinical trials that either exhibit a type II mechanism of inhibition of the kinase domain in an inactive state or that target the pseudokinase domain with potential preference or...
+
+---
+
+
+== #8. Gastrin for the treatment of acute graft-versus-host disease of the stomach
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #95
+- **推荐度**: #85
+- **DOI**: #10.1182/blood.2025031080
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511880/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=7603509&fc=None&ff=20260110172232&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究聚焦于移植物抗宿主病（aGVHD）这一造血干细胞移植后的致命并发症，探索胃泌素这一新型治疗靶点，不仅机制上有创新性，且对临床难治性aGVHD的治疗具有直接借鉴价值。
+
+摘要: Acute graft-versus-host disease \(aGVHD\) is a major cause of death after allogeneic hematopoietic cell transplantation \(allo-HCT\) and patients with steroid-refractory aGVHD have a dismal prognosis. We have previously shown that the enteroendocrine hormone glucagon-like peptide-2 \(GLP-2\) has tissue regenerative activity in the lower GI in mice and patients with steroid-refractory aGVHD. Here we explored the tissue protective effect of the enteroendocrine hormone gastrin for aGVHD of the stomach....
+
+---
+
+
+== #9. 15-Day Duration of Venetoclax Combined with Azacitidine in Treatment-Naive Higher-Risk Myelodysplastic Syndromes: A Prospective Multicenter Study
+
+- **研究分数**: #82
+- **社会影响**: #75
+- **血液相关性**: #90
+- **推荐度**: #85
+- **DOI**: #10.3390/cancers18010159
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41514667/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1LceN0X8SIz5d5VGIrXTxJan8-MaKjf5-W_QkNaF2iDLJ3CodJ&fc=20241228221303&ff=20260110172300&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究针对高危骨髓增生异常综合征提出了维奈克拉联合阿扎胞苷的15天新方案，疗效显著且毒性可控，尤其为伴有高危因素或适合移植的患者提供了重要的治疗参考，对血液科临床实践具有直接借鉴价值。
+
+摘要: CONCLUSIONS: The 15-day venetoclax plus azacitidine regimen demonstrated high efficacy and manageable toxicity in treatment-naïve HR-MDS. It may be particularly beneficial for patients with high neutrophil counts, adverse cytogenetics, or those eligible for HSCT, supporting further investigation in larger trials.
+
+---
+
+
+== #10. ΔNp73 isoform defines a TP53-mutant-like poor-risk subgroup of acute myeloid leukemia
+
+- **研究分数**: #88
+- **社会影响**: #65
+- **血液相关性**: #92
+- **推荐度**: #85
+- **DOI**: #10.1016/j.xcrm.2025.102540
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512877/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1LceN0X8SIz5d5VGIrXTxJan8-MaKjf5-W_QkNaF2iDLJ3CodJ&fc=20241228221303&ff=20260110172300&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过多组学方法揭示了AML耐药亚群中ΔNp73高表达的关键机制，为克服临床治疗困境提供了新的潜在靶点，对血液肿瘤领域具有重要转化价值。
+
+摘要: Among acute myeloid leukemia \(AML\) patients, a subgroup remains notoriously refractory to current treatment options, with underlying mechanisms poorly understood. Here, using a multi-omics approach, we reveal that this resistant patient subgroup is characterized by high expression of the oncogenic TP73 isoform ΔNp73, exhibiting similarly poor outcomes as TP53-mutant AML. ΔNp73, which lacks a transcriptional activation domain but retains chromatin-binding properties, competes with TP53 for...
+
+---
+
+
+== #11. Hepatocyte BPGM Induces RET Lactylation and Macrophage Reprogramming to Promote Tumorigenesis in Hepatocellular Carcinoma
+
+- **研究分数**: #90
+- **社会影响**: #70
+- **血液相关性**: #85
+- **推荐度**: #85
+- **DOI**: #10.1002/advs.202518180
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41514495/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260110172306&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究创新性地揭示了糖酵解酶BPGM在肝细胞癌进展中的关键作用，并运用空间转录组学、单细胞测序等前沿技术，其代谢调控机制对血液肿瘤（如白血病能量代谢异常）研究具有直接借鉴价值。
+
+摘要: Aerobic glycolysis is a hallmark of cancer, yet the role of the key glycolytic enzyme bisphosphoglycerate mutase \(BPGM\) in hepatocellular carcinoma \(HCC\) progression remains unclear. Here, clinical sample analyses revealed that BPGM expression was upregulated in HCC tissues and associated with poor prognosis. Hepatocyte-specific Bpgm knockout significantly attenuated DEN-induced HCC development in mice. Spatial transcriptomics and single-cell RNA sequencing revealed that hepatocyte-specific Bpgm...
+
+---
+
+
+== #12. Neurovascular and metabolic dysfunction with cell type-specific transcriptomic changes in presymptomatic 5XFAD mice
+
+- **研究分数**: #85
+- **社会影响**: #80
+- **血液相关性**: #60
+- **推荐度**: #85
+- **DOI**: #10.1186/s12987-025-00756-4
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41508058/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260110172306&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过揭示阿尔茨海默病早期血脑屏障功能障碍与脑代谢异常的机制，为神经退行性疾病的早期诊断提供了新型MRI生物标志物，对脑血管病及脑小血管病等血液相关神经病变具有间接参考价值。
+
+摘要: CONCLUSIONS: Our study demonstrates that BBB dysfunction and cerebral metabolic abnormalities emerge prior to brain hypoperfusion and cognitive decline in AD, underscoring their involvement in early disease mechanisms. These results identify molecular pathways and MRI-detectable biomarkers with potential utility for early diagnosis and therapeutic targeting in preclinical AD.
+
+---
+
+
+== #13. Gastrin for the treatment of acute graft-versus-host disease of the stomach
+
+- **研究分数**: #82
+- **社会影响**: #65
+- **血液相关性**: #90
+- **推荐度**: #85
+- **DOI**: #10.1182/blood.2025031080
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511880/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=7603509&fc=None&ff=20260110172311&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究探索胃泌素对aGVHD胃部损伤的保护作用，为激素难治性aGVHD提供了新的潜在治疗靶点，对血液科移植并发症的机制研究与临床干预具有直接借鉴价值。
+
+摘要: Acute graft-versus-host disease \(aGVHD\) is a major cause of death after allogeneic hematopoietic cell transplantation \(allo-HCT\) and patients with steroid-refractory aGVHD have a dismal prognosis. We have previously shown that the enteroendocrine hormone glucagon-like peptide-2 \(GLP-2\) has tissue regenerative activity in the lower GI in mice and patients with steroid-refractory aGVHD. Here we explored the tissue protective effect of the enteroendocrine hormone gastrin for aGVHD of the stomach....
+
+---
+
+
+== #14. Hepatocyte BPGM Induces RET Lactylation and Macrophage Reprogramming to Promote Tumorigenesis in Hepatocellular Carcinoma
+
+- **研究分数**: #88
+- **社会影响**: #75
+- **血液相关性**: #90
+- **推荐度**: #85
+- **DOI**: #10.1002/advs.202518180
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41514495/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260110172312&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究创新性地将红细胞关键酶BPGM与肿瘤代谢及进展相关联，其多组学方法揭示的机制对研究血液系统疾病（如代谢异常相关血液肿瘤）具有重要借鉴价值。
+
+摘要: Aerobic glycolysis is a hallmark of cancer, yet the role of the key glycolytic enzyme bisphosphoglycerate mutase \(BPGM\) in hepatocellular carcinoma \(HCC\) progression remains unclear. Here, clinical sample analyses revealed that BPGM expression was upregulated in HCC tissues and associated with poor prognosis. Hepatocyte-specific Bpgm knockout significantly attenuated DEN-induced HCC development in mice. Spatial transcriptomics and single-cell RNA sequencing revealed that hepatocyte-specific Bpgm...
+
+---
+
+
+== #15. Endothelial IRE1α promotes thrombospondin-1 mRNA decay and supports metabolic stress adaptation of pancreatic islets
+
+- **研究分数**: #82
+- **社会影响**: #65
+- **血液相关性**: #88
+- **推荐度**: #85
+- **DOI**: #10.1038/s41467-025-68276-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513664/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究深入揭示了血管内皮细胞中IRE1α在代谢应激下的关键调节作用，为理解血液系统疾病（如糖尿病相关血管病变、血栓形成等）中内皮功能障碍的分子机制提供了重要借鉴。
+
+摘要: Vascular endothelial cells \(ECs\) play pivotal roles in maintaining metabolic tissue homeostasis, and EC dysfunction is associated with obesity and metabolic disorders. The mammalian ER stress sensor IRE1α kinase/RNase responds to metabolic cues, but it remains unclear whether endothelial IRE1α is implicated in controlling systemic metabolism. Here we show that genetic depletion of IRE1α in ECs leads to maladaptation of pancreatic islets under obesity-associated metabolic stress. We find that in...
+
+---
+
+
+== #16. Artificial thymic organoid culture generates functional iPSC-derived CD4+ invariant natural killer T cells
+
+- **研究分数**: #82
+- **社会影响**: #85
+- **血液相关性**: #88
+- **推荐度**: #84
+- **DOI**: #10.1038/s42003-025-09462-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513935/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1F9sM2NQANFpLi9OvnfRdYHheZqf8DLnVYHStxgo7gFww4osJ6&fc=20241228222515&ff=20260110172257&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章聚焦iNKT细胞在抗肿瘤免疫中的作用机制，对血液系统恶性肿瘤的免疫治疗研究具有直接的借鉴价值，尤其为细胞疗法开发提供了重要思路。
+
+摘要: Invariant NKT \(iNKT\) cells have a T-cell receptor that is common to all individuals and are activated by recognizing glycolipids on MHC class I-like CD1d molecules. Activated iNKT cells are known to exert anti-tumor effects through the activation of other immune cells and have attracted attention as promising T cells for eliciting anti-tumor immunity. However, securing a sufficient number of iNKT cells is an obstacle to treatment because iNKT cells are a very small cell population, less than...
+
+---
+
+
+== #17. Ubiquitination-directed cytosolic DNA degradation governs cGAS-STING-mediated immune response to DNA damage
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #80
+- **推荐度**: #82
+- **DOI**: #10.1016/j.ccell.2025.12.013
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512867/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101130617&fc=None&ff=20260110172225&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究揭示了DNA损伤后cGAS-STING信号激活的关键调控机制，为改善血液肿瘤免疫治疗提供了新的潜在靶点，对血液病研究具有重要借鉴意义。
+
+摘要: Activation of cGAS-STING signaling in cancer cells requires cytosolic DNA produced by intrinsic or treatment-induced DNA damage. However, clinical efforts to exploit this pathway to improve immunotherapy have yielded limited success, highlighting gaps in understanding the link between DNA damage and immunotherapy. Here, we identify ubiquitination-directed cytosolic DNA degradation as a critical determinant for cGAS-STING activation following DNA damage. Mechanistically, the cytosolic DNA...
+
+---
+
+
+== #18. sCellST predicts single-cell gene expression from H&amp; E images
+
+- **研究分数**: #85
+- **社会影响**: #65
+- **血液相关性**: #80
+- **推荐度**: #82
+- **DOI**: #10.1038/s41467-025-67965-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513659/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究提出从组织学图像预测基因表达的前沿方法，创新性地结合形态学与分子信息，对血液肿瘤的病理机制研究与精准诊断具有直接借鉴价值。
+
+摘要: Understanding the spatial organization of individual cell types within tissue and how this organization is disrupted in disease, is a central question in biology and medicine. Hematoxylin and eosin-stained slides are widely available and provide detailed morphological context, while spatial gene expression profiling offers complementary molecular insights, though it remains costly and limited in accessibility. Predicting gene expression directly from histological images is therefore an...
+
+---
+
+
+== #19. The ADAPT learning cancer treatment system: ARPA-H's initiative to revolutionize cancer therapy
+
+- **研究分数**: #85
+- **社会影响**: #90
+- **血液相关性**: #75
+- **推荐度**: #80
+- **DOI**: #10.1016/j.ccell.2025.12.008
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512871/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101130617&fc=None&ff=20260110172225&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章提出的实时监测肿瘤演化并动态调整治疗的框架，对血液系统恶性肿瘤（如白血病、淋巴瘤）的耐药机制研究和个体化治疗具有重要借鉴意义，尤其适用于监测克隆演化和靶向治疗策略优化。
+
+摘要: ADAPT is a nationwide initiative to transform cancer care by detecting and responding to tumor evolution in real time. Integrating multimodal data, interpretable AI, and an evolutionary clinical trial platform, ADAPT predicts emerging resistance traits and guides treatment adjustments as tumors change. A unified national infrastructure enables continuous learning across patients, linking discovery directly to care. By making therapy responsive to tumor changes, ADAPT delivers a scalable model...
+
+---
+
+
+== #20. Framework for cancer evolution profiling and interception in colorectal cancer: ASCEND-CRC program
+
+- **研究分数**: #85
+- **社会影响**: #80
+- **血液相关性**: #70
+- **推荐度**: #80
+- **DOI**: #10.1016/j.ccell.2025.12.016
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512869/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101130617&fc=None&ff=20260110172225&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章提出的实时监测肿瘤演化的ADAPT计划具有前瞻性，其生物标志物发现策略对血液肿瘤的动态治疗与耐药机制研究有重要借鉴价值。
+
+摘要: Cancer evolution is a complex and dynamic process, yet most treatment strategies remain static. Infrequent tumor sampling has limited our ability to counteract the transient adaptive states that precede resistance. To address this gap, ARPA-H launched the ADAPT program, an initiative aimed at transforming cancer care by aligning therapies with real-time tumor evolution. Within this framework, the ASCEND-CRC trial aims to uncover early adaptive mechanisms and identify biomarkers to guide...
+
+---
+
+
+== #21. What happens to population health when the doctors leave? Evidence from the exit of Cuban doctors in Brazil
+
+- **研究分数**: #90
+- **社会影响**: #85
+- **血液相关性**: #60
+- **推荐度**: #80
+- **DOI**: #10.1016/j.jhealeco.2025.103099
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512668/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究采用严谨的准实验方法，揭示了医疗人力资源冲击对卫生系统的长期因果效应，其研究范式与发现对公共卫生政策制定具有重要借鉴意义。
+
+摘要: This paper studies the effects of a large-scale exit of doctors on population health outcomes, health production inputs, outputs, and health system adaptation in Brazil. Identification exploits the exogenous timing of the Cuban exit from municipalities that relied more versus less on Cuban doctors within the More Doctors Program. We find persistent reductions in the care of chronic diseases, while service utilization for conditions requiring immediate care, such as maternal-related services and...
+
+---
+
+
+== #22. Neurovascular and metabolic dysfunction with cell type-specific transcriptomic changes in presymptomatic 5XFAD mice
+
+- **研究分数**: #85
+- **社会影响**: #75
+- **血液相关性**: #50
+- **推荐度**: #80
+- **DOI**: #10.1186/s12987-025-00756-4
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41508058/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260110172312&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过揭示血脑屏障功能障碍在阿尔茨海默病早期病理机制中的关键作用，为早期诊断提供了潜在的影像学生物标志物，对神经血管疾病研究具有重要借鉴意义。
+
+摘要: CONCLUSIONS: Our study demonstrates that BBB dysfunction and cerebral metabolic abnormalities emerge prior to brain hypoperfusion and cognitive decline in AD, underscoring their involvement in early disease mechanisms. These results identify molecular pathways and MRI-detectable biomarkers with potential utility for early diagnosis and therapeutic targeting in preclinical AD.
+
+---
+
+
+== #23. Timely bespoke phage-antibiotic combination to treat refractory Pseudomonas aeruginosa mediastinitis and vascular graft infection
+
+- **研究分数**: #78
+- **社会影响**: #65
+- **血液相关性**: #85
+- **推荐度**: #80
+- **DOI**: #10.1038/s41467-025-68136-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513696/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章系统性地展示了噬菌体疗法治疗耐药性血管移植物感染的创新案例，对血液科处理生物膜相关血流感染及植入物感染具有直接参考价值。
+
+摘要: Biofilm-related vascular graft infections \(VGIs\) pose major therapeutic challenges due to persistent, antibiotic-resistant bacteria often residing in retained grafts. Phage therapy offers a promising alternative treatment strategy against biofilm-associated infections, though its use remains mostly ad hoc and typically considered a last-resort intervention. We report here the treatment of a refractory, fluoroquinolone non-susceptible Pseudomonas aeruginosa VGI using a systematically planned and...
+
+---
+
+
+== #24. Hepatokine fibrinogen-like protein 1 drives liver-kidney crosstalk to promote renal fibrosis
+
+- **研究分数**: #85
+- **社会影响**: #60
+- **血液相关性**: #70
+- **推荐度**: #80
+- **DOI**: #10.1038/s41467-025-68188-0
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513654/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究从器官互作角度阐明FGL1在肝-肾轴中的调控机制，为系统性疾病的分子机理提供了新视角，对血液系统相关纤维化或炎症研究具有跨学科借鉴价值。
+
+摘要: The concept of organ-organ communication in systemic diseases has gained significant traction. Despite accumulating evidence of liver-kidney crosstalk, the underlying regulatory mechanisms remain poorly understood. Here, we identify hepatokine fibrinogen-like protein 1 \(FGL1\) as a pivotal mediator driving liver-kidney communication in renal fibrosis. Integrative RNA sequencing and clinical analyses revealed FGL1 upregulation in the liver post-renal injury, with subsequent selective accumulation...
+
+---
+
+
+== #25. Endometrial stromal cell-derived TMAO sustains decidualization to prevent recurrent spontaneous abortion
+
+- **研究分数**: #82
+- **社会影响**: #68
+- **血液相关性**: #65
+- **推荐度**: #78
+- **DOI**: #10.1016/j.cmet.2025.11.014
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512878/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101233170&fc=None&ff=20260110172318&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究首次揭示子宫内膜局部TMAO代谢在妊娠维持中的作用机制，为复发性流产提供了新的代谢干预靶点，其cAMP-PKA-CREB1
+
+摘要: Recurrent spontaneous abortion \(RSA\), often linked to defective endometrial stromal cell \(ESC\) decidualization, lacks effective metabolism-targeted therapies. Here, we identify the in situ synthesis of trimethylamine N-oxide \(TMAO\) in human decidua as a critical safeguard. Metabolomics revealed significantly lower TMAO levels in decidual tissues of individuals experiencing RSA. Mechanistically, cyclic AMP \(cAMP\)-protein kinase A \(PKA\)-cAMP-responsive element-binding protein 1 \(CREB1\) signaling...
+
+---
+
+
+== #26. Left Bundle Branch Area Pacing in Transthyretin Cardiac Amyloidosis: A Narrative Review
+
+- **研究分数**: #68
+- **社会影响**: #45
+- **血液相关性**: #85
+- **推荐度**: #75
+- **DOI**: #10.3390/jcm15010305
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41517554/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章聚焦转甲状腺素蛋白淀粉样变性心肌病（ATTR-CM）这一与血液系统密切相关的疾病，系统综述了左束支区域起搏的应用进展，对血液科医生理解全身性淀粉样变性的心脏管理具有直接参考价值。
+
+摘要: Background/Objectives: Transthyretin cardiomyopathy \(ATTR-CM\) is frequently associated with conduction disease requiring pacing. Conventional right ventricular pacing may worsen cardiac function, whereas left bundle branch area pacing \(LBBAP\) aims to preserve physiological activation. Evidence for LBBAP in ATTR-CM remains limited. Methods: A structured narrative review of PubMed and Google Scholar was performed through November 2025 using predefined terms related to LBBAP and ATTR-CM....
+
+---
+
+
+== #27. Dietary Patterns Are Associated with Blood Cell Profiles and the Molecular Composition of Platelet-Rich Plasma
+
+- **研究分数**: #65
+- **社会影响**: #50
+- **血液相关性**: #80
+- **推荐度**: #75
+- **DOI**: #10.3390/nu18010163
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41515279/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究揭示了饮食模式与LP-PRP中IL-6等分子成分的关联，为探索营养干预在血液疾病防治中的作用提供了新视角，对血液学研究具有明确的借鉴意义。
+
+摘要: CONCLUSIONS: Dietary patterns were associated with selected molecular components of LP-PRP-most consistently IL-6-while cell counts remain largely unchanged. However, interventional studies are needed to establish causality and determine whether dietary modification can influence clinical outcomes.
+
+---
+
+
+== #28. Nutritional care using oral nutritional supplements: 22 questions every clinician Asks-Answered by global experts in a Delphi consensus study
+
+- **研究分数**: #85
+- **社会影响**: #80
+- **血液相关性**: #65
+- **推荐度**: #75
+- **DOI**: #10.1016/j.clnu.2025.106552
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512636/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章虽非直接针对血液疾病，但其关于口服营养补充剂的标准化建议对血液肿瘤、贫血等营养不良高风险的血液病患者管理具有重要临床借鉴价值，有助于优化支持性治疗策略。
+
+摘要: CONCLUSIONS: This study delivers the first internationally validated, expert-informed recommendations on ONS use, providing a standardized and adaptable framework for global implementation. Familiarity with and application of these recommendations in clinical practice should lead to improved nutritional care, better adherence, enhanced patient outcomes, and more efficient, person-centered use of ONS across several healthcare settings.
+
+---
+
+
+== #29. How lipid composition shapes the nanostructural interaction of tumor biomarker alpha-fetoprotein and bovine serum albumin with model membranes
+
+- **研究分数**: #85
+- **社会影响**: #40
+- **血液相关性**: #65
+- **推荐度**: #75
+- **DOI**: #10.1016/j.jcis.2025.139753
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512529/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究采用前沿生物物理技术系统解析蛋白质与细胞膜的相互作用机制，为血液肿瘤标志物AFP的生物学功能及细胞膜相关血液疾病研究提供了创新的方法学参考。
+
+摘要: This study systematically investigated the interactions of the tumor biomarker alpha-fetoprotein \(AFP\) and bovine serum albumin \(BSA\) with planar lipid membranes using neutron reflectometry, quartz crystal microbalance with dissipation monitoring, and atomistic molecular dynamics simulations. By examining a range of lipid compositions-including charged, neutral, and nanodomain-containing bilayers-we dissected the molecular mechanisms governing protein-membrane interactions. AFP consistently...
+
+---
+
+
+== #30. Impact of renin-angiotensin system inhibitors on the clinical outcomes of nivolumab therapy in metastatic non-small cell lung cancer
+
+- **研究分数**: #85
+- **社会影响**: #80
+- **血液相关性**: #40
+- **推荐度**: #75
+- **DOI**: #10.1080/14737140.2026.2615853
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511755/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究基于真实世界数据，创新性地提出RAS抑制剂与免疫疗法联用可提升晚期肺癌疗效，其多中心设计增强了结论的可靠性，对探索肿瘤免疫联合治疗方案具有重要参考价值。
+
+摘要: CONCLUSIONS: In this multicenter real-world study of patients with mNSCLC receiving second-line nivolumab, concomitant use of RASIs was associated with PFS and OS. The integration of RAS blockade into immunotherapy regimens could represent a promising strategy to enhance treatment efficacy.
+
+---
+
+
+== #31. Downregulation of NFIA facilitates glycolysis, histone lactylation, and activation of the FN1-integrin alpha5beta1 pathway in pancreatic cancer
+
+- **研究分数**: #85
+- **社会影响**: #65
+- **血液相关性**: #10
+- **推荐度**: #75
+- **DOI**: #10.1007/s10495-025-02218-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511661/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260110172306&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究明确了NFIA作为胰腺癌新型抑癌基因的功能与机制，为肿瘤代谢与微环境交互研究提供了重要参考，虽与血液疾病直接关联较弱，但其研究思路与方法对血液肿瘤领域有潜在借鉴意义。
+
+摘要: Pancreatic cancer \(PC\) is a lethal malignancy with limited therapeutic options, characterized by tumor suppressor loss and metabolic-stromal crosstalk. This study aimed to introduce nuclear factor I A \(NFIA\) as a key tumor suppressor whose downregulation in PC was correlated with advanced tumor stages and poor prognosis. Functionally, NFIA overexpression suppressed PC cell proliferation, migration, and invasion, whereas NFIA silencing exacerbated these malignant phenotypes. Mechanistically, NFIA...
+
+---
+
+
+== #32. Structure of the lysosomal KICSTOR-GATOR1-SAMTOR nutrient-sensing supercomplex
+
+- **研究分数**: #85
+- **社会影响**: #30
+- **血液相关性**: #65
+- **推荐度**: #75
+- **DOI**: #10.1016/j.cell.2025.12.005
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512879/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260110172311&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究深入解析了mTORC1激活调控的新机制，对理解血液肿瘤（如白血病、淋巴瘤）中mTOR信号通路异常具有重要借鉴价值。
+
+摘要: The guanosine triphosphate \(GTP\)-bound state of the heterodimeric Rag GTPases functions as a molecular switch regulating mechanistic target of rapamycin complex 1 \(mTORC1\) activation at the lysosome downstream of amino acid fluctuations. Under low amino acid conditions, GTPase-activating protein \(GAP\) activity toward Rags 1 \(GATOR1\) promotes RagA GTP hydrolysis, preventing mTORC1 activation. KICSTOR recruits and regulates GATOR1 at the lysosome by undefined mechanisms. Here, we resolve the...
+
+---
+
+
+== #33. Dictionary of human intestinal organoid responses to secreted niche factors at single cell resolution
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #60
+- **推荐度**: #75
+- **DOI**: #10.1038/s41467-025-68247-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513700/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究建立了高度模拟炎症性肠病的人类结肠类器官模型，并系统筛选了微环境因子对上皮细胞的单细胞水平影响，其疾病建模方法和微环境研究思路对血液肿瘤或炎症相关血液疾病的机制研究具有可借鉴的参考价值。
+
+摘要: The intestinal epithelium plays a critical role in health and disease, yet the impact of microenvironmental cues in diseased contexts, such as inflammatory bowel disease \(IBD\), remains poorly defined. To address this gap, we first benchmarked human colonic organoid injury models against IBD tissue and established a disease-relevant model of inflammation using inflammatory cytokines. Using this system, we built a dictionary of epithelial responses to 79 secreted niche factors at single cell...
+
+---
+
+
+== #34. A SET domain-containing protein and HCF-1 maintain transgenerational epigenetic memory
+
+- **研究分数**: #85
+- **社会影响**: #40
+- **血液相关性**: #60
+- **推荐度**: #75
+- **DOI**: #10.1038/s41467-025-68200-7
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513691/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究深入解析了非催化活性的SET结构域蛋白SET-24在跨代表观遗传和生殖系永存中的新机制，为血液疾病中异常表观遗传调控（如造血干细胞衰老或血液肿瘤）提供了潜在的可借鉴分子视角。
+
+摘要: Transgenerational epigenetic inheritance \(TEI\) allows epigenetic information to pass across generations through mechanisms such as small RNAs and histone modifications. Histone methylation is often deposited by SET domain-containing methyltransferases. Some SET proteins lack catalytic activity but still regulate chromatin and gene expression. Here, we characterize SET-24, a catalytically inactive SET domain protein that localizes to germline nuclei and is essential for germline immortality in...
+
+---
+
+
+== #35. Compute-in-memory implementation of state space models for event sequence processing
+
+- **研究分数**: #85
+- **社会影响**: #35
+- **血液相关性**: #20
+- **推荐度**: #75
+- **DOI**: #10.1038/s41467-025-68227-w
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513670/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章在计算硬件与算法协同设计方面具有显著创新性，虽与血液疾病无直接关联，但其高效能事件驱动处理框架可为未来血液学研究中的实时数据分析提供技术借鉴。
+
+摘要: State space models have recently emerged as a powerful framework for long sequence processing, outperforming traditional methods on diverse benchmarks. Fundamentally, state space models can generalize both recurrent and convolutional networks and have been shown to even capture key functions of biological systems. Here we report an approach to implement SSMs in energy-efficient compute-in-memory hardware to achieve real-time, event-driven processing. Our work re-parameterizes the model to...
+
+---
+
+
+== #36. A large-scale multi-ancestry genome-wide association study of chronic prostatitis/chronic pelvic pain syndrome in men
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #10
+- **推荐度**: #75
+- **DOI**: #10.1038/s41467-025-64954-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513650/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究基于大规模多族群GWAS分析，方法学严谨，对复杂疾病的遗传机制研究具有参考价值，但主要聚焦于泌尿系统疾病，与血液病直接相关性较弱。
+
+摘要: Chronic prostatitis/chronic pelvic pain syndrome is common, and it impacts men's health and quality of life. The genetic basis of this condition remains largely unknown. Here, we conduct a GWAS using data from the Million Veteran Program of over 590,000 men of European, African, and Hispanic ancestry, including 14,575 chronic prostatitis/chronic pelvic pain syndrome cases. The multi-ancestry analysis identifies eight novel loci associated with chronic prostatitis/chronic pelvic pain syndrome...
+
+---
+
+
+== #37. Amyloid-ID: photocatalytic profiling of amyloid deposits in Alzheimer's disease tissue
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #40
+- **推荐度**: #75
+- **DOI**: #10.1038/s41467-025-68017-4
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513646/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过分子工程改造硫黄素T，实现了淀粉样蛋白的原位光催化标记，方法学具有显著创新性，其蛋白质互作组分析策略对研究血液系统淀粉样变性病（如AL型）的发病机制具有重要借鉴价值。
+
+摘要: Deposition of amyloid proteins and their associated interactome is a hallmark of Alzheimer's disease \(AD\) and other amyloidosis diseases, with their composition implying disease etiology. However, precise in-situ micro-dissection of amyloid deposits in AD brain tissue remains a challenge. In this work, we first divert the excited state energy of Thioflavin T from singlet fluorescence to triplet photocatalytic amyloid protein labeling through molecular engineering, while maintain its pan-amyloid...
+
+---
+
+
+== #38. Multi-generational koala pedigree analysis reveals rapid changes in heritable provirus load associated with life history traits
+
+- **研究分数**: #85
+- **社会影响**: #60
+- **血液相关性**: #70
+- **推荐度**: #75
+- **DOI**: #10.1038/s41467-025-66312-8
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513643/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过对考拉内源性逆转录病毒整合位点的多代系谱分析，为理解逆转录病毒在宿主生殖系中的定植机制提供了独特模型，对血液病研究中病毒相关致癌机制和遗传易感性具有可借鉴的跨物种参考价值。
+
+摘要: Retroviruses that colonize the host germline can be passed on as inherited genetic variants. The koala \(Phascolarctos cinereus\) is currently experiencing germline colonization by two retroviruses, the koala retrovirus \(KoRV\) and phaCin-β. We analyze the integration site segregation and diversity of endogenous KoRV, phaCin-β, and the related phaCin-β-like in 111 pedigreed koalas from the San Diego Zoo Wildlife Alliance and seven European Zoos. The use of multigenerational pedigrees and the...
+
+---
+
+
+== #39. TLSEA 2.0: an updated tool for lncRNA enrichment analysis
+
+- **研究分数**: #78
+- **社会影响**: #35
+- **血液相关性**: #65
+- **推荐度**: #72
+- **DOI**: #10.1016/j.jmb.2026.169630
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512953/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1x5bM_TNL8gjogAcnslpo2s2PbDe-61JVM2h9yowOYSiZ7Dkrt&fc=20220919211934&ff=20260110172243&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章系统探讨了lncRNA功能富集分析的新方法，对研究血液疾病中非编码RNA的调控网络具有可借鉴的方法学价值。
+
+摘要: Long non-coding RNAs \(lncRNAs\) regulate gene expression, cellular functions, and disease-related processes through extensive and diverse interactions with various molecules, thereby forming heterogeneous functional regulatory networks. lncRNAs often exert their regulatory effects in a cooperative manner, functional enrichment analysis is considered a powerful approach for systematically elucidating their functions. However, most existing methods focus on the functions of individual lncRNAs,...
+
+---
+
+
+== #40. Integrative proteogenomic analysis provides molecular insights and clinical significance in gallbladder cancer
+
+- **研究分数**: #85
+- **社会影响**: #65
+- **血液相关性**: #20
+- **推荐度**: #70
+- **DOI**: #10.1016/j.ccell.2025.12.014
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512870/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101130617&fc=None&ff=20260110172225&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过蛋白质基因组学方法系统解析了胆囊癌的分子特征，其整合性分析策略与大规模样本处理对肿瘤研究方法学具有较高借鉴价值，但直接与血液疾病相关性较弱。
+
+摘要: Gallbladder cancer \(GBC\) is a highly aggressive malignancy with dismal outcomes. To dissect its molecular characteristics and identify potential therapeutic avenues, we performed proteogenomic characterization of 195 tumors and 135 adjacent non-cancerous gallbladder tissues. Integrative analyses highlighted TP53 and ELF3 mutations as key drivers disrupting signaling and metabolism. ErbB2 amplification, a pivotal genomic event, was associated with reduced canonical PI3K/AKT and RAS/MAPK/ERK...
+
+---
+
+
+== #41. Acute Coronary Syndromes: State-of-the-Art Diagnosis, Management, and Secondary Prevention
+
+- **研究分数**: #85
+- **社会影响**: #90
+- **血液相关性**: #40
+- **推荐度**: #70
+- **DOI**: #10.3390/jcm15010016
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41517261/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章虽聚焦心血管领域，但对血液科医生有重要交叉参考价值，尤其在抗栓治疗、血脂管理及炎症标志物等方面与血液疾病（如血栓性疾病、血脂异常相关血液改变）存在密切联系，有助于拓展临床思维。
+
+摘要: Background: Acute coronary syndromes \(ACSs\) remain a leading cause of death and disability. Since the publication of the 2023 ESC ACS guidelines, multiple studies and an ESC/EAS dyslipidaemia update have refined how clinicians diagnose, revascularize, and treat ACS across the care continuum. Content: This state-of-the-art review synthesizes advances from 2023 to 2025 across five domains. Diagnosis: High-sensitivity troponin-based accelerated pathways remain foundational; GRACE 3.0 improves...
+
+---
+
+
+== #42. Serum Amyloid A \(SAA\) and Its Interaction with High-Density Lipoprotein Cholesterol \(HDL-C\): A Comprehensive Review
+
+- **研究分数**: #75
+- **社会影响**: #70
+- **血液相关性**: #60
+- **推荐度**: #70
+- **DOI**: #10.3390/ijms27010241
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41516118/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该综述系统阐述了SAA与HDL在炎症性心血管疾病中的相互作用机制，为血液学研究提供了炎症与脂代谢交叉领域的宝贵参考，尤其有助于理解炎症相关血液疾病的继发性血管病变。
+
+摘要: Serum Amyloid A \(SAA\) is an acute-phase apolipoprotein that acts as both a sensitive biomarker of systemic inflammation and an active modulator of lipid metabolism and vascular homeostasis. This review summarises current insights into the interaction between SAA and high-density lipoproteins \(HDL\), with particular emphasis on its role in inflammation-driven cardiovascular disease \(CVD\). The incorporation of SAA into HDL markedly alters its composition and function. The displacement of...
+
+---
+
+
+== #43. Inhibition of PFKFB3 in Macrophages Has a Dual Effect on Tumor-Regulating Lipid Metabolism
+
+- **研究分数**: #75
+- **社会影响**: #65
+- **血液相关性**: #40
+- **推荐度**: #70
+- **DOI**: #10.3390/ijms27010217
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41516095/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究虽聚焦结直肠癌，但其对肿瘤相关巨噬细胞糖代谢途径的深入探讨，为血液肿瘤（如淋巴瘤、白血病）的肿瘤微环境代谢重编程研究提供了可借鉴的思路与方法。
+
+摘要: Colorectal cancer is the third most common cancer worldwide, making lymph node recovery critical for treatment decisions and prognosis. Within the colorectal tumor microenvironment, the metabolic programming of tumor-associated macrophages \(TAMs\) can drive both pro- and anti-tumor responses, yet the specific glycolytic pathways governing their pro-metastatic conversion present promising therapeutic targets. This study investigated the role of glycolysis activating enzyme...
+
+---
+
+
+== #44. Biological Safety and Efficacy of the Novel Preservation Solution Ecosol in a Rat Liver Transplantation Model
+
+- **研究分数**: #78
+- **社会影响**: #65
+- **血液相关性**: #40
+- **推荐度**: #70
+- **DOI**: #10.3390/ijms27010144
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41516023/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在器官移植保存液优化方面具有明确创新性，采用严格的动物模型对比金标准溶液，其肝脏功能评估指标（如转氨酶、胆红素等）对研究血液系统在缺血再灌注损伤中的反应具有可借鉴的参考价值。
+
+摘要: Static cold storage remains the most widely used method for organ preservation in transplantation. Over time, preservation solutions have undergone continuous optimization. Ecosol is a novel extracellular-type, colloid-based preservation solution. In this study, we evaluated the safety and efficacy of Ecosol in comparison to the gold standard University of Wisconsin \(UW\) solution using both allogeneic and syngeneic rat orthotopic liver transplantation models. Liver function parameters were...
+
+---
+
+
+== #45. Trajectories and risk factors for long-term breast symptoms following breast-conserving surgery and radiotherapy: a single centre analysis
+
+- **研究分数**: #70
+- **社会影响**: #65
+- **血液相关性**: #60
+- **推荐度**: #70
+- **DOI**: #10.1007/s00520-025-10276-4
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41514083/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究将术后血性血清肿（haematoseroma）明确列为持续乳腺癌症状的风险因素，为血液学在肿瘤并发症管理中的临床借鉴提供了具体依据，尤其强调了吸烟干预与放疗技术选择对预后的影响。
+
+摘要: CONCLUSIONS AND IMPLICATIONS FOR CANCER SURVIVORS: This study identifies several risk factors for persistent breast symptoms including younger age, smoking, and post-operative haematoseroma. This particularly highlights the importance of smoking cessation and use of IMRT in women at higher risk of side effects.
+
+---
+
+
+== #46. Digital storytelling boosts knowledge and behavioral expectation to reduce dietary sodium: a randomized controlled trial
+
+- **研究分数**: #75
+- **社会影响**: #85
+- **血液相关性**: #30
+- **推荐度**: #70
+- **DOI**: #10.1038/s41746-025-02258-x
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41514069/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究创新性地利用短视频进行健康干预，对公共卫生政策具有参考价值；虽然与血液疾病直接关联较弱，但其方法学对血液健康科普有借鉴意义。
+
+摘要: Excessive sodium intake is a major contributor to cardiovascular disease and mortality. Reducing daily sodium consumption to below 2 g \(~5 g of salt\) effectively lowers cardiovascular mortality rates. The growing reach of social media and short-form video content offers new opportunities to disseminate health information through scalable, digital interventions such as short, animated storytelling \(SAS\) videos. We evaluated the effect of a sodium-focused SAS video on knowledge and behavioral...
+
+---
+
+
+== #47. Lactylation-mitochondria axis in chronic kidney disease: metabolic reprogramming, epigenetic dysregulation, and therapeutic potential
+
+- **研究分数**: #75
+- **社会影响**: #80
+- **血液相关性**: #60
+- **推荐度**: #70
+- **DOI**: #10.1007/s11010-025-05465-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511718/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260110172306&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章虽聚焦肾脏疾病，但深入探讨的纤维化机制与细胞外基质沉积过程对研究骨髓纤维化等血液疾病具有可借鉴的病理生理学参考价值。
+
+摘要: Chronic kidney disease \(CKD\) is a global public health problem, and its prevalence and mortality are rising rapidly worldwide. At present, CKD treatment can only partially delay the progression of the disease, and it is necessary to explore safer and more effective treatment options. Renal interstitial fibrosis is a common pathological process in CKD. The essence of renal fibrosis is the excessive deposition of extracellular matrix \(ECM\), tubulointerstitial fibrosis and glomerulosclerosis caused...
+
+---
+
+
+== #48. A trunkload of ancient RNA
+
+- **研究分数**: #78
+- **社会影响**: #65
+- **血液相关性**: #30
+- **推荐度**: #70
+- **DOI**: #10.1016/j.cell.2025.12.004
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41512844/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260110172311&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究首次为古老RNA在永久冻土中的长期保存提供了有力证据
+
+摘要: Ancient DNA has become a workhorse for evolutionary biologists. In contrast, ancient RNA studies have been rare and often methodologically controversial. Mármol-Sánchez et al. provide compelling evidence that aRNA survived up to ca. 50,000 years in permafrost-preserved mammoth \(Mammuthus primigenius\) soft tissues. Will this finally pave the way for paleotranscriptomics?
+
+---
+
+
+== #49. Lactylation-mitochondria axis in chronic kidney disease: metabolic reprogramming, epigenetic dysregulation, and therapeutic potential
+
+- **研究分数**: #75
+- **社会影响**: #85
+- **血液相关性**: #60
+- **推荐度**: #70
+- **DOI**: #10.1007/s11010-025-05465-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511718/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260110172312&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章虽主要关注肾脏纤维化，但其对细胞外基质过度沉积的机制探讨可为骨髓纤维化等血液疾病研究提供可借鉴的病理机制参考，具有跨学科启发价值。
+
+摘要: Chronic kidney disease \(CKD\) is a global public health problem, and its prevalence and mortality are rising rapidly worldwide. At present, CKD treatment can only partially delay the progression of the disease, and it is necessary to explore safer and more effective treatment options. Renal interstitial fibrosis is a common pathological process in CKD. The essence of renal fibrosis is the excessive deposition of extracellular matrix \(ECM\), tubulointerstitial fibrosis and glomerulosclerosis caused...
+
+---
+
+
+== #50. Robust minimally-invasive microfabricated stainless steel neural interfaces for high resolution recording
+
+- **研究分数**: #85
+- **社会影响**: #60
+- **血液相关性**: #30
+- **推荐度**: #70
+- **DOI**: #10.1038/s41467-025-67681-w
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513672/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在神经介入器械的材料创新和方法学上具有显著突破，虽不直接针对血液疾病，但其在生物相容性材料与长期植入装置方面的探索，对血液科相关器械（如长期留置导管或监测设备）的研发具有潜在借鉴意义。
+
+摘要: Understanding brain function and developing effective neurotherapeutics require high-resolution electrophysiologyical recording across large primate brains. To achieve this goal, minimally invasive, compact, long, and high-density implantable neural probes are needed. Conventional silicon-based probes, designed for rodents, cannot be directly scaled to larger brains because silicon's brittleness restricts long, high-aspect-ratio designs. Stainless steel is a biocompatible, resilient, and less...
+
+---
+
+
+== #51. Identification of ACBP as a potential target in ciliopathic obesity through multi-omics network analysis
+
+- **研究分数**: #75
+- **社会影响**: #65
+- **血液相关性**: #40
+- **推荐度**: #70
+- **DOI**: #10.1038/s41467-025-66235-4
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513648/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过多组学方法揭示了纤毛病与脂代谢紊乱的新机制（自噬-ACBP轴），虽非直接血液病研究，但其对代谢失调的深入探讨可为红细胞发育异常、骨髓脂代谢紊乱等血液学研究提供跨学科借鉴思路。
+
+摘要: Ciliopathies are genetic disorders characterized by defective primary cilia function, with obesity as a clinical manifestation in certain cases, including Alström syndrome, which is caused by ALMS1 mutations. The link between cilia and lipid metabolism remains poorly understood, but evidence suggests a role for impaired autophagy. Autophagy affects both intra- and extracellular levels of ACBP, which can act as an obesogenic factor. Our multi-omics study reveals early hepatic dyslipidemia,...
+
+---
+
+
+== #52. An Above-Average Lymph Node Yield Removed During Curative Neck Dissection in Advanced Head and Neck Squamous Cell Carcinomas Improves Survival
+
+- **研究分数**: #70
+- **社会影响**: #65
+- **血液相关性**: #40
+- **推荐度**: #65
+- **DOI**: #10.3390/cancers18010068
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41514581/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究通过回顾性队列分析探讨淋巴结清扫数目对头颈鳞癌患者预后的影响，方法较为严谨，对淋巴系统相关肿瘤的外科治疗具有间接参考价值。
+
+摘要: Objectives: The lymph node yield of a curative neck dissection for advanced head and neck squamous cell carcinoma \(HNSCC\) is an important factor in improving patient outcomes. Achieving adequate resection while minimising surgical risk is important. This retrospective study investigated the role of the lymph node yield for the survival of patients with HNSCC. Methods: A total of 234 patients with advanced HNSCC who were treated at a German university hospital between 1997 and 2018 were analysed....
+
+---
+
+
+== #53. Downregulation of NFIA facilitates glycolysis, histone lactylation, and activation of the FN1-integrin alpha5beta1 pathway in pancreatic cancer
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #20
+- **推荐度**: #65
+- **DOI**: #10.1007/s10495-025-02218-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41511661/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260110172312&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在肿瘤抑制因子NFIA的机制探索上较为深入，方法严谨，对理解肿瘤增殖与转移有参考价值，但直接与血液疾病的相关性较弱，血液病研究者可选择性借鉴其分子机制研究思路。
+
+摘要: Pancreatic cancer \(PC\) is a lethal malignancy with limited therapeutic options, characterized by tumor suppressor loss and metabolic-stromal crosstalk. This study aimed to introduce nuclear factor I A \(NFIA\) as a key tumor suppressor whose downregulation in PC was correlated with advanced tumor stages and poor prognosis. Functionally, NFIA overexpression suppressed PC cell proliferation, migration, and invasion, whereas NFIA silencing exacerbated these malignant phenotypes. Mechanistically, NFIA...
+
+---
+
+
+== #54. Time-resolved X-ray imaging of the current filamentation instability in solid-density plasmas
+
+- **研究分数**: #95
+- **社会影响**: #30
+- **血液相关性**: #5
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-67160-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513673/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在实验物理方法学上极具创新性和严谨性，其超高时空分辨的成像技术对研究极端条件下的等离子体物理有重大突破，
+
+摘要: The streaming of energetic charged particles can magnetize astrophysical and laboratory plasmas via the current filamentation instability. Despite its importance, the experimental characterization of this instability has remained a challenge. Here, we report an experiment combining a high-intensity optical laser with a high-brightness X-ray free electron laser that successfully images the instability in solid-density plasmas with 200 nm spatial and 50 fs temporal resolution. We characterize the...
+
+---
+
+
+== #55. Antisense oligonucleotides to KIF1A polymorphisms expand targets and rescue patient-derived neurons in vitro
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #20
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-67752-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513671/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在等位基因特异性敲低治疗策略上展示了较高的方法学创新性，虽非血液病直接相关，但其精准靶向致病转录本的技术思路对遗传性血液病的基因治疗有重要借鉴意义。
+
+摘要: Dominant negative pathogenic variants in KIF1A result in an allelically heterogeneous neurodegenerative condition that manifests as a variable clinical phenotype including seizures, cognitive deficits, optic nerve atrophy, spasticity, and peripheral neuropathy. One potential therapeutic strategy is allele-specific knockdown of pathogenic transcripts. However, targeting the over 100 known unique pathogenic variants is challenging. Alternatively, different pathogenic KIF1A variants in multiple...
+
+---
+
+
+== #56. Energy and biomass distribution in soil food webs of temperate and tropical forests
+
+- **研究分数**: #85
+- **社会影响**: #40
+- **血液相关性**: #25
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-68083-8
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513666/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在生态学能量通量方法学上具有高度创新性与严谨性，其跨尺度生物能量分析框架可为血液系统代谢研究提供类比启发，尤其有助于理解不同生理或病理状态下细胞能量分配的宏观模式。
+
+摘要: Soil food webs channel most of the energy in terrestrial ecosystems. Temperate and tropical forests host different soil invertebrate communities, but consequent differences in the structure and functioning of soil food webs between these major biomes remain unknown. Here, we calculate energy fluxes to explore generic patterns in biomass and energy distribution across micro-, meso- and macrofauna in forest ecosystems spanning from southern taiga to tropical rainforests. Tropical soil food webs...
+
+---
+
+
+== #57. Geographic distribution of nematodes in the Atacama is associated with elevation, climate gradients and parthenogenesis
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #20
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-67117-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513655/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在极端环境生物适应性方面提供了创新的生态学视角，虽非直接关联血液病，但其揭示的环境压力下生物生存机制对血液学研究中的应激反应有一定间接参考价值。
+
+摘要: Soil ecosystems are crucial for supporting life, yet little is known about their biodiversity and its distribution in extreme environments. The Atacama Desert, the driest non-polar desert on Earth, has scarce water, high salinity, and metal-rich water bodies, creating challenging conditions for most organisms. Above-ground life has been partially documented, but its soils remain poorly studied. Here we show that soil nematodes, an abundant and diverse group of invertebrates, display distinct...
+
+---
+
+
+== #58. Controlling the sign of optical forces using metaoptics
+
+- **研究分数**: #86
+- **社会影响**: #72
+- **血液相关性**: #18
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-67928-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513653/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在光操控技术方面具有突破性的方法创新，展示了超表面光学力的定向控制，虽非直接针对血液疾病，但其精密操控原理对微流控或细胞分离等血液学技术发展有潜在借鉴意义。
+
+摘要: Precise manipulation of small objects using light holds transformative potential across diverse fields. While research in optical trapping and manipulation predominantly relies on the attraction of solid matter to light intensity maxima, here we demonstrate that meta-optics enables a departure from this accepted behavior. Specifically, we present deterministic control over the sign of optical forces exerted on a metasurface integrated on a suspended silicon nanomembrane. By tailoring the...
+
+---
+
+
+== #59. Theoretical prediction for monitoring Jahn-Teller vibrational evolution using real-space tip-enhanced Raman imaging
+
+- **研究分数**: #85
+- **社会影响**: #25
+- **血液相关性**: #5
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-67894-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513649/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章提出了一种创新
+
+摘要: The Jahn-Teller effect \(JTE\) reduces the geometrical symmetry of a system with degenerate electronic states via vibronic coupling, playing a pivotal role in molecular and condensed systems. However, due to the intrinsic limitations of conventional techniques, only the electronic evolution in JTE can be measured. Herein, we theoretically propose that vibrational resolved tip-enhanced Raman scattering images can visualize the vibrational evolutions in JTE in real space. Taking an experimentally...
+
+---
+
+
+== #60. Manganese catalyzed oximation of hydrocarbons to oximes
+
+- **研究分数**: #85
+- **社会影响**: #40
+- **血液相关性**: #10
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-66576-0
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513642/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章在有机合成方法学上具有显著创新性，通过甲基C-H键的氧化肟化实现了肟的高效合成，对涉及羰基或肟类化合物的药物化学研究具有潜在的方法学借鉴价值，但未直接涉及血液疾病模型或治疗。
+
+摘要: Oximes are used in many scientific and industrial domains, ranging from organic synthesis through biotechnology to materials science. Traditionally, their synthesis necessitates the use of hydrocarbons with specific functional groups, such as carbonyls, which are often more challenging and expensive to obtain compared to their non-functionalized counterparts. Here we introduce an approach that enables the synthesis of oximes from hydrocarbons via the oxidative oximation of methylene C-H bonds -...
+
+---
+
+
+== #61. High yield production of 3-hydroxypropionic acid using Issatchenkia orientalis
+
+- **研究分数**: #75
+- **社会影响**: #60
+- **血液相关性**: #10
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-67621-8
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513641/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在利用耐酸酵母进行低pH生物合成方面展示了良好的代谢工程策略与模型指导的途径优化，对工业生物技术领域具有明确的参考价值。
+
+摘要: Biomanufacturing provides a more sustainable alternative to fossil-based chemical manufacturing. 3-Hydroxypropionic acid \(3HP\) is a top Department of Energy value-added chemical and precursor to bioplastics, yet cost-effective microbial production remains elusive. Here, we establish the acid-tolerant yeast Issatchenkia orientalis as a robust host for low-pH 3HP biosynthesis. Genome-scale modeling identifies the β-alanine pathway as optimal, offering the highest theoretical yield and lowest...
+
+---
+
+
+== #62. Cryo-EM structure of photosystem II supercomplex from a green microalga with extreme phototolerance
+
+- **研究分数**: #85
+- **社会影响**: #45
+- **血液相关性**: #10
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-65861-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513636/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在结构生物学方法学上具有高创新性与严谨性，但其主题与血液疾病无直接关联，仅对少数从事基础光合作用机制与细胞应激交叉领域的研究者具有间接参考价值。
+
+摘要: Photosystem II \(PSII\) is essential for energy conversion during oxygenic photosynthesis in plants and algae. Chlorella ohadii, one of the fastest multiplying green algae, thrives under the harsh desert sun but lacks the standard PSII photoprotective mechanisms involving LhcSR/PsbS proteins or protein phosphorylation. Here, we present the cryo-EM structure of the PSII supercomplex from C. ohadii at 2.9 Å resolution, which is used to determine whether the exceptional resistance to desert...
+
+---
+
+
+== #63. Sulfatide deficiency-induced astrogliosis and myelin lipid dyshomeostasis are independent of TREM2-mediated microglial activation
+
+- **研究分数**: #85
+- **社会影响**: #70
+- **血液相关性**: #30
+- **推荐度**: #65
+- **DOI**: #10.1038/s41467-025-66222-9
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513633/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在脂质代谢与神经炎症的机制关联上具有方法学严谨性，虽非直接针对血液疾病，但其对脂质稳态的探讨可为血液系统相关脂代谢异常研究提供跨学科参考。
+
+摘要: Disrupted lipid homeostasis and neuroinflammation often co-exist in neurodegenerative disorders, including Alzheimer's disease \(AD\). However, the intrinsic connection and causal relationship between these deficits remain elusive. Our previous studies show that the loss of sulfatide \(ST\), a class of myelin-enriched lipids, causes AD-like neuroinflammatory responses, cognitive impairment, bladder enlargement, and lipid dyshomeostasis. To better understand the relationship between neuroinflammation...
+
+---
+
+
+== #64. Consensus Statements Among European Sleep Surgery Experts on Tongue, Hypopharynx, and Supraglottis Associated with Snoring and Obstructive Sleep Apnea: Part 1: Evaluation and Decision Making
+
+- **研究分数**: #70
+- **社会影响**: #65
+- **血液相关性**: #20
+- **推荐度**: #60
+- **DOI**: #10.3390/jcm15010080
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41517330/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章通过专家共识为睡眠呼吸障碍的临床评估与决策提供了结构化参考，虽与血液疾病直接关联较弱，但其方法学对多学科共识研究具有借鉴意义。
+
+摘要: Introduction: The tongue base, hypopharynx, and supraglottis \(TngHpxSgl\) play distinct roles in snoring and obstructive sleep apnea \(OSA\). Aim of the Study: To assess the level of consensus on the assessment and decision-making for the management of snoring and OSA associated with TngHpxSgl. Methods: A set of statements on the assessment and decision-making for the management of snoring and OSA associated with TngHpxSgl was developed based on the literature and circulated among 12-panel members...
+
+---
+
+
+== #65. Can't get motivated? This brain circuit might explain why - and it can be turned off
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/d41586-026-00062-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513832/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260110172310&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 由于未提供摘要内容，无法评估具体研究价值；建议先获取全文或摘要以判断其在血液病领域的创新性与参考意义。
+
+摘要: No abstract
+
+---
+
+
+== #66. To infinity and beyond Earth's pale blue dot: Books in brief
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/d41586-026-00077-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513826/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260110172310&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 由于未提供摘要，无法评估文章的具体内容与价值；建议补充详细信息后重新评估。
+
+摘要: No abstract
+
+---
+
+
+== #67. AI models were given four weeks of therapy: the results worried researchers
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/d41586-025-04112-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513824/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0410462&fc=None&ff=20260110172310&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 由于未提供摘要内容，无法评估文章的具体价值，建议先获取全文或摘要信息以判断其是否值得阅读。
+
+摘要: No abstract
+
+---
+
+
+== #68. Sub-picojoule-per-bit volitional neuromorphic devices for precise targeting and tracking
+
+- **研究分数**: #85
+- **社会影响**: #60
+- **血液相关性**: #10
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-025-66295-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513620/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章在类脑计算与人工智能硬件设计上有显著创新性，借鉴人类视觉系统提出主动注意力机制，对跨学科技术研发具有启发价值，但内容与血液疾病研究无直接关联。
+
+摘要: The technological revolution driven by artificial intelligence has significantly improved the hardware performance, but energy consumption remains a critical bottleneck. The state-of-the-art retinomorphic devices, as core components of artificial intelligence hardware, excel in feature extraction but are constrained by passive attention mechanisms that lack flexibility of actively extracting additional features. Inspired by the human visual system, this work introduces a volitional neuromorphic...
+
+---
+
+
+== #69. Enhancing hydrovoltaic power generation through coupled heat and light-driven surface charge dynamics
+
+- **研究分数**: #85
+- **社会影响**: #75
+- **血液相关性**: #5
+- **推荐度**: #45
+- **DOI**: #10.1038/s41467-025-68261-8
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513665/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章在蒸发驱动能量转换领域提出了创新的物理与实验框架，方法论严谨，但内容与血液疾病研究无直接关联，仅对涉及界面传输机制或纳米结构生物传感器设计的跨学科研究有间接参考价值。
+
+摘要: Harnessing natural evaporation offers a sustainable pathway for next-generation energy technologies. We present a unified physical and experimental framework for evaporation-driven hydrovoltaic \(EDHV\) systems that decouples and controls the key interfacial processes underlying electricity generation from heat and sunlight. An intermediate ion-conducting layer separates the evaporative top interface from the silicon-dielectric nanopillar array, enabling independent modulation of evaporation, ion...
+
+---
+
+
+== #70. Unlocking limited electric double-layer capacity via electrochemically-driven continuous partial desolvations in carbon nanopores
+
+- **研究分数**: #78
+- **社会影响**: #25
+- **血液相关性**: #15
+- **推荐度**: #40
+- **DOI**: #10.1038/s41467-025-66433-0
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513651/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章在电化学储能领域具有较好的方法学严谨性和数据可靠性，但内容主要涉及钠离子电容器材料，与血液疾病直接相关性较弱，仅可间接参考其离子吸附机制。
+
+摘要: Electrochemical capacitors are primarily limited by the low electric double-layer storage capacity and narrow operating window that avoids the formation of solid electrolyte interface layers. Herein, we demonstrate that electric double-layer adsorption of solvated Na^\(+\) in carbon nanopores is achievable under a large offset potential of -2.95 V vs. potential of zero charge in diethylene-glycol-dimethyl-ether electrolyte, even accompanying with the as-formed solid electrolyte interface layers....
+
+---
+
+
+== #71. Controlled magnetic bistability of a helical non-Kekulé hydrocarbon on a Au\(111\) surface
+
+- **研究分数**: #85
+- **社会影响**: #65
+- **血液相关性**: #5
+- **推荐度**: #40
+- **DOI**: #10.1038/s41467-025-67039-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513645/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文章在纳米材料与量子计算交叉领域具有前沿创新性，但其研究内容与血液疾病领域无直接关联，仅适合对磁性材料或量子科技有跨学科兴趣的血液学者拓展视野。
+
+摘要: Recent advances in the synthesis of graphene fragments that possess unpaired π-electrons and display high-spin ground states have unlocked possibilities to explore exotic physical phenomena related to magnetism. The high degree of spin-delocalisation makes these non-metal-based systems ideal building blocks for the construction of chains and lattices with strongly correlated magnetic ground states, which is the main requisite for measurement-based quantum computation. In this work, we...
+
+---
+
+
+== #72. Understanding oxygen transfer on ceria with Pt single atoms for surface reaction
+
+- **研究分数**: #85
+- **社会影响**: #20
+- **血液相关性**: #10
+- **推荐度**: #25
+- **DOI**: #10.1038/s41467-025-66242-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41513644/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260110172323&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该研究在催化材料设计与机理探索方面方法严谨、创新性较强，但对血液疾病研究的直接关联性与可借鉴性有限，仅当涉及氧化还原生物类似机制时可作 distant reference。
+
+摘要: Reducible metal oxides are widely used in surface reactions, primarily due to their ability to activate and transfer oxygen. Ceria, known for its rapid Ce^\(3+\)/Ce^\(4+\) redox property, is well-known to follow Mars van Krevelen mechanism. In this study, we prepare Pt/CeO\(2\)-Al\(2\)O\(3\) catalysts with different ceria domain sizes of 3.7, 5.6, and 7.3 nm to understand oxygen transfer, mainly O\(2\) activation and lattice oxygen transfer. The ceria domains are isolated on the alumina, preventing oxygen...
+
+---
+
+
+== #73. Feasibility of opportunistic dental diagnostics in routine photon-counting CT examinations of the cervical spine
+
+- **研究分数**: #30
+- **社会影响**: #40
+- **血液相关性**: #10
+- **推荐度**: #20
+- **DOI**: #10.1186/s12903-025-07585-9
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41514398/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260110172233&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 该文虽提及PCCT在口腔科早期诊断的潜力，但与血液疾病无直接关联，方法论与数据可靠性描述不足，对血液病学研究借鉴价值有限。仅当关注全身健康与口腔疾病的系统性关联时可能具有间接参考意义。
+
+摘要: CONCLUSIONS: PCCT offers potential for opportunistic dental diagnostics, providing earlier detection of dental issues and potentially improving overall dental care outcomes.
+
+---
+
