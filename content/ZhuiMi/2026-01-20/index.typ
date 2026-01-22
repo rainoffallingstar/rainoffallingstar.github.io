@@ -67,7 +67,7 @@
 
 推荐理由: 该研究创新性地将3'UTR选择性多聚腺苷酸化（APA）机制引入转录组关联分析，为血液疾病基因调控研究提供了新的可借鉴视角，尤其有助于解析血液肿瘤等疾病的转录后调控机制。
 
-摘要: Alternative polyadenylation \(APA\) of $3^{\prime}$untranslated regions \($3^{\prime}$UTRs\) is a pervasive mechanism that regulates mRNA stability, localization, and translational efficiency by generating isoforms with distinct $3^{\prime}$UTR lengths and regulatory element composition. Despite its critical role in fine-tuning gene expression, APA has been largely overlooked in transcriptome-wide association studies \(TWAS\), which traditionally rely on linear models of SNP effects. To bridge this...
+摘要: Alternative polyadenylation \(APA\) of 3' untranslated regions \(3' UTRs\) is a pervasive mechanism that regulates mRNA stability, localization, and translational efficiency by generating isoforms with distinct 3' UTR lengths and regulatory element composition. Despite its critical role in fine-tuning gene expression, APA has been largely overlooked in transcriptome-wide association studies \(TWAS\), which traditionally rely on linear models of SNP effects. To bridge this...
 
 ---
 
@@ -273,7 +273,7 @@
 - **DOI**: #10.1038/s41467-026-68413-4
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41554717/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260120172652&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 
+推荐理由:
 
 摘要: Stalling of elongating RNA polymerase II \(RNAPII\) at DNA lesions blocks transcription and triggers transcription-coupled repair \(TCR\). However, the mechanisms determining the fate of stalled RNAPII remain incompletely understood. Here, we develop a time-resolved assay to track RNAPII clearance and degradation at UV-induced lesions. We show that RNAPII ubiquitylation by CSB and the CRL4^\(CSA\) ubiquitin ligase is essential, as loss of these proteins causes persistent RNAPII accumulation at damage...
 
@@ -1110,4 +1110,3 @@
 摘要: No abstract
 
 ---
-

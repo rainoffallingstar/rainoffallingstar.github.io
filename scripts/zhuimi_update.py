@@ -588,10 +588,29 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         abstract = article.get("abstract", "")[:1000]  # 限制摘要长度
 
         # 转义内容，处理Typst特殊字符和HTML标签
-        # 需要转义的字符：# < > [ ] ( ) @ 等
+        # 需要转义的字符：# $ < > [ ] ( ) @ 等
+
+        # 辅助函数：处理LaTeX数学符号，转换为纯文本
+        def clean_math_symbols(text):
+            """将LaTeX数学符号转换为纯文本"""
+            if not text:
+                return text
+            # 处理常见的数学符号模式
+            text = text.replace(r"$3^{\prime}$", "3'")
+            text = text.replace(r"$5^{\prime}$", "5'")
+            text = text.replace(r"$3'$", "3'")
+            text = text.replace(r"$5'$", "5'")
+            text = text.replace(r"$\alpha$", "alpha")
+            text = text.replace(r"$\beta$", "beta")
+            text = text.replace(r"$\gamma$", "gamma")
+            # 处理其他可能的$符号（转义剩余的）
+            text = text.replace("$", "\\$")
+            return text
+
         # 标题转义
         title_escaped = (
-            title.replace("@", "\\@")
+            clean_math_symbols(title)
+            .replace("@", "\\@")
             .replace("#", "\\#")
             .replace("<", "\\<")
             .replace(">", "\\>")
@@ -602,7 +621,8 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         )
         # 摘要转义
         abstract_text = (
-            abstract.replace("@", "\\@")
+            clean_math_symbols(abstract)
+            .replace("@", "\\@")
             .replace("#", "\\#")
             .replace("<", "\\<")
             .replace(">", "\\>")
@@ -614,7 +634,8 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         # 推荐理由转义
         reason = article.get("reason", "")
         reason_text = (
-            reason.replace("@", "\\@")
+            clean_math_symbols(reason)
+            .replace("@", "\\@")
             .replace("#", "\\#")
             .replace("<", "\\<")
             .replace(">", "\\>")

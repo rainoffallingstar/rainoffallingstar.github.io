@@ -365,7 +365,7 @@
   },
   {
     "title": "ASTWAS: modeling alternative polyadenylation and SNP effects in kernel-driven TWAS reveal novel genetic associations for complex traits",
-    "abstract": "Alternative polyadenylation (APA) of $3^{\\prime}$untranslated regions ($3^{\\prime}$UTRs) is a pervasive mechanism that regulates mRNA stability, localization, and translational efficiency by generating isoforms with distinct $3^{\\prime}$UTR lengths and regulatory element composition. Despite its critical role in fine-tuning gene expression, APA has been largely overlooked in transcriptome-wide association studies (TWAS), which traditionally rely on linear models of SNP effects. To bridge this...",
+    "abstract": "Alternative polyadenylation (APA) of 3' untranslated regions (3' UTRs) is a pervasive mechanism that regulates mRNA stability, localization, and translational efficiency by generating isoforms with distinct 3' UTR lengths and regulatory element composition. Despite its critical role in fine-tuning gene expression, APA has been largely overlooked in transcriptome-wide association studies (TWAS), which traditionally rely on linear models of SNP effects. To bridge this...",
     "link": "https://pubmed.ncbi.nlm.nih.gov/41554047/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=100912837&fc=None&ff=20260120172617&v=2.18.0.post22+67771e2",
     "doi": "10.1093/bib/bbaf725",
     "scores": {
