@@ -3,7 +3,7 @@
 
 = 追觅 - 2026-01-30
 
-生成时间: #2026-01-30 22:46
+生成时间: #2026-02-02 14:32
 
 分析文章数量: #94
 
@@ -115,12 +115,12 @@
 
 推荐理由: 该综述系统梳理了METTL3在AML耐药中的分子机制及最新干预策略，对血液肿瘤研究者具有较高的参考价值，值得一读。
 
-摘要: This review examines the role of METTL3, a core RNA methyltransferase, in therapeutic resistance in acute myeloid leukemia \(AML\) and discusses emerging strategies to address this challenge. METTL3 regulates N⁶-methyladenosine \(m⁶A\) modifications on transcripts involved in key cellular processes, including apoptosis \(BCL2, MCL1\), metabolism \(PGC-1α, CSRP1\), proliferation \(MYC\), autophagy \(FOXO3\), and bone marrow microenvironmental interactions \(ITGA4, AKT1\). These modifications enhance the...
+摘要: This review examines the role of METTL3, a core RNA methyltransferase, in therapeutic resistance in acute myeloid leukemia \(AML\) and discusses emerging strategies to address this challenge. METTL3 regulates N^6-methyladenosine \(m^6A\) modifications on transcripts involved in key cellular processes, including apoptosis \(BCL2, MCL1\), metabolism \(PGC-1α, CSRP1\), proliferation \(MYC\), autophagy \(FOXO3\), and bone marrow microenvironmental interactions \(ITGA4, AKT1\). These modifications enhance the...
 
 ---
 
 
-== #8. CD8a antibody-functionalized biomimetic red blood cell membrane ectosomes delivering C646 reverse CD8⁺ T Cell exhaustion via H3K18la histone delactylation in gastric cardia adenocarcinoma
+== #8. CD8a antibody-functionalized biomimetic red blood cell membrane ectosomes delivering C646 reverse CD8^+ T Cell exhaustion via H3K18la histone delactylation in gastric cardia adenocarcinoma
 
 - **研究分数**: #85
 - **社会影响**: #70
@@ -129,7 +129,7 @@
 - **DOI**: #10.1186/s12951-025-03957-z
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41612336/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260130173004&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究创新性强，利用红细胞膜仿生囊泡精准递送表观遗传抑制剂，重新激活耗竭的 CD8⁺ T 细胞，对肿瘤免疫
+推荐理由: 该研究创新性强，利用红细胞膜仿生囊泡精准递送表观遗传抑制剂，重新激活耗竭的 CD8^+ T 细胞，对肿瘤免疫
 
 摘要: The functional exhaustion of CD8^\(+\) T cells in the tumor microenvironment \(TME\) severely limits anti-tumor immunity in gastric cardia adenocarcinoma \(GCA\). Here, we developed CD8a antibody-functionalized biomimetic red blood cell membrane ectosomes \(CD8a-NVEs\) encapsulating the p300 inhibitor C646 to selectively target and reprogram exhausted CD8^\(+\) T cells. Single-cell RNA sequencing of human GCA tissues revealed lactate-driven epigenetic remodeling, characterized by elevated H3K18...
 
@@ -147,7 +147,7 @@
 
 推荐理由: 该综述系统梳理了METTL3在AML耐药中的分子机制并提出新策略，对血液肿瘤研究者具有较高的参考价值，值得一读。
 
-摘要: This review examines the role of METTL3, a core RNA methyltransferase, in therapeutic resistance in acute myeloid leukemia \(AML\) and discusses emerging strategies to address this challenge. METTL3 regulates N⁶-methyladenosine \(m⁶A\) modifications on transcripts involved in key cellular processes, including apoptosis \(BCL2, MCL1\), metabolism \(PGC-1α, CSRP1\), proliferation \(MYC\), autophagy \(FOXO3\), and bone marrow microenvironmental interactions \(ITGA4, AKT1\). These modifications enhance the...
+摘要: This review examines the role of METTL3, a core RNA methyltransferase, in therapeutic resistance in acute myeloid leukemia \(AML\) and discusses emerging strategies to address this challenge. METTL3 regulates N^6-methyladenosine \(m^6A\) modifications on transcripts involved in key cellular processes, including apoptosis \(BCL2, MCL1\), metabolism \(PGC-1α, CSRP1\), proliferation \(MYC\), autophagy \(FOXO3\), and bone marrow microenvironmental interactions \(ITGA4, AKT1\). These modifications enhance the...
 
 ---
 
@@ -163,7 +163,7 @@
 
 推荐理由: 该综述系统梳理了METTL3在AML耐药中的机制并提出新策略，对血液学研究和临床靶向治疗具有重要参考价值。
 
-摘要: This review examines the role of METTL3, a core RNA methyltransferase, in therapeutic resistance in acute myeloid leukemia \(AML\) and discusses emerging strategies to address this challenge. METTL3 regulates N⁶-methyladenosine \(m⁶A\) modifications on transcripts involved in key cellular processes, including apoptosis \(BCL2, MCL1\), metabolism \(PGC-1α, CSRP1\), proliferation \(MYC\), autophagy \(FOXO3\), and bone marrow microenvironmental interactions \(ITGA4, AKT1\). These modifications enhance the...
+摘要: This review examines the role of METTL3, a core RNA methyltransferase, in therapeutic resistance in acute myeloid leukemia \(AML\) and discusses emerging strategies to address this challenge. METTL3 regulates N^6-methyladenosine \(m^6A\) modifications on transcripts involved in key cellular processes, including apoptosis \(BCL2, MCL1\), metabolism \(PGC-1α, CSRP1\), proliferation \(MYC\), autophagy \(FOXO3\), and bone marrow microenvironmental interactions \(ITGA4, AKT1\). These modifications enhance the...
 
 ---
 
@@ -657,7 +657,7 @@
 - **DOI**: #10.1038/s41467-026-69001-2
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41611731/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260130173158&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究揭示了mPFC‑Foxp2⁺投射至丘脑的神经回路在疼痛调控中的关键作用，方法新颖且数据可靠，对疼痛机制研究具有参考价值，但与血液疾病关联较弱。
+推荐理由: 该研究揭示了mPFC‑Foxp2^+投射至丘脑的神经回路在疼痛调控中的关键作用，方法新颖且数据可靠，对疼痛机制研究具有参考价值，但与血液疾病关联较弱。
 
 摘要: Both the medial prefrontal cortex \(mPFC\) and thalamus have been implicated in pain regulation. However, the roles of the mPFC-thalamus connection in pain and how the mPFC modulates nociceptive processing remain unclear. Here, we show that the mPFC neurons projecting to thalamus, marked by Foxp2 expression, are deactivated in both acute and chronic pain in male mice. Persistent inactivation of the mPFC Foxp2^\(+\) neurons enhances nociceptive sensitivity, while their activation alleviates multiple...
 
@@ -675,7 +675,7 @@
 
 推荐理由: 该文在形状记忆合金的弹性热效应与疲劳性能方面提供了新颖的材料设计思路，技术价值突出，但与血液疾病关联度极低，仅对血液学研究的借鉴意义有限。
 
-摘要: Shape memory alloys with both a large elastocaloric effect and exceptional fatigue resistance are key candidates for next-generation solid-state cooling technologies. Here, we report a textured TiNi alloy containing engineered Ti₄Ni₂O precipitates, fabricated via controlled directional solidification, that achieves a large adiabatic temperature change of -15.9 K after 10 million compressive cycles. Microstructural analyses reveal columnar B2 grains aligned with the solidification direction and a...
+摘要: Shape memory alloys with both a large elastocaloric effect and exceptional fatigue resistance are key candidates for next-generation solid-state cooling technologies. Here, we report a textured TiNi alloy containing engineered Ti_4Ni_2O precipitates, fabricated via controlled directional solidification, that achieves a large adiabatic temperature change of -15.9 K after 10 million compressive cycles. Microstructural analyses reveal columnar B2 grains aligned with the solidification direction and a...
 
 ---
 
@@ -897,9 +897,9 @@
 - **DOI**: #10.1038/s41467-026-68813-6
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41611679/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260130173158&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究揭示了ALKB‑1介导的tRNA m¹A去甲基化在父系线粒体清除中的关键作用，提供了新的线粒体遗传调控机制，对基础生物学和潜在的血液疾病线粒体功能研究具有参考价值。
+推荐理由: 该研究揭示了ALKB‑1介导的tRNA m^1A去甲基化在父系线粒体清除中的关键作用，提供了新的线粒体遗传调控机制，对基础生物学和潜在的血液疾病线粒体功能研究具有参考价值。
 
-摘要: Maternal mitochondrial inheritance is secured by mechanisms that exclude paternal mitochondrial DNA \(mtDNA\). While, epigenetic modifications are vital for spermatogenesis and embryo development, their roles in the paternal mitochondrial elimination \(PME\) remain poorly understood. Here, we identify ALKB-1, a DNA/RNA demethylase, as a pivotal factor for efficient PME in Caenorhabditis elegans \(C. elegans\), acting through ALKB-1-dependent modulation of tRNA m¹A methylation. Mechanistically, ALKB-1...
+摘要: Maternal mitochondrial inheritance is secured by mechanisms that exclude paternal mitochondrial DNA \(mtDNA\). While, epigenetic modifications are vital for spermatogenesis and embryo development, their roles in the paternal mitochondrial elimination \(PME\) remain poorly understood. Here, we identify ALKB-1, a DNA/RNA demethylase, as a pivotal factor for efficient PME in Caenorhabditis elegans \(C. elegans\), acting through ALKB-1-dependent modulation of tRNA m^1A methylation. Mechanistically, ALKB-1...
 
 ---
 
@@ -1155,7 +1155,7 @@
 
 推荐理由: 该文在光热干重整甲烷的催化剂设计上具有创新性，但与血液疾病关联度极低，且社会关注度有限，阅读价值主要限于材料与能源领域的研究者。
 
-摘要: Photothermal dry reforming of methane, a promising approach to producing syngas, typically uses oxide materials and is mediated by lattice oxygen. However, it is limited by the balance of the oxygen-releasing/replenishing loop. Here, we present a methane activation pathway free of lattice oxygen on a N-Ni/NiCo\@C catalyst. Direct involvement of reactive oxygen species \(O*/OH*\) released from CO\(2\) promotes effective CH\(4\) activation and eliminates coke deposition on oxophilic NiCo sites. Control...
+摘要: Photothermal dry reforming of methane, a promising approach to producing syngas, typically uses oxide materials and is mediated by lattice oxygen. However, it is limited by the balance of the oxygen-releasing/replenishing loop. Here, we present a methane activation pathway free of lattice oxygen on a N-Ni/NiCo\@C catalyst. Direct involvement of reactive oxygen species \(O\*/OH\*\) released from CO\(2\) promotes effective CH\(4\) activation and eliminates coke deposition on oxophilic NiCo sites. Control...
 
 ---
 
@@ -1315,7 +1315,7 @@
 
 推荐理由: 该文在新型金属材料的光热效应研究上具备创新性和严谨的实验方法，但与血液疾病关联度极低，阅读价值主要限于材料科学领域。
 
-摘要: Titanium carbide MXene \(Ti₃C₂Tₓ\) is an emerging metallic material with promise for \(opto\)electronics and thermal management. Yet how photoexcitation-particularly via photogenerated thermal energy-modifies its charge carrier dynamics remains poorly understood. By combining time-resolved terahertz spectroscopy and transient reflectance measurements, we reveal a long-lived, photo-induced suppression of conductivity, which we attribute to efficient lattice heating and slow heat dissipation in...
+摘要: Titanium carbide MXene \(Ti_3C_2Tₓ\) is an emerging metallic material with promise for \(opto\)electronics and thermal management. Yet how photoexcitation-particularly via photogenerated thermal energy-modifies its charge carrier dynamics remains poorly understood. By combining time-resolved terahertz spectroscopy and transient reflectance measurements, we reveal a long-lived, photo-induced suppression of conductivity, which we attribute to efficient lattice heating and slow heat dissipation in...
 
 ---
 
@@ -1363,7 +1363,7 @@
 
 推荐理由: 方法创新且对沿海管理有政策意义，但与血液疾病关联度极低，血液学研究者阅读价值有限。
 
-摘要: Human impacts from dams reduce river sediment fluxes and are primary causes of coastal erosion worldwide. Here we provide new satellite-derived shoreline observation techniques to examine beach area trends across the diverse coastal settings of California. Contrary to global trends, these data reveal that the most heavily urbanized and dammed region of southern California experienced net beach growth of over 2 million m² during 1984-2024. While several beaches experienced severe erosion, overall...
+摘要: Human impacts from dams reduce river sediment fluxes and are primary causes of coastal erosion worldwide. Here we provide new satellite-derived shoreline observation techniques to examine beach area trends across the diverse coastal settings of California. Contrary to global trends, these data reveal that the most heavily urbanized and dammed region of southern California experienced net beach growth of over 2 million m^2 during 1984-2024. While several beaches experienced severe erosion, overall...
 
 ---
 

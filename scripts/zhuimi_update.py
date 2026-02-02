@@ -444,6 +444,9 @@ def rebuild_daily_db_from_report(date_str):
                     .replace("\\]", "]")
                     .replace("\\(", "(")
                     .replace("\\)", ")")
+                    .replace("\\{", "{")
+                    .replace("\\}", "}")
+                    .replace("\\*", "*")
                 )
 
             # 提取评分
@@ -489,6 +492,9 @@ def rebuild_daily_db_from_report(date_str):
                     .replace("\\]", "]")
                     .replace("\\(", "(")
                     .replace("\\)", ")")
+                    .replace("\\{", "{")
+                    .replace("\\}", "}")
+                    .replace("\\*", "*")
                 )
 
             # 提取摘要
@@ -507,6 +513,9 @@ def rebuild_daily_db_from_report(date_str):
                     .replace("\\]", "]")
                     .replace("\\(", "(")
                     .replace("\\)", ")")
+                    .replace("\\{", "{")
+                    .replace("\\}", "}")
+                    .replace("\\*", "*")
                 )
 
             # pub_date 无法从报告中恢复，设为 None
@@ -605,11 +614,57 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
             text = text.replace(r"$\gamma$", "gamma")
             # 处理其他可能的$符号（转义剩余的）
             text = text.replace("$", "\\$")
+            
+            # 处理 LaTeX 下标和上标标记（如 B_{c}^{+}）
+            # 先处理上标：^{...}
+            import re
+            # 处理上标 ^{xxx}  为 ^xxx
+            text = re.sub(r'\^\{([^}]*)\}', r'^\1', text)
+            # 处理下标 _{xxx} 为 _xxx  
+            text = re.sub(r'_\{([^}]*)\}', r'_\1', text)
+            
+            # 处理Unicode上标和下标字符（常见于科学文献）
+            # 上标：⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁺ ⁻ ⁼ ⁽ ⁾
+            text = text.replace("⁰", "^0")
+            text = text.replace("¹", "^1")
+            text = text.replace("²", "^2")
+            text = text.replace("³", "^3")
+            text = text.replace("⁴", "^4")
+            text = text.replace("⁵", "^5")
+            text = text.replace("⁶", "^6")
+            text = text.replace("⁷", "^7")
+            text = text.replace("⁸", "^8")
+            text = text.replace("⁹", "^9")
+            text = text.replace("⁺", "^+")
+            text = text.replace("⁻", "^-")
+            text = text.replace("⁼", "^=")
+            text = text.replace("⁽", "^(")
+            text = text.replace("⁾", "^)")
+            # 下标：₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
+            text = text.replace("₀", "_0")
+            text = text.replace("₁", "_1")
+            text = text.replace("₂", "_2")
+            text = text.replace("₃", "_3")
+            text = text.replace("₄", "_4")
+            text = text.replace("₅", "_5")
+            text = text.replace("₆", "_6")
+            text = text.replace("₇", "_7")
+            text = text.replace("₈", "_8")
+            text = text.replace("₉", "_9")
+            text = text.replace("₊", "_+")
+            text = text.replace("₋", "_-")
+            text = text.replace("₌", "_=")
+            text = text.replace("₍", "_(")
+            text = text.replace("₎", "_)")
+            
             return text
 
         # 标题转义
         title_escaped = (
             clean_math_symbols(title)
+            .replace("*", "\\*")
+            .replace("{", "\\{")
+            .replace("}", "\\}")
             .replace("@", "\\@")
             .replace("#", "\\#")
             .replace("<", "\\<")
@@ -622,6 +677,9 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         # 摘要转义
         abstract_text = (
             clean_math_symbols(abstract)
+            .replace("*", "\\*")
+            .replace("{", "\\{")
+            .replace("}", "\\}")
             .replace("@", "\\@")
             .replace("#", "\\#")
             .replace("<", "\\<")
@@ -635,6 +693,9 @@ def generate_daily_report(date_str, scored_articles, append_mode=False):
         reason = article.get("reason", "")
         reason_text = (
             clean_math_symbols(reason)
+            .replace("*", "\\*")
+            .replace("{", "\\{")
+            .replace("}", "\\}")
             .replace("@", "\\@")
             .replace("#", "\\#")
             .replace("<", "\\<")

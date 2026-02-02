@@ -3,7 +3,7 @@
 
 = 追觅 - 2026-01-28
 
-生成时间: #2026-01-28 22:39
+生成时间: #2026-02-02 14:32
 
 分析文章数量: #56
 
@@ -561,7 +561,7 @@
 - **DOI**: #10.1038/s41467-026-68830-5
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41593062/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260128173313&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究在光催化 CO₂ 转化领域提出了新颖的单原子催化剂设计，技术创新度高，但与血液疾病关联度低，阅读价值主要在于了解前沿材料化学与可持续能源的交叉进展。
+推荐理由: 该研究在光催化 CO_2 转化领域提出了新颖的单原子催化剂设计，技术创新度高，但与血液疾病关联度低，阅读价值主要在于了解前沿材料化学与可持续能源的交叉进展。
 
 摘要: Photocatalytic conversion of carbon dioxide to value-added chemicals, particularly multi-carbon products, offers a promising route toward carbon-neutral cycles. However, achieving high activity and selectivity remains extremely challenging due to the instability of key reaction intermediates and limited C-C coupling efficiency. Herein, we report a low-coordination manganese single-atom catalyst embedded in zinc sulfide \(Mn\(1\)-ZnS\(v\)\) that enables efficient and selective CO\(2\)-to-C\(2+\)...
 
@@ -611,7 +611,7 @@
 
 推荐理由: 该文在手性水胺的高效不对称合成方面提供了新方法，但与血液疾病的直接关联较弱，适合对有机合成感兴趣的血液学研究者了解最新技术。
 
-摘要: Chiral hydrazines are important building blocks in chiral drug molecules, N-amino peptides, and aza-heterocycles. The catalytic enantioconvergent N-alkylation of readily available hydrazine derivatives with various racemic alkyl halides offers a highly attractive route to chiral hydrazines. However, this process remains challenging due to the lack of efficient asymmetric catalytic systems and the difficulty in achieving regioselectivity at the N¹/N² positions of hydrazine derivatives. Herein, we...
+摘要: Chiral hydrazines are important building blocks in chiral drug molecules, N-amino peptides, and aza-heterocycles. The catalytic enantioconvergent N-alkylation of readily available hydrazine derivatives with various racemic alkyl halides offers a highly attractive route to chiral hydrazines. However, this process remains challenging due to the lack of efficient asymmetric catalytic systems and the difficulty in achieving regioselectivity at the N^1/N^2 positions of hydrazine derivatives. Herein, we...
 
 ---
 
@@ -641,9 +641,9 @@
 - **DOI**: #10.1038/s41467-025-67546-2
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41593053/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260128173313&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该文提出了有机混合离子‑电子导体 µC* 参数的测量误差问题，对材料表征方法有创新，但与血液疾病关联度低，阅读价值主要在于跨学科的技术参考。
+推荐理由: 该文提出了有机混合离子‑电子导体 µC\* 参数的测量误差问题，对材料表征方法有创新，但与血液疾病关联度低，阅读价值主要在于跨学科的技术参考。
 
-摘要: Figures of merit are used to translate science to technology. For organic mixed ionic-electronic conductors \(OMIECs\), the product of mobility and volumetric capacitance, i.e., the µC* product, is the figure of merit used to guide the development of technologies ranging from bioelectronics to neuromorphics. While organic electrochemical transistors \(OECTs\) are used extensively to measure the µC* product, if there is a kink in the transistor current, then the µC* product is overestimated. Here, we...
+摘要: Figures of merit are used to translate science to technology. For organic mixed ionic-electronic conductors \(OMIECs\), the product of mobility and volumetric capacitance, i.e., the µC\* product, is the figure of merit used to guide the development of technologies ranging from bioelectronics to neuromorphics. While organic electrochemical transistors \(OECTs\) are used extensively to measure the µC\* product, if there is a kink in the transistor current, then the µC\* product is overestimated. Here, we...
 
 ---
 

@@ -3,7 +3,7 @@
 
 = 追觅 - 2026-01-31
 
-生成时间: #2026-01-31 22:51
+生成时间: #2026-02-02 14:36
 
 分析文章数量: #82
 
@@ -113,7 +113,7 @@
 - **DOI**: #10.1016/j.cell.2025.12.043
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41616781/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260131172725&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究揭示了交感神经通过角质形成细胞调控皮肤驻留记忆 CD8⁺ T 细胞的机制，为癌症免疫监视提供新视角，值得血液免疫学研究者参考。
+推荐理由: 该研究揭示了交感神经通过角质形成细胞调控皮肤驻留记忆 CD8^+ T 细胞的机制，为癌症免疫监视提供新视角，值得血液免疫学研究者参考。
 
 摘要: Effective host defense and immunosurveillance at barrier tissues require coordinated functions of multiple cell types. Here, we show that in the skin, sympathetic nerves engage with epidermal keratinocytes to regulate the local density of tissue-resident memory CD8^\(+\) T \(T\(RM\)\) cells, thereby influencing regional cancer immunosurveillance. Sympathetic nerves do not communicate directly with CD8^\(+\) T\(RM\) cells. Instead, they form synapse-like structures near basal keratinocytes and dynamically...
 
@@ -296,7 +296,7 @@
 ---
 
 
-== #19. Clonal expansion of cytotoxic CD8⁺ T cells in lecanemab-associated ARIA
+== #19. Clonal expansion of cytotoxic CD8^+ T cells in lecanemab-associated ARIA
 
 - **研究分数**: #65
 - **社会影响**: #80
@@ -305,7 +305,7 @@
 - **DOI**: #10.1038/s41467-026-68921-3
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41617706/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260131172741&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究首次通过多组学手段揭示 ARIA 与外周 CD8⁺ T 细胞重编程的关联，创新性强且与阿尔茨海默病的公共健康关注度高，值得血液免疫学研究者参考。
+推荐理由: 该研究首次通过多组学手段揭示 ARIA 与外周 CD8^+ T 细胞重编程的关联，创新性强且与阿尔茨海默病的公共健康关注度高，值得血液免疫学研究者参考。
 
 摘要: Amyloid-related imaging abnormalities \(ARIA\) are the principal safety concern limiting anti-amyloid therapies for Alzheimer's disease, yet their biology remains unclear. Here we show, through multi-omic profiling of peripheral blood from three ARIA+ patients and matched controls, that ARIA is associated with coordinated reprogramming of CD8 + T cells. CD8+ effector memory \(TEM\) and terminally differentiated \(TEMRA\) subsets were expanded, clonally enriched, and transcriptionally primed for...
 
@@ -488,7 +488,7 @@
 ---
 
 
-== #31. Observation of B_{c}^{+}→Dh^{+}h^{-} Decays
+== #31. Observation of B_c^+→Dh^+h^- Decays
 
 - **研究分数**: #85
 - **社会影响**: #20
@@ -497,9 +497,9 @@
 - **DOI**: #10.1103/fsj9-89jt
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41616350/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260131172630&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该研究首次观测到多种 B_c⁺ → D h⁺h⁻ 衰变，展示了高能实验的创新与严谨方法，虽与血液疾病关联不大，但对基础粒子物理研究具有参考价值。
+推荐理由: 该研究首次观测到多种 B_c^+ → D h^+h^- 衰变，展示了高能实验的创新与严谨方法，虽与血液疾病关联不大，但对基础粒子物理研究具有参考价值。
 
-摘要: Searches are presented for B_{c}^{+}→Dh^{+}h^{-} decays, where D is a charmed meson and h^{±} is a charged pion or kaon, using pp collision data collected by the LHCb experiment corresponding to an integrated luminosity of 9 fb^{-1}. The decays B_{c}^{+}→D^{+}K^{+}π^{-}, B_{c}^{+}→D^{*+}K^{+}π^{-}, and B_{c}^{+}→D_{s}^{+}K^{+}K^{-} are observed for the first time. Their branching fractions, expressed as ratios relative to that of the B_{c}^{+}→B_{s}^{0}π^{+} decay, are determined to be...
+摘要: Searches are presented for B_c^+→Dh^+h^- decays, where D is a charmed meson and h^± is a charged pion or kaon, using pp collision data collected by the LHCb experiment corresponding to an integrated luminosity of 9 fb^-1. The decays B_c^+→D^+K^+π^-, B_c^+→D^\*+K^+π^-, and B_c^+→D_s^+K^+K^- are observed for the first time. Their branching fractions, expressed as ratios relative to that of the B_c^+→B_s^0π^+ decay, are determined to be...
 
 ---
 
@@ -579,7 +579,7 @@
 
 推荐理由: 该研究揭示了TNC‑驱动的成纤维细胞向肌成纤维细胞转化机制，对血管损伤和再狭窄的基础研究具有创新价值，但与血液疾病关联度较低，阅读价值主要在于了解血管重塑的分子机制。
 
-摘要: Neointimal hyperplasia \(NIH\) is a major pathological feature of vascular injury, yet its cellular and molecular drivers remain elusive. Here, using a mouse model of ligation-induced carotid artery NIH, we identify a population of Tenascin C-expressing \(Tnc⁺\) myofibroblasts \(MF\). We demonstrate a TNC-driven transition of adventitial fibroblasts \(AF\) into Tnc⁺ MFs via integrin αvβ1, initiating a positive feedback loop that sustains MF accumulation. In vitro, Tnc⁺ MFs enhance neurite outgrowth, and...
+摘要: Neointimal hyperplasia \(NIH\) is a major pathological feature of vascular injury, yet its cellular and molecular drivers remain elusive. Here, using a mouse model of ligation-induced carotid artery NIH, we identify a population of Tenascin C-expressing \(Tnc^+\) myofibroblasts \(MF\). We demonstrate a TNC-driven transition of adventitial fibroblasts \(AF\) into Tnc^+ MFs via integrin αvβ1, initiating a positive feedback loop that sustains MF accumulation. In vitro, Tnc^+ MFs enhance neurite outgrowth, and...
 
 ---
 
@@ -851,7 +851,7 @@
 
 推荐理由: 该文介绍的高通量噬菌体筛选平台在方法学上具备创新性，可为血液感染及相关血液病的噬菌体治疗提供技术参考，值得一读。
 
-摘要: We present the high-throughput automated screening techniques that are being used to develop bacteriophage-based therapeutic products currently under investigation in human clinical trials to combat urinary tract infections¹. By integrating modern liquid handling robotics, standardized phenotypic assays, and computer vision-based enumeration, we established a platform capable of reproducibly screening large collections of phages against clinically derived bacterial strain panels. This approach...
+摘要: We present the high-throughput automated screening techniques that are being used to develop bacteriophage-based therapeutic products currently under investigation in human clinical trials to combat urinary tract infections^1. By integrating modern liquid handling robotics, standardized phenotypic assays, and computer vision-based enumeration, we established a platform capable of reproducibly screening large collections of phages against clinically derived bacterial strain panels. This approach...
 
 ---
 
@@ -915,7 +915,7 @@
 
 推荐理由: 该研究在低背景液氩环境下的高纯锗探测技术具有前沿创新性，但与血液疾病关联度较低，主要适用于基础粒子物理领域。若关注血液学的研究者，可略作了解其技术潜在的跨学科应用。
 
-摘要: The LEGEND Collaboration is searching for neutrinoless double-beta \(0νββ\) decay by operating high-purity germanium detectors enriched in ^{76}Ge in a low-background liquid argon environment. Building on key technological innovations from the GERmanium Detector Array \(GERDA\) experiment and the MAJORANA DEMONSTRATOR experiment, LEGEND-200 has performed a first 0νββ decay search based on 61.0 kg yr of data. Over half of this exposure comes from our highest performing detectors, including newly...
+摘要: The LEGEND Collaboration is searching for neutrinoless double-beta \(0νββ\) decay by operating high-purity germanium detectors enriched in ^76Ge in a low-background liquid argon environment. Building on key technological innovations from the GERmanium Detector Array \(GERDA\) experiment and the MAJORANA DEMONSTRATOR experiment, LEGEND-200 has performed a first 0νββ decay search based on 61.0 kg yr of data. Over half of this exposure comes from our highest performing detectors, including newly...
 
 ---
 
@@ -1032,7 +1032,7 @@
 ---
 
 
-== #65. First Observation of CP Violation and Measurement of Polarization in B^{+}→ρ\(770\)^{0}K^{*}\(892\)^{+} Decays
+== #65. First Observation of CP Violation and Measurement of Polarization in B^+→ρ\(770\)^0K^\*\(892\)^+ Decays
 
 - **研究分数**: #85
 - **社会影响**: #20
@@ -1041,9 +1041,9 @@
 - **DOI**: #10.1103/9zhl-kkwg
 - **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41616362/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260131172630&v=2.18.0.post22+67771e2")[查看原文]
 
-推荐理由: 该文首次观测到 B⁺→ρ⁰K*⁺ 的 CP 破坏，实验方法严谨、数据量大，对粒子物理学前沿有重要价值，但与血液疾病关联度极低，血液学研究者可酌情阅读。
+推荐理由: 该文首次观测到 B^+→ρ^0K\*^+ 的 CP 破坏，实验方法严谨、数据量大，对粒子物理学前沿有重要价值，但与血液疾病关联度极低，血液学研究者可酌情阅读。
 
-摘要: An amplitude analysis of the B^{+}→\(π^{+}π^{-}\)\(K_{S}^{0}π^{+}\) decay is performed in the mass regions 0.30\<1.10 GeV/c^{2} and 0.75\<1.20 GeV/c^{2}, using pp collision data recorded with the LHCb detector corresponding to an integrated luminosity of 9 fb^{-1}. The polarization fractions and CP asymmetries for B^{+}→ρ\(770\)^{0}K^{*}\(892\)^{+} decays are measured. Violation of the CP symmetry in the decay B^{+}→ρ\(770\)^{0}K^{*}\(892\)^{+} is observed for the first time,...
+摘要: An amplitude analysis of the B^+→\(π^+π^-\)\(K_S^0π^+\) decay is performed in the mass regions 0.30\<1.10 GeV/c^2 and 0.75\<1.20 GeV/c^2, using pp collision data recorded with the LHCb detector corresponding to an integrated luminosity of 9 fb^-1. The polarization fractions and CP asymmetries for B^+→ρ\(770\)^0K^\*\(892\)^+ decays are measured. Violation of the CP symmetry in the decay B^+→ρ\(770\)^0K^\*\(892\)^+ is observed for the first time,...
 
 ---
 
