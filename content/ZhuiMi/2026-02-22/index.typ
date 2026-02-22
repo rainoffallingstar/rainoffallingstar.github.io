@@ -1,0 +1,1129 @@
+#import "../../../config.typ": template, tufted
+#show: template.with(title: "追觅 - 2026-02-22")
+
+= 追觅 - 2026-02-22
+
+生成时间: #2026-02-22 23:28
+
+分析文章数量: #70
+
+
+== #1. Observation of the Rare Baryonic Decay B^+→pΛ\[over ¯\] and Measurement of its Weak Decay Parameter
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1103/fj4q-t8jg
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723698/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The first observation of the decay B^+→pΛ\[over ¯\] is presented using proton-proton collision data collected by the LHCb experiment between 2016 and 2018 at a center-of-mass energy of 13 TeV, corresponding to an integrated luminosity of 5.4 fb^-1. The signal significance exceeds seven standard deviations. Using the B^+→K_S^0π^+ decay as a normalization channel, the branching fraction is measured and combined with previous LHCb results based on data collected at 7 and 8 TeV in 2011 and...
+
+---
+
+
+== #2. Monocytes acquire a tumor-associated IL1B program upon encountering patient-derived colon cancer organoids
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1080/2162402X.2026.2633012
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723598/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Tumor-associated macrophages \(TAMs\) and monocytes that accumulate in colorectal cancer \(CRC\) play a crucial role in shaping the tumor microenvironment \(TME\) and anti-tumor immune responses. Although TAMs have been linked to both pro- and anti-tumor functions, our understanding of the cues instructing their heterogeneous phenotypes and function in cancer patients remains limited. Here, we established co-cultures comprising primary human monocytes and patient-derived organoids \(PDOs\) from patients...
+
+---
+
+
+== #3. Allogeneic stem cell transplantation for major T-cell lymphoma entities: an analysis of the EBMT-lymphoma working party
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1186/s13045-026-01783-w
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723532/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: CONCLUSION: Allo-SCT is a valid treatment option in relapsed/refractory PTCL where targeted therapies still play a limited role. Patients with AITL survived significantly better than patients with PTCL NOS or ALK-negative ALCL following a significantly lower RI, also when comparing CR/complete metabolic response \(CMR\) and PR patients separately. Higher age and non-CR at allo-SCT are associated with worse outcomes.
+
+---
+
+
+== #4. Companionship at hospital discharge and its association with subsequent delirium onset in older adults - the TRADE observational study
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1186/s12877-026-07194-3
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723367/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: No abstract
+
+---
+
+
+== #5. Impact of TP53, KEAP1 and STK11 mutations in localized-stage NSCLC: A European thoracic oncology platform lungscape project
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.ejca.2026.116583
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723072/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: CONCLUSIONS: TP53-d and STK11 mutations might have a predictive impact in localized-stage NSCLC, but further investigation is needed. KEAP1 mutations associate with worse outcomes, especially in patients receiving adjuvant chemotherapy.
+
+---
+
+
+== #6. Performance of the Wellcogen S. pneumoniae antigen testing performed on blood cultures for the identification of Streptococcus pneumoniae
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.pathol.2025.10.013
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723052/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: No abstract
+
+---
+
+
+== #7. The Sex-Dependent Relationship between Amygdala Activation and Depressive Symptoms with Problematic Drinking
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.biopsych.2026.02.007
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722886/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: CONCLUSIONS: Taken together, our findings reveal sex differences in negative emotional processing in at-risk adolescents. These associations have the potential to inform the development of sex-specific strategies as well as the detection of early neuronal risk factors to effectively curtail alcohol risk behavior.
+
+---
+
+
+== #8. Hydrogel and Oleogel Formulation of the Decapeptide Cetrorelix Acetate for nasal Administration
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.ejps.2026.107482
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722737/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: An oleogel and a hydrogel formulation were developed for nasal administration of the decapeptide Cetrorelix Acetate \(CxAc\) as non-invasive alternative to invasive routes of administration. The 2 formulations were characterised in vitro and pharmacokine-tically investigated in vivo in rats. Porous silica carriers were loaded with different peptide concentrations and formulated into the oleogel matrix consisting of castor oil, Labrafil® M 1944 CS and Aerosil® 200. In the hydrogel formulation...
+
+---
+
+
+== #9. The difference between hazard and risk: the dose range prevalent in toxicological studies vs real life fragrance exposure
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.yrtph.2026.106063
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722700/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Ensuring the safety of fragrances is a priority for both consumers and industry. The Research Institute for Fragrance Materials \(RIFM\) conducts risk assessments using a transparent framework. In the past, evaluating systemic toxicity relied on animal studies mandated by regulatory requirements; however, RIFM has not conducted new animal toxicity studies for over a decade. Of note, the doses used in these studies far exceed everyday exposure to fragrance ingredients. While toxicologists recognize...
+
+---
+
+
+== #10. Intensive rehabilitation after subacute spinal cord injury: more is not always better
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/S1474-4422(26)00042-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722575/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: No abstract
+
+---
+
+
+== #11. Progression-free survival with darolutamide and docetaxel vs. androgen receptor pathway inhibitors vs. docetaxel in metastatic hormone-sensitive prostate cancer: A real-world multicenter retrospective study
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.urolonc.2026.111028
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722488/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: CONCLUSIONS: In this IPTW-adjusted real world cohort, triplet therapy was not significantly associated with improved PFS compared to ARPI + ADT or docetaxel + ADT. These findings should be interpreted in the context of limited sample size and follow-up, and further prospective studies are warranted.
+
+---
+
+
+== #12. The role of sagittal tibial tubercle-trochlear groove distance in patellofemoral joint loading: a computational modeling analysis
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.knee.2026.104392
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722484/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20260222172837&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: CONCLUSION: sTT-TG is a biomechanically relevant, flexion-dependent parameter for assessing PF joint loading, but its interpretation must consider patella and joint line height.
+
+---
+
+
+== #13. Multi-species integration, alignment and annotation of single-cell RNA-seq data with CAMEX
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69696-3
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723123/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1x5bM_TNL8gjogAcnslpo2s2PbDe-61JVM2h9yowOYSiZ7Dkrt&fc=20220919211934&ff=20260222172846&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Single-cell RNA-seq \(scRNA-seq\) data from multiple species present remarkable opportunities to explore cellular origins and evolution. However, integrating and annotating scRNA-seq data across different species remains challenging due to the variations in sequencing techniques, ambiguity of homologous relationships, and limited biological knowledge. To tackle the above challenges, we introduce CAMEX, a heterogeneous Graph Neural Network \(GNN\) tool that leverages many-to-many homologous...
+
+---
+
+
+== #14. Infliximab Monotherapy Versus Infliximab and Azathioprine Combination Therapy in Patients with Ulcerative Colitis: A Cost-Effectiveness Analysis
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1007/s10620-026-09761-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723800/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Rkszs2HVZ2RHP33OibaNFew6VK-LzjJWTD4GwmLlk8B-wCceh&fc=20220923065203&ff=20260222172849&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: CONCLUSIONS: Combination therapy with IFX and AZA is a cost-saving strategy for moderate-to-severe UC, providing superior outcomes and lower costs compared to IFX monotherapy. Both 1-year and continuous combination therapy achieve comparable health outcomes. Short-term combination therapy may be preferable, as it captures the benefits of improved UC management while avoiding the deleterious effects of long-term exposure to thiopurines.
+
+---
+
+
+== #15. Cytokine polarized natural killer T cells modulate effector T cell function in leprosy
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.cyto.2026.157130
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722150/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1F9sM2NQANFpLi9OvnfRdYHheZqf8DLnVYHStxgo7gFww4osJ6&fc=20241228222515&ff=20260222172914&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Leprosy, caused by Mycobacterium leprae, presents a clinical spectrum reflecting distinct host immune responses. Tuberculoid/borderline tuberculoid \(TT/BT\) patients exhibit Th1-skewed granulomatous immunity with restricted bacillary spread, whereas lepromatous/borderline lepromatous \(LL/BL\) patients display Th2 dominant responses with disseminated disease and high bacterial load. While Th1/Th2 polarization is well established, the contribution of Natural Killer T \(NKT\) cells to disease...
+
+---
+
+
+== #16. The Histone-Modified Landscape: Core Mechanisms of Osimertinib Resistance in EGFR-Mutant Lung Cancer
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.canlet.2026.218321
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722838/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260222172921&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Despite the transformative impact of osimertinib as a cornerstone targeted therapy for advanced EGFR-mutant non-small cell lung cancer, the emergence of acquired resistance ultimately limits its long-term efficacy. While genetic alterations, tumor microenvironment dynamics, and cancer stem cells contribute to resistance, they inadequately explain its rapid adaptive evolution. This critical knowledge gap points to an underexplored dimension of resistance: the dynamic reprogramming of the...
+
+---
+
+
+== #17. H3K18 Lactylation in Salivary Gland Epithelial Cells Regulates Autophagy and Is Associated With the Progression of Sjogren's Syndrome
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.labinv.2026.106089
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722651/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lKnPBUS1ZV6VcB-3tMGp_nRl5xXnzyBdfNbDjso-BJT_eREok&fc=20241228220547&ff=20260222172921&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Abnormal signal transduction within glandular epithelial cells is a pathological feature of advanced Sjögren's syndrome \(SS\). Preliminary investigations have demonstrated that the progression of SS is marked by a substantial accumulation of metabolic byproducts, notably lactate, in the salivary glands. This study corroborated the accumulation of lactate within the salivary glands by analyzing peripheral blood and lip gland tissues samples from SS patients in addition to constructing an...
+
+---
+
+
+== #18. Allogeneic stem cell transplantation for major T-cell lymphoma entities: an analysis of the EBMT-lymphoma working party
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1186/s13045-026-01783-w
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723532/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101468937&fc=None&ff=20260222172928&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: CONCLUSION: Allo-SCT is a valid treatment option in relapsed/refractory PTCL where targeted therapies still play a limited role. Patients with AITL survived significantly better than patients with PTCL NOS or ALK-negative ALCL following a significantly lower RI, also when comparing CR/complete metabolic response \(CMR\) and PR patients separately. Higher age and non-CR at allo-SCT are associated with worse outcomes.
+
+---
+
+
+== #19. The Histone-Modified Landscape: Core Mechanisms of Osimertinib Resistance in EGFR-Mutant Lung Cancer
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.canlet.2026.218321
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722838/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260222172930&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Despite the transformative impact of osimertinib as a cornerstone targeted therapy for advanced EGFR-mutant non-small cell lung cancer, the emergence of acquired resistance ultimately limits its long-term efficacy. While genetic alterations, tumor microenvironment dynamics, and cancer stem cells contribute to resistance, they inadequately explain its rapid adaptive evolution. This critical knowledge gap points to an underexplored dimension of resistance: the dynamic reprogramming of the...
+
+---
+
+
+== #20. H3K18 Lactylation in Salivary Gland Epithelial Cells Regulates Autophagy and Is Associated With the Progression of Sjogren's Syndrome
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.labinv.2026.106089
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722651/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZcXDdiuMGSeBMD4n4vaay1H24OfK1h8dbyBhYj9A5IZBkugun&fc=20241228214438&ff=20260222172930&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Abnormal signal transduction within glandular epithelial cells is a pathological feature of advanced Sjögren's syndrome \(SS\). Preliminary investigations have demonstrated that the progression of SS is marked by a substantial accumulation of metabolic byproducts, notably lactate, in the salivary glands. This study corroborated the accumulation of lactate within the salivary glands by analyzing peripheral blood and lip gland tissues samples from SS patients in addition to constructing an...
+
+---
+
+
+== #21. Hyperactivation of sympathetic nerves fuels basophil infiltration in atopic dermatitis
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.immuni.2026.01.010
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722568/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260222172936&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Emotional stress exacerbates atopic dermatitis \(AD\) and contributes to overall disease burden. While sympathetic nervous system \(SNS\) activity broadly interacts with emotional states, its role in skin immunity remains underexplored. Using a murine model of AD-like disease, we demonstrated that skin inflammation triggered anxiety-like behaviors and hyperactivation of peripheral SNS innervating the affected skin. Disruption of peripheral SNS signaling, either by denervation or anxiety-relief...
+
+---
+
+
+== #22. Modeling lipid homeostasis using stable isotope tracing and flux analysis
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1016/j.cmet.2026.01.020
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41722571/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101233170&fc=None&ff=20260222172938&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Lipids enable compartmentation and coordinate membrane-localized signaling events in cells, and dysregulation of lipid metabolism is linked to many disease states. However, limited tools are available for quantifying metabolic fluxes across the lipidome. To measure fluxes encompassing lipid homeostasis in cells and tissue slices, we apply stable isotope tracing, liquid chromatography-high-resolution mass spectrometry, and network-based isotopologue modeling to non-small cell lung cancer \(NSCLC\)...
+
+---
+
+
+== #23. Photonic non-Abelian topological insulators with six bands
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69887-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723196/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Non-Abelian topological insulators are multi-band systems, satisfying parity-time symmetry, characterized by fully gapped bands and whose topological charges are non-Abelian quaternions. These systems provide a richer landscape of edge and domain-wall states compared to that predicted by the Zak phase framework for Abelian topological insulators. Although non-Abelian topological insulators have been demonstrated in some proof-of-concept platforms, their realization in a photonic platform, where...
+
+---
+
+
+== #24. Engineering biomimetic chloride channels in ultramicroporous hydrogen-bonded organic framework membranes for high-salinity wastewater valorization
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69947-3
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723195/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Biological ion channels exemplify nature's high-efficiency ion selectivity filters, yet replicating their functional architectures in synthetic membranes remains a fundamental challenge. Here, we report an ultramicroporous hydrogen-bonded organic framework membrane that structurally emulates the CLC chloride filter. Its channels exhibit size adaptability to anions and incorporate hydrogen-bond donors that provide "low-viscosity" compensatory interactions, thereby alleviating anion dehydration...
+
+---
+
+
+== #25. VAMP7-dependent late endosomal secretion of ER and mitochondrial proteins impacts the tumor microenvironment and macrophage engagement
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69900-4
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723185/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Late endosomal secretion is an unconventional secretion mechanism that depends on the SNARE protein VAMP7. We previously showed that VAMP7 mediates the secretion of the ER protein Reticulon3. However, the functional relevance and molecular mechanism of this secretory pathway remain unclear. Here, we show that VAMP7 knockout cells exhibit impaired secretion of ER- and mitochondrial-derived proteins and signs of ER and mitochondrial stress. In addition, pharmacological induction of organellar...
+
+---
+
+
+== #26. Brain-inspired synaptic transistors for in-situ spiking reinforcement learning with eligibility trace
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69898-9
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723182/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Brain-inspired reinforcement learning is pivotal for artificial general intelligence, yet current artificial neural network-based hardware lacks critical biological mechanisms like third-terminal modulated eligibility traces and dynamic reward signaling. Emerging materials address these challenges by efficiently mimicking complex reinforcement learning dynamics. Here, we demonstrate a brain-inspired spiking neural network-based reinforcement learning computing architecture using α-In\(2\)Se\(3\)...
+
+---
+
+
+== #27. Self-driven recycling of spent Li-ion battery materials with electricity generation
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69868-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723181/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Spent lithium-ion batteries \(LIBs\) provide a valuable source of critical metals for cathode material production. However, the prevalent recycling technologies focus on processing only one type of spent cathode material, demanding high energy input and significant chemical consumption, which raises both environmental and economic concerns. Here, we propose a complementary redox-mediated recycling strategy for multiple types of spent cathode materials using a redox-targeting flow cell design. In...
+
+---
+
+
+== #28. CRAGE-RB-PI-seq reveals transcriptional dynamics of plant-associated bacteria during root colonization
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69903-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723172/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Plant roots release a wide array of metabolites into the rhizosphere, shaping microbial communities and their functions. While metagenomics has expanded our understanding of these communities, little is known about the physiology of their members in host environments. Transcriptome analysis via RNA sequencing is a common approach to learning more, but its use has been challenging because of low bacterial biomass and interference from plant RNA. To overcome this, we developed a randomly-barcoded...
+
+---
+
+
+== #29. Small heterodimer partner protects against osteoarthritis by inhibiting IKKβ/NF-κB-mediated matrix-degrading enzymes in chondrocytes
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69864-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723166/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Osteoarthritis \(OA\), characterised by cartilage destruction, is the most common degenerative joint disease. However, no effective disease-modifying OA therapy is currently available. Herein, we report orphan nuclear receptor small heterodimer partner \(SHP, NR0B2\) as a novel catabolic regulator of OA pathogenesis. NR0B2 expression was markedly downregulated in cartilage from patients with OA. Global or chondrocyte-specific Nr0b2 deletion in male mice exacerbated OA-related pain and structural...
+
+---
+
+
+== #30. RORγt\<sup\>+\</sup\> APCs require a distinct cis-regulatory element to instruct tolerance to dietary antigens
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69886-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723158/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Oral tolerance represents a hallmark of intestinal mucosal immunity to prevent inflammatory responses to harmless natural antigens, such as dietary components or commensal organisms. According to recent studies, RORγt^\(+\) antigen-presenting cell \(APC\) contributes to intestinal homeostasis, including oral tolerance, through inducing microbiota- and dietary antigen-specific Tregs. Here we identify a cis transcriptional regulatory element that distinguishes RORγt^\(+\) APCs from other of RORγt^\(+\)...
+
+---
+
+
+== #31. Crafting moiré superlattices in twisted complex oxide-transition metal dichalcogenide heterostructures
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69773-7
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723157/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Moiré superlattices, arising from overlaying atomic layers with slight mismatch or rotation, have transformed the study of emergent electronic and quantum phenomena beyond those of the constituent materials. Expanding this paradigm, here we demonstrate moiré superlattice formation at the interface between strongly correlated oxides and two-dimensional layered materials. The integration of complex oxides, a classic family of strongly correlated electron systems with transition metal...
+
+---
+
+
+== #32. Engineering non-exponential proliferation in Escherichia coli using functionalized protein aggregates
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69334-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723156/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Microbes naturally grow exponentially, but this trait might not always be desirable for applications with genetically modified microorganisms. Especially in microorganisms engineered for therapeutic applications, uncurbed exponential proliferation might cause unpredictable liabilities in their behavior that in turn compromise their dosing and biocontainment. In an effort to fundamentally reprogram population growth dynamics, we constructed a bacterial chassis that adheres to linear proliferation...
+
+---
+
+
+== #33. Formation of charge-polarized regions at dual single-atom sites for C-H bond activation in methane
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69822-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723155/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Direct conversion of CH\(4\) into liquid oxygenates under mild conditions is of great significance but remains challenging due to the high dissociation energy of inert C-H bond. Here we report the fabrication of a dual atomic Fe and Pd catalyst with periodic macroporous structure \(Fe\(1\)-Pd\(1\) OMNC\) toward the direct CH\(4\) conversion at room temperature. Mechanism studies reveal that a charge polarization region \(O^\(δ-\)-Fe-Pd^\(δ+\)\) is formed in-situ on Fe-Pd atomic sites upon oxidant activation,...
+
+---
+
+
+== #34. Survival of cyanobacteria and mitigation of Fe\(II\) toxicity effects in a silica-rich Archean ocean
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69826-x
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723153/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Banded iron formations \(BIF\) were deposited abundantly between 2.7-2.4 Ga from iron- and silica-rich oceans, with cyanobacterial oxygen \(O\(2\)\) as a possible oxidant for Fe\(II\)\(\(aq\)\) oxidation and Fe\(III\) oxyhydroxide precipitation. However, toxic reactive oxygen species \(ROS\) from Fe\(II\)/O\(2\) interactions might have inhibited cyanobacterial growth, contributing to the delay between cyanobacterial evolution \(\>3.0 Ga\) and the Great Oxidation Event \(2.5 Ga\). Here, we explored the impact of...
+
+---
+
+
+== #35. Multi-ancestry GWAS of age-related hearing loss identifies 140 loci and key cellular mechanisms
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69894-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723152/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Age-related hearing loss is a prevalent and growing public health issue among the elderly. Here, we perform a multi-ancestry genome-wide association study comprising 456,613 cases and 1,053,834 controls, identifying 140 independent loci associated with age-related hearing loss, including 44 novel signals. We further fine-map 9 likely causal missense variants for age-related hearing loss and provide evidence of purifying selection for age-related hearing loss-associated variants. Notably, genetic...
+
+---
+
+
+== #36. Modulated metal-support interactions for efficient nitrate electroreduction at positive potentials
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69802-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723151/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Electrochemical nitrate upgrading presents a sustainable route for repairing unbalanced nitrogen cycle. However, the low energy efficiency caused by high overpotential impedes the industrialization progress. Herein, Ru clusters supported on metal hydroxide are constructed by a universal self-corrosion strategy, and the metal-support interaction is modulated to simultaneously optimize NO\(3\)^\(-\) adsorption and water dissociation for achieving high energy efficiency at positive potentials. The...
+
+---
+
+
+== #37. Identification of ephrin-A1-EphA2 signalling as a potential target for fracture prevention
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69863-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723149/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Osteoporotic fractures are a major global health burden. To uncover potential targets for fracture prevention, we use a proteome-wide Mendelian randomization \(MR\) approach combined with colocalization. Here we show that nine circulating proteins associate with forearm fracture risk, including sclerostin and osteoprotegerin targeted by existing osteoporosis treatments, and three other known bone-related proteins, providing proof of concept for our MRpipeline. Notably, we identify ephrin-A1 as a...
+
+---
+
+
+== #38. Soft photo-ionotronics
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69427-8
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723147/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The ability to control the movement of charged species in the circuitry of living beings and machines is essential for complex signal processing, computation, and, ultimately, higher functionality. We describe a class of photo-ion generators \(PIGs\) based on non-ionic photoacids that can create large \(\> 1000x\) irreversible changes in ionic conductivity under illumination, depending on the PIG species, concentration, and solvent. Incorporation of PIGs into elastomers by simple swelling methods...
+
+---
+
+
+== #39. Recurrent introgression and geographical stratification shape Saccharomyces cerevisiae in the Neotropics
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69138-0
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723146/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: From yeasts to humans, introgressive hybridization significantly influences the evolutionary history of living organisms by introducing new genetic diversity. Strains of Saccharomyces cerevisiae worldwide exhibit introgressions from the sister species S. paradoxus, despite the average sequence identity between these species being lower than 90%. While S. cerevisiae isolates from the Neotropics are known for their high levels of introgression, the hybridization events originating them remain...
+
+---
+
+
+== #40. Photooxidative Copper\(II\) Catalysis for Promoting anti-Markovnikov Hydration of Alkenes
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69807-0
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723144/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Photoredox catalysis enables the generation of radical intermediates under mild conditions, yet photoredox catalysts have heavily relied on precious transition metal complexes. Therefore, the development of photocatalysts based on earth-abundant metals is increasingly demanded. Here, we report a highly photooxidative capability of a heteroleptic copper\(II\) complex for promoting anti-Markovnikov hydration of alkenes. The copper\(II\) complex containing bathophenanthroline and...
+
+---
+
+
+== #41. Synthesis of covalent organic frameworks for photocatalytic hydrogen peroxide production guided by large language models
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69549-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723143/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The photosynthetic production of hydrogen peroxide \(H\(2\)O\(2\)\) from water and oxygen presents a sustainable alternative to the energy-intensive anthraquinone process. Covalent organic frameworks \(COFs\) have emerged as promising photocatalysts for H\(2\)O\(2\) generation. However, most existing COF photocatalysts yield H\(2\)O\(2\) at concentrations too low for practical applications, largely due to ongoing challenges in simultaneously optimizing photocatalytic activity and structural stability. Here, we...
+
+---
+
+
+== #42. Localized quasiparticles in a fluxonium with quasi-two-dimensional amorphous kinetic inductors
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69709-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723142/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Disordered superconducting materials with high kinetic inductance are an important resource for generating nonlinearity in quantum circuits and creating high-impedance environments. In thin films fabricated from these materials, the combination of disorder and low effective dimensionality leads to increased order parameter fluctuations and enhanced kinetic inductance values. Among the challenges of harnessing these compounds in coherent devices are their proximity to the superconductor-insulator...
+
+---
+
+
+== #43. Spatial perturb-seq: single-cell functional genomics within intact tissue architecture
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69677-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723140/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: We develop Spatial Perturb-Seq, an in vivo CRISPR technology that interrogates multiple genes within single cells of intact tissues, compatible with both sequencing-based and probe-based spatial technologies. We apply Spatial Perturb-Seq to knock out risk genes for neurodegenerative diseases in the mouse brain, uncovering cell autonomous and cell-cell microenvironmental effects within the spatially intact tissue. Spatial Perturb-Seq functionally screens multiple genes in situ and in vivo,...
+
+---
+
+
+== #44. Light-induced assembly and repeatable actuation in Ca\<sup\>2+\</sup\>-driven chemomechanical protein networks
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69651-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723139/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Programming rapid, repeatable motions in soft materials has remained a challenge in active matter and biomimetic design. Here, we present a light-controlled chemomechanical network based on Tetrahymena thermophila calcium-binding protein 2 \(Tcb2\), a Ca^\(2+\)-sensitive contractile protein. These networks-driven by Ca^\(2+\)-triggered structural rearrangements-exhibit dynamic self-assembly, spatiotemporal growth, and contraction rates comparable to actomyosin systems. By coupling light-sensitive...
+
+---
+
+
+== #45. Shared Genetic Liability across Systems of Psychiatric and Physical Illness
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69218-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723138/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Epidemiological literature describes widespread psychiatric-physical comorbidity. However, the extent to which observed bivariate risk is transdiagnostic remains uncertain. We apply Genomic SEM and introduce Genomic E-SEM, an exploratory factor-analytic extension of Genomic SEM, here applied to 73 physical outcomes \(~1.9 million cases\) across eight medical domains. We then modeled latent physical illness factors alongside previously identified psychiatric factors. Thought/psychotic and...
+
+---
+
+
+== #46. Intestinal interleukin-22 enhances GLP-1 production via the STAT3 pathway to improve glucose homeostasis during high-fat diet induced obesity in a study with male mice
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69734-0
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723134/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Metabolic disorders such as obesity and diabetes are influenced by glucagon-like peptide-1 \(GLP-1\), which regulates insulin secretion. Interleukin \(IL\)-22 maintains intestinal barrier function, yet its role in metabolic regulation remains unclear. Here, we show that intestinal IL-22 deficiency reduces GLP-1 production and impairs glucose tolerance in high-fat diet-fed male mice, whereas long-term IL-22 administration restores GLP-1 levels, improves glucose tolerance, and normalizes insulin...
+
+---
+
+
+== #47. Thin film lithium niobate on sapphire for integrated mid-infrared modulator
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69880-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723133/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The mid-infrared spectrum, spanning from 3 to 14 µm, holds great promise for molecular spectroscopy and free space optical communication, benefiting from strong molecular absorption and reduced atmospheric attenuation. While progress in MIR photonics has accelerated due to improved sources and detectors, integrated low-loss, high -performance modulators remain limited. In order to address this gap, we demonstrate a broadband, high speed lithium niobate on sapphire Mach Zehnder electro optic...
+
+---
+
+
+== #48. Mast-cell derived nerve growth factor drives ILC2 pro-tumoral functions in bladder cancer
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69841-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723132/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Innate lymphoid cells type 2 \(ILC2s\) are key regulators of tissue homeostasis and inflammation. In cancer, ILC2s can exhibit pro-tumoral functions by increasing the myeloid derived suppressor cells \(MDSC\)/T-cell ratio. Nevertheless, the upstream ILC2 triggers remain poorly defined. Here, we identify nerve growth factor \(NGF\) as the driver of ILC2 pro-tumoral functions in patients with bladder cancer. We show that ILC2s express the NGF receptor TrkA and respond to NGF by secreting type-2...
+
+---
+
+
+== #49. Photocatalytic four-component reaction to access covalent organic frameworks for photocatalysis
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69824-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723131/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Photocatalytic four-component reaction is an efficient and environmentally friendly synthetic strategy known for its step economy and operational simplicity, enabling the preparation of diverse organic products. However, its application in synthesizing covalent organic frameworks \(COFs\) remains unexplored. Here, we report the rational synthesis of a class of functionalized COFs with high crystallinity and permanent porosity via the photocatalytic four-component reaction. This strategy not only...
+
+---
+
+
+== #50. Auditing unauthorized training data from AI generated content using information isotopes
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-68862-x
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723130/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The rapid growth of AI systems has been fueled by large-scale human data, intensifying concerns over the unauthorized use of intellectual property and privacy-sensitive content during model training. Auditing such misuse is particularly challenging since mainstream AI services operate as black boxes, exposing only generated outputs while concealing their training and inference processes. In this work, inspired by chemical isotope tracing, we introduce the concept of information isotopes to trace...
+
+---
+
+
+== #51. Plant diversity's positive effect on soil respiration diminishes with increasing productivity in global forests
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69594-8
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723129/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Plant diversity is essential for regulating ecosystem functions, yet its global-scale relationship with soil respiration, a critical component of the carbon cycle, remains unexplored. While plant productivity modulates ecosystem processes, understanding how plant species richness regulates soil respiration across net primary production gradients is key to predicting carbon-climate feedbacks. Here, we integrate two global plant species richness datasets \(tree species richness and vascular plant...
+
+---
+
+
+== #52. Guest-induced porous gating of a fluorescent nonporous adaptive crystal for efficient radioactive iodine sorption
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69608-5
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723128/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Nonporous adaptive crystals \(NACs\) are a new class of organic adsorbents that benefit from the ability of their crystalline structures to adaptively transform in response to specific guest molecules. Herein, a NAC with guest-induced porous gating property is demonstrated within a small organic molecule, BiPyBz. It produces two distinct crystals, the dense packing Cry\(Rod\) and the pore-gating Cry\(Quad\), in which the pores are opened by water. Remarkably, both Cry\(Rod\) and Cry\(Quad\) can be used as...
+
+---
+
+
+== #53. Liquid photonic-molecule microlasers for ultrasensitive biosensing
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69840-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723127/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Droplet microlasers, as promising tools for biophotonics and biomedical sciences, have witnessed rapid advances due to their flexible reconfigurability, high sensitivity to stimuli, and label-free biosensing ability. However, designing these biosensors with simultaneously critical properties of low lasing threshold, high spectral purity, and ultimate sensitivity remains challenging. Here, we propose a versatile strategy to build liquid photonic molecules \(LPMs\) that combine all these features in...
+
+---
+
+
+== #54. Pattern-enhanced Resonant Soft X-ray Scattering for Operando monitoring of electrochemical solid-liquid interfaces
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69852-9
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723126/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Unveiling interfaces at sub-nanometer scales is essential for advancing the understanding of complex chemical transformations. However, characterizing solid-liquid interfaces with high dimensional sensitivity and temporal resolution remains challenging, due to their dynamic nature and inaccessibility by conventional probes. Here we present an approach, Pattern-enhanced Resonant Soft X-ray Scattering, to overcome the challenges. Rooted in a "sample-as-optics" philosophy, this technique utilizes...
+
+---
+
+
+== #55. Non-hydrolyzable acetyllysine analogs to study protein acetylation in vitro and in cells
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69782-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723125/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Lysine acetylation plays a prominent regulatory role in eukaryotic cells. Yet, determining the functional consequences of acetylation for a given protein represents a considerable challenge. For instance, lysine residues are subject to various posttranslational modifications, rendering interpretation of mutational studies difficult. The genetic code expansion technology enables site-specific incorporation of acetyllysine \(AcK\) into proteins, but the applicability of AcK is limited, as within...
+
+---
+
+
+== #56. Heterogeneous weakly coupled polar nanoclusters enabling superior high-temperature capacitive energy storage
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69631-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723124/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Ceramic capacitors, although promising for advanced high-power energy storage, face challenges in energy density and efficiency at high temperatures, which restricts their practical applications. Guided by phase field simulations, we propose a structural design strategy to construct weakly coupled polar nanoclusters in superparaelectric state, and fabricate BaTiO\(3\)-based multilayer ceramic capacitors via prototype device technology. The capacitors achieve an ultrahigh energy storage density of...
+
+---
+
+
+== #57. Multi-species integration, alignment and annotation of single-cell RNA-seq data with CAMEX
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69696-3
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723123/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Single-cell RNA-seq \(scRNA-seq\) data from multiple species present remarkable opportunities to explore cellular origins and evolution. However, integrating and annotating scRNA-seq data across different species remains challenging due to the variations in sequencing techniques, ambiguity of homologous relationships, and limited biological knowledge. To tackle the above challenges, we introduce CAMEX, a heterogeneous Graph Neural Network \(GNN\) tool that leverages many-to-many homologous...
+
+---
+
+
+== #58. Tumor cell villages define the co-dependency of tumor and microenvironment in liver cancer
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69797-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723121/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Spatial cellular context is crucial in shaping intratumor heterogeneity. However, understanding how each tumor establishes its unique spatial landscape and what factors drive the landscape for tumor fitness remains significantly challenging. Here, we analyze over 2 million cells from 50 tumor biospecimens using spatial single-cell imaging and single-cell RNA sequencing. We develop a deep learning-based strategy to spatially map tumor cell states and their surrounding environmental architecture,...
+
+---
+
+
+== #59. Carbon-halogen bond substitution enables high-utilization four-electron iodine redox in noncorrosive dilute electrolytes
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69743-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723120/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Aqueous Zn | |I\(2\) batteries, involving I^\(-\)/I^0/I^\(+\) redox, are promising yet usually facing low I\(2\) utilization dominated by I^0/I^\(+\) redox, especially under high loadings. Unlocking alternative pathway to I^0/I^\(+\) redox, preferably in noncorrosive dilute electrolytes, is a crucial solution. Here, we report a pathway towards more thermodynamically favorable I^0/I^\(+\) redox, via a unique carbon-halogen bond substitution. This pathway is realized with a low-concentrated \(0.7 M\), noncorrosive...
+
+---
+
+
+== #60. Effector conformational plasticity enables lineage-specific secretion via Hcp heterohexamers in gut symbionts
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69309-z
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723119/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The Type VI Secretion System \(T6SS\) delivers effectors to mediate interbacterial competition. While the conserved hexameric Hcp ring is acknowledged as a key effector carrier, the mechanism by which it recognizes and accommodates structurally diverse cargos remains unclear. Notably, gut-dominant Bacteroidota species encode at least five hcp genes within their T6SS loci, yet the biological significance of this multiplicity is unknown. Here, we show that Hcp2 and Hcp3 form an obligate...
+
+---
+
+
+== #61. Exploring chemistry and catalysis by biasing skewed distributions via deep learning
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69586-8
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723118/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The automated discovery of chemical and catalytic reactions remains a major challenge in computational chemistry, particularly in complex systems where conventional methods struggle to identify optimal searching directions. Here, we propose Loxodynamics, a machine-learning-driven approach for reaction exploration via biased molecular dynamics. By leveraging the skewness of local probability distributions, Loxodynamics dynamically determines low-energy barrier directions, efficiently guiding the...
+
+---
+
+
+== #62. A pulsed optoelectronic microwave source with high power and frequency tunability
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69582-y
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723117/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Microwave sources are central to modern technologies ranging from radar and directed energy to medical applications, yet conventional electronic approaches face long-standing trade-offs between output power and tunability. Optoelectronic techniques offer a promising alternative by combining the broad bandwidth of optical systems with the high power-handling capability of wide-bandgap semiconductors. Here we show an optoelectronic microwave source based on fast-response silicon carbide, enabling...
+
+---
+
+
+== #63. Redefining catalyst reconstruction and Cl\<sup\>-\</sup\>-repulsion correlation to delineate a dynamic protective skeleton for seawater splitting
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69755-9
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723116/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: From the perspective of sustainable energy and green hydrogen, the critical challenge in seawater electrolysis lies in suppressing competitive chloride oxidation and corrosion at the anode. Despite the proposed protection mechanism based on surface reconstruction-derived anion repellence, a fundamental question of selectivity remains: why does the protective layer exclude Cl^\(-\) but not the formally equivalent OH^\(-\)? We now redefine the connection between reconstruction and interfacial...
+
+---
+
+
+== #64. Ligand-enabled next-generation glycosyl Stille cross-coupling for the stereospecific synthesis of sterically hindered aryl C-glycosides
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69859-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723115/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Sterically hindered aryl C-glycosides are biologically important, yet their stereoselective synthesis remains challenging due to severe anomeric congestion. Here we report a next-generation, ligand-enabled, stereospecific Pd-catalyzed glycosyl cross-coupling that efficiently delivers sterically hindered aryl C-glycosides with exclusive anomeric control. Two underexplored biarylmonophosphine ligands, featuring P-bound 3,5-bis\(trifluoromethyl\)phenyl groups and methoxy or isopropoxy substituents at...
+
+---
+
+
+== #65. Single-cell multiomic human brain atlas reveals regulatory drivers of cortical regionality
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69368-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723114/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Distinct regional functionality of the human cortex is orchestrated by diverse cellular and molecular processes, yet the underlying regulatory mechanisms remain poorly understood. We performed multiomic single-cell and spatial characterization of nine regions of the human cortex to define the gene regulatory networks and transcription factors that govern cell-type and region specificity. With the combined data of over three million cells, two striking patterns of cortical neuron specialization...
+
+---
+
+
+== #66. A phosphorylation-dependent ubiquitination switch orchestrates nuclear immune reprogramming upon chitin perception
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69627-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723113/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The 14-3-3 proteins, a highly conserved class in all eukaryotes, are widely associated with plant growth and stress responses. However, their role in plant immunity and its regulatory mechanisms remains elusive. Here, we show that two homologous rice 14-3-3 proteins, OsGF14f and OsGF14c, function redundantly to enhance rice resistance against Magnaporthe oryzae. The E3 ligase OsPUB20 targets OsGF14f and OsGF14c for ubiquitination and 26S proteasome-mediated degradation, thereby negatively...
+
+---
+
+
+== #67. Decreases in South Pacific and South Atlantic sea-air CO\<sub\>2\</sub\> fluxes caused by extreme precipitation
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69847-6
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723112/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Extreme precipitation intensifies under global warming, yet its impact on sea-air CO\(2\) flux \(FCO\(2\)\) remains underexplored. Here we show that the maximum 1-day precipitation \(Rx1day\) exerts a notable influence on FCO\(2\) in the South Pacific Ocean and South Atlantic Ocean during 1990-2023. An increase in Rx1day from 0 to 30 mm causes the South Pacific Ocean and South Atlantic Ocean to shift from carbon sources to carbon sinks, with FCO\(2\) decreasing from 96 to -27 mmol m^\(-2\) month^\(-1\) and from...
+
+---
+
+
+== #68. Micro-LED/van der Waals heterointegration for in-pixel processing display architecture
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69786-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723110/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: The rapid evolution of intelligent display technologies is driving the development of next-generation edge smart systems, yet conventional off-pixel processing architectures suffer from severe display latency and energy bottlenecks. Embedding in-memory computing features into pixel-level active drivers presents a promising strategy for co-locating image processing and display. In this work, we provide an in-pixel processed display-driven architecture that integrates micro-LEDs with MoS\(2\)...
+
+---
+
+
+== #69. A strategy for biomass-derived matrix with facile moulding and closed-loop recycling capabilities
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69813-2
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723109/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Developing polymer matrices with closed-loop recyclability is a key solution to solve the sustainability issues caused by unrecyclable end-of-life multi-phase composites, and using building blocks from renewable resources rather than petrochemical products presents an attractive option. However, the strategy of first extracting monomers from biomass feedstocks and then polymerizing them is functionality-removed, complexity-increased, and energy-inputted. We report a strategy demonstration from...
+
+---
+
+
+== #70. High-throughput chemical proteomics workflow for profiling protein citrullination dynamics
+
+- **研究分数**: #50
+- **社会影响**: #50
+- **血液相关性**: #50
+- **推荐度**: #50
+- **DOI**: #10.1038/s41467-026-69490-1
+- **链接**: #link("https://pubmed.ncbi.nlm.nih.gov/41723106/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=101528555&fc=None&ff=20260222172944&v=2.18.0.post22+67771e2")[查看原文]
+
+推荐理由: 评分失败，请手动查看
+
+摘要: Citrullination is a post-translational modification implicated in autoimmune and inflammatory diseases, yet its low abundance and lack of effective enrichment tools have limited proteome-wide analysis. Here, we develop a robust chemical proteomics workflow with improved specificity and throughput. This method builds upon glyoxal-based derivatization and incorporates a cleavable biotin linker for efficient peptide enrichment, release, and identification via mass spectrometry. Benchmarking...
+
+---
+
