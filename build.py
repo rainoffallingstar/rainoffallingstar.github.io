@@ -719,9 +719,6 @@ def build(force: bool = False):
     results.append(copy_assets())
     results.append(copy_content_assets(force))
 
-    # 更新追觅索引页面
-    update_zhuimi_index()
-
     print("-" * 60)
     if all(results):
         print("[OK] 所有构建任务完成！")
@@ -731,55 +728,6 @@ def build(force: bool = False):
     print("-" * 60)
 
     return all(results)
-
-
-# ============================================================================
-# 追觅索引更新
-# ============================================================================
-
-
-def update_zhuimi_index():
-    """
-    更新追觅页面的索引。
-
-    扫描 content/ZhuiMi/ 目录下的所有日报，更新 index.typ 文件。
-    """
-    zhuimi_dir = CONTENT_DIR / "ZhuiMi"
-    if not zhuimi_dir.exists():
-        return
-
-    # 查找所有日报目录
-    report_dirs = sorted(
-        [d for d in zhuimi_dir.iterdir() if d.is_dir() and (d / "index.typ").exists()],
-        reverse=True,
-    )
-
-    if not report_dirs:
-        return
-
-    # 生成索引内容
-    content_lines = [
-        '#import "../../config.typ": template, tufted',
-        '#show: template.with(title: "追觅")',
-        "",
-        "= 追觅",
-        "",
-        "每日文献追踪与AI评分报告。",
-        "",
-        "== 历史报告",
-        "",
-    ]
-
-    for report_dir in report_dirs:
-        date_str = report_dir.name
-        content_lines.append(f'- #link("/ZhuiMi/{date_str}/")[{date_str}]')
-
-    # 写入索引文件
-    index_file = zhuimi_dir / "index.typ"
-    with open(index_file, "w", encoding="utf-8") as f:
-        f.write("\n".join(content_lines))
-
-    print(f"[OK] 追觅索引已更新: {len(report_dirs)} 个报告")
 
 
 # ============================================================================
