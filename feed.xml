@@ -5,8 +5,17 @@
     <link>https://blog.rainoffallingstar.com</link>
     <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
     <language>zh</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:12:57 +0000</lastBuildDate>
     <atom:link href="https://blog.rainoffallingstar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>恍然如梦</title>
+      <link>https://blog.rainoffallingstar.com/Blog/2026-10-29-恍然如梦/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2026-10-29-恍然如梦/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Blog</category>
+      <description>忙了很久，终于可以暂时休息一会；高中班群还活着，十年前的事却恍然如梦了。</description>
+      <content:encoded>&lt;h3&gt;恍然如梦&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2026-10-29&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;感觉忙了很久&lt;br&gt;终于可以暂时休息一会&lt;/p&gt;&lt;p&gt;突然发现高中班群还活着&lt;br&gt;还发出了各种合照/笑哭&lt;br&gt;斗转星移，沧海桑田&lt;br&gt;明明是十年前的事&lt;br&gt;却是恍然如梦了&lt;/p&gt;&lt;p&gt;回首向来萧瑟处&lt;br&gt;而今迈步从头越&lt;br&gt;青空如梦&lt;br&gt;残阳似血&lt;/p&gt;&lt;p&gt;有时候看着夕阳&lt;br&gt;总会想起指环王的最后一幕&lt;br&gt;「大鹰来了」&lt;/p&gt;&lt;p&gt;醒来会在瑞文戴尔&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>OTTER：异种移植多组学工作流的预印本摘要</title>
       <link>https://blog.rainoffallingstar.com/Blog/2026-10-27-OTTER-xenograft-multiomics-workflow/</link>
@@ -17,6 +26,24 @@
       <content:encoded>&lt;h3&gt;OTTER：异种移植多组学工作流的预印本摘要&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2026-10-27&lt;/time&gt;&lt;/p&gt;&lt;p&gt;预印本 · bioRxiv · &lt;a href="https://doi.org/10.64898/2026.10.24.761506" target="_blank" rel="noopener noreferrer"&gt;10.64898/2026.10.24.761506&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;我们的预印本 &lt;em&gt;OTTER: Orchestrated Transcriptomic, Tumor-xenograft (PDX/CDX), and Epigenomic Reporting Workflow&lt;/em&gt; 已于 2026 年 10 月 27 日在 bioRxiv 公开。这里存一份摘要，中英各一，便于日后引用与检索。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;作者：Yanhua Zheng、Xin Liu、Yingyu Yi、Xiaojun Sun、Fang Liu、Xiaojing Yan、Cheuk-Him Man、Hongcang Gu、Xiaoxue Wang、Fan Zhang&lt;/li&gt;&lt;li&gt;通讯作者：Xiaoxue Wang、Fan Zhang（中国科学院合肥物质科学研究院健康与医学技术研究所，合肥肿瘤医院）&lt;/li&gt;&lt;li&gt;发布日期：2026-10-27（v1，New Results，bioinformatics）&lt;/li&gt;&lt;li&gt;许可：CC BY 4.0&lt;/li&gt;&lt;li&gt;代码：&lt;a href="https://github.com/otterlab-bio/otter" target="_blank" rel="noopener noreferrer"&gt;otterlab-bio/otter&lt;/a&gt;（MIT）&lt;/li&gt;&lt;li&gt;测试与验证数据：&lt;a href="https://huggingface.co/datasets/fallingstar10/otter-data" target="_blank" rel="noopener noreferrer"&gt;fallingstar10/otter-data&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;摘要（原文）&lt;/h4&gt;&lt;blockquote&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;Summary.&lt;/strong&gt; Tumor xenograft sequencing libraries inevitably contain infiltrating murine host reads, but conventional deconvolution tools fail on bisulfite sequencing (BS-seq) because chemical C-to-T deamination collapses sequence entropy and destroys graft recall (&amp;lt; 0.015%). We present OTTER, an automated, compiled multi-omics workflow framework that decouples execution into static domain operators, an immutable reference registry, and a native strand-aware edit-distance engine, restoring bisulfite deconvolution (52%–54% recall across a 0%–99% compositional gradient) while preserving complete decision parity on transcriptomics.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Availability and implementation.&lt;/strong&gt; OTTER is implemented in Go and Rust, runs on x86_64 Linux (including CentOS 7 with glibc 2.17), and is freely available open-source under the MIT License at &lt;a href="https://github.com/otterlab-bio/otter" target="_blank" rel="noopener noreferrer"&gt;github.com/otterlab-bio/otter&lt;/a&gt; test and validation data are provided at &lt;a href="https://huggingface.co/datasets/fallingstar10/otter-data" target="_blank" rel="noopener noreferrer"&gt;huggingface.co/datasets/fallingstar10/otter-data&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;h4&gt;摘要（中译）&lt;/h4&gt;&lt;blockquote&gt;&lt;div&gt;&lt;strong&gt;摘要.&lt;/strong&gt; 肿瘤异种移植的测序文库不可避免地混入小鼠宿主 reads，而常规的去卷积工具在亚硫酸氢盐测序（BS-seq）上失效：化学性的 C 到 T 脱氨基压缩了序列熵，使移植物 reads 的召回率降到 0.015% 以下。我们提出 OTTER，一个自动化、编译式的多组学工作流框架，把执行过程拆解为静态领域算子、不可变的参考基因组注册表与原生链感知编辑距离引擎，从而恢复亚硫酸氢盐数据的去卷积能力（在 0%–99% 的组分梯度上召回率 52%–54%），同时在转录组数据上保持完整的判定一致性。&lt;/div&gt;&lt;/blockquote&gt;&lt;h4&gt;为什么要重写&lt;/h4&gt;&lt;p&gt;异种移植（PDX/CDX，合称 XDX）是把人的肿瘤组织或细胞系种到免疫缺陷小鼠体内，能保住细胞异质性与药物反应性，代价是测序文库成了人鼠嵌合体——按瘤种、传代次数与血管化程度不同，小鼠来源的 reads 常占 10% 到 70% 以上。不去掉它们，就会得到假阳性突变、失真的表达计数和走样的甲基化谱。&lt;/p&gt;&lt;p&gt;已有的 Xenome、Disambiguate、XenofilteR、Xengsort 各自解决了 RNA 层面的问题，但都绕不开两件事：&lt;/p&gt;&lt;ol&gt;&lt;li&gt;对 BS-seq 根本不适用。亚硫酸氢盐把未甲基化的胞嘧啶变成尿嘧啶（扩增后读作胸腺嘧啶），四字母的基因组字母表收缩成不对称的三字母码，常规比对器与编辑距离判别器会把真实的转换当成错配。&lt;/li&gt;&lt;li&gt;都是碎片化的单点工具 —— 以脚本形式运行，缺少质控、调度与断点恢复。&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;OTTER 的起点是早期的 xdxtools（R + Snakemake）原型。它在生产集群上暴露出三个系统性瓶颈：Conda 依赖图频繁触发 SAT 求解僵局、CentOS 7 / glibc 2.17 上的动态链接符号错误、以及 Snakemake 在 Lustre/NFS 上的锁竞争与误判中止。于是整个架构推倒重来。&lt;/p&gt;&lt;figure&gt;&lt;figcaption role="note"&gt;图 1 OTTER 的解耦架构：Go 控制平面与不可变参考注册表驱动 craftmake 编排器，派发静态编译的领域算子与 bamdriver 原语库，enva 只隔离重型比对器。原图 CC BY 4.0，取自预印本 Fig. 1。&lt;/figcaption&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2026-10-27-OTTER-xenograft-multiomics-workflow/imgs/fig1-architecture.jpg" alt&gt;&lt;/figure&gt;&lt;h4&gt;架构上的三个决定&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;算子编译化。&lt;/strong&gt; 七个静态领域算子取代原型里的 R 脚本：fastqcx（质控）、xenofilx（宿主/移植物分类）、methx（Bismark 下游）、pairbam（配对修复）、seq2mat（表达矩阵）、matsrun（可变剪接）、qctb（QC 汇总）。Go 与 Rust 编译成静态二进制，不再依赖运行时 R，也不受 glibc 符号漂移影响。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;环境最小化。&lt;/strong&gt; 轻量的 Rust 环境管理器 enva 只解决 Bismark、Bowtie2、STAR 这类上游重型比对器的科学环境，其余全部由静态二进制承担。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;参考基因组与运行快照不可变。&lt;/strong&gt; 参考资产按加密摘要封存在注册表（&lt;code&gt;OTTER_REFERENCE_ROOT&lt;/code&gt;）里，一次运行把输入、配置与工具链清单绑定成 &lt;code&gt;otter.run/v1&lt;/code&gt; 快照，成为运行时的唯一权威。&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;关键数字&lt;/h4&gt;&lt;div&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指标&lt;/th&gt;&lt;th&gt;结果&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;BS-seq 去卷积召回率&lt;/td&gt;&lt;td&gt;51.61%–54.03%（0%–99% 组分梯度，43 个评估格）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;宿主特异性&lt;/td&gt;&lt;td&gt;约 99.92%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;未打补丁的基线&lt;/td&gt;&lt;td&gt;低于 0.015%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;相对 xdxtools 原型的增益&lt;/td&gt;&lt;td&gt;+0.63% 到 +0.70%；60% 人源混合时每百万 reads 多救回约 4000 条真实人源片段&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;转录组判定一致性&lt;/td&gt;&lt;td&gt;100%（32.1M 片段 RNA-PDX，以及 0%–99% RNA 梯度）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;methx vs methrix&lt;/td&gt;&lt;td&gt;2.41 倍加速（1 m 32 s vs 3 m 41 s），峰值内存 18.62 GiB → 6.42 GiB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;craftmake vs Snakemake 调度延迟&lt;/td&gt;&lt;td&gt;2.7–4.2 s vs 9.5–19.8 s&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;p&gt;那层 52%–54% 的“天花板”并非算法失灵，而是被主比对阶段的 C 到 T 熵收缩（&lt;span role="math"&gt;&lt;math&gt;&lt;msub&gt;&lt;mi&gt;𝜂&lt;/mi&gt;&lt;mtext&gt;align&lt;/mtext&gt;&lt;/msub&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;54.01&lt;/mn&gt;&lt;mi&gt;%&lt;/mi&gt;&lt;/math&gt;&lt;/span&gt;）锁死的；在已比对的人源片段上，xenofilx 的去卷积保留率是 99.23%，1–10× 深度下基因组覆盖保真度超过 99.0%。四因素三水平参数审计（36 次运行）把错配阈值 &lt;span role="math"&gt;&lt;math&gt;&lt;mi&gt;𝑡&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;/math&gt;&lt;/span&gt; 定为推荐操作界：召回 52.22%、F1 68.59%、特异性 99.92%。&lt;/p&gt;&lt;h4&gt;验证环境&lt;/h4&gt;&lt;p&gt;两套生产集群：杭州的机构超算（CentOS 7 / glibc 2.17，正是最难伺候的那一类）与 Paracloud 超算（Slurm + Lustre）。数据集覆盖 RRBS、RNA-seq、RNA-PDX 与 BS-PDX，包括一个 32.1M 片段的 RNA-PDX 与一个 45.2M 片段的 BS-PDX 公共 SRA 队列。&lt;/p&gt;&lt;h4&gt;引用&lt;/h4&gt;&lt;blockquote&gt;&lt;div&gt;Zheng Y, Liu X, Yi Y, Sun X, Liu F, Yan X, Man C-H, Gu H, Wang X, Zhang F. &lt;em&gt;OTTER: Orchestrated Transcriptomic, Tumor-xenograft (PDX/CDX), and Epigenomic Reporting Workflow.&lt;/em&gt; bioRxiv 2026. DOI: &lt;a href="https://doi.org/10.64898/2026.10.24.761506" target="_blank" rel="noopener noreferrer"&gt;10.64898/2026.10.24.761506&lt;/a&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;p&gt;预印本未经同行评议。文中数字均为 v1 版本结果，若后续有修订，以 bioRxiv 上的最新版本为准。&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>旅人</title>
+      <link>https://blog.rainoffallingstar.com/Blog/2026-06-13-旅人/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2026-06-13-旅人/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Blog</category>
+      <description>投笔学医近十年，跟周遭的世界越离越远；如沙漠里跋涉找水的旅人，风沙过后看到绿洲花开。</description>
+      <content:encoded>&lt;h3&gt;旅人&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2026-06-13&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;才察觉又是一年夏季。&lt;/p&gt;&lt;p&gt;投笔学医近十年，&lt;br&gt;见过很多患者、家属、同学、老师、朋友、君子、小人。&lt;br&gt;来来去去很多，但不觉得拯救过谁。&lt;br&gt;选择了一个很沉浸的道路。&lt;br&gt;最忙的时候，已经忘记了周遭世界的运转。&lt;br&gt;上午下疗，中午骨穿，下午腰穿，晚上加班提病历。&lt;br&gt;下班往沙发上一躺，等空气炸锅里的红薯，电视上放着广告或者很老的剧。&lt;br&gt;躺够两个小时才有其他力气起来。&lt;br&gt;有时候喜欢先在外面吃个肯德基或者米村拌饭。&lt;/p&gt;&lt;p&gt;也做了不少的研究，&lt;br&gt;有成功的也有失败的。&lt;br&gt;跟周遭的世界越离越远，越来越多的消息都是隔了很久很久之后才从远方听闻，如流风吹拂。&lt;br&gt;因为做研究的缘故，认识了很多四川人、山西人、合肥人、还有东北人，后来也见过名山大川，去了不少的城市。&lt;br&gt;有点费膝盖就是了。&lt;br&gt;有一年大雪，我跟博后大哥在深夜离开实验室，电驴翻在了实验楼下，摔破了膝盖。&lt;br&gt;第二年夏天，师姐载我回小区，进大门磕破了膝盖。她家有两条可爱的大狗，一只金毛一只边牧，我跟师兄在深夜溜过，一边谈天。&lt;/p&gt;&lt;p&gt;想起来高考的时候我并没有紧张，我在一个很好的县城读完了高中，爬过很多次凤山公园，后来我很难回去了，跟好朋友见面，都是在万达商场，下了车去那里喝杯奶茶然后奔动车站，或者下了站去吃饭然后再回家。&lt;br&gt;那时候我不紧张的原因，大概是因为心里被莫大的事情占据了，心情惊恐又彷徨。&lt;br&gt;但是放下笔就知道今天就到这里了，就像碰上了叹息之墙，知道不必再战斗，自己已经碰到了天花板。&lt;br&gt;后来读了很多书，英文的，中文的，历史的，知道了很多道理。&lt;br&gt;人就是这样学习着离开少年，去外面的世界看看，把自己的无知和彷徨丢弃。&lt;br&gt;自从十八岁以后，立flag说从此慢慢不再写东西，每年只写温故，也写了近十年的温故。&lt;br&gt;也算对自己兢兢业业。&lt;/p&gt;&lt;p&gt;有时候如在沙漠里跋涉找水的旅人，&lt;br&gt;在风沙过后看到绿洲的花开，&lt;br&gt;此时颜色一时明白起来，&lt;br&gt;便知此物不在我的心外。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>致良知</title>
+      <link>https://blog.rainoffallingstar.com/Blog/2026-02-21-致良知/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2026-02-21-致良知/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Blog</category>
+      <description>年少轻浮善饰文，爱上高楼强赋词。几经风雨春霜后，始信良知潮岸来。</description>
+      <content:encoded>&lt;h3&gt;致良知&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2026-02-21&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;年少轻浮善饰文，&lt;br&gt;爱上高楼强赋词。&lt;/p&gt;&lt;p&gt;几经风雨春霜后，&lt;br&gt;始信良知潮岸来。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>温故2024-2025</title>
       <link>https://blog.rainoffallingstar.com/Blog/2025-12-31-温故2024-2025/</link>
       <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2025-12-31-温故2024-2025/</guid>
@@ -24,6 +51,33 @@
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
       <content:encoded>&lt;h3&gt;温故2024-2025&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2025-12-31&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;是岁，余从合肥远行，北返沈阳，南趋岭南，于今五月余矣，偶忆前事，至今思之。&lt;/p&gt;&lt;p&gt;自从六月毕业于中国医，九月又复困斗读博士，多有得誉，亦有所失，所谓漂泊者，幸得二三人在侧，又犹可喜悲也。&lt;/p&gt;&lt;p&gt;闲暇之时，读书者，多为托尔金之属，偶观南怀瑾，遂稍知金刚经。去岁秋日，与刘芳、晓君等同游巢湖，登山而观，湖岸蜿蜒而去，宛若心形，其上落日缓坠，乘薄暮而归。&lt;/p&gt;&lt;p&gt;今年以来，偶访福州，见故友师长，相叙相谈之际，莫不为乐者，皆此类也，至于失意者虽有，尽皆一时庭中风絮，片刻略尽。余申博之前，一时思维穷尽，盖余硕士之事业，已将心血倾付，再出新篇，总觉太难，遂更求新己，至于今日，偶又有思绪迸发，心有所定。&lt;/p&gt;&lt;p&gt;余离别科学岛之际，常于岛内跑步，跑步时桥边寂静，但闻湖水拍岸之声，偶得几句：&lt;/p&gt;&lt;p&gt;岸边风潮二十载，绿水眉波，总等秋来送。 阡陌行人三两处，看尽泪眼，又从断处生。&lt;/p&gt;&lt;p&gt;是以温故而知新。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>不如继续写论文</title>
+      <link>https://blog.rainoffallingstar.com/Blog/2024-08-31-不如继续写论文/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2024-08-31-不如继续写论文/</guid>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <category>Blog</category>
+      <description>周末卡了进度，读完精灵宝钻和一本论文集，翻了龙应台、米兰昆德拉与塔其曼，最后不如继续写论文。</description>
+      <content:encoded>&lt;h3&gt;不如继续写论文&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2024-08-31&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;今天是周末，突然有点卡工作进度，遂看起了书。&lt;/p&gt;&lt;p&gt;读完了精灵宝钻和一本论文集。然后在知乎看到小年轻说这本书垃圾，嗯，还是太年轻。&lt;/p&gt;&lt;p&gt;出于好奇读了两页龙应台的目送，评价是文字质感可但过于纤细和小民自私感，不如去读张怡微。&lt;/p&gt;&lt;p&gt;看了两页米兰昆德拉，评价是不合口味，且有些轻浮。&lt;/p&gt;&lt;p&gt;看了看塔其曼「骄傲之塔」的德国部分，她对尼采的评价甚得我意，完美解释了为何一直对尼采这个高考素材无感。&lt;/p&gt;&lt;p&gt;不如继续写论文。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>秋雾</title>
+      <link>https://blog.rainoffallingstar.com/Blog/2024-08-27-秋雾/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2024-08-27-秋雾/</guid>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <category>Blog</category>
+      <description>偶尔见一场大梦，何必又相问悲欢。半开纱窗风来住，才道今日秋小雾。</description>
+      <content:encoded>&lt;h3&gt;秋雾&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2024-08-27&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;偶尔见一场大梦，&lt;br&gt;何必又相问悲欢。&lt;/p&gt;&lt;p&gt;半开纱窗风来住，&lt;br&gt;才道今日秋小雾。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>下笔如有神</title>
+      <link>https://blog.rainoffallingstar.com/Blog/2024-07-23-下笔如有神/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2024-07-23-下笔如有神/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <category>Blog</category>
+      <description>年少时轻剑快马，越往后愈知世情艰磨，爱惜笔墨之余终于生疏。万事难，尤其写论文开头最难，但写下第一句便好了。</description>
+      <content:encoded>&lt;h3&gt;下笔如有神&lt;/h3&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;rainoffallingstar&lt;/span&gt;&lt;span&gt; · &lt;/span&gt;&lt;time&gt;2024-07-23&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;年少时轻剑快马，下笔便快，越往后，愈知世情艰磨，学得稳重，又总怕瑕漏，爱惜笔墨之余，终于生疏。&lt;/p&gt;&lt;p&gt;遂感万事难，尤其写论文开头最难，但是纵然万般犹豫，写下第一句便好了。&lt;/p&gt;&lt;p&gt;正如：there is a hole where lives a hobbit. /偷笑&lt;/p&gt;&lt;p&gt;水到渠成，自然如瀑布倾泻。&lt;/p&gt;&lt;p&gt;是为有神。&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>温故2024</title>
