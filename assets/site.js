@@ -1,10 +1,12 @@
 /**
  * 站点级交互补充（本站自有，不随上游模板同步）。
  *
- * 上游已经提供了主题切换、目录、返回顶部等；这里只补两件事：
+ * 上游已经提供了主题切换、目录、返回顶部等；这里只补三件事：
  *
  * 1. 页头滚动状态：页面离开顶部后给导航加一条极细的分隔线。
- * 2. 主题切换的圆形揭示：上游 theme-toggle.js 直接改 data-theme，
+ * 2. 导航的当前栏目标记：上游不输出 aria-current，这里按 URL 补上，
+ *    样式见 site.css 的 .site-nav-links a[aria-current="page"]。
+ * 3. 主题切换的圆形揭示：上游 theme-toggle.js 直接改 data-theme，
  *    没有动画。这里在捕获阶段拦下按钮点击，用 View Transitions
  *    从点击位置做一次圆形扩散，动画中间再「重放」一次点击，
  *    让上游继续负责存储、aria 与系统同步 —— 本站不复制它的逻辑。
@@ -39,7 +41,38 @@
   }
 
   /* ----------------------------------------------------------------------
-     2. 主题切换的圆形揭示
+     2. 导航的当前栏目标记
+
+     首页精确匹配 "/"，其余栏目按「路径前缀」匹配，这样 /Timeline/、
+     /Blog/xxx/ 之类都能归到正确的栏目。
+     ---------------------------------------------------------------------- */
+
+  function initCurrentNav() {
+    const links = document.querySelectorAll(".site-nav-links a[href]");
+    if (!links.length) return;
+
+    const path = window.location.pathname;
+    let best = null;
+    let bestLength = -1;
+
+    links.forEach((link) => {
+      const href = new URL(link.href, window.location.origin).pathname;
+      const isHome = href === "/";
+      const matches = isHome ? path === "/" : path.startsWith(href);
+      if (matches && href.length > bestLength) {
+        best = link;
+        bestLength = href.length;
+      }
+    });
+
+    // 首项是站名，不当作栏目标记
+    if (best && best !== links[0]) {
+      best.setAttribute("aria-current", "page");
+    }
+  }
+
+  /* ----------------------------------------------------------------------
+     3. 主题切换的圆形揭示
      ---------------------------------------------------------------------- */
 
   function prefersReducedMotion() {
@@ -99,6 +132,7 @@
 
   function init() {
     initHeader();
+    initCurrentNav();
     initThemeReveal();
   }
 
