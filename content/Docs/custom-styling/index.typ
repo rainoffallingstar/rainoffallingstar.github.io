@@ -115,6 +115,8 @@ header.site-header > nav.site-nav
   class: "site-logo",
   width: 34,
   height: 34,
+  // 尺寸写在 style 里，不依赖样式表
+  style: "width:var(--site-logo-size,2.15rem);height:var(--site-logo-size,2.15rem);object-fit:cover;border-radius:50%",
   decoding: "async",
 )
 

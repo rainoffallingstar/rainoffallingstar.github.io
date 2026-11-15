@@ -32,6 +32,11 @@
   class: "site-logo",
   width: 34,
   height: 34,
+  // 几何属性写在 style 里，不依赖 site.css：上游 tufted.css 有
+  // `img { width: auto; height: auto }`，会盖掉 width/height 属性，
+  // 一旦样式表没加载（或浏览器缓存了旧版），图片就回落到 320px 原图
+  // 铺满屏幕。这里给 CSS 留一个变量，窄屏仍可由样式表缩放。
+  style: "width:var(--site-logo-size,2.15rem);height:var(--site-logo-size,2.15rem);object-fit:cover;border-radius:50%",
   decoding: "async",
 )
 

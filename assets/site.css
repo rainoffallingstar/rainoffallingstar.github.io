@@ -523,8 +523,11 @@ hr {
     margin: 2.6rem 0;
 }
 
-/* 引用块（上游 template-quotes 与 Typst 内联样式两种来源） */
+/* 引用块（上游 template-quotes 与 Typst 内联样式两种来源）。
+   上游把宽度压到 55%（Tufte 的旁注式引文），在本站的单栏正文里会显得
+   又窄又碎 —— 摘要、引用这类整段文字应当铺满正文栏。 */
 :is(blockquote.quote-block, div[style*="border-inline-start"]) {
+    width: 100% !important;
     margin: 1.9rem 0;
     padding: 0 0 0 1.15rem;
     border-inline-start: 2px solid var(--rule) !important;
@@ -539,6 +542,13 @@ hr {
     line-height: inherit;
     width: 100%;
     margin: 0.45rem 0;
+}
+
+/* 正文里的长 URL（DOI、数据集地址）在窄屏上不折行就会把整页撑宽，
+   出现横向滚动。代码块有自己的横向滚动容器，这里只管正文。 */
+article > section :is(p, li, blockquote) a:any-link,
+.article-byline a:any-link {
+    overflow-wrap: anywhere;
 }
 
 figure[role="math"],
@@ -642,16 +652,18 @@ header.site-header {
     letter-spacing: 0.01em;
     color: var(--ink-strong);
     white-space: nowrap;
+
+    /* 标记尺寸的唯一来源：config.typ 的 site-logo 用内联 style 读这个
+       变量。样式表缺失或过期时，内联 style 的兜底值仍然生效，图片不会
+       退回 320px 原图铺满屏幕。 */
+    --site-logo-size: 2.15rem;
 }
 
-/* 站名前的圆形标记。图片自带纸色背景，圆形裁切后与页面融为一体；
-   深色主题下压暗一点、降一点饱和，避免这块暖色在近黑底上跳出来。 */
+/* 站名前的圆形标记。圆形裁切与尺寸由 config.typ 的内联 style 给出，
+   这里只补样式表独有的部分：主题色底、深色压暗、悬停过渡。 */
 .site-logo {
     flex: none;
-    width: 2.15rem;
-    height: 2.15rem;
-    border-radius: 50%;
-    object-fit: cover;
+    display: block;
     background: var(--wash);
     transition: opacity 0.18s var(--ease), filter 0.18s var(--ease);
 }
@@ -975,12 +987,15 @@ article > section > .year-group:first-child {
     bottom: 1.5rem;
 }
 
-/* 页脚：左侧版权与署名，右侧 RSS 订阅（结构见 config.typ 的 footer-elements） */
+/* 页脚：版权与 RSS 订阅（结构见 config.typ 的 footer-elements）。
+   宽度与正文栏一致（--measure 居中），而不是撑满视口 —— 页脚曾经
+   整页宽 + space-between，版权和 RSS 被推到两侧边缘，与上方单栏居中
+   的排版脱节。 */
 body > footer,
 footer {
-    width: 100%;
+    width: min(var(--measure), 100%);
     max-width: none;
-    margin-top: 3.2rem;
+    margin: 3.2rem auto 0;
     padding-bottom: 2.2rem;
     color: var(--ink-muted);
     font-size: 0.86rem;
@@ -988,11 +1003,12 @@ footer {
     letter-spacing: 0.02em;
 }
 
+/* 内容不多，左对齐成一列，与正文左缘对齐即可 */
 .footer-inner {
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 0.35rem 1.5rem;
 }
 
@@ -1217,11 +1233,7 @@ html.is-theme-transitioning::view-transition-new(root) {
     .site-nav-links a:first-child {
         gap: 0.45rem;
         font-size: 1.45rem;
-    }
-
-    .site-logo {
-        width: 1.9rem;
-        height: 1.9rem;
+        --site-logo-size: 1.9rem;
     }
 
     .site-nav-tools {
