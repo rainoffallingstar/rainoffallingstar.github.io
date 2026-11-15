@@ -129,6 +129,70 @@ curl -sSI https://blog.rainoffallingstar.com/ | head -1
 
 `https_enforced` 应为 `true`，且 HTTP 会 301 跳转到 HTTPS。
 
+### Cloudflare 代理（橙云）
+
+当前 DNS 记录为**橙云（Proxied）**：TLS 在 Cloudflare 边缘终结，回源走 HTTPS。
+
+**SSL/TLS 模式必须保持 Full (strict)**。若设成 `Flexible`，Cloudflare 会用
+HTTP 回源，GitHub Pages 会 301 跳回 HTTPS，形成无限重定向循环。
+
+验证链路：
+
+```bash
+# 边缘证书：应为 CN=rainoffallingstar.com（Cloudflare 通用证书）
+echo | openssl s_client -servername blog.rainoffallingstar.com \
+  -connect blog.rainoffallingstar.com:443 2>/dev/null \
+  | openssl x509 -noout -subject -dates
+
+# 回源：绕过代理直连 GitHub Pages
+curl -sS -o /dev/null -w 'origin=%{http_code}\n' \
+  --resolve blog.rainoffallingstar.com:443:185.199.108.153 \
+  https://blog.rainoffallingstar.com/
+
+# 只跳一次，然后 200
+curl -sSL -o /dev/null -w 'final=%{url_effective} code=%{http_code} redirects=%{num_redirects}\n' \
+  http://blog.rainoffallingstar.com/
+```
+
+### ⚠️ 证书续期（需要定期手动处理）
+
+涉及两个证书，**只有一个是自动续期的**：
+
+| 证书 | 续期 |
+| --- | --- |
+| Cloudflare 边缘证书 | 自动，无需操作 |
+| GitHub Pages 源站证书 | **橙云下无法自动续期** |
+
+源站是 Let's Encrypt 证书，验证方式为 HTTP-01，但该请求会被橙云拦截。
+源站证书一旦过期，GitHub Pages 会返回过期证书，Cloudflare 在 Full (strict)
+模式下报 **526 Invalid SSL certificate**，站点直接不可访问。
+
+**当前源站证书到期：2027-02-13**。请在 **2027-01-15 前后**（提前约一个月）
+执行以下步骤，此后每约 90 天重复一次：
+
+1. Cloudflare DNS 把 `blog` 记录切成 **DNS only（灰云）**
+2. 等待生效，然后到 GitHub 仓库 Settings → Pages 让它重新签发证书
+   （界面里如有 “Check again” 就点一下）；可能需要几分钟到几小时
+3. 确认新的到期时间：
+
+   ```bash
+   echo | openssl s_client -servername blog.rainoffallingstar.com \
+     -connect 185.199.108.153:443 2>/dev/null \
+     | openssl x509 -noout -enddate
+   ```
+
+4. 切回 **Proxied（橙云）**，确认首页返回 200
+
+日常健康检查（能在访客发现之前捕捉到问题）：
+
+```bash
+curl -sS -o /dev/null -w '%{http_code}\n' \
+  --resolve blog.rainoffallingstar.com:443:185.199.108.153 \
+  https://blog.rainoffallingstar.com/
+```
+
+返回非 `200` 就说明源站证书需要处理。
+
 ## 与上游模板同步
 
 `tufted-lib/`、`assets/tufted.css`、`assets/theme.css`、`assets/scripts/` 等来自上游模板。

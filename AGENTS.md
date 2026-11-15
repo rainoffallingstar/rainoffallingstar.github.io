@@ -62,6 +62,73 @@ curl -sSI https://blog.rainoffallingstar.com/ | head -1
 
 `https_enforced` must stay `true`, and plain HTTP must return a 301 to HTTPS.
 
+### Cloudflare proxy (orange cloud)
+
+The DNS record is currently **proxied** (orange cloud). Cloudflare terminates
+TLS at the edge and fetches the origin over HTTPS.
+
+Keep **SSL/TLS -> Overview on Full (strict)**. `Flexible` would make Cloudflare
+request the origin over plain HTTP, GitHub Pages would 301 that request back to
+HTTPS, and the result is an infinite redirect loop. Verify the chain with:
+
+```bash
+# edge: should be CN=rainoffallingstar.com (wildcard, Cloudflare Universal SSL)
+echo | openssl s_client -servername blog.rainoffallingstar.com \
+  -connect blog.rainoffallingstar.com:443 2>/dev/null \
+  | openssl x509 -noout -subject -dates
+
+# origin: connect straight to GitHub Pages, bypassing the proxy
+curl -sS -o /dev/null -w 'origin=%{http_code}\n' \
+  --resolve blog.rainoffallingstar.com:443:185.199.108.153 \
+  https://blog.rainoffallingstar.com/
+
+# exactly one redirect, then 200
+curl -sSL -o /dev/null -w 'final=%{url_effective} code=%{http_code} redirects=%{num_redirects}\n' \
+  http://blog.rainoffallingstar.com/
+```
+
+### Certificate renewal while proxied (recurring maintenance)
+
+Two certificates are involved and only one renews itself:
+
+- **Cloudflare edge certificate** - renewed automatically by Cloudflare. No action.
+- **GitHub Pages origin certificate** - a Let's Encrypt certificate for
+  `blog.rainoffallingstar.com`. Let's Encrypt validates it with an HTTP-01
+  challenge, but the orange cloud intercepts that request, so **renewal fails
+  while the proxy is on**.
+
+If the origin certificate lapses, GitHub Pages serves an expired cert, and
+Cloudflare in Full (strict) mode answers **526 Invalid SSL certificate**. The
+site goes down even though the edge certificate is fine.
+
+The current origin certificate expires **2027-02-13**. Repeat this around
+**2027-01-15** (a month early), and again every ~90 days after that:
+
+1. Cloudflare DNS: switch the `blog` record to **DNS only** (grey cloud).
+2. Wait for propagation, then open GitHub repo Settings -> Pages and let it
+   re-issue the certificate (re-check the custom domain if the UI offers it).
+   This can take a few minutes up to a few hours.
+3. Confirm the new expiry date:
+
+   ```bash
+   echo | openssl s_client -servername blog.rainoffallingstar.com \
+     -connect 185.199.108.153:443 2>/dev/null \
+     | openssl x509 -noout -enddate
+   ```
+
+4. Switch the record back to **Proxied** (orange cloud) and re-check that
+   `https://blog.rainoffallingstar.com/` returns 200.
+
+A quick health check that catches this before visitors do:
+
+```bash
+curl -sS -o /dev/null -w '%{http_code}\n' \
+  --resolve blog.rainoffallingstar.com:443:185.199.108.153 \
+  https://blog.rainoffallingstar.com/
+```
+
+Anything other than `200` means the origin certificate needs attention.
+
 ## Commit & Pull Request Guidelines
 History shows a Conventional Commit leaning (`docs:`, `feat:`, `fix:`), plus concise imperative messages. Prefer `type: short description` (example: `fix: handle empty RSS abstracts`). Keep PRs scoped; include:
 - clear summary of behavior/content changes,
