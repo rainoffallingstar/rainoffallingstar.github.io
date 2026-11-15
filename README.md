@@ -38,7 +38,20 @@ python build.py preview
 
 # 清理构建产物
 python build.py clean
+
+# 重新生成手写字体子集（改字/加生僻字后执行）
+uv run --with fonttools --with brotli python3 tools/build_fonts.py
 ```
+
+### 字体
+
+正文用 [霞鹜小赖](https://github.com/lxgw/kose-font)（毛笔手写风的
+中文）、Excalifont（拉丁字母与数字）、霞鹜文楷 Mono（代码），三者均为
+SIL OFL 1.1，随仓库自带、不依赖 CDN。
+
+完整的中文字体有 20 多 MB，`tools/build_fonts.py` 会按 `content/` 的
+实际用字加上 GB2312 一级常用字做子集（约 870 KB）。构建时若发现字体子集
+里没有的字符，会打印提示 —— 把新字补进去并重跑脚本即可。
 
 ## 目录结构
 
@@ -54,11 +67,16 @@ python build.py clean
 ├── assets/            # 样式与脚本
 │   ├── tufted.css     # 上游功能层
 │   ├── theme.css      # 上游主题变量
-│   ├── custom.css     # 用户覆盖入口
+│   ├── fonts.css      # 自托管字体的 @font-face（脚本生成，勿手改）
+│   ├── fonts/         # 手写字体子集（Xiaolai / Excalifont / WenKai Mono）
+│   ├── custom.css     # 内容级补丁（提示块、脚注）
 │   ├── site.css       # 本站视觉层（改样式在这里）
-│   ├── site.js        # 本站脚本
+│   ├── site.js        # 本站脚本（页头状态、主题切换动画）
 │   ├── icons/         # RSS / 明暗图标
 │   └── scripts/       # 上游脚本（目录、返回顶部、复制等）
+├── tools/
+│   ├── build_fonts.py     # 生成字体子集与 assets/fonts.css
+│   └── font-charset.txt   # 字符集（脚本生成）
 ├── build.py           # 构建脚本（HTML / PDF / RSS / sitemap）
 ├── config.typ         # 站点配置
 ├── CNAME              # 自定义域名（部署真源）
