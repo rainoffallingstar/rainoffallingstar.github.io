@@ -1,0 +1,839 @@
+/* ==========================================================================
+   site.css — 站点视觉层（在 tufte / tufted.css / theme.css 之后加载）
+
+   上游 Tufted-Blog-Template v1.4+ 已提供功能层：SEO、RSS、目录、返回顶部、
+   公式复制、边注折叠、blog-entry 等。这个文件只做「视觉定制」：
+   字体、纸张配色、页头排布、归档列表、深色模式与可访问性。
+
+   栅格沿用 Tufte 的 55% 正文列（边注依赖它悬挂在右侧留白）。
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. 设计令牌
+
+   同时覆盖上游的 --theme-* 变量，让上游组件（目录、返回顶部、代码块、
+   页脚等）自动采用本主题的配色。
+   -------------------------------------------------------------------------- */
+
+:root {
+    color-scheme: light;
+}
+
+html[data-theme="light"],
+html:not([data-theme]) {
+    --paper: #fbfaf6;
+    --ink: #2b2a27;
+    --ink-strong: #14130f;
+    /* 次级 / 三级文字：在 #fbfaf6 上分别 5.15:1 与 4.57:1（WCAG AA） */
+    --ink-muted: #6f6a5f;
+    --ink-faint: #77726a;
+
+    --rule: #e4dfd3;
+    --rule-soft: #eeeadf;
+    --wash: rgba(140, 132, 116, 0.1);
+
+    --accent: #2b4c7e;
+    --accent-soft: rgba(43, 76, 126, 0.3);
+
+    /* 映射到上游主题变量 */
+    --theme-bg: var(--paper);
+    --theme-text: var(--ink);
+    --theme-heading: var(--ink-strong);
+    --theme-code-bg: rgba(140, 132, 116, 0.11);
+    --theme-code-border: var(--rule-soft);
+    --theme-pre-bg: rgba(140, 132, 116, 0.07);
+    --theme-pre-border: var(--rule-soft);
+    --theme-line-numbers-border: var(--rule-soft);
+    --theme-line-numbers-text: var(--ink-faint);
+    --theme-copy-btn-bg: var(--paper);
+    --theme-copy-btn-text: var(--ink-muted);
+    --theme-copy-btn-border: var(--rule);
+    --theme-copy-btn-hover-bg: var(--paper);
+    --theme-copy-btn-hover-text: var(--ink);
+    --theme-copy-btn-copied-bg: var(--paper);
+    --theme-copy-btn-copied-text: var(--accent);
+    --theme-copy-btn-copied-border: var(--accent-soft);
+    --theme-table-border: var(--rule);
+    --theme-table-header-bg: rgba(140, 132, 116, 0.07);
+    --theme-table-row-even: transparent;
+    --theme-table-row-hover: var(--wash);
+    --theme-math-filter: none;
+    --theme-icon: var(--ink-muted);
+    --theme-back-to-top: var(--ink-muted);
+    --theme-back-to-top-hover: var(--ink-strong);
+    --theme-footer: var(--ink-muted);
+}
+
+html[data-theme="dark"] {
+    --paper: #17181a;
+    --ink: #d8d5ce;
+    --ink-strong: #f1eee7;
+    /* 深色下的次级 / 三级文字：5.02:1 与 5.94:1 */
+    --ink-muted: #a09d96;
+    --ink-faint: #98958e;
+
+    --rule: #2c2e31;
+    --rule-soft: #232528;
+    --wash: rgba(219, 213, 199, 0.08);
+
+    --accent: #8fb3e0;
+    --accent-soft: rgba(143, 179, 224, 0.32);
+
+    --theme-bg: var(--paper);
+    --theme-text: var(--ink);
+    --theme-heading: var(--ink-strong);
+    --theme-code-bg: rgba(219, 213, 199, 0.1);
+    --theme-code-border: var(--rule-soft);
+    --theme-pre-bg: rgba(219, 213, 199, 0.06);
+    --theme-pre-border: var(--rule-soft);
+    --theme-line-numbers-border: var(--rule-soft);
+    --theme-line-numbers-text: var(--ink-faint);
+    --theme-copy-btn-bg: var(--paper);
+    --theme-copy-btn-text: var(--ink-muted);
+    --theme-copy-btn-border: var(--rule);
+    --theme-copy-btn-hover-bg: var(--paper);
+    --theme-copy-btn-hover-text: var(--ink-strong);
+    --theme-copy-btn-copied-bg: var(--paper);
+    --theme-copy-btn-copied-text: var(--accent);
+    --theme-copy-btn-copied-border: var(--accent-soft);
+    --theme-table-border: var(--rule);
+    --theme-table-header-bg: rgba(219, 213, 199, 0.07);
+    --theme-table-row-even: transparent;
+    --theme-table-row-hover: var(--wash);
+    --theme-math-filter: invert(0.88) hue-rotate(180deg);
+    --theme-icon: var(--ink-muted);
+    --theme-back-to-top: var(--ink-muted);
+    --theme-back-to-top-hover: var(--ink-strong);
+    --theme-footer: var(--ink-muted);
+}
+
+:root {
+    --font-serif: "Newsreader Variable", "Newsreader", "Noto Serif SC",
+        "Songti SC", "STSong", Georgia, serif;
+    --font-mono: "JetBrains Mono Variable", "JetBrains Mono",
+        "SFMono-Regular", Menlo, Consolas, monospace;
+
+    /* 正文列宽（相对 section 内容盒），与 Tufte 的 55% 一致 */
+    --column: 55%;
+    --leading: 1.8;
+    --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+/* --------------------------------------------------------------------------
+   2. 字体与基础排版
+   -------------------------------------------------------------------------- */
+
+/* 上游给 article 留了 4.5rem 上内边距（没有 sticky 页头时合适）。
+   本站页头吸顶，收紧到 1.1rem。 */
+body > article {
+    padding-top: 1.1rem;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+    background-color: var(--paper);
+    color: var(--ink);
+}
+
+body {
+    background-color: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    line-height: var(--leading);
+    font-optical-sizing: auto;
+    font-variant-numeric: oldstyle-nums;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transition: background-color 0.25s var(--ease), color 0.25s var(--ease);
+}
+
+/* 中文衬线在 18–19px 才有足够清晰度 */
+p,
+ul,
+ol,
+dl,
+section > ul,
+section > ol {
+    font-size: 1.16rem;
+    line-height: var(--leading);
+}
+
+p {
+    margin-top: 1.15rem;
+    margin-bottom: 1.15rem;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-serif);
+    font-style: normal;
+    font-weight: 600;
+    color: var(--ink-strong);
+    line-height: 1.25;
+    letter-spacing: 0.005em;
+    text-wrap: balance;
+}
+
+h2 {
+    font-size: 1.6rem;
+    margin: 2.5rem 0 1rem;
+}
+
+h3 {
+    font-size: 1.26rem;
+    margin: 1.95rem 0 0.65rem;
+}
+
+h4 {
+    font-size: 1.16rem;
+    margin: 1.6rem 0 0.55rem;
+}
+
+h5,
+h6 {
+    font-size: 1.06rem;
+    margin: 1.4rem 0 0.5rem;
+}
+
+/* 正文里的顶层标题与段落同宽的「书口线」 */
+article > section > :is(h1, h2, h3, h4, h5, h6) {
+    width: var(--column);
+}
+
+/* 文章页首标题：Typst 的 `= 标题` 输出为 h2，给它页面标题的份量 */
+article > section > :is(h2, h3):first-child {
+    margin-top: 2.4rem;
+    font-size: 1.95rem;
+    line-height: 1.2;
+    letter-spacing: -0.008em;
+}
+
+/* format-headings.js 会把标题里的 ASCII 包成斜体 */
+.heading-en {
+    font-style: italic;
+}
+
+/* --------------------------------------------------------------------------
+   3. 链接与交互
+   -------------------------------------------------------------------------- */
+
+a,
+a:link,
+a:visited {
+    color: inherit;
+    text-decoration: none;
+    background-image: none !important;
+    text-shadow: none !important;
+}
+
+article a:any-link {
+    color: var(--ink);
+    text-decoration: underline;
+    text-decoration-color: var(--rule);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+    transition: color 0.18s var(--ease), text-decoration-color 0.18s var(--ease);
+}
+
+article a:hover {
+    color: var(--accent);
+    text-decoration-color: var(--accent-soft);
+}
+
+article a:focus-visible {
+    outline: 2px solid var(--accent-soft);
+    outline-offset: 3px;
+    border-radius: 2px;
+}
+
+hr {
+    width: var(--column);
+    border: 0;
+    border-top: 1px solid var(--rule);
+    margin: 2.5rem 0;
+}
+
+/* 引用块（上游 template-quotes 与 Typst 内联样式两种来源） */
+:is(blockquote.quote-block, div[style*="border-inline-start"]) {
+    margin: 1.8rem 0;
+    padding: 0.1rem 0 0.1rem 1.15rem;
+    border-inline-start: 2px solid var(--rule) !important;
+    color: var(--ink-muted);
+    font-size: 1.02rem;
+    line-height: var(--leading);
+}
+
+:is(blockquote.quote-block, div[style*="border-inline-start"]) p {
+    font-size: inherit;
+    line-height: inherit;
+    width: 100%;
+    margin: 0.45rem 0;
+}
+
+figure[role="math"],
+.math-block {
+    font-size: 1.05rem;
+}
+
+/* 上游给行内公式左右各留 0.1em，中文段落里若干公式相邻时会累积出
+   几像素的横向溢出。收窄到 0.04em，视觉上仍与汉字有间隙。 */
+.math-inline {
+    margin-inline: 0.04em;
+}
+
+/* --------------------------------------------------------------------------
+   4. 页头
+
+   上游结构：
+     header.site-header > nav.site-nav
+       .site-nav-links  (a)
+       .site-nav-tools  (a.nav-icon.rss-link, button#theme-toggle)
+   图标由 CSS mask 绘制，颜色跟随 --theme-icon。
+   -------------------------------------------------------------------------- */
+
+.site-header {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    /* 上游给页头设了 0.5em 的上下外边距；吸顶元素的 margin 区域
+       不会被背景绘制，滚动时正文会从那条缝里透出来。清零。 */
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: transparent;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s var(--ease), background-color 0.25s var(--ease);
+}
+
+/* 页头本身位于 Tufte 的窄内容盒内（body 有 12.5% 左内边距），
+   背景只能覆盖内容盒，左侧留白会在滚动时透出正文。
+   用一个全视口宽度的伪元素铺底，再把内容叠在上面。 */
+.site-header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    /* 用 100% 而非 100vw：vw 在移动端包含滚动条宽度，会多出几像素横向滚动 */
+    width: 100%;
+    transform: translateX(-50%);
+    z-index: -1;
+    background-color: var(--paper);
+    background-color: color-mix(in srgb, var(--paper) 97%, transparent);
+    backdrop-filter: saturate(150%) blur(14px);
+    -webkit-backdrop-filter: saturate(150%) blur(14px);
+}
+
+/* 首个 header 是空的（上游为 header-elements 预留），不占空间 */
+.site-header:empty {
+    display: none;
+}
+
+/* 上游 `header.site-header` 用了 0.5em 上下外边距。吸顶元素的 margin
+   区域不绘制背景，滚动时正文会从这条缝里透出来，因此统一清零。 */
+header.site-header {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.site-header.is-scrolled {
+    border-bottom-color: var(--rule);
+}
+
+.site-nav {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    margin: 0 0 0 0.35em;
+    padding: 0.55rem 0;
+    min-height: 3.3rem;
+    flex-wrap: nowrap;
+    font-size: 1rem;
+    color: var(--ink);
+}
+
+.site-nav-links {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    flex-wrap: wrap;
+}
+
+.site-nav-links a,
+.site-nav-links a:link,
+.site-nav-links a:visited {
+    font-size: 0.86rem;
+    color: var(--ink-muted);
+    padding: 0.3rem 0.62rem;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: color 0.18s var(--ease), background-color 0.18s var(--ease);
+}
+
+.site-nav-links a:hover {
+    color: var(--ink-strong);
+    background-color: var(--wash);
+}
+
+/* 首项是站名：比栏目更重，并与栏目之间留一道细分隔 */
+.site-nav-links a:first-child {
+    font-size: 0.92rem;
+    font-weight: 600;
+    letter-spacing: 0.005em;
+    color: var(--ink-strong);
+    white-space: nowrap;
+}
+
+.site-nav-links a:first-child + a {
+    margin-inline-start: 0.35rem;
+    padding-inline-start: 0.85rem;
+    border-inline-start: 1px solid var(--rule-soft);
+    border-radius: 0 4px 4px 0;
+}
+
+.site-nav-tools {
+    display: flex;
+    align-items: center;
+    gap: 0.15rem;
+    margin-left: auto;
+    margin-right: 0;
+    padding-inline-start: 0.4rem;
+    border-inline-start: 1px solid var(--rule-soft);
+}
+
+.site-nav-tools .nav-icon {
+    width: 2rem;
+    height: 2rem;
+    color: var(--ink-muted);
+    border-radius: 4px;
+    transition: color 0.18s var(--ease), background-color 0.18s var(--ease);
+}
+
+.site-nav-tools .nav-icon:hover {
+    color: var(--ink-strong);
+    background-color: var(--wash);
+}
+
+.site-nav-tools .nav-icon:focus-visible {
+    outline: 2px solid var(--accent-soft);
+    outline-offset: 2px;
+}
+
+.nav-icon::before {
+    width: 1.05rem;
+    height: 1.05rem;
+}
+
+/* --------------------------------------------------------------------------
+   5. 首页首屏
+   -------------------------------------------------------------------------- */
+
+.hero {
+    width: var(--column);
+    margin: 1.8rem 0 2.6rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--rule-soft);
+}
+
+.hero-title {
+    margin: 0;
+    font-size: 2.3rem;
+    font-weight: 600;
+    line-height: 1.15;
+    letter-spacing: -0.012em;
+    color: var(--ink-strong);
+}
+
+.hero-tagline {
+    margin: 0.8rem 0 0;
+    font-size: 0.96rem;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+    color: var(--ink-muted);
+}
+
+/* --------------------------------------------------------------------------
+   6. 归档列表（上游 blog-entry：日期列 + 标题列）
+   -------------------------------------------------------------------------- */
+
+.year-group {
+    width: var(--column);
+    margin: 0 0 2.4rem;
+    padding: 0;
+}
+
+.year-group > .year {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    width: 100%;
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px dashed var(--rule);
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.4;
+    font-variant-numeric: lining-nums;
+    letter-spacing: 0.07em;
+    color: var(--ink-strong);
+}
+
+/* 上游 .blog-entry 默认左右分布 + 上边框，改为「日期 | 标题」紧凑目录行 */
+.blog-entry {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.95rem;
+    width: 100%;
+    padding: 0.2rem 0;
+    border-bottom: 0;
+}
+
+.blog-entry-date {
+    flex: 0 0 3rem;
+    /* 与标题行高一致，保证日期与标题首行对齐（标题换行时不会沉到底部） */
+    line-height: 1.6;
+    font-family: var(--font-mono);
+    font-size: 0.73rem;
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.01em;
+    color: var(--ink-faint);
+    transition: color 0.18s var(--ease);
+}
+
+.blog-entry-content {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.blog-entry-content a:any-link {
+    display: inline-block;
+    font-size: 1.02rem;
+    line-height: 1.6;
+    color: var(--ink);
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+    transition: color 0.18s var(--ease),
+        text-decoration-color 0.18s var(--ease), transform 0.22s var(--ease);
+}
+
+.blog-entry:hover .blog-entry-date {
+    color: var(--ink-muted);
+}
+
+.blog-entry:hover .blog-entry-content a {
+    color: var(--accent);
+    text-decoration-color: var(--accent-soft);
+    transform: translateX(2px);
+}
+
+.blog-entry-content a:focus-visible {
+    outline: 2px solid var(--accent-soft);
+    outline-offset: 3px;
+    border-radius: 2px;
+}
+
+/* --------------------------------------------------------------------------
+   7. 文章元信息、脚注、边注、目录、返回顶部
+   -------------------------------------------------------------------------- */
+
+.article-byline {
+    width: var(--column);
+    margin: -0.2rem 0 1.6rem;
+    font-size: 0.86rem;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    opacity: 1;
+}
+
+.article-byline .article-byline-separator {
+    color: var(--ink-faint);
+}
+
+.marginnote,
+.sidenote {
+    color: var(--ink-muted);
+    font-size: 0.82rem;
+    line-height: 1.62;
+}
+
+/* 目录
+   上游把目录放在 left: 3.5rem —— 适配窄版心。本站正文左边缘在 12.5%
+   （1280px 下约 160px），放左侧会压住正文。Tufte 的右侧留白本来就空着，
+   把目录与开关一起移到右侧。 */
+.toc-sidebar {
+    left: auto;
+    right: 1.75rem;
+    max-width: min(15rem, calc((100vw - 55vw - 12.5%) * 0.92));
+    border: 1px solid var(--rule);
+    background: var(--paper);
+    color: var(--ink);
+    border-radius: 0.6rem;
+    box-shadow: 0 0.3rem 1rem rgb(0 0 0 / 6%);
+    font-family: var(--font-serif);
+    transform: translate(0.5rem, -50%);
+}
+
+.toc-sidebar.is-open {
+    transform: translate(0, -50%);
+}
+
+/* 开关贴着目录左边缘，避免与展开后的面板重叠 */
+.toc-toggle {
+    left: auto;
+    right: calc(min(15rem, calc((100vw - 55vw - 12.5%) * 0.92)) + 2.4rem);
+    align-items: flex-end;
+}
+
+.toc-sidebar a:any-link {
+    color: var(--ink-muted);
+    font-size: 0.82rem;
+    text-decoration: none;
+}
+
+.toc-sidebar a:hover,
+.toc-sidebar a:focus-visible,
+.toc-sidebar a.is-active {
+    color: var(--ink-strong);
+}
+
+.toc-toggle-line {
+    height: 1px;
+}
+
+/* 返回顶部 / 目录开关：跟随主题的图标色 */
+.page-jump-btn {
+    right: 1.5rem;
+    bottom: 1.5rem;
+}
+
+/* 页脚 */
+body > footer,
+footer {
+    max-width: 55%;
+    color: var(--ink-muted);
+    font-size: 0.82rem;
+    line-height: 1.7;
+}
+
+/* --------------------------------------------------------------------------
+   8. 代码块与表格
+   -------------------------------------------------------------------------- */
+
+code,
+kbd,
+samp {
+    font-family: var(--font-mono);
+    font-size: 0.86em;
+    font-variant-numeric: normal;
+}
+
+code {
+    padding: 0.12em 0.34em;
+    border-radius: 3px;
+    border: 0;
+}
+
+pre {
+    width: var(--column);
+    padding: 1rem 1.1rem;
+    border-radius: 6px;
+    margin-bottom: 1.6rem;
+}
+
+pre > code {
+    width: 100%;
+    font-family: var(--font-mono);
+    font-size: 0.84rem;
+    line-height: 1.62;
+    font-variant-numeric: normal;
+}
+
+.line-numbers-rows {
+    font-size: 0.84rem;
+    line-height: 1.62;
+    font-family: var(--font-mono);
+}
+
+.copy-button {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.02em;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.18s var(--ease), color 0.18s var(--ease),
+        border-color 0.18s var(--ease);
+}
+
+pre:hover .copy-button,
+.copy-button:focus-visible,
+.copy-button.copied {
+    opacity: 1;
+}
+
+@media (hover: none) {
+    .copy-button {
+        opacity: 1;
+    }
+}
+
+table {
+    font-size: 0.92rem;
+    font-family: var(--font-serif);
+}
+
+table th,
+table td {
+    padding: 0.45rem 0.7rem;
+    border-width: 1px;
+}
+
+/* --------------------------------------------------------------------------
+   9. 响应式
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 760px) {
+    .site-nav {
+        flex-wrap: wrap;
+        gap: 0.35rem 0.9rem;
+        min-height: 0;
+        padding: 0.6rem 0;
+        margin-left: 0;
+    }
+
+    .site-nav-links {
+        order: 3;
+        width: 100%;
+        gap: 0;
+        border-top: 1px solid var(--rule-soft);
+        padding-top: 0.35rem;
+    }
+
+    .site-nav-links a {
+        padding: 0.25rem 0.55rem 0.25rem 0;
+    }
+
+    .site-nav-links a:first-child {
+        font-size: 0.88rem;
+    }
+
+    .site-nav-links a:first-child + a {
+        margin-inline-start: 0;
+        padding-inline-start: 0.55rem;
+    }
+
+    .site-nav-tools {
+        margin-left: auto;
+        padding-inline-start: 0;
+        border-inline-start: 0;
+    }
+
+    /* 窄屏下正文占满，目录面板与开关贴边，避免 4px 级溢出 */
+    .toc-sidebar {
+        right: 0.5rem;
+        left: auto;
+        max-width: calc(100vw - 2.5rem);
+    }
+
+    .toc-toggle {
+        right: 0.25rem;
+        padding: 0.7rem 0.45rem;
+    }
+
+    p,
+    ul,
+    ol,
+    dl {
+        font-size: 1.08rem;
+    }
+
+    .hero,
+    .year-group,
+    .blog-entry,
+    .article-byline,
+    hr,
+    pre,
+    body > footer,
+    footer {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .hero {
+        margin: 0.8rem 0 2rem;
+    }
+
+    .hero-title {
+        font-size: 1.72rem;
+    }
+
+    article > section > :is(h1, h2, h3, h4, h5, h6) {
+        width: 100%;
+    }
+
+    .blog-entry {
+        gap: 0.7rem;
+    }
+
+    .blog-entry-date {
+        flex-basis: 2.7rem;
+        font-size: 0.69rem;
+    }
+
+    .blog-entry-content a:any-link {
+        font-size: 0.98rem;
+    }
+
+    .blog-entry:hover .blog-entry-content a {
+        transform: none;
+    }
+}
+
+/* --------------------------------------------------------------------------
+   10. 无障碍与打印
+   -------------------------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+    }
+
+    .blog-entry:hover .blog-entry-content a {
+        transform: none;
+    }
+}
+
+@media print {
+    .site-header,
+    .toc-sidebar,
+    .toc-toggle,
+    .page-jump-btn {
+        display: none;
+    }
+
+    body {
+        background: #fff;
+        color: #000;
+    }
+}

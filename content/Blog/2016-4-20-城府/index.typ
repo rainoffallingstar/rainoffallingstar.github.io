@@ -1,5 +1,5 @@
 #import "../../../config.typ": template, tufted
-#show: template.with(title: "城府").with(lang: "zh")
+#show: template.with(title: "城府", date: datetime(year: 2016, month: 4, day: 20)).with(lang: "zh")
 
 == 城府
 

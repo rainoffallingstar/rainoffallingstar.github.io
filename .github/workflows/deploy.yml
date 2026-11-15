@@ -6,6 +6,7 @@ on:
     paths:
       - "content/**"
       - "assets/**"
+      - "tufted-lib/**"
       - "config.typ"
       - "build.py"
   workflow_dispatch:
