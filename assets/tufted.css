@@ -3,163 +3,1048 @@ CSS VARIABLES
 *******************************************************************************/
 
 :root {
-    --highlight-weak: rgba(128, 128, 128, 0.2);
-    --highlight-strong: rgba(128, 128, 128, 0.4);
-    --radius-sm: 0.2rem;
+	--highlight-weak: rgba(128, 128, 128, 0.2);
+	--highlight-strong: rgba(128, 128, 128, 0.4);
+	--radius-sm: 0.2rem;
 }
-
 
 /*******************************************************************************
 BASE STYLES
 *******************************************************************************/
 
 html {
-    font-size: 10pt;
+	font-size: 10.5pt;
+	height: 100%;
+}
+
+/* Sticky footer layout */
+body {
+	margin: 0 auto;
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+/* Main content fills remaining space */
+body > article {
+	flex: 1 0 auto;
+	padding: 4.5rem 0 1.5rem;
+}
+
+/* Footer stays at bottom */
+body > footer {
+	margin-top: auto;
+	flex-shrink: 0;
 }
 
 img,
 svg {
-    max-height: 80vh;
+	max-width: 100%;
+	max-height: 80vh;
+	height: auto;
+	width: auto;
 }
 
-
-/*******************************************************************************
-RESPONSIVE LAYOUT
-*******************************************************************************/
-
-@media (max-width: 760px) {
-
-    /* Display margin notes inline on narrow screens */
-    .marginnote {
-        display: block;
-        float: none;
-        position: static;
-        padding-left: 1.2rem;
-        width: 100%;
-        margin-top: 1em;
-        margin-bottom: 1em;
-    }
-
-    /* Limit image width in margin notes */
-    .marginnote img,
-    .marginnote svg {
-        max-width: calc(760px / 3);
-        margin: 0 auto;
-        display: block;
-    }
-
-    /* Enable hyphenation on narrow screens */
-    p {
-        hyphens: auto !important;
-    }
+/* Give lazy-loaded images a non-zero offscreen placeholder for layout. */
+img[loading="lazy"] {
+	content-visibility: auto;
+	contain-intrinsic-size: auto 400px;
 }
 
+/*
+   CONTENT ALIGNMENT & CENTERING
+   Shared logic for images, SVGs
+*/
 
-/*******************************************************************************
-NAVBAR
-*******************************************************************************/
-
-header nav {
-    display: flex;
-    gap: 1em;
+/* 1. Content centered in the main text column (55% width) */
+section > img,
+section > svg {
+	max-width: 55%;
+	position: relative;
+	left: 27.5%;
+	transform: translateX(-50%);
+	display: block;
 }
 
-header nav a,
-header nav a:link,
-header nav a:visited {
-    color: inherit;
-    text-decoration: none !important;
-    background-image: none !important;
-    border-bottom: 0 !important;
-    box-shadow: none !important;
-    text-shadow: none;
-    font-size: 1.5rem;
-    padding: 0.2em 0.4em;
-    margin-top: 1em;
-    border-radius: var(--radius-sm);
-    transition: background-color 120ms ease;
+/* 2. Content centered in figures (100% of figure width) */
+section > figure:not(.fullwidth) > img,
+section > figure:not(.fullwidth) > svg {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
-header nav a:hover,
-header nav a:focus-visible {
-    background: var(--highlight-weak);
-    outline: none;
+/* Fullwidth content */
+.fullwidth {
+	width: 90vw;
+	min-width: 90vw;
+	margin-left: calc(50% - 50vw);
+	margin-right: calc(50% - 50vw);
+	clear: both;
 }
 
-
-/*******************************************************************************
-FOOTNOTES AND MARGIN NOTES
-*******************************************************************************/
-
-.footnote-ref,
-.footnote-ref+.marginnote {
-    --highlight: transparent;
-    background-color: var(--highlight);
-    box-shadow: 0 0 0 5px var(--highlight);
-    border-radius: var(--radius-sm);
-    transition: background-color 0.3s ease 1s, box-shadow 0.3s ease 1s;
+.fullwidth img,
+.fullwidth svg {
+	max-width: 100%;
 }
-
-/* Highlight margin note when footnote reference is hovered */
-.footnote-ref:hover+.marginnote {
-    --highlight: var(--highlight-weak);
-    transition-delay: 0s;
-}
-
-/* Highlight footnote reference when margin note is hovered */
-.footnote-ref:has(+ .marginnote:hover) {
-    --highlight: var(--highlight-strong);
-    transition-delay: 0s;
-}
-
-a.footnote-ref-link {
-    background-image: none;
-    text-shadow: none !important;
-}
-
 
 /*******************************************************************************
 MATH NOTATION
 *******************************************************************************/
 
-/* TODO: Remove hack for math zooming */
-figure[role="math"] {
-    zoom: 1.4;
+.math-block {
+	display: block;
+	width: 55%;
+	text-align: center;
+	margin: 1em 0;
+	padding: 0.5em 0;
+	font-size: 1.4em;
+	line-height: 1.2;
+	white-space: nowrap;
+	overflow-x: auto;
+	overflow-y: hidden;
 }
 
-@media (prefers-color-scheme: dark) {
-
-    /* Invert math figures for better contrast */
-    [role="math"] {
-        filter: invert(1) hue-rotate(180deg);
-    }
+figure > .math-block {
+	width: 100%;
+	margin: 0 auto;
+	max-width: 100%;
 }
 
+.fullwidth > .math-block {
+	width: 100%;
+	margin: 1em auto;
+	max-width: 100%;
+}
+
+.math-inline {
+	display: inline-block;
+	vertical-align: baseline;
+	margin: 0 0.1em;
+	text-indent: 0;
+}
+
+.math-inline.is-copyable,
+.math-block.is-copyable {
+	position: relative;
+	cursor: pointer;
+}
+
+.math-inline.is-copyable:focus-visible,
+.math-block.is-copyable:focus-visible {
+	outline: 1px solid currentColor;
+	outline-offset: 0.15em;
+}
+
+.math-inline.is-copyable::after,
+.math-block.is-copyable::after {
+	content: "Copy MathML";
+	position: absolute;
+	z-index: 1;
+	padding: 0.15em 0.45em;
+	color: var(--theme-copy-btn-text, #666);
+	background: var(--theme-copy-btn-bg, #fff);
+	border: 1px solid var(--theme-copy-btn-border, #ccc);
+	border-radius: var(--radius-sm);
+	font-size: 0.75rem;
+	font-style: normal;
+	line-height: 1.4;
+	white-space: nowrap;
+	pointer-events: none;
+	opacity: 0;
+	transition:
+		opacity 120ms ease,
+		transform 120ms ease;
+}
+
+.math-inline.is-copyable::after {
+	left: 50%;
+	bottom: 100%;
+	transform: translate(-50%, 0.2em);
+}
+
+.math-block.is-copyable::after {
+	top: 0.35em;
+	right: 0.35em;
+	transform: translateY(-0.2em);
+}
+
+.math-inline.is-copyable:hover::after,
+.math-inline.is-copyable:focus-visible::after {
+	opacity: 1;
+	transform: translate(-50%, -0.15em);
+}
+
+.math-block.is-copyable:hover::after,
+.math-block.is-copyable:focus-visible::after {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.math-inline.is-copyable.is-copied::after,
+.math-block.is-copyable.is-copied::after {
+	content: "Copied";
+	color: var(--theme-copy-btn-copied-text, #008000);
+	border-color: var(--theme-copy-btn-copied-border, #008000);
+	background: var(--theme-copy-btn-copied-bg, #e6fffa);
+	opacity: 1;
+}
+
+.math-inline > math,
+.math-block > math {
+	color: inherit;
+}
+
+.math-inline > svg,
+.math-block > svg {
+	display: inline-block;
+}
+
+.math-block > svg {
+	min-width: max-content;
+	text-align: center;
+}
+
+/*******************************************************************************
+TYPOGRAPHY
+*******************************************************************************/
+
+hr {
+	border: 0;
+	border-top: 1px solid var(--theme-table-border, #ccc);
+	margin: 1.5rem 0;
+}
+
+/* Paragraph alignment and spacing */
+p {
+	text-align: justify;
+	text-justify: inter-ideograph;
+}
+
+/* Paragraph and list spacing */
+p,
+ul,
+ol,
+dl {
+	line-height: 2.2rem;
+}
+
+/* Heading styles */
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-style: normal;
+	font-weight: bold;
+	color: #111;
+}
+
+h2,
+h3,
+h4,
+h5 {
+	line-height: 1.2;
+}
+
+h2 {
+	font-size: 2.3rem;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+h3 {
+	font-size: 2rem;
+	margin-top: 1.5rem;
+	margin-bottom: 0.8rem;
+}
+
+h4 {
+	font-size: 1.75rem;
+	margin-top: 1.2rem;
+	margin-bottom: 0.5rem;
+}
+
+h5 {
+	font-size: 1.5rem;
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+}
+
+/* Article metadata shown directly below the title */
+.article-byline {
+	width: 55%;
+	margin: -0.4rem 0 1.6rem;
+	color: var(--theme-text, #111);
+	font-size: 1.2rem;
+	line-height: 1.5;
+	opacity: 0.7;
+}
+
+.article-byline p {
+	width: 100%;
+	margin: 0;
+	text-align: left;
+	line-height: inherit;
+}
+
+.article-extra-info {
+	margin-top: 0.2rem;
+	font-size: 0.85em;
+}
+
+/* English/numeric text in headings */
+.heading-en {
+	font-style: italic;
+}
+
+/*******************************************************************************
+CODE BLOCKS AND INLINE CODE
+*******************************************************************************/
+
+/* Code block container */
+pre {
+	position: relative;
+	background-color: #f7f7f7;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+	padding: 1em;
+	padding-bottom: 0.5em;
+	overflow-x: auto;
+	margin-bottom: 1.5em;
+	width: 55%;
+	margin-left: 0;
+	margin-right: 0;
+	float: none;
+	clear: none;
+	box-sizing: border-box;
+	left: 0;
+}
+
+/* Code within pre */
+pre > code {
+	width: 95%;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	margin-left: 0%;
+	background-color: transparent;
+	padding: 0;
+	padding-bottom: 0.7em;
+	border: none;
+}
+
+/* Code blocks with line numbers */
+pre.has-line-numbers {
+	display: flex;
+	align-items: flex-start;
+}
+
+.line-numbers-rows {
+	display: flex;
+	flex-direction: column;
+	padding-right: 0.4em;
+	margin-right: 0.4em;
+	border-right: 1px solid #ddd;
+	color: #aaa;
+	user-select: none;
+	text-align: right;
+	min-width: 1.2em;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	font-family: monospace;
+}
+
+/* Inline code */
+code {
+	font-size: 1.2rem;
+	background-color: #f7f7f7;
+	padding: 0.1em 0.3em;
+	border-radius: 3px;
+	border: 1px solid #e7e7e7;
+}
+
+/* Code blocks in lists and figures */
+li pre,
+ul pre,
+ol pre,
+dl pre,
+figure pre {
+	width: 100%;
+}
+
+/* Copy button */
+.copy-button {
+	position: absolute;
+	top: 0.5em;
+	right: 0.5em;
+	padding: 0.3em 0.6em;
+	font-size: 0.8rem;
+	color: #666;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	cursor: pointer;
+	opacity: 0;
+	transition:
+		opacity 0.2s,
+		background-color 0.2s;
+}
+
+pre:hover .copy-button {
+	opacity: 1;
+}
+
+.copy-button:hover {
+	background-color: #f0f0f0;
+	color: #333;
+}
+
+.copy-button.copied {
+	background-color: #e6fffa;
+	color: #008000;
+	border-color: #008000;
+}
+
+/*******************************************************************************
+QUOTE BLOCKS
+*******************************************************************************/
+
+/* Native quotes and theorion blocks */
+:is(blockquote.quote-block, div[style*="border-inline-start"]) {
+	width: 55% !important;
+	font-size: 1.4rem;
+	line-height: 2.2rem;
+	clear: none;
+	text-align: left;
+	margin: 1.5em 0;
+	padding-right: 0;
+	box-sizing: border-box;
+
+	& :is(blockquote.quote-block, div[style*="border-inline-start"]) {
+		width: 100% !important;
+		margin: 0.5em 0;
+	}
+
+	& p {
+		text-align: inherit;
+		font-size: 1.4rem;
+		margin: 0.5em 0;
+		width: 100%;
+	}
+
+	& .footnote-ref,
+	& .marginnote,
+	& .footnote-ref a {
+		color: #111;
+	}
+
+	@media (max-width: 760px) {
+		width: 100% !important;
+	}
+}
+
+blockquote.quote-block {
+	border-inline-start: 0.25em solid #c8c8c8;
+	padding: 0.1em 0 0.1em 1em;
+	color: #646464;
+
+	& > .quote-attribution {
+		margin-top: 0.5em;
+		text-align: right;
+	}
+}
+
+/* Keep display math consistent with formulas in the main text column. */
+:is(blockquote.quote-block, div[style*="border-inline-start"])
+	> figure.math-block,
+.quote-body > figure.math-block {
+	width: 100%;
+	max-width: 100%;
+	font-size: 1em;
+}
+
+/*******************************************************************************
+TABLES
+*******************************************************************************/
+
+table {
+	width: auto;
+	margin: 1.5em auto;
+	border-collapse: collapse;
+	font-size: 1.4rem;
+	line-height: 1.2;
+}
+
+/* A table cell has its own float context; keep its notes below earlier floats. */
+table:has(.marginnote) {
+	clear: right;
+}
+
+/* Keep narrow tables compact; scroll only when their content is too wide. */
+.table-scroll {
+	box-sizing: border-box;
+	width: fit-content;
+	max-width: 100%;
+	overflow-x: auto;
+	margin: 1.5em auto;
+}
+
+.table-scroll > table {
+	width: auto;
+	max-width: none;
+	margin: 0;
+}
+
+section > .table-scroll {
+	max-width: 55%;
+	position: relative;
+	left: 27.5%;
+	transform: translateX(-50%);
+	margin-left: 0;
+	margin-right: 0;
+}
+
+table th,
+table td {
+	padding: 0.5em 0.7em;
+	border: 1px solid #ccc;
+	text-align: left;
+	vertical-align: top;
+}
+
+table th,
+table thead td {
+	background-color: #f5f5f5;
+	font-weight: bold;
+	text-align: center;
+}
+
+table tbody tr:nth-child(even) {
+	background-color: #fafafa;
+}
+
+table tbody tr:hover {
+	background-color: #f0f0f0;
+}
+
+@media (max-width: 760px) {
+	table {
+		font-size: 1.2rem;
+	}
+
+	/* Reset naked table positioning on mobile */
+	section > .table-scroll {
+		max-width: 100%;
+		left: 0;
+		transform: none;
+		margin: 1.5em auto;
+	}
+
+	figure {
+		margin: 1.5em auto;
+	}
+
+	table th,
+	table td {
+		padding: 0.4em 0.6em;
+	}
+
+	/* Responsive content layout */
+	.math-block {
+		width: 100%;
+	}
+
+	/* Margin notes render inline on narrow screens */
+	.marginnote {
+		display: block;
+		float: none;
+		position: static;
+		padding: 0.85rem 1rem;
+		width: 100%;
+		margin: 0.5rem 0 1.25rem;
+		background: var(--theme-pre-bg);
+		border: 1px solid var(--theme-pre-border);
+		border-radius: var(--radius-sm);
+		box-sizing: border-box;
+	}
+
+	.marginnote.is-expanded {
+		display: block;
+	}
+
+	/* Footnote margin notes collapse by default */
+	.footnote-ref + .marginnote {
+		display: none;
+	}
+
+	.footnote-ref + .marginnote.is-expanded {
+		display: block;
+	}
+
+	/* Margin citations collapse too; tapping the citation expands them */
+	.sidenote-cite:not(.is-expanded) {
+		display: none;
+	}
+
+	/* Limit image size inside expanded margin notes */
+	.marginnote img,
+	.marginnote svg {
+		max-width: 100%;
+		max-height: 50vh;
+		margin: 0.4rem auto;
+		display: block;
+	}
+
+	sup.footnote-ref > a.footnote-ref-link {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 0.75rem;
+		line-height: 1;
+		min-width: 1.6em;
+		height: 1.6em;
+		padding: 0 0.4em;
+		margin: 0 0.15em;
+		border-radius: 999px;
+		border: 1px solid var(--theme-pre-border);
+		background: var(--theme-pre-bg);
+		color: var(--theme-text);
+		appearance: none;
+		cursor: pointer;
+	}
+
+	sup.footnote-ref > a.footnote-ref-link.is-expanded {
+		background: var(--highlight-weak);
+	}
+
+	/* Enable hyphenation on narrow screens */
+	p {
+		hyphens: auto;
+	}
+
+	/* Full-width code blocks on mobile */
+	pre {
+		width: 100%;
+	}
+
+	/* Full-width tables and images on mobile */
+	section > img,
+	section > svg {
+		max-width: 100%;
+		left: 0;
+		transform: none;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.article-byline {
+		width: 100%;
+	}
+}
+
+/*******************************************************************************
+NAVBAR AND HEADER/FOOTER
+*******************************************************************************/
+
+/* Site header and footer should have consistent styling */
+header.site-header,
+footer {
+	font-size: 1.1rem;
+	color: #666;
+	line-height: 1.6;
+}
+
+header.site-header {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 0.35em;
+}
+
+footer {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+.site-nav {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 0.5rem 1em;
+	margin-top: 1em;
+}
+
+.site-nav-links {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1em;
+}
+
+.site-nav-links > p {
+	display: flex;
+	gap: inherit;
+	margin: 0;
+	flex-wrap: wrap;
+}
+
+.site-nav-links a:any-link {
+	text-decoration: none;
+	border-bottom: 0;
+	box-shadow: none;
+	font-size: 1.5rem;
+	padding: 0.2em 0.4em;
+	border-radius: var(--radius-sm);
+	transition: background-color 120ms ease;
+}
+
+.site-nav-links a:hover,
+.site-nav-links a:focus-visible {
+	background: var(--highlight-weak);
+	outline: none;
+}
+
+.site-nav-tools {
+	display: flex;
+	align-items: center;
+	gap: 0.25rem;
+	flex-shrink: 0;
+	margin-left: auto;
+	margin-right: 3em;
+}
+
+.site-nav-tools .nav-icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 2.8rem;
+	height: 2.8rem;
+	padding: 0;
+	background: transparent;
+	border: none;
+	border-radius: 0.375rem;
+	cursor: pointer;
+	text-decoration: none;
+	box-shadow: none;
+	transition: background-color 0.15s ease;
+	color: var(--theme-icon);
+}
+
+.site-nav-tools .nav-icon:hover {
+	background: var(--highlight-weak, rgba(128, 128, 128, 0.2));
+}
+
+.site-nav-tools .nav-icon:focus-visible {
+	outline: 2px solid var(--highlight-strong, rgba(128, 128, 128, 0.4));
+	outline-offset: 2px;
+}
+
+.nav-icon::before {
+	content: "";
+	width: 1.8rem;
+	height: 1.8rem;
+	background-color: currentColor;
+	mask: var(--nav-icon) center / contain no-repeat;
+}
+
+.rss-link {
+	--nav-icon: url("/assets/icons/rss.svg");
+}
+
+@media (max-width: 760px) {
+	.site-nav-tools {
+		margin-right: 0;
+	}
+}
+
+@media (forced-colors: active) {
+	.nav-icon::before {
+		/* Preserve the mask paint while respecting the system palette. */
+		forced-color-adjust: none;
+		background-color: CanvasText;
+	}
+
+	.site-nav-tools .nav-icon:focus-visible {
+		outline-color: Highlight;
+	}
+}
+
+/*******************************************************************************
+FOOTNOTES AND MARGIN NOTES
+*******************************************************************************/
+
+/* Fix footnote line-height inconsistency */
+sup.footnote-ref {
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+	top: -0.5em;
+}
+
+.footnote-ref,
+.sidenote-footnote {
+	--highlight: transparent;
+	background-color: var(--highlight);
+	box-shadow: 0 0 0 5px var(--highlight);
+	border-radius: var(--radius-sm);
+	transition:
+		background-color 0.3s ease 1s,
+		box-shadow 0.3s ease 1s;
+}
+
+/* Highlight margin note when footnote reference is hovered */
+.footnote-ref:hover + .marginnote {
+	--highlight: var(--highlight-weak);
+	transition-delay: 0s;
+}
+
+/* Highlight footnote reference when margin note is hovered */
+.footnote-ref:has(+ .marginnote:hover) {
+	--highlight: var(--highlight-strong);
+	transition-delay: 0s;
+}
+
+.sidenote-anchor {
+	font: inherit;
+	line-height: inherit;
+	pointer-events: none;
+}
+
+@media (min-width: 761px) {
+	/* Manual notes must not create an otherwise empty line in the text column. */
+	.sidenote-anchor {
+		display: none;
+	}
+
+	p.sidenote-only {
+		display: contents;
+	}
+
+	sup.marginnote-ref {
+		display: none;
+	}
+
+	/* Keep fallback note geometry stable when notes are nested in lists or blocks. */
+	article > section {
+		/* Fractions of the section width; JS reads the column start as well. */
+		--sidenote-content-width: 0.55;
+		--sidenote-column-start: 0.605;
+		--sidenote-column-width: 0.275;
+		container-type: inline-size;
+	}
+
+	article > section .marginnote {
+		inline-size: calc(100cqi * var(--sidenote-column-width));
+		margin-inline-end: calc(
+			100cqi *
+			(
+				var(--sidenote-content-width) -
+				var(--sidenote-column-start) -
+				var(--sidenote-column-width)
+			)
+		);
+	}
+
+	/* A nested float cannot avoid its parent's text. Keep nested notes in
+	   normal flow so their height is included in the outer side note. */
+	article > section .marginnote .marginnote {
+		display: block;
+		float: none;
+		clear: none;
+		position: static;
+		inline-size: auto;
+		min-inline-size: 0;
+		margin: 0.5em 0;
+	}
+}
+
+/* Fix code size in margin notes (including inside links) */
+.marginnote code {
+	font-size: inherit;
+}
 
 /*******************************************************************************
 POST TILES
 *******************************************************************************/
 
 .post-tile {
-    margin: 0 0 1rem;
+	margin: 0 0 1rem;
 }
 
 .post-tile a {
-    display: inline-block;
-    padding: 0.1em 0.2em;
-    background-image: none !important;
+	display: inline-block;
+	padding: 0.1em 0.2em;
 }
 
 .post-tile a:hover,
 .post-tile a:focus-visible {
-    background: var(--highlight-weak);
-    outline: none;
+	background: var(--highlight-weak);
+	outline: none;
 }
 
 .post-tile h3 {
-    margin: 0;
+	margin: 0;
 }
 
 .post-tile p {
-    margin: 0.25rem 0 0;
+	margin: 0.25rem 0 0;
+}
+
+/*******************************************************************************
+BLOG INDEX
+*******************************************************************************/
+
+.blog-entry {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 1.5em;
+	padding: 1em 0;
+	border-bottom: 1px solid var(--theme-table-border, #ccc);
+	width: 55%;
+}
+
+.blog-entry-content {
+	flex: 1;
+}
+
+.blog-entry-content a:any-link {
+	font-size: 1.5em;
+	text-decoration: none;
+}
+
+.blog-entry-date {
+	flex-shrink: 0;
+	color: var(--theme-footer, #777);
+	font-size: 1.2em;
+	white-space: nowrap;
+}
+
+@media (max-width: 760px) {
+	/* Blog index rows take full width on mobile */
+	.blog-entry {
+		width: 100%;
+	}
+}
+
+/*******************************************************************************
+TABLE OF CONTENTS
+*******************************************************************************/
+
+.toc-sidebar {
+	position: fixed;
+	display: block;
+	top: 50%;
+	left: 3.5rem;
+	z-index: 1001;
+	box-sizing: border-box;
+	width: max-content;
+	max-width: min(26rem, calc(100vw - 4.5rem));
+	max-height: calc(100dvh - 2rem);
+	overflow-y: auto;
+	padding: 0.85rem 1rem;
+	border: 1px solid var(--theme-table-border, #ccc);
+	border-radius: 1rem;
+	background: var(--theme-bg, #fffff8);
+	color: var(--theme-text, #111);
+	box-shadow: 0 0.3rem 1rem rgb(0 0 0 / 10%);
+	visibility: hidden;
+	opacity: 0;
+	transform: translate(-0.5rem, -50%);
+	transition:
+		opacity 160ms ease,
+		transform 160ms ease,
+		visibility 160ms;
+}
+
+.toc-sidebar.is-open {
+	visibility: visible;
+	opacity: 1;
+	transform: translate(0, -50%);
+}
+
+.toc-sidebar ol {
+	width: auto;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.toc-sidebar li {
+	margin: 0.15em 0;
+}
+
+.toc-sidebar li.toc-h3 {
+	padding-left: 1.2rem;
+}
+
+.toc-sidebar a:any-link {
+	display: block;
+	color: var(--theme-copy-btn-text, #666);
+	font-size: 1.15rem;
+	line-height: 1.3;
+	text-decoration: none;
+	white-space: normal;
+	overflow-wrap: anywhere;
+	transition: color 120ms ease;
+}
+
+.toc-sidebar a:hover,
+.toc-sidebar a:focus-visible,
+.toc-sidebar a.is-active {
+	color: var(--theme-heading, #111);
+	outline: none;
+}
+
+.toc-sidebar a.is-active {
+	font-weight: bold;
+}
+
+.toc-toggle {
+	position: fixed;
+	top: 50%;
+	left: 0.5rem;
+	z-index: 1002;
+	display: flex;
+	max-height: min(24rem, 65vh);
+	padding: 0.9rem 0.65rem;
+	transform: translateY(-50%);
+	flex-direction: column;
+	align-items: flex-end;
+	gap: 0.72rem;
+	overflow-y: auto;
+	border: none;
+	border-radius: 1rem;
+	background: transparent;
+	color: var(--theme-copy-btn-text, #666);
+	cursor: pointer;
+	transition: background-color 120ms ease;
+}
+
+.toc-toggle:hover {
+	background: rgba(128, 128, 128, 0.1);
+}
+
+.toc-toggle:focus-visible {
+	outline: 2px solid var(--theme-copy-btn-text, #666);
+	outline-offset: 2px;
+}
+
+.toc-toggle-line {
+	width: 1.35rem;
+	height: 2px;
+	flex: 0 0 auto;
+	background: currentColor;
+	opacity: 0.4;
+	transition:
+		width 120ms ease,
+		background-color 120ms ease;
+}
+
+.toc-toggle-line.is-indented {
+	width: 0.85rem;
+}
+
+.toc-toggle-line.is-active {
+	background: var(--theme-heading, #111);
+	opacity: 0.8;
 }
