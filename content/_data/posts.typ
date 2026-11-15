@@ -5,6 +5,7 @@
 //
 // 字段：date 为 YYYY-MM-DD（补零，便于按字符串排序），href 可省略末尾斜杠。
 #let posts = (
+  (date: "2026-10-27", title: "OTTER：异种移植多组学工作流的预印本摘要", href: "/Blog/2026-10-27-OTTER-xenograft-multiomics-workflow/"),
   (date: "2025-12-31", title: "温故2024-2025", href: "/Blog/2025-12-31-温故2024-2025/"),
   (date: "2024-04-03", title: "温故2023", href: "/Blog/2024-04-03-温故2023/"),
   (date: "2022-12-24", title: "温故2022", href: "/Blog/2022-12-24-温故2022/"),
