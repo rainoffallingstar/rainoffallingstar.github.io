@@ -34,6 +34,7 @@ Tufted Blog Template 构建脚本
 """
 
 import argparse
+import hashlib
 import os
 import re
 import shutil
@@ -377,6 +378,41 @@ def needs_rebuild(
     return False
 
 
+# 站点外壳引用的样式与脚本。它们的改动会影响每一个页面，
+# 因此既列为公共依赖（触发重编译），也参与 asset-version 哈希。
+SHELL_ASSETS = (
+    Path("assets/tufted.css"),
+    Path("assets/theme.css"),
+    Path("assets/fonts.css"),
+    Path("assets/custom.css"),
+    Path("assets/site.css"),
+    Path("assets/site.js"),
+)
+
+
+def asset_version() -> str:
+    """
+    计算站点外壳资源的内容哈希，用作 `?v=` 查询串。
+
+    GitHub Pages 对 CSS 的缓存是 4 小时，对 HTML 只有 10 分钟。两者错配时
+    回访者会拿到「新 HTML + 旧 CSS」—— 新加的类没有对应规则，页面就会走形
+    （例如 logo 图片回落到原图尺寸铺满屏幕）。把内容哈希写进 URL 后，
+    样式一改地址就变，缓存自然失效。
+
+    返回:
+        str: 8 位十六进制摘要；资源缺失时返回空串（退化为不带版本号）
+    """
+    digest = hashlib.sha256()
+    found = False
+    for path in SHELL_ASSETS:
+        if not path.exists():
+            continue
+        found = True
+        digest.update(path.as_posix().encode("utf-8"))
+        digest.update(path.read_bytes())
+    return digest.hexdigest()[:8] if found else ""
+
+
 def find_common_dependencies() -> list[Path]:
     """
     查找所有文件的公共依赖（如 config.typ）。
@@ -389,6 +425,11 @@ def find_common_dependencies() -> list[Path]:
     # config.typ 是全局配置，修改后所有页面都需要重建
     if CONFIG_FILE.exists():
         common_deps.append(CONFIG_FILE)
+
+    # 样式与脚本由每个页面引用，改动后所有页面都要重建（版本号也随之变化）
+    for path in SHELL_ASSETS:
+        if path.exists():
+            common_deps.append(path)
 
     # 可以在这里添加其他公共依赖
     # 例如：查找 content/_* 目录下的模板文件
@@ -518,6 +559,63 @@ def _compile_files(
     return stats
 
 
+# 匹配 HTML 里指向站点本地 css/js 的引用（相对路径，非 http/data）
+_LOCAL_CSS_RE = re.compile(
+    r'(<link\b[^>]*?\bhref=")(/[^"?#]+\.css)(")',
+    re.IGNORECASE,
+)
+_LOCAL_JS_RE = re.compile(
+    r'(<script\b[^>]*?\bsrc=")(/[^"?#]+\.js)(")',
+    re.IGNORECASE,
+)
+# 已经带 ?v= 的引用不再重复处理
+_ALREADY_VERSIONED = re.compile(r"\?v=[0-9a-f]{8}$")
+
+
+def stamp_asset_urls(version: str | None = None) -> int:
+    """
+    为 _site 下所有 HTML 的本地 css/js 引用追加 `?v=<内容哈希>`。
+
+    上游 tufted-web 直接把 tufted.css、theme.css 与 assets/scripts/*.js
+    写进 HTML，config.typ 无法给它们加版本号，所以统一在编译后处理。
+    已带 ?v= 的链接会被跳过，因此重复运行是幂等的。
+
+    参数:
+        version: 版本号；省略时按当前 assets/ 内容计算
+
+    返回:
+        int: 被改写的 HTML 文件数
+    """
+    version = version or asset_version()
+    if not version:
+        return 0
+
+    changed = 0
+    for html_file in SITE_DIR.rglob("*.html"):
+        try:
+            text = html_file.read_text(encoding="utf-8")
+        except (OSError, UnicodeDecodeError):
+            continue
+
+        def add_version(match: re.Match) -> str:
+            prefix, url, quote = match.group(1), match.group(2), match.group(3)
+            if _ALREADY_VERSIONED.search(url):
+                return match.group(0)
+            return f"{prefix}{url}?v={version}{quote}"
+
+        new_text = _LOCAL_CSS_RE.sub(add_version, text)
+        new_text = _LOCAL_JS_RE.sub(add_version, new_text)
+
+        if new_text != text:
+            try:
+                html_file.write_text(new_text, encoding="utf-8")
+            except OSError:
+                continue
+            changed += 1
+
+    return changed
+
+
 def build_html(force: bool = False) -> bool:
     """
     编译所有 .typ 文件为 HTML（文件名中包含 PDF 的除外）。
@@ -584,7 +682,14 @@ def build_html(force: bool = False) -> bool:
         build_html_args,
     )
 
+    # 给本地 css/js 的引用加上内容哈希。放在编译之后统一处理，是因为
+    # tufted.css、theme.css 与 assets/scripts/* 由上游模板直接写进 HTML，
+    # config.typ 拿不到它们，只有在这里做才能覆盖全。
+    versioned = stamp_asset_urls()
+
     print(f"✅ HTML 构建完成。{stats.format_summary()}")
+    if versioned:
+        print(f"  🔖 已为 {versioned} 个 HTML 文件的样式/脚本加版本号")
     return not stats.has_failures
 
 
