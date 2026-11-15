@@ -129,6 +129,31 @@ curl -sS -o /dev/null -w '%{http_code}\n' \
 
 Anything other than `200` means the origin certificate needs attention.
 
+### Automation, deliberately not enabled
+
+`docs/pages-certificate-proxy.yml.disabled` contains a complete GitHub Actions
+workflow that would do the grey-cloud / orange-cloud dance automatically: it
+reads `https_certificate` from the Pages API, unproxies when <=30 days remain,
+and re-proxies only after GitHub reports an approved certificate with >=45 days
+left.
+
+It is **not enabled**. It lives outside `.github/workflows/` and carries a
+`.disabled` suffix, so GitHub never runs it. The manual procedure above is the
+supported path.
+
+Rationale for keeping it parked rather than running it:
+
+- It needs a Cloudflare API token with DNS:Edit on the zone. That is a
+  long-lived credential capable of redirecting the whole domain -- a
+  meaningfully larger blast radius than anything else this repo holds.
+- During the grey-cloud window the site loses Cloudflare's cache, WAF and
+  proxy protection, and GitHub's re-issuance can take hours.
+- Renewal comes around roughly every 90 days. A documented manual step is
+  cheaper than owning automation that can silently misconfigure DNS.
+
+The file documents how to enable it if that trade-off ever changes. Read the
+header before moving it back into `.github/workflows/`.
+
 ## Commit & Pull Request Guidelines
 History shows a Conventional Commit leaning (`docs:`, `feat:`, `fix:`), plus concise imperative messages. Prefer `type: short description` (example: `fix: handle empty RSS abstracts`). Keep PRs scoped; include:
 - clear summary of behavior/content changes,

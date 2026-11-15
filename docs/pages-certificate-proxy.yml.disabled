@@ -1,0 +1,225 @@
+# =============================================================================
+# STATUS: NOT ENABLED -- kept as a reference implementation.
+#
+# This file lives in docs/ on purpose. GitHub only runs workflows under
+# .github/workflows/, and the .disabled extension also breaks the path, so
+# nothing here executes. There is no schedule, no API call and no DNS change.
+#
+# The site currently relies on the manual procedure documented in AGENTS.md
+# ("Certificate renewal while proxied"). That is the supported path until
+# someone decides to adopt this automation.
+#
+# ---------------------------------------------------------------------------
+# If you ever want to enable it:
+#
+#   1. Move the file (and drop the suffix):
+#        git mv docs/pages-certificate-proxy.yml.disabled \
+#               .github/workflows/pages-certificate-proxy.yml
+#
+#   2. Create a Cloudflare API token scoped to this zone with DNS:Edit
+#      (Zone -> DNS -> Edit). Do not use the Global API Key.
+#
+#   3. Add repository configuration under
+#      Settings -> Secrets and variables -> Actions:
+#
+#        Secret   CF_API_TOKEN        the token from step 2
+#        Variable CF_ZONE_ID          Cloudflare zone ID for rainoffallingstar.com
+#        Variable CF_DNS_RECORD_IDS   comma-separated DNS record IDs to toggle
+#                                     (the `blog` CNAME; add more if needed)
+#        Variable PAGES_DOMAIN        blog.rainoffallingstar.com
+#
+#      Find the zone ID on the Cloudflare zone overview page, and the record
+#      ID with:
+#
+#        curl -s -H "Authorization: Bearer $CF_API_TOKEN" \
+#          "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/dns_records?name=blog.rainoffallingstar.com" \
+#          | jq -r '.result[] | "\(.id)  \(.type)  \(.name)  proxied=\(.proxied)"'
+#
+#   4. Run it once by hand (Actions -> Renew GitHub Pages certificate behind
+#      Cloudflare -> Run workflow) and read the log. It should report the
+#      current expiry, days remaining and "keeping proxied=true".
+#
+#   5. Only then let the hourly schedule stand.
+#
+# ---------------------------------------------------------------------------
+# What it does
+#
+# Reads https_certificate from GET /repos/{owner}/{repo}/pages. Cloudflare's
+# proxy intercepts the HTTP-01 challenge, so the origin certificate cannot
+# renew while the record is proxied. The workflow therefore:
+#
+#   days_left <= 30                    -> set proxied=false (grey cloud)
+#   days_left >= 45 and state approved -> set proxied=true  (orange cloud)
+#   otherwise                          -> leave DNS untouched (no flapping)
+#
+# Re-proxying is gated on GitHub confirming the new certificate rather than on
+# a fixed wait, so it never restores a proxy in front of an expired origin.
+# If a record stays DNS-only for more than 24h without a renewed certificate,
+# the run fails with an actionable error instead of guessing.
+# =============================================================================
+
+name: Renew GitHub Pages certificate behind Cloudflare
+
+# GitHub Pages renews its Let's Encrypt certificate via an HTTP-01 challenge.
+# While the DNS record is proxied (orange cloud), Cloudflare answers that
+# challenge itself, so renewal never completes and the origin certificate
+# eventually expires -- which makes Full (strict) return 526.
+#
+# This workflow watches the certificate reported by the Pages API and only
+# unproxies the record when renewal is actually due, then re-proxies once
+# GitHub confirms a fresh certificate.
+
+on:
+  schedule:
+    # Hourly, offset from the top of the hour to reduce schedule delays.
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: read
+
+concurrency:
+  group: github-pages-cloudflare-certificate
+  cancel-in-progress: false
+
+env:
+  # Unproxy when the certificate has less than this many days left.
+  RENEW_THRESHOLD_DAYS: 30
+  # Re-proxy only once the certificate is valid this long again.
+  RESTORE_THRESHOLD_DAYS: 45
+  # Fail loudly if the record stays unproxied this long without a new cert.
+  DNS_ONLY_ALERT_HOURS: 24
+
+jobs:
+  check-certificate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check certificate and reconcile Cloudflare DNS proxy
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ZONE_ID: ${{ vars.CF_ZONE_ID }}
+          CF_DNS_RECORD_IDS: ${{ vars.CF_DNS_RECORD_IDS }}
+          PAGES_DOMAIN: ${{ vars.PAGES_DOMAIN }}
+        run: |
+          set -euo pipefail
+
+          # --- Validate configuration up front -----------------------------
+          missing=0
+          for variable in CF_API_TOKEN CF_ZONE_ID CF_DNS_RECORD_IDS PAGES_DOMAIN; do
+            if [[ -z "${!variable:-}" ]]; then
+              echo "::error::Missing configuration: ${variable}. Set it under Settings -> Secrets and variables -> Actions."
+              missing=1
+            fi
+          done
+          (( missing == 0 )) || exit 1
+
+          # --- Read the live certificate state from GitHub ------------------
+          pages_json=$(curl --fail-with-body -fsS --retry 3 --max-time 30 \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages")
+
+          repo_domain=$(jq -r '.cname // empty' <<< "${pages_json}")
+          if [[ "${repo_domain,,}" != "${PAGES_DOMAIN,,}" ]]; then
+            echo "::error::Pages custom domain (${repo_domain:-none}) differs from PAGES_DOMAIN (${PAGES_DOMAIN})."
+            exit 1
+          fi
+
+          state=$(jq -r '.https_certificate.state // "unknown"' <<< "${pages_json}")
+          expires_at=$(jq -r '.https_certificate.expires_at // empty' <<< "${pages_json}")
+          now=$(date -u +%s)
+          desired=keep
+          remaining_days=unknown
+
+          if [[ -z "${expires_at}" ]]; then
+            # No certificate at all: leave the origin directly reachable so
+            # GitHub can complete the first issuance.
+            desired=false
+            remaining_days=none
+          else
+            expires_epoch=$(date -u -d "${expires_at}" +%s)
+            remaining_days=$(( (expires_epoch - now) / 86400 ))
+
+            if (( remaining_days <= RENEW_THRESHOLD_DAYS )); then
+              # Renewal window: expose GitHub Pages directly.
+              desired=false
+            elif (( remaining_days >= RESTORE_THRESHOLD_DAYS )) && [[ "${state}" == approved ]]; then
+              # Fresh certificate confirmed by GitHub: safe to proxy again.
+              desired=true
+            fi
+            # Otherwise the certificate is in an intermediate state (issued but
+            # not yet approved, or between the two thresholds): leave DNS alone
+            # so we do not flap between proxied and DNS-only.
+          fi
+
+          echo "GitHub Pages: domain=${repo_domain} state=${state} expires=${expires_at:-none} days_remaining=${remaining_days} desired_proxy=${desired}"
+
+          # --- Reconcile each Cloudflare record ----------------------------
+          IFS=',' read -r -a record_ids <<< "${CF_DNS_RECORD_IDS}"
+          for raw_id in "${record_ids[@]}"; do
+            record_id=$(tr -d '[:space:]' <<< "${raw_id}")
+            [[ -n "${record_id}" ]] || continue
+
+            api_url="https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/dns_records/${record_id}"
+
+            cf_json=$(curl --fail-with-body -fsS --retry 3 --max-time 30 \
+              -H "Authorization: Bearer ${CF_API_TOKEN}" \
+              "${api_url}")
+            jq -e '.success == true and .result != null' <<< "${cf_json}" >/dev/null
+
+            record_name=$(jq -r '.result.name' <<< "${cf_json}")
+            record_type=$(jq -r '.result.type' <<< "${cf_json}")
+            is_proxied=$(jq -r '.result.proxied | tostring' <<< "${cf_json}")
+            modified_on=$(jq -r '.result.modified_on // empty' <<< "${cf_json}")
+
+            if [[ "${record_type}" != CNAME && "${record_type}" != A && "${record_type}" != AAAA ]]; then
+              echo "::error::Refusing to edit unsupported DNS record type: ${record_type} (${record_name})"
+              exit 1
+            fi
+            if [[ "${is_proxied}" != true && "${is_proxied}" != false ]]; then
+              echo "::error::Invalid proxy status for ${record_name}: ${is_proxied}"
+              exit 1
+            fi
+
+            if [[ "${desired}" == keep ]]; then
+              echo "${record_name}: keeping proxied=${is_proxied} (certificate in intermediate state)."
+            elif [[ "${is_proxied}" == "${desired}" ]]; then
+              echo "${record_name}: already proxied=${desired}, nothing to do."
+            else
+              echo "${record_name}: switching proxied ${is_proxied} -> ${desired}."
+              updated=$(curl --fail-with-body -fsS --retry 3 --max-time 30 \
+                -X PATCH "${api_url}" \
+                -H "Authorization: Bearer ${CF_API_TOKEN}" \
+                -H "Content-Type: application/json" \
+                --data "{\"proxied\":${desired}}")
+              jq -e --argjson target "${desired}" \
+                '.success == true and .result.proxied == $target' \
+                <<< "${updated}" >/dev/null
+              echo "${record_name}: proxy updated successfully."
+              # Remember the fresh state for the staleness check below.
+              is_proxied="${desired}"
+              modified_on=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+            fi
+
+            # An unexpectedly long DNS-only period deserves attention.
+            if [[ "${desired}" == false && "${is_proxied}" == false && -n "${modified_on}" ]]; then
+              modified_epoch=$(date -u -d "${modified_on}" +%s)
+              hours_dns_only=$(( (now - modified_epoch) / 3600 ))
+              if (( hours_dns_only > DNS_ONLY_ALERT_HOURS )); then
+                {
+                  echo "::error title=Origin certificate renewal stalled::${record_name} has been DNS-only for ${hours_dns_only}h without a renewed certificate."
+                  echo "Check: (1) repo Settings -> Pages shows the custom domain and offers \"Check again\","
+                  echo "(2) DNS still points at rainoffallingstar.github.io,"
+                  echo "(3) no CAA record blocks letsencrypt.org."
+                  echo "Leaving the record DNS-only rather than restoring a broken proxy."
+                }
+                exit 1
+              fi
+            fi
+          done

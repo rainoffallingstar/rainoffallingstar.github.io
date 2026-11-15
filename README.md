@@ -193,6 +193,31 @@ curl -sS -o /dev/null -w '%{http_code}\n' \
 
 返回非 `200` 就说明源站证书需要处理。
 
+### 未启用的自动化方案
+
+`docs/pages-certificate-proxy.yml.disabled` 里放着一份完整的 GitHub Actions
+工作流，能把上面的灰云 / 橙云切换做成全自动：
+
+- 读 Pages API 的 `https_certificate.expires_at`
+- 剩余 ≤ 30 天 → 自动切灰云
+- GitHub 确认已签发新证书且剩余 ≥ 45 天 → 自动切回橙云
+- 中间状态不动 DNS，避免反复横跳
+- 灰云超过 24 小时仍没续上 → 报错提醒，不会贸然恢复橙云
+
+**但它没有启用。** 文件放在 `.github/workflows/` 之外，还带 `.disabled`
+后缀，GitHub 不会执行它。上面那套手动流程才是当前采用的方式。
+
+留档而不启用的原因：
+
+| 原因 | 说明 |
+| --- | --- |
+| 凭据风险 | 需要一个带 `DNS:Edit` 权限的 Cloudflare API Token，能改写整个域名的解析，影响面比仓库里其他任何东西都大 |
+| 灰云期间无防护 | 切换期间站点失去 Cloudflare 的缓存、WAF 和代理保护，而 GitHub 重新签发可能耗时数小时 |
+| 频率不高 | 约 90 天一次，手动操作比维护一套能悄悄改坏 DNS 的自动化更划算 |
+
+文件头部写了完整的启用步骤（移动位置、创建 Token、配置 Secret/Variable、
+先手动跑一次看日志）。如果哪天想改用自动化，照着做即可。
+
 ## 与上游模板同步
 
 `tufted-lib/`、`assets/tufted.css`、`assets/theme.css`、`assets/scripts/` 等来自上游模板。
