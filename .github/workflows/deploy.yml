@@ -34,14 +34,29 @@ jobs:
         run: |
           python build.py build --force
 
-      - name: Copy CNAME
+      # CNAME 只有一个真源：仓库根目录的 CNAME 文件。
+      # 这里做一次强校验，避免空文件或写错域名后把站点域名搞坏。
+      - name: Verify CNAME
         run: |
-          if [ -f CNAME ]; then
-            cp CNAME _site/
+          set -euo pipefail
+          if [ ! -f CNAME ]; then
+            echo "::error::仓库根目录缺少 CNAME，自定义域名会失效"
+            exit 1
           fi
+          cname="$(tr -d '\r\n[:space:]' < CNAME)"
+          echo "CNAME = $cname"
+          if [ -z "$cname" ]; then
+            echo "::error::CNAME 为空"
+            exit 1
+          fi
+          cp CNAME _site/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+          # 由 action 写入 gh-pages 的 CNAME，与 publish_dir 内的文件保持一致
+          cname: blog.rainoffallingstar.com
+          # 保留 gh-pages 上的历史提交（便于回滚），不强制推送
+          force_orphan: false

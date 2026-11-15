@@ -17,7 +17,7 @@
 #let site-title = "rainoffallingstar’s Blog"
 #let site-tagline = "凡是过往，皆为序章。"
 #let site-author = "rainoffallingstar"
-#let site-url = "https://rainoffallingstar.github.io"
+#let site-url = "https://blog.rainoffallingstar.com"
 #let site-description = "笔记、阅读报告与旧存档。凡是过往，皆为序章。"
 
 // 第一项是站名（兼作返回首页），其余是栏目
