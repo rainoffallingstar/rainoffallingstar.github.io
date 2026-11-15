@@ -37,6 +37,7 @@ jobs:
         uses: AndreasAugustin/actions-template-sync@v2
         with:
           source_repo_path: Yousa-Mirage/Tufted-Blog-Template
-          upstream_branch: main
-          target_branch: githubversion
+          # upstream_branch = 上游源分支；同步结果推到本仓库的 githubversion
+          source_branch: main
+          upstream_branch: githubversion
           pr_labels: version_update
