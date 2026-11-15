@@ -31,13 +31,22 @@
 ```typst
 // 站点信息
 #let site-title = "rainoffallingstar’s Blog"
+#let site-wordmark = "rainoffallingstar"
 #let site-tagline = "凡是过往，皆为序章。"
 #let site-author = "rainoffallingstar"
 #let site-url = "https://blog.rainoffallingstar.com"
 
+// 站名前的圆形标记（图片在 assets/logo.jpg）
+#let site-logo = html.img(
+  src: "/assets/logo.jpg",
+  alt: "",
+  class: "site-logo",
+  decoding: "async",
+)
+
 // 导航项：第一项是站名，兼作返回首页
 #let header-links = (
-  "/": site-title,
+  "/": { site-logo; site-wordmark },
   "/Links/": "友链",
   "/About/": "关于",
 )

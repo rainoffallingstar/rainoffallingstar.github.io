@@ -23,9 +23,21 @@
 #let site-url = "https://blog.rainoffallingstar.com"
 #let site-description = "笔记、阅读报告与旧存档。凡是过往，皆为序章。"
 
+// 站名前的圆形标记。图片在 assets/logo.jpg，favicon.ico 是同一张图更紧的
+// 头像裁切（16px 下也认得出）。alt 留空：紧随其后的文字已经是站名，
+// 读屏软件不必把图片再念一遍。
+#let site-logo = html.img(
+  src: "/assets/logo.jpg",
+  alt: "",
+  class: "site-logo",
+  width: 34,
+  height: 34,
+  decoding: "async",
+)
+
 // 第一项是站名（兼作返回首页），其余是栏目
 #let header-links = (
-  "/": site-wordmark,
+  "/": { site-logo; site-wordmark },
   "/Timeline/": "时间线",
   "/Links/": "友链",
   "/About/": "关于",

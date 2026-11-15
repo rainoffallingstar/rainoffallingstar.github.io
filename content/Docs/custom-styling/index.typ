@@ -106,7 +106,26 @@ header.site-header > nav.site-nav
   .site-nav-tools   ← RSS 图标、主题切换按钮
 ```
 
-`site.css` 用绝对定位把站名放到第一行、栏目放到第二行，工具按钮放在右上角 —— 两行页头完全由 CSS 完成，`config.typ` 不需要改结构。导航项在 `config.typ` 的 `header-links` 中定义。
+`site.css` 用绝对定位把站名放到第一行、栏目放到第二行，工具按钮放在右上角 —— 两行页头完全由 CSS 完成。导航项在 `config.typ` 的 `header-links` 中定义，第一项是返回首页的站名，其内容由 `site-logo`（`assets/logo.jpg` 的圆形标记）加 `site-wordmark` 组成：
+
+```typst
+#let site-logo = html.img(
+  src: "/assets/logo.jpg",
+  alt: "",
+  class: "site-logo",
+  width: 34,
+  height: 34,
+  decoding: "async",
+)
+
+#let header-links = (
+  "/": { site-logo; site-wordmark },
+  "/Timeline/": "时间线",
+  // ...
+)
+```
+
+标记在 `site.css` 里用 `.site-logo` 做圆形裁切，随站名字号缩放（窄屏 1.9rem、桌面 2.15rem）；`assets/favicon.ico` 是同一张图更紧的头像裁切，供浏览器标签页使用。
 
 首页导语来自 `config.typ` 的 `site-intro`，由 `template(intro: ...)` 渲染成 `.intro` 段落。页脚结构在 `footer-elements` 里：左侧版权与署名，右侧 RSS 订阅。
 
