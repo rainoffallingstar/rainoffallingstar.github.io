@@ -33,7 +33,7 @@
 #let site-title = "rainoffallingstar’s Blog"
 #let site-tagline = "凡是过往，皆为序章。"
 #let site-author = "rainoffallingstar"
-#let site-url = "https://rainoffallingstar.github.io"
+#let site-url = "https://blog.rainoffallingstar.com"
 
 // 导航项：第一项是站名，兼作返回首页
 #let header-links = (

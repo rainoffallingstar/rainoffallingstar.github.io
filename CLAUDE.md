@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a **Tufted Blog** using the [Tufted](https://github.com/Myriad-Dreamin/tufted) template. Content is written in [Typst](https://typst.app/) (a modern typesetting system) and built to static HTML via a Python build script. The site is deployed via GitHub Pages at `rainoffallingstar.github.io`.
+This is a **Tufted Blog** using [Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template). Content is written in [Typst](https://typst.app/) and built to static HTML via a Python build script. The site is deployed via GitHub Pages at `https://blog.rainoffallingstar.com`.
 
 **Key difference from Jekyll**: This is NOT a Jekyll blog. All content is authored in `.typ` files under `content/` and compiled using the Typst CLI, not Ruby/Jekyll.
 
@@ -67,26 +67,31 @@ python build.py preview -p 3000
 
 ### Configuration
 
-**Site Config**: `config.typ` contains global settings:
+**Site Config**: `config.typ` is a thin wrapper over the vendored template in `tufted-lib/`:
 ```typst
-#import "@preview/tufted:0.1.0"
+#import "tufted-lib/tufted.typ" as tufted
 
-#let template = tufted.tufted-web.with(
-  header-links: (
-    "/": "首页",
-    "/Links/": "友链",
-    "/About/": "关于",
-  ),
-  lang: "zh",
-  title: "rainoffallingstar's Blog",
+#let site-title = "rainoffallingstar’s Blog"
+#let site-url = "https://blog.rainoffallingstar.com"
+
+#let site = tufted.tufted-web.with(
+  header-links: header-links,
+  website-title: site-title,
+  website-url: site-url,
+  feed-dir: ("/Blog/",),
+  css: ("/assets/custom.css", "/assets/site.css"),
 )
 ```
+
+`site-url` drives `canonical`, `sitemap.xml`, `feed.xml` and Open Graph URLs.
+Keep it in sync with `CNAME` and the `cname:` input in `deploy.yml`.
 
 **Build Config**: `build.py` handles:
 - Incremental compilation (only rebuilds changed files)
 - Dependency tracking via `#import` statements in `.typ` files
-- HTML injection (favicon, scripts) into compiled output
+- `--input page-path=...` so the template can build canonical URLs
 - Static asset copying from `assets/` to `_site/assets/`
+- `feed.xml` (full-text RSS), `sitemap.xml` and `robots.txt` generation
 
 ### Build System Details
 
@@ -113,17 +118,21 @@ Each content file imports and applies the template:
 Content here...
 ```
 
-The template is from `@preview/tufted:0.1.0` and provides Tufte CSS-inspired styling with wide sidebars suitable for academic/content-heavy sites.
+The template lives in `tufted-lib/`, vendored from upstream and therefore **not to be edited by hand** — `.github/workflows/update.yml` overwrites it every two weeks. Site-specific overrides belong in `config.typ` and `assets/site.css`, both listed in `.github/.templatesyncignore`.
 
 ### Static Assets
 
-Located in `assets/`:
-- `tufted.css` - Main stylesheet (Tufte CSS)
-- `custom.css` - Custom overrides
-- `copy-code.js`, `line-numbers.js`, `format-headings.js` - Interactive features
-- `favicon.ico` - Site favicon
+Located in `assets/`, layered in this order:
+- `tufted.css` - upstream feature layer (grid, code blocks, tables, TOC, blog entries)
+- `theme.css` - upstream light/dark theme variables
+- `custom.css` - user override hook (currently empty)
+- `site.css` - this site's visual layer: tokens, typography, header, archive, dark mode
+- `site.js` - site-only script (sticky header scroll state)
+- `icons/` - RSS / moon / sun SVGs used as CSS masks
+- `scripts/` - upstream scripts (theme toggle, TOC, back-to-top, code blocks, math copy, note toggles)
 
-These are injected into compiled HTML via `HEAD_INJECTION` in `build.py`.
+Stylesheets and scripts are referenced from `config.typ` through the template's
+`css` and `js-scripts` parameters, not injected by `build.py`.
 
 ### Deployment
 
@@ -131,8 +140,27 @@ These are injected into compiled HTML via `HEAD_INJECTION` in `build.py`.
 - Triggers on push to `githubversion` branch
 - Uses `typst-community/setup-typst@v4` to install Typst
 - Runs `python build.py build --force` for clean build
-- Deploys `_site/` to GitHub Pages via `peaceiris/actions-gh-pages@v3`
-- Copies `CNAME` file if present (for custom domains)
+- Verifies `CNAME` exists and is non-empty, then copies it into `_site/`
+- Deploys `_site/` to the `gh-pages` branch via `peaceiris/actions-gh-pages@v3`
+  with `cname: blog.rainoffallingstar.com`
+
+### Custom Domain
+
+The domain is defined in exactly three places and all three must change together:
+
+1. `CNAME` (repository root) - bare hostname.
+2. `config.typ` - `site-url`.
+3. `.github/workflows/deploy.yml` - the `cname:` input.
+
+Never edit `CNAME` on `gh-pages`; that branch is build output and the next
+deploy overwrites it. DNS lives at Cloudflare as a CNAME to
+`rainoffallingstar.github.io`; proxy must be off ("DNS only") until GitHub
+issues the TLS certificate. Verify with:
+
+```bash
+gh api repos/rainoffallingstar/rainoffallingstar.github.io/pages \
+  --jq '{cname, https_enforced, status}'
+```
 
 ### File Naming Conventions
 
@@ -196,8 +224,18 @@ Place image in the same directory as `index.typ`, reference as:
 #image("filename.png")
 ```
 
-### Changing Navigation
-Edit `header-links` in `config.typ`.
+### Adding a Post to the Homepage
+
+`build.py` renders every `content/Blog/*/index.typ` on its own URL, but the
+homepage archive is driven by the `posts` array in `content/index.typ`. Add an
+entry there too or the post will be reachable but unlisted:
+
+```typst
+(date: "2024-01-01", title: "Post Title", href: "/Blog/2024-01-01-post-title/"),
+```
+
+Dates must be `YYYY-MM-DD`. RSS generation also needs a date, either from this
+folder name or from an explicit `date:` argument in the post.
 
 ### Troubleshooting Build Issues
 - If changes don't appear: Try `python build.py build --force`
