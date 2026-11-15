@@ -253,6 +253,48 @@ body > footer {
     max-width: 100%;
 }
 
+/* 这些块铺满正文栏时，内边距不能把它们撑出栏外。
+   列表的 ul 有 28px 左内边距，用 content-box 会溢出 28px；
+   上游给 .table-scroll 还留了旧版三段式布局的 left/transform，
+   这里一并清零，否则表格会整体左移约 166px。 */
+section > p,
+section > ul,
+section > ol,
+section > dl,
+section > table,
+section > footer,
+section > figure,
+section > hr,
+section > pre,
+section > .math-block,
+section > .table-scroll,
+article > section > :is(h1, h2, h3, h4, h5, h6),
+article > section > .article-byline,
+article > section > .blog-entry,
+article > section > .year-group,
+article > section > .hero,
+article > section > .intro {
+    box-sizing: border-box;
+}
+
+/* 表格与正文同宽同缘：宽度交给正文栏，内部超宽时自己横向滚动。
+   tufted.css 里 section > .table-scroll 的 max-width: 55% +
+   left: 27.5% + translateX(-50%) 是为旧的 55% 正文布局写的，
+   本站正文栏居中后必须复位。 */
+section > .table-scroll {
+    width: 100%;
+    max-width: 100%;
+    left: auto;
+    transform: none;
+    margin-inline: 0;
+}
+
+/* 容器已占满正文栏，表格自身按内容取宽：窄表在栏内居中，
+   宽表填满整栏，超出时由 .table-scroll 横向滚动。 */
+section > .table-scroll > table {
+    margin-inline: auto;
+}
+
 figure {
     max-width: 100%;
     margin-left: 0;
@@ -291,8 +333,13 @@ article > section > :is(h2, h3):first-child {
 }
 
 /* 边注：桌面端悬挂到正文栏右侧留白；窄屏由上游样式改为内联展开。
-   这里只调整上游的几何变量，具体的宽度/位移仍由 sidenote-layout.js 计算。 */
-@media (min-width: 1180px) {
+   这里只调整上游的几何变量，具体的宽度/位移仍由 sidenote-layout.js 计算。
+
+   悬挂所需的最小视口：正文栏 46rem 居中时左右各留 (vw - 46rem) / 2，
+   边注右缘 = 该留白 + 1.04 * 46rem + 0.34 * 46rem，令它不超过 vw
+   即得 vw >= 46rem * (1 + 1.38) ≈ 1295px。断点低于此值时图注会探出
+   视口，把整页撑出横向滚动，所以取 1296px。 */
+@media (min-width: 1296px) {
     article > section {
         --sidenote-content-width: 1;
         --sidenote-column-start: 1.04;
@@ -342,16 +389,6 @@ article > section > :is(h2, h3):first-child {
 
 .intro {
     margin-top: 1.8rem;
-}
-
-/* 边注：桌面端悬挂到正文栏右侧留白；窄屏由上游样式改为内联展开。
-   这里只调整上游的几何变量，具体的宽度/位移仍由 sidenote-layout.js 计算。 */
-@media (min-width: 1180px) {
-    article > section {
-        --sidenote-content-width: 1;
-        --sidenote-column-start: 1.04;
-        --sidenote-column-width: 0.34;
-    }
 }
 
 /* --------------------------------------------------------------------------
@@ -544,8 +581,14 @@ hr {
     margin: 0.45rem 0;
 }
 
-/* 正文里的长 URL（DOI、数据集地址）在窄屏上不折行就会把整页撑宽，
-   出现横向滚动。代码块有自己的横向滚动容器，这里只管正文。 */
+/* 正文里的长 URL（DOI、数据集地址）与长英文词（ChromatinImmunoprecipitation
+   这类不带空格的术语）在窄屏上不折行就会把整页撑宽，出现横向滚动。
+   代码块有自己的横向滚动容器，这里只管正文。 */
+article > section :is(p, li, blockquote),
+.article-byline {
+    overflow-wrap: break-word;
+}
+
 article > section :is(p, li, blockquote) a:any-link,
 .article-byline a:any-link {
     overflow-wrap: anywhere;
