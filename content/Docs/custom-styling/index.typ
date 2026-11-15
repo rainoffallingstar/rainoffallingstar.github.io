@@ -110,13 +110,20 @@ header.site-header > nav.site-nav
 
 首页导语来自 `config.typ` 的 `site-intro`，由 `template(intro: ...)` 渲染成 `.intro` 段落。页脚结构在 `footer-elements` 里：左侧版权与署名，右侧 RSS 订阅。
 
-首页归档列表的数据在 `content/index.typ` 的 `posts` 数组里，每项形如：
+文章索引在 `content/_data/posts.typ` 的 `posts` 数组里，每项形如：
 
 ```typst
 (date: "2022-11-04", title: "Workflow Machine Learning with Radio-mics", href: "/Blog/.../"),
 ```
 
-`config.typ` 的 `archive()` 会按年份分组，并用上游的 `tufted.blog-entry()` 渲染「日期列 + 标题列」。
+目录名以下划线开头，`build.py` 不会把它编译成页面，只当作公共依赖 —— 改动后所有页面都会重建。
+
+两个页面共用这份数据：
+
+- `content/index.typ` 调用 `config.typ` 的 `latest-posts()`，按日期取最新的 `site-latest-count` 篇（默认 10），渲染成「最近更新」列表，末尾给出通往完整时间线的入口。
+- `content/Timeline/index.typ` 调用 `archive()`，按年份分组展示全部文章。
+
+两者都用上游的 `tufted.blog-entry()` 渲染「日期列 + 标题列」。
 
 == 文章日期
 

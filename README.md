@@ -62,7 +62,9 @@ SIL OFL 1.1，随仓库自带、不依赖 CDN。
 │   ├── About/
 │   ├── Links/
 │   ├── Docs/
-│   └── index.typ      # 首页归档数据（posts 数组）
+│   ├── Timeline/      # 完整时间线（按年份归档）
+│   ├── _data/         # 文章索引 posts.typ（首页与时间线共用，不编译）
+│   └── index.typ      # 首页：最近更新的若干篇
 ├── tufted-lib/        # 模板实现（随上游同步，勿手改）
 ├── assets/            # 样式与脚本
 │   ├── tufted.css     # 上游功能层
@@ -91,7 +93,9 @@ SIL OFL 1.1，随仓库自带、不依赖 CDN。
 
 1. 在 `content/Blog/` 下创建目录：`YYYY-MM-DD-title/`
 2. 在目录中创建 `index.typ`
-3. 提交到 `githubversion` 分支，触发自动部署
+3. 在 `content/_data/posts.typ` 的 `posts` 数组里加一行
+   （首页「最近更新」与 `/Timeline/` 都从这里取数据）
+4. 提交到 `githubversion` 分支，触发自动部署
 
 示例：
 

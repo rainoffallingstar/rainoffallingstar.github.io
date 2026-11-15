@@ -736,6 +736,12 @@ header.site-header {
     padding: 0;
 }
 
+/* 时间线页没有 intro，首个年份直接接在导航下方；
+   文章页首标题有 1.5rem 上边距，这里对齐同样的呼吸感。 */
+article > section > .year-group:first-child {
+    margin-top: 1.5rem;
+}
+
 .year-group > .year {
     display: block;
     width: 100%;
@@ -748,6 +754,45 @@ header.site-header {
     line-height: 1.4;
     letter-spacing: 0.04em;
     color: var(--ink-strong);
+}
+
+/* 首页「最近更新」：与时间线同一种行式排布，但不需要年份分组。
+   标题字号与年份同量级，视觉上当作栏目名而不是文章标题。 */
+.recent-posts {
+    width: 100%;
+    margin: 0 0 2.1rem;
+}
+
+.recent-heading {
+    width: 100%;
+    margin: 0 0 0.9rem;
+    padding: 0;
+    border: 0;
+    font-family: var(--font-hand);
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0.04em;
+    color: var(--ink-strong);
+}
+
+/* 末尾指向完整时间线的入口，与列表略拉开距离 */
+.recent-more {
+    margin-top: 1.1rem;
+}
+
+.recent-more a:any-link {
+    display: inline-block;
+    font-size: 0.95rem;
+    line-height: 1.8;
+    letter-spacing: var(--tracking);
+    color: var(--ink-muted);
+    text-decoration: none;
+    transition: color 0.18s var(--ease);
+}
+
+.recent-more a:hover {
+    color: var(--accent);
 }
 
 /* 「日期 | 标题」两列，无分隔线，靠间距成组 */
@@ -1164,6 +1209,8 @@ html.is-theme-transitioning::view-transition-new(root) {
     .hero,
     .intro,
     .year-group,
+    .recent-posts,
+    .recent-heading,
     .blog-entry,
     .article-byline,
     hr,

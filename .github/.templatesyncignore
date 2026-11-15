@@ -20,6 +20,8 @@ CHANGELOG_en.md
 # Site-specific overrides (this fork)
 content/About/
 content/index.typ
+content/Timeline/
+content/_data/
 .github/workflows/deploy.yml
 .github/workflows/update.yml
 assets/site.css

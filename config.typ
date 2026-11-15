@@ -26,12 +26,16 @@
 // 第一项是站名（兼作返回首页），其余是栏目
 #let header-links = (
   "/": site-wordmark,
+  "/Timeline/": "时间线",
   "/Links/": "友链",
   "/About/": "关于",
 )
 
 // 首页导语：站名下方那一段说明文字
 #let site-intro = "这里记录读过的书、写过的笔记，以及一些被时间筛过的旧稿。"
+
+// 首页「最近更新」展示的篇数
+#let site-latest-count = 10
 
 // ---------------------------------------------------------------------------
 // 站点外壳
@@ -171,4 +175,34 @@
       }
     })
   }
+}
+
+// ---------------------------------------------------------------------------
+// 首页「最近更新」
+//
+// posts 与 /Timeline/ 共用 content/_data/posts.typ。这里按日期取最新的
+// site-latest-count 篇，用与时间线相同的 blog-entry 排布，末尾给一个去往
+// 完整时间线的入口。
+// ---------------------------------------------------------------------------
+
+#let latest-posts(posts) = {
+  // 日期是补零的 YYYY-MM-DD，按字符串排序即按时间排序；sorted 没有
+  // descending 参数，降序用 rev()
+  let sorted = posts.sorted(key: post => post.date).rev()
+  let latest = sorted.slice(0, calc.min(site-latest-count, sorted.len()))
+
+  html.elem("section", attrs: (class: "recent-posts"), {
+    html.elem("h2", attrs: (class: "recent-heading"), "最近更新")
+    for post in latest {
+      tufted.blog-entry(
+        date: post.date.slice(5).replace("-", "."),
+        path: post.href,
+        title: post.title,
+      )
+    }
+    html.div(
+      class: "recent-more",
+      html.a(href: "/Timeline/", "查看全部时间线 →"),
+    )
+  })
 }
