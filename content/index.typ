@@ -1,4 +1,4 @@
-#import "../config.typ": template, tufted, archive, site-title, site-tagline
+#import "../config.typ": template, tufted, archive, site-intro
 
 #let posts = (
   (date: "2025-12-31", title: "温故2024-2025", href: "/Blog/2025-12-31-温故2024-2025/"),
@@ -78,11 +78,6 @@
   (date: "2013-09-10", title: "实验习作-不染心2013-2017", href: "/Blog/2013-09-10-实验习作-不染心2013-2017/"),
 )
 
-#show: template.with(
-  hero: (
-    title: site-title,
-    subtitle: site-tagline,
-  ),
-)
+#show: template.with(intro: site-intro)
 
 #archive(posts)

@@ -1,22 +1,26 @@
 /* ==========================================================================
-   custom.css — 兼容层（内容级微调）
+   custom.css — 内容级微调
 
-   历史原因，这个文件曾承载全部自定义样式。现在字体、栅格、颜色与归档列表
-   都由 assets/site.css 负责，这里只保留少量与正文结构相关、且依赖
-   Typst 输出结构的补丁。加载顺序：tufte → tufted.css → custom.css → site.css
+   历史原因，这个文件曾承载全部自定义样式；现在配色、字体、栅格与归档列表
+   都在 assets/site.css。这里只保留那些依赖 Typst 输出结构、必须在
+   site.css 之前生效的补丁。
+
+   加载顺序：tufte → tufted.css → theme.css → fonts.css → custom.css → site.css
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
-   引用块（Typst 输出为带 border-inline-start 的 div）
+   提示块（Typst 的 callout 输出为带 border-inline-start 的 div）
+
+   Typst 会给这类 div 写上 inline `width: 100%`；Tufte 的旧规则又把它压到
+   55%，在新栅格里会显得又窄又碎。这里统一铺满正文栏。
    -------------------------------------------------------------------------- */
 
 div[style*="border-inline-start"] {
-    /* Typst 输出内联 width:100%，必须用 !important 才能收进正文列 */
-    width: 55% !important;
-    margin: 1.5em 0;
+    width: 100% !important;
+    margin: 1.6em 0;
     padding-right: 0 !important;
-    font-size: 1.02rem;
-    line-height: 1.78;
+    font-size: 1rem;
+    line-height: 1.85;
     box-sizing: border-box;
 }
 
@@ -27,20 +31,21 @@ div[style*="border-inline-start"] p {
     line-height: inherit;
 }
 
-/* 引用块内的脚注 / 边注跟随正文墨色 */
+/* 提示块内的脚注 / 边注跟随正文墨色 */
 div[style*="border-inline-start"] .footnote-ref,
 div[style*="border-inline-start"] .marginnote,
 div[style*="border-inline-start"] .footnote-ref a {
-    color: var(--ink, #2b2a27) !important;
+    color: inherit !important;
 }
 
-/* 列表 / figure 内的代码块占满父级（避免被 55% 宽度卡住） */
+/* 提示块与引用块里的代码块占满父级 */
 li pre,
 ul pre,
 ol pre,
 dl pre,
 figure pre,
-blockquote pre {
+blockquote pre,
+div[style*="border-inline-start"] pre {
     width: 100%;
 }
 
@@ -53,15 +58,4 @@ sup.footnote-ref {
     top: -0.5em;
     line-height: 0;
     vertical-align: baseline;
-}
-
-/* --------------------------------------------------------------------------
-   窄屏：引用块与正文同宽
-   -------------------------------------------------------------------------- */
-
-@media (max-width: 760px) {
-    div[style*="border-inline-start"] {
-        width: 100% !important;
-        margin-inline: 0;
-    }
 }

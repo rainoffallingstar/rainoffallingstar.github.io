@@ -9,12 +9,15 @@
 // ============================================================================
 
 #import "tufted-lib/tufted.typ" as tufted
+#import "tufted-lib/byline.typ": article-byline
 
 // ---------------------------------------------------------------------------
 // 站点信息
 // ---------------------------------------------------------------------------
 
 #let site-title = "rainoffallingstar’s Blog"
+// 页头只放一个短名（参考站的 wordmark 风格）；SEO 与 RSS 仍用 site-title
+#let site-wordmark = "rainoffallingstar"
 #let site-tagline = "凡是过往，皆为序章。"
 #let site-author = "rainoffallingstar"
 #let site-url = "https://blog.rainoffallingstar.com"
@@ -22,10 +25,13 @@
 
 // 第一项是站名（兼作返回首页），其余是栏目
 #let header-links = (
-  "/": site-title,
+  "/": site-wordmark,
   "/Links/": "友链",
   "/About/": "关于",
 )
+
+// 首页导语：站名下方那一段说明文字
+#let site-intro = "这里记录读过的书、写过的笔记，以及一些被时间筛过的旧稿。"
 
 // ---------------------------------------------------------------------------
 // 站点外壳
@@ -46,16 +52,43 @@
   // 生成 feed.xml，并在导航栏显示 RSS 图标
   feed-dir: ("/Blog/",),
   footer-elements: (
-    [© #datetime.today().year() #site-author],
-    [
-      Powered by #link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template]
-    ],
+    html.div(
+      class: "footer-inner",
+      {
+        html.div(
+          class: "footer-meta",
+          {
+            html.span[© #datetime.today().year() #site-author]
+            html.span(class: "footer-sep")[·]
+            html.span([
+              由 #link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template] 驱动
+            ])
+          },
+        )
+        html.a(
+          class: "footer-rss",
+          href: "/feed.xml",
+          {
+            html.span(class: "footer-rss-icon", "")
+            html.span("RSS 订阅")
+          },
+        )
+      },
+    ),
   ),
-  // 上游样式之后追加站点视觉层
-  css: ("/assets/custom.css", "/assets/site.css"),
+  // 上游样式之后追加站点视觉层；自托管手写字体由 fonts.css 声明
+  css: ("/assets/fonts.css", "/assets/custom.css", "/assets/site.css"),
   // 本站自有脚本（页头滚动状态）
   js-scripts: ("/assets/site.js",),
 )
+
+// 文章日期从构建脚本传入的 page-path 里取（目录名形如 2025-12-31-标题），
+// 这样每篇文章不必在 .typ 里重复写日期。
+#let page-path = sys.inputs.at("page-path", default: "")
+#let page-date = {
+  let m = page-path.match(regex("\d{4}-\d{2}-\d{2}"))
+  if m == none { none } else { m.text }
+}
 
 #let template(
   title: "",
@@ -64,8 +97,24 @@
   description: none,
   extra-info: none,
   hero: none,
+  intro: none,
   content,
 ) = {
+  let date = if date != none { date } else { page-date }
+
+  // 文章署名：上游只在一级标题（HTML 的 h2）后插入署名，
+  // 而本站文章惯用 `== 标题`（h3），所以这里补一条二级标题的规则。
+  let byline-injected = state("site-byline", false)
+  show heading.where(level: 2): it => {
+    it
+    context {
+      if date != none and not byline-injected.get() {
+        byline-injected.update(true)
+        article-byline(author: site-author, date: date, extra-info: extra-info)
+      }
+    }
+  }
+
   let body = {
     if hero != none {
       html.elem("div", attrs: (class: "hero"), {
@@ -74,6 +123,9 @@
           html.elem("p", attrs: (class: "hero-tagline"), hero.subtitle)
         }
       })
+    }
+    if intro != none {
+      html.elem("p", attrs: (class: "intro"), intro)
     }
     content
   }
