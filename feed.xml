@@ -2,15 +2,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>rainoffallingstar’s Blog</title>
-    <link>https://rainoffallingstar.github.io</link>
+    <link>https://blog.rainoffallingstar.com</link>
     <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
     <language>zh</language>
-    <lastBuildDate>Sun, 15 Nov 2026 07:59:14 +0000</lastBuildDate>
-    <atom:link href="https://rainoffallingstar.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Nov 2026 08:12:44 +0000</lastBuildDate>
+    <atom:link href="https://blog.rainoffallingstar.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>温故2024-2025</title>
-      <link>https://rainoffallingstar.github.io/Blog/2025-12-31-温故2024-2025/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2025-12-31-温故2024-2025/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2025-12-31-温故2024-2025/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2025-12-31-温故2024-2025/</guid>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -18,8 +18,8 @@
     </item>
     <item>
       <title>温故2024</title>
-      <link>https://rainoffallingstar.github.io/Blog/2024-04-03-温故2023/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2024-04-03-温故2023/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2024-04-03-温故2023/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2024-04-03-温故2023/</guid>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -27,8 +27,8 @@
     </item>
     <item>
       <title>温故2022</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-12-24-温故2022/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-12-24-温故2022/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-12-24-温故2022/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-12-24-温故2022/</guid>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -36,8 +36,8 @@
     </item>
     <item>
       <title>组蛋白修饰与表观遗传学讲义</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-12-03-组蛋白修饰与表观遗传学讲义/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-12-03-组蛋白修饰与表观遗传学讲义/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-12-03-组蛋白修饰与表观遗传学讲义/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-12-03-组蛋白修饰与表观遗传学讲义/</guid>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -45,8 +45,8 @@
     </item>
     <item>
       <title>关于基因组、转录组及蛋白质组学的网络分析</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-12-01-关于基因组-转录组及蛋白质组学的网络分析/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-12-01-关于基因组-转录组及蛋白质组学的网络分析/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-12-01-关于基因组-转录组及蛋白质组学的网络分析/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-12-01-关于基因组-转录组及蛋白质组学的网络分析/</guid>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -54,8 +54,8 @@
     </item>
     <item>
       <title>2022-11-04-Workflow Machine Learning with Radio-mics</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-11-04-2022-11-04-workflow-machine-learning-with-radio-mics/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-11-04-2022-11-04-workflow-machine-learning-with-radio-mics/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-11-04-2022-11-04-workflow-machine-learning-with-radio-mics/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-11-04-2022-11-04-workflow-machine-learning-with-radio-mics/</guid>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -63,8 +63,8 @@
     </item>
     <item>
       <title>awesom-eGNNwithmedical</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-09-20-awesom-eGNNwithmedical/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-09-20-awesom-eGNNwithmedical/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-09-20-awesom-eGNNwithmedical/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-09-20-awesom-eGNNwithmedical/</guid>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -72,8 +72,8 @@
     </item>
     <item>
       <title>落花流水抄</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-06-16-落花流水抄/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-06-16-落花流水抄/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-06-16-落花流水抄/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-06-16-落花流水抄/</guid>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -81,8 +81,8 @@
     </item>
     <item>
       <title>译|Data analysis of GC-MS and LC-MS in Envrionmental Science</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-05-20-译data-analysis-of-gc-ms-and-lc-ms-in-envrionmental-science/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-05-20-译data-analysis-of-gc-ms-and-lc-ms-in-envrionmental-science/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-05-20-译data-analysis-of-gc-ms-and-lc-ms-in-envrionmental-science/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-05-20-译data-analysis-of-gc-ms-and-lc-ms-in-envrionmental-science/</guid>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -91,8 +91,8 @@ plotmz(data)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You could change the retention tim
     </item>
     <item>
       <title>2022-04-16-北大“可信临床生物信息学研究协作组”会议记录</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-04-16-2022-04-16-北大可信临床生物信息学研究协作组会议记录/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-04-16-2022-04-16-北大可信临床生物信息学研究协作组会议记录/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-04-16-2022-04-16-北大可信临床生物信息学研究协作组会议记录/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-04-16-2022-04-16-北大可信临床生物信息学研究协作组会议记录/</guid>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -100,17 +100,17 @@ plotmz(data)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You could change the retention tim
     </item>
     <item>
       <title>新冠肺炎预试验</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-03-09-新冠肺炎预试验/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-03-09-新冠肺炎预试验/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-03-09-新冠肺炎预试验/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-03-09-新冠肺炎预试验/</guid>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;新冠肺炎预试验&lt;/h3&gt;&lt;h3&gt;2022-03-09-新冠肺炎CNN预试验&lt;/h3&gt;&lt;h4&gt;目的&lt;/h4&gt;&lt;ol&gt;&lt;li value="1"&gt;&lt;p&gt;搭建一套可行的提取肺炎影像学特征的神经网络模型。&lt;/p&gt;&lt;/li&gt;&lt;li value="2"&gt;&lt;p&gt;通过学习病毒性肺炎、社区获得性肺炎的特征，减少在拟合小数据样本的CMV肺炎时的训练时长及过拟合的概率。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;方法&lt;/h4&gt;&lt;ol&gt;&lt;li value="1"&gt;&lt;p&gt;建立图像数据库：获取单中心开源的肺部CT图像，所有CT图像及诊断均由影像科医生审核并参考临床资料(CPR、痰培养等)给出标签。共收录社区获得性肺炎(CAP)4800张，新冠肺炎(covid19)13680张，正常肺CT图像11405张。分别随机抽取5000张新冠肺炎、正常肺CT与社区获得性肺炎组成平衡数据集，按照8：1：1的比例随机抽取组成训练集、验证集、测试集。&lt;/p&gt;&lt;/li&gt;&lt;li value="2"&gt;&lt;p&gt;模型搭建与预训练：基于Tensorflow2.4 实现了经典mobilenet模型，并实现tensorboard可视化。集成在IMAGEnet数据集下预训练的模型。&lt;/p&gt;&lt;p&gt;Table 3&lt;/p&gt;&lt;p&gt;The structure of MobileNet v2&lt;/p&gt;&lt;p&gt;| Layer(Funtions) | Output Shape | Stride | Filter shape | | —————————– | ————— | —— | —————– | | Input Layer | None,256,256,3 | / | / | | Conv1 (Conv+BN+ReLU6) | None,128,128,32 | 2 | 3 3 32 | | inverted_residual (Linear) | None,128,128,16 | 1 | 1 1 32 16 | | inverted_residual_1 (ReLU6) | None,64,64,24 | 2 | 3 &lt;br&gt; 3 16 24 | | inverted_residual_2 (Linear) | None,64,64,24 | 1 | 11 24 | | inverted_residual_3 (ReLU6) | None,32,32,32 | 2 | 3 &lt;br&gt; 3 24 32 | | inverted_residual_4 (Linear) | None,32,32,32 | 1 | 11 32 | | inverted_residual_5 (Linear) | None,32,32,32 | 1 | 11 32 | | inverted_residual_6 (ReLU6) | None,16,16,64 | 2 | 333264 | | inverted_residual_7 (Linear) | None,16,16,64 | 1 | 11 64 | | inverted_residual_8 (Linear) | None,16,16,64 | 1 | 11 64 | | inverted_residual_9 (Linear) | None,16,16,64 | 1 | 1&lt;br&gt; 164 | | inverted_residual_10 (Linear) | None,16,16,96 | 1 | 1  &lt;br&gt; 1 6496 | | inverted_residual_11 (Linear) | None,16,16,96 | 1 | 11 96 | | inverted_residual_12 (Linear) | None,16,16,96 | 1 | 1&lt;br&gt; 196 | | inverted_residual_13 (ReLU6) | None,8,8,160 | 2 | 33 96 160 | | inverted_residual_14 (Linear) | None,8,8,160 | 1 | 11 160 | | inverted_residual_15 (Linear) | None,8,8,160 | 1 | 11 160 | | inverted_residual_16 (Linear) | None,8,8,320 | 1 | 11160320 | | Conv (ReLU6) | None,8,8,1280 | 1 | 113201280 | | Global average pooling | None,1280 | 1 | Pool 88 | | Dropout | None,1280 | 1 | Probability = 0.2 | | Clssifier(ReLU) | None,2 | / | Classifier |&lt;/p&gt;&lt;p&gt;!&lt;a href="https://rainoffallingstar.github.io/Blog/2022-03-09-新冠肺炎预试验/model.png" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li value="3"&gt;&lt;p&gt;正式训练：将预训练模型删除分类层，将训练集、验证集向量化，输入模型，初始学习率设置为1e-4，采用adam算法优化学习率，设置分类数为3，最大epoch为30。训练在云端一台搭载了tensorflow2.4的RTX2080ti(10G显存)、6E5cpu的服务器内实现。默认保存在验证集上表现最优的模型权重。&lt;/p&gt;&lt;/li&gt;&lt;li value="4"&gt;&lt;p&gt;测试模型效能：在测试集上进行模型能力测试，计算准确率、召回率、正确率、假阳性率、F1分数等评价指标，绘出ROC曲线并计算曲线下面积。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;结果&lt;/h4&gt;&lt;p&gt;MobilenetV2在epoch 22达到train acc 0.98，train loss 0.02；val acc 0.99，val loss 0.04，停止训练,训练过程未见过拟合。&lt;/p&gt;&lt;p&gt;!&lt;a href="https://rainoffallingstar.github.io/Blog/2022-03-09-新冠肺炎预试验/acc.png" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;&lt;p&gt;!&lt;a href="https://rainoffallingstar.github.io/Blog/2022-03-09-新冠肺炎预试验/loss.png" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Table 2&lt;/p&gt;&lt;p&gt;| 类别 | 精确率 | 召回率 | FPR | F1score | | ——- | — | —- | —- | ——- | | covid19 | 91% | 100% | 9.7% | 98% |&lt;/p&gt;&lt;p&gt;Auc=0.998!&lt;a href="https://rainoffallingstar.github.io/Blog/2022-03-09-新冠肺炎预试验/auc.jepg" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;h3&gt;新冠肺炎预试验&lt;/h3&gt;&lt;h3&gt;2022-03-09-新冠肺炎CNN预试验&lt;/h3&gt;&lt;h4&gt;目的&lt;/h4&gt;&lt;ol&gt;&lt;li value="1"&gt;&lt;p&gt;搭建一套可行的提取肺炎影像学特征的神经网络模型。&lt;/p&gt;&lt;/li&gt;&lt;li value="2"&gt;&lt;p&gt;通过学习病毒性肺炎、社区获得性肺炎的特征，减少在拟合小数据样本的CMV肺炎时的训练时长及过拟合的概率。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;方法&lt;/h4&gt;&lt;ol&gt;&lt;li value="1"&gt;&lt;p&gt;建立图像数据库：获取单中心开源的肺部CT图像，所有CT图像及诊断均由影像科医生审核并参考临床资料(CPR、痰培养等)给出标签。共收录社区获得性肺炎(CAP)4800张，新冠肺炎(covid19)13680张，正常肺CT图像11405张。分别随机抽取5000张新冠肺炎、正常肺CT与社区获得性肺炎组成平衡数据集，按照8：1：1的比例随机抽取组成训练集、验证集、测试集。&lt;/p&gt;&lt;/li&gt;&lt;li value="2"&gt;&lt;p&gt;模型搭建与预训练：基于Tensorflow2.4 实现了经典mobilenet模型，并实现tensorboard可视化。集成在IMAGEnet数据集下预训练的模型。&lt;/p&gt;&lt;p&gt;Table 3&lt;/p&gt;&lt;p&gt;The structure of MobileNet v2&lt;/p&gt;&lt;p&gt;| Layer(Funtions) | Output Shape | Stride | Filter shape | | —————————– | ————— | —— | —————– | | Input Layer | None,256,256,3 | / | / | | Conv1 (Conv+BN+ReLU6) | None,128,128,32 | 2 | 3 3 32 | | inverted_residual (Linear) | None,128,128,16 | 1 | 1 1 32 16 | | inverted_residual_1 (ReLU6) | None,64,64,24 | 2 | 3 &lt;br&gt; 3 16 24 | | inverted_residual_2 (Linear) | None,64,64,24 | 1 | 11 24 | | inverted_residual_3 (ReLU6) | None,32,32,32 | 2 | 3 &lt;br&gt; 3 24 32 | | inverted_residual_4 (Linear) | None,32,32,32 | 1 | 11 32 | | inverted_residual_5 (Linear) | None,32,32,32 | 1 | 11 32 | | inverted_residual_6 (ReLU6) | None,16,16,64 | 2 | 333264 | | inverted_residual_7 (Linear) | None,16,16,64 | 1 | 11 64 | | inverted_residual_8 (Linear) | None,16,16,64 | 1 | 11 64 | | inverted_residual_9 (Linear) | None,16,16,64 | 1 | 1&lt;br&gt; 164 | | inverted_residual_10 (Linear) | None,16,16,96 | 1 | 1  &lt;br&gt; 1 6496 | | inverted_residual_11 (Linear) | None,16,16,96 | 1 | 11 96 | | inverted_residual_12 (Linear) | None,16,16,96 | 1 | 1&lt;br&gt; 196 | | inverted_residual_13 (ReLU6) | None,8,8,160 | 2 | 33 96 160 | | inverted_residual_14 (Linear) | None,8,8,160 | 1 | 11 160 | | inverted_residual_15 (Linear) | None,8,8,160 | 1 | 11 160 | | inverted_residual_16 (Linear) | None,8,8,320 | 1 | 11160320 | | Conv (ReLU6) | None,8,8,1280 | 1 | 113201280 | | Global average pooling | None,1280 | 1 | Pool 88 | | Dropout | None,1280 | 1 | Probability = 0.2 | | Clssifier(ReLU) | None,2 | / | Classifier |&lt;/p&gt;&lt;p&gt;!&lt;a href="https://blog.rainoffallingstar.com/Blog/2022-03-09-新冠肺炎预试验/model.png" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li value="3"&gt;&lt;p&gt;正式训练：将预训练模型删除分类层，将训练集、验证集向量化，输入模型，初始学习率设置为1e-4，采用adam算法优化学习率，设置分类数为3，最大epoch为30。训练在云端一台搭载了tensorflow2.4的RTX2080ti(10G显存)、6E5cpu的服务器内实现。默认保存在验证集上表现最优的模型权重。&lt;/p&gt;&lt;/li&gt;&lt;li value="4"&gt;&lt;p&gt;测试模型效能：在测试集上进行模型能力测试，计算准确率、召回率、正确率、假阳性率、F1分数等评价指标，绘出ROC曲线并计算曲线下面积。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;结果&lt;/h4&gt;&lt;p&gt;MobilenetV2在epoch 22达到train acc 0.98，train loss 0.02；val acc 0.99，val loss 0.04，停止训练,训练过程未见过拟合。&lt;/p&gt;&lt;p&gt;!&lt;a href="https://blog.rainoffallingstar.com/Blog/2022-03-09-新冠肺炎预试验/acc.png" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;&lt;p&gt;!&lt;a href="https://blog.rainoffallingstar.com/Blog/2022-03-09-新冠肺炎预试验/loss.png" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Table 2&lt;/p&gt;&lt;p&gt;| 类别 | 精确率 | 召回率 | FPR | F1score | | ——- | — | —- | —- | ——- | | covid19 | 91% | 100% | 9.7% | 98% |&lt;/p&gt;&lt;p&gt;Auc=0.998!&lt;a href="https://blog.rainoffallingstar.com/Blog/2022-03-09-新冠肺炎预试验/auc.jepg" target="_blank" rel="noopener noreferrer"&gt;这是图片&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>DL大创基础培训推荐视频</title>
-      <link>https://rainoffallingstar.github.io/Blog/2022-02-27-dl大创基础培训推荐视频/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2022-02-27-dl大创基础培训推荐视频/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2022-02-27-dl大创基础培训推荐视频/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2022-02-27-dl大创基础培训推荐视频/</guid>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -118,8 +118,8 @@ plotmz(data)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You could change the retention tim
     </item>
     <item>
       <title>FirstAid 医学考研step1 2022</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-12-25-firstaid-医学考研step1-2022/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-12-25-firstaid-医学考研step1-2022/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-12-25-firstaid-医学考研step1-2022/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-12-25-firstaid-医学考研step1-2022/</guid>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -127,8 +127,8 @@ plotmz(data)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You could change the retention tim
     </item>
     <item>
       <title>温故2021</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-12-13-温故2021/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-12-13-温故2021/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-12-13-温故2021/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-12-13-温故2021/</guid>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -136,8 +136,8 @@ plotmz(data)&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You could change the retention tim
     </item>
     <item>
       <title>Reading Notes | How to Write Essays A step-by-step guide for all levels with sample essays</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-12-08-reading-notes-how-to-write-essays-a-step-by-step-guide-for-all-levels-with-sample-essays/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-12-08-reading-notes-how-to-write-essays-a-step-by-step-guide-for-all-levels-with-sample-essays/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-12-08-reading-notes-how-to-write-essays-a-step-by-step-guide-for-all-levels-with-sample-essays/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-12-08-reading-notes-how-to-write-essays-a-step-by-step-guide-for-all-levels-with-sample-essays/</guid>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -177,8 +177,8 @@ Based on this evidence, …&lt;/code&gt;&lt;/pre&gt;&lt;h4&gt;Useful words appen
     </item>
     <item>
       <title>Goods shipped directly from Ireland to EU up by 50% in six months</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-11-30-goods-shipped-directly-from-ireland-to-eu-up-by-50-in-six-months/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-11-30-goods-shipped-directly-from-ireland-to-eu-up-by-50-in-six-months/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-11-30-goods-shipped-directly-from-ireland-to-eu-up-by-50-in-six-months/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-11-30-goods-shipped-directly-from-ireland-to-eu-up-by-50-in-six-months/</guid>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -186,8 +186,8 @@ Based on this evidence, …&lt;/code&gt;&lt;/pre&gt;&lt;h4&gt;Useful words appen
     </item>
     <item>
       <title>Victims of sexual violence let down by UK asylum system, report says</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-11-29-victims-of-sexual-violence-let-down-by-uk-asylum-system-report-says/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-11-29-victims-of-sexual-violence-let-down-by-uk-asylum-system-report-says/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-11-29-victims-of-sexual-violence-let-down-by-uk-asylum-system-report-says/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-11-29-victims-of-sexual-violence-let-down-by-uk-asylum-system-report-says/</guid>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -195,8 +195,8 @@ Based on this evidence, …&lt;/code&gt;&lt;/pre&gt;&lt;h4&gt;Useful words appen
     </item>
     <item>
       <title>Ghislaine Maxwell sex-trafficking trial expected to go before jury</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-11-29-ghislaine-maxwell-sex-trafficking-trial-expected-to-go-before-jury/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-11-29-ghislaine-maxwell-sex-trafficking-trial-expected-to-go-before-jury/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-11-29-ghislaine-maxwell-sex-trafficking-trial-expected-to-go-before-jury/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-11-29-ghislaine-maxwell-sex-trafficking-trial-expected-to-go-before-jury/</guid>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -204,8 +204,8 @@ Based on this evidence, …&lt;/code&gt;&lt;/pre&gt;&lt;h4&gt;Useful words appen
     </item>
     <item>
       <title>Lawyers turn to romcoms in fight for rule of law in Poland</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-11-29-lawyers-turn-to-romcoms-in-fight-for-rule-of-law-in-poland/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-11-29-lawyers-turn-to-romcoms-in-fight-for-rule-of-law-in-poland/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-11-29-lawyers-turn-to-romcoms-in-fight-for-rule-of-law-in-poland/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-11-29-lawyers-turn-to-romcoms-in-fight-for-rule-of-law-in-poland/</guid>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -213,8 +213,8 @@ Based on this evidence, …&lt;/code&gt;&lt;/pre&gt;&lt;h4&gt;Useful words appen
     </item>
     <item>
       <title>A Guide to My English reading and writing</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/</guid>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -275,12 +275,12 @@ students about an upcoming singing contest. Write a notice in about 100 words.
 
 2021
 
-A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an email to make some suggestions. &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Form：email、notices&lt;/p&gt;&lt;p&gt;To who：foreign friend 、international students、international experts、a newly-arrived Australian professor、club members、the president of your university，&lt;/p&gt;&lt;h5&gt;Part 2 作文二:看图作文&lt;/h5&gt;&lt;p&gt;describe the drawing briefly,explain its intended meaning, and give your comments&lt;/p&gt;&lt;p&gt;2011:旅途之余&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2011.png" alt width="791" height="789"&gt;&lt;/p&gt;&lt;p&gt;2012:我全完了，我还剩点&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2012.png" alt width="788" height="761"&gt;&lt;/p&gt;&lt;p&gt;2013:选择&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2013.png" alt width="1133" height="733"&gt;&lt;/p&gt;&lt;p&gt;2014:相携&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2014.png" alt width="1396" height="950"&gt;&lt;/p&gt;&lt;p&gt;2015:手机时代的聚会&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2015.png" alt width="1232" height="707"&gt;&lt;/p&gt;&lt;p&gt;2016:与其提要求，不如做榜样&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2016.png" alt width="1335" height="566"&gt;&lt;/p&gt;&lt;p&gt;2017:有书与读书&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2017.png" alt width="1620" height="712"&gt;&lt;/p&gt;&lt;p&gt;2018:选课进行时&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2018.png" alt width="1055" height="752"&gt;&lt;/p&gt;&lt;p&gt;2019:途中&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2019.png" alt width="1083" height="1013"&gt;&lt;/p&gt;&lt;p&gt;2020:习惯&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2020.png" alt width="1296" height="749"&gt;&lt;/p&gt;&lt;p&gt;2021:兴趣&lt;/p&gt;&lt;p&gt;&lt;img src="https://rainoffallingstar.github.io/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2021.png" alt width="680" height="750"&gt;&lt;/p&gt;</content:encoded>
+A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an email to make some suggestions. &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Form：email、notices&lt;/p&gt;&lt;p&gt;To who：foreign friend 、international students、international experts、a newly-arrived Australian professor、club members、the president of your university，&lt;/p&gt;&lt;h5&gt;Part 2 作文二:看图作文&lt;/h5&gt;&lt;p&gt;describe the drawing briefly,explain its intended meaning, and give your comments&lt;/p&gt;&lt;p&gt;2011:旅途之余&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2011.png" alt width="791" height="789"&gt;&lt;/p&gt;&lt;p&gt;2012:我全完了，我还剩点&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2012.png" alt width="788" height="761"&gt;&lt;/p&gt;&lt;p&gt;2013:选择&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2013.png" alt width="1133" height="733"&gt;&lt;/p&gt;&lt;p&gt;2014:相携&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2014.png" alt width="1396" height="950"&gt;&lt;/p&gt;&lt;p&gt;2015:手机时代的聚会&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2015.png" alt width="1232" height="707"&gt;&lt;/p&gt;&lt;p&gt;2016:与其提要求，不如做榜样&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2016.png" alt width="1335" height="566"&gt;&lt;/p&gt;&lt;p&gt;2017:有书与读书&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2017.png" alt width="1620" height="712"&gt;&lt;/p&gt;&lt;p&gt;2018:选课进行时&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2018.png" alt width="1055" height="752"&gt;&lt;/p&gt;&lt;p&gt;2019:途中&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2019.png" alt width="1083" height="1013"&gt;&lt;/p&gt;&lt;p&gt;2020:习惯&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2020.png" alt width="1296" height="749"&gt;&lt;/p&gt;&lt;p&gt;2021:兴趣&lt;/p&gt;&lt;p&gt;&lt;img src="https://blog.rainoffallingstar.com/Blog/2021-11-26-a-guide-to-my-english-reading-and-writing/imgs/2021.png" alt width="680" height="750"&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>无题</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-08-31-无题/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-08-31-无题/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-08-31-无题/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-08-31-无题/</guid>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -288,21 +288,21 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>大四复习材料单</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/</guid>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;大四学年医学课程复习材料单&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/imgs/儿科协和习题+参考试卷+13-15真题汇总重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;儿科协和习题+参考试卷+13-15真题汇总重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/imgs/妇产科复习材料重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;妇产科复习材料重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/imgs/妇产科学自习问题集zyh.pdf" target="_blank" rel="noopener noreferrer"&gt;妇产科学自习问题集zyh.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/imgs/内科学题库+历年真题+参考试卷汇总重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;内科学题库+历年真题+参考试卷汇总重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/imgs/外科学题库+历年真题+参考试卷汇总重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;外科学题库+历年真题+参考试卷汇总重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2021-06-06-大四复习材料单/imgs/眼科zyh.pdf" target="_blank" rel="noopener noreferrer"&gt;眼科zyh.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <content:encoded>&lt;h3&gt;大四学年医学课程复习材料单&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/imgs/儿科协和习题+参考试卷+13-15真题汇总重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;儿科协和习题+参考试卷+13-15真题汇总重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/imgs/妇产科复习材料重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;妇产科复习材料重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/imgs/妇产科学自习问题集zyh.pdf" target="_blank" rel="noopener noreferrer"&gt;妇产科学自习问题集zyh.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/imgs/内科学题库+历年真题+参考试卷汇总重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;内科学题库+历年真题+参考试卷汇总重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/imgs/外科学题库+历年真题+参考试卷汇总重排版.pdf" target="_blank" rel="noopener noreferrer"&gt;外科学题库+历年真题+参考试卷汇总重排版.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2021-06-06-大四复习材料单/imgs/眼科zyh.pdf" target="_blank" rel="noopener noreferrer"&gt;眼科zyh.pdf 下载&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
     </item>
     <item>
       <title>在Deepin下编译0.A.D最新版</title>
-      <link>https://rainoffallingstar.github.io/Blog/2021-03-14-在deepin下编译0ad最新版/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2021-03-14-在deepin下编译0ad最新版/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2021-03-14-在deepin下编译0ad最新版/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2021-03-14-在deepin下编译0ad最新版/</guid>
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;在Deepin下编译0.A.D最新版&lt;/h3&gt;&lt;p&gt;获取.sh文件 &lt;a href="https://rainoffallingstar.github.io/Blog/2021-03-14-在deepin下编译0ad最新版/0adsetup.sh" target="_blank" rel="noopener noreferrer"&gt;0adsetup.sh 下载&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;获取源代码：git clone &lt;a href="https://gitlab.com/0ad/0ad.git" target="_blank" rel="noopener noreferrer"&gt;&lt;a href="https://gitlab.com/0ad/0ad.git" target="_blank" rel="noopener noreferrer"&gt;https://gitlab.com/0ad/0ad.git&lt;/a&gt;   或在官网下载其源码包&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;安装依赖：&lt;/p&gt;&lt;pre&gt;&lt;code data-lang="bash"&gt;&lt;span style="color: #4b69c6"&gt;sudo&lt;/span&gt; apt-get install build-essential cmake libboost-dev libboost-system-dev \
+      <content:encoded>&lt;h3&gt;在Deepin下编译0.A.D最新版&lt;/h3&gt;&lt;p&gt;获取.sh文件 &lt;a href="https://blog.rainoffallingstar.com/Blog/2021-03-14-在deepin下编译0ad最新版/0adsetup.sh" target="_blank" rel="noopener noreferrer"&gt;0adsetup.sh 下载&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;获取源代码：git clone &lt;a href="https://gitlab.com/0ad/0ad.git" target="_blank" rel="noopener noreferrer"&gt;&lt;a href="https://gitlab.com/0ad/0ad.git" target="_blank" rel="noopener noreferrer"&gt;https://gitlab.com/0ad/0ad.git&lt;/a&gt;   或在官网下载其源码包&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;安装依赖：&lt;/p&gt;&lt;pre&gt;&lt;code data-lang="bash"&gt;&lt;span style="color: #4b69c6"&gt;sudo&lt;/span&gt; apt-get install build-essential cmake libboost-dev libboost-system-dev \
  libboost-filesystem-dev libcurl4-gnutls-dev libenet-dev libfmt-dev \
  libgloox-dev libicu-dev libminiupnpc-dev libnvtt-dev libogg-dev \
  libopenal-dev libpng-dev libsdl2-dev libsodium-dev libvorbis-dev \
@@ -324,8 +324,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>温故2020书单</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-12-30-温故2020书单/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-12-30-温故2020书单/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-12-30-温故2020书单/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-12-30-温故2020书单/</guid>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -333,8 +333,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>关于大创的若干问题的经验性解答</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-08-25-关于大创的若干问题的经验性解答/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-08-25-关于大创的若干问题的经验性解答/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-08-25-关于大创的若干问题的经验性解答/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-08-25-关于大创的若干问题的经验性解答/</guid>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -342,8 +342,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>医大毕业考中心题库</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-05-20-医大毕业考中心题库/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-05-20-医大毕业考中心题库/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-05-20-医大毕业考中心题库/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-05-20-医大毕业考中心题库/</guid>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -351,8 +351,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>Notes:How to write a medical record</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-05-18-noteshow-to-write-a-medical-record/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-05-18-noteshow-to-write-a-medical-record/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-05-18-noteshow-to-write-a-medical-record/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-05-18-noteshow-to-write-a-medical-record/</guid>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -360,8 +360,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>霍北特</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-04-23-霍北特/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-04-23-霍北特/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-04-23-霍北特/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-04-23-霍北特/</guid>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -369,8 +369,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>虚拟仿真在医学教学下的应用及疫情防控时期远程虚拟现实医学课堂系统的设想</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-04-14-虚拟仿真在医学教学下的应用及疫情防控时期远程虚拟现实医学课堂系统的设想/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-04-14-虚拟仿真在医学教学下的应用及疫情防控时期远程虚拟现实医学课堂系统的设想/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-04-14-虚拟仿真在医学教学下的应用及疫情防控时期远程虚拟现实医学课堂系统的设想/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-04-14-虚拟仿真在医学教学下的应用及疫情防控时期远程虚拟现实医学课堂系统的设想/</guid>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -378,8 +378,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>Introduction to Rent musicala presentation script</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-04-03-introduction-to-rent-musicala-presentation-script/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-04-03-introduction-to-rent-musicala-presentation-script/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-04-03-introduction-to-rent-musicala-presentation-script/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-04-03-introduction-to-rent-musicala-presentation-script/</guid>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -387,8 +387,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>Pathology Lecture Notes</title>
-      <link>https://rainoffallingstar.github.io/Blog/2020-01-03-Pathology Lecture Notes/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2020-01-03-Pathology Lecture Notes/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2020-01-03-Pathology Lecture Notes/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2020-01-03-Pathology Lecture Notes/</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -396,8 +396,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>温良恭</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-12-16-温良恭/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-12-16-温良恭/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-12-16-温良恭/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-12-16-温良恭/</guid>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -405,8 +405,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>温故2019：契机</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-12-01-温故2019-契机/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-12-01-温故2019-契机/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-12-01-温故2019-契机/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-12-01-温故2019-契机/</guid>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -414,8 +414,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>2019-07-06-拔剑四顾心茫然</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-07-06-2019-07-06-拔剑四顾心茫然/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-07-06-2019-07-06-拔剑四顾心茫然/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-07-06-2019-07-06-拔剑四顾心茫然/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-07-06-2019-07-06-拔剑四顾心茫然/</guid>
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -423,17 +423,17 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>Immunology Appendix Of Lecture 2017</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-06-22-immunology-appendix-of-lecture-2017/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-06-22-immunology-appendix-of-lecture-2017/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-06-22-immunology-appendix-of-lecture-2017/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-06-22-immunology-appendix-of-lecture-2017/</guid>
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;翻译：Immunology Appendix Of Lecture 2017&lt;/h3&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2019-06-22-immunology-appendix-of-lecture-2017/imgs/immunologyappendix.pdf" target="_blank" rel="noopener noreferrer"&gt;immunologyappendix.pdf 下载&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;h3&gt;翻译：Immunology Appendix Of Lecture 2017&lt;/h3&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2019-06-22-immunology-appendix-of-lecture-2017/imgs/immunologyappendix.pdf" target="_blank" rel="noopener noreferrer"&gt;immunologyappendix.pdf 下载&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>欢颜</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-04-04-欢颜/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-04-04-欢颜/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-04-04-欢颜/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-04-04-欢颜/</guid>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -441,17 +441,17 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>免疫胶体金电镜技术的操作与原理</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-02-14-免疫胶体金电镜技术的操作与原理/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-02-14-免疫胶体金电镜技术的操作与原理/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-02-14-免疫胶体金电镜技术的操作与原理/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-02-14-免疫胶体金电镜技术的操作与原理/</guid>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;免疫胶体金电镜技术的操作与原理&lt;/h3&gt;&lt;h3&gt;Review：免疫胶体金电镜技术的操作与原理&lt;/h3&gt;&lt;h4&gt;Abstract&lt;/h4&gt;&lt;p&gt;免疫胶体金技术是80年代继三大标记技术(荧光素、放射性同位素和酶)后发展起来的固相标记免疫测定技术。最初该方法仅用于免疫电镜技术，现在已经发展到被动凝集试验、光镜染色、免疫印迹、免疫斑点渗滤法以及免疫层析技术等。&lt;/p&gt;&lt;p&gt;胶体金是用于免疫电镜的最佳标记物,因为它呈球形,非常致密,在电镜下具有强烈反差,容易追踪在电镜下检出抗原抗体复合物。胶体金免疫电镜技术已成为目前最常用的免疫细胞化学方法之一,它具有灵敏度高、特异性强、定位精确等优点,同时它还可以对抗原进行定性、定量、定位的分析与观察。应用免疫金双重或多重标记法,可将形态、功能和结构的研究融为一体,有助于了解同一组织或细胞内不同分子间的相互关系,以及它们的合成、分泌、转运等代谢过程。&lt;/p&gt;&lt;h4&gt;基本原理&lt;/h4&gt;&lt;p&gt;氯金酸(HAuCl4)在还原剂作用下,可聚合成一定大小的金颗粒,在碱性条件下,胶体金颗粒由一个基础的晶核及其包围在外的双离子层构成,金颗粒表面所包围的阴性电荷层,叫做zeta电位,通过静电排斥作用使悬浮液保持稳定,而成为稳定的胶体体系,故称胶体金。胶体金颗粒散在,直径从几纳米到几十纳米不等,由于不同直径的胶体金的光散射各异,所以其溶胶颜色的深浅相应发生显著的变化,这就是胶体金用于被动凝集试验的基础。&lt;/p&gt;&lt;p&gt;胶体金标记实质上是蛋白质等高分子被吸附到胶体金颗粒表面的包被过程,吸附机理可能是胶体金颗粒表面负电荷,与蛋白质的正电荷基团因静电吸附而形成牢固结合。用还原法可以方便地从氯金酸制备各种不同粒径、也就是不同颜色的胶体金颗粒,这种球形的粒子对蛋白质有很强的吸附功能,可以与葡萄球菌A蛋白、免疫球蛋白、毒素、糖蛋白、酶、抗生素和激素等多种物质非共价结合,从而使其成为免疫反应的优良标记物，反应最终形成胶体金-抗原-抗体复合物。&lt;/p&gt;&lt;p&gt;免疫胶体金颗粒具有高电子高密度的特性,在显微镜下金标蛋白结合处,可见黑褐色颗粒,当这些标记物在相应的配体处大量聚集时,肉眼可见红色或粉红色斑点,因而可用于定性或半定量的快速免疫检测。在光镜下，金颗粒还可催化银离子还原成金属银,因此在胶体金免疫测定时加入银染色液,能放大反应信号,大大增加测定的灵敏度。在电镜水平,胶体金颗粒具有很高的电子密度,大小颗粒清晰可辨,且不影响对原有超微结构的观察，通过计量被检部分金颗粒,可以对被检抗原或抗体进行免疫定量研究，采用不同直径的金标抗体进行免疫双重或多重标记染色,能在一张电镜图片上同时显示两种或多种被检测物质的组织或细胞的超微结构，这说明其为电镜下较为理想的免疫标记物。&lt;/p&gt;&lt;h4&gt;胶体金制备&lt;/h4&gt;&lt;p&gt;胶体金的制备一般采用化学还原法,常用的还原剂有柠檬酸钠、鞣酸、抗坏血酸、白磷、硼氢化钠等,可以方便地从氯金酸溶液中制备不同粒径(5～150nm)的胶体金颗粒。胶体金的粒径不同会呈现不同的颜色,粒径大小与溶胶颜色的对应情况如下:5～20n m之间,呈葡萄酒红色;20～40 n m之间液体为深红色;60n m金溶液呈紫红色。常用的制备方法有白磷还原法、抗坏血酸还原法、柠檬酸三钠还原法、鞣酸-柠檬酸三钠还原法、乙醇超声波还原法和硼氢化钠还原法等。其中,以鞣酸-柠檬酸三钠还原法最为常用,它可根据需要制备出多种不同直径的胶体金颗粒,适用于多重标记。也有文章称，制备过程大部分采用柠檬酸钠还原法。&lt;/p&gt;&lt;p&gt;许多研究表明如制备金颗粒直径在的胶体金溶液用白磷或抗坏血酸还原氯金酸，如制备大于直径的金颗粒的胶体金则用构椽酸三钠还原氯金酸&lt;/p&gt;&lt;p&gt;下面介绍最常用的制备方法及注意事项。&lt;/p&gt;&lt;p&gt;玻璃容器的清洁:玻璃表面少量的污染会干扰胶体金颗粒的生成,一切玻璃容器应绝对清洁,玻璃表面少量的污染会干扰胶体金颗粒的生成,产生凝集颗粒,因此玻璃器皿用前要经过泡酸、超声洗涤处理,并用蒸馏水、超纯水依次冲洗浸泡,然后烘干备用。专用的清洁器皿以第一次生成的胶体金稳定其表面,弃去后以双蒸水淋洗,可代替硅化处理。&lt;/p&gt;&lt;p&gt;试剂、水质和环境:氯金酸极易吸潮,对金属有强烈腐蚀性,不能使用金属药匙,避免接触天平称盘。其1帕水溶液在4℃可稳定数月不变。实验用水一般用双蒸水。实验室中的尘粒要尽量减少,否则实验的结果将缺乏重复性。金颗粒容易吸附于电极上使之堵塞,故不能用p H电极测定金溶胶的p H值。为了使溶液p H值不发生改变,应选用缓冲液容量足够大的缓冲系统,一般采用柠檬酸磷酸盐(p H3一8)、Tris-HC I(PH5.8一8.3)和硼酸-氮氧化钠(P H 8.5一10.3)等缓冲体系。但应往意不应使缓冲液浓度过高而使金溶胶自凝④。&lt;/p&gt;&lt;p&gt;柠檬酸三钠还原法制备金溶胶:Frens介绍的方法最为常用。取0.01%氯金酸水溶液100ml加热至沸腾,搅动下准确加入1%肠柠檬酸三钠水溶液0.7 m l,金黄色的氯金酸水溶液在2分钟内变为紫红色,继续煮沸15分钟,至溶液颜色稳定不变(溶液颜色由浅黄色逐渐变为浅蓝色、蓝色、蓝紫色、紫红色，最后变为澄清透明的酒红色),冷却后以蒸馏水恢复到原体积,如此制备的金溶胶其可见光区最高吸收峰在5 3 5mn,&lt;/p&gt;&lt;p&gt;柠檬酸三钠–鞣酸混合还原剂:用此混合还原剂可以得到比较满意的小颗粒金溶胶,操作方法如下:取4ml1%的柠檬酸三钠，加入0 5ml1%的鞣酸,0 5ml 25mml/L的K2CO3(体积与鞣酸加入量相等),以双蒸水补足至溶液最终体积为20 m l，加热至60℃取1ml1%的HAuCl6,加于79ml的双蒸水中，水浴加热至60℃，然后迅速将柠檬酸-鞣酸溶液加入，于此温度下保持一段时间，待溶液颜色变成深红色(约0.5 1小时后)，将溶液加热至沸腾，保持沸腾5分钟即可。改变鞣酸的加入量，制得的胶体颗粒大小不同。⑤&lt;/p&gt;&lt;p&gt;白磷还原法：在120ml的双蒸水中加入1.5ml的1%的氯金酸和1.4ml 0.1mol/LK2CO3,然后加入1ml五分之一饱和度的白磷丙醚溶液，混匀后室温放置15分钟，在回流下煮沸直到红褐色转变为红色。此法制得的胶体金颗粒约为6nm并有很好的均匀度。(白磷、丙醚均易燃，普通实验室小心采用)&lt;/p&gt;&lt;p&gt;抗坏血酸还原法：取10%HAuCl4水溶液10ml,0.2mol/L的k2CO3 14ml以及25ml的双蒸水置于烧杯内混匀，在冰浴条件下搅拌加入一定量的抗坏血酸水溶液，当溶液呈现紫红色，加双蒸水至100ml，加热至溶液变成橘红色为止。&lt;/p&gt;&lt;p&gt;胶体金制备方法中影响因素主要有pH、还原剂加入量、加热时间。金溶胶的光散射性与溶胶颗粒的大小密切相关,一旦颗粒大小发生变化,光散射也随之发生变异,产生肉眼可见的显著的颜色变化,这就是金溶胶用于免疫沉淀或称免疫凝集试验的基础。在用同一种还原剂时还原剂用量的多少与制备的金颗粒直径大小成反比，因此根据需要可通过加入不一同种类和剂量的还原剂来调节胶体金颗粒的大小。&lt;/p&gt;&lt;p&gt;在柠檬酸三钠还原法的制备中&lt;/p&gt;&lt;p&gt;金溶胶颗粒的直径和制备时加入的柠檬酸三钠量是密切相关,柠檬酸钠的加入量是影响胶体金颗粒粒径和形貌的主要因素，保持其它条件恒定,仅改变加入的柠檬酸三钠量,’可制得不同颜色的金溶胶,也就是不同粒径的金溶胶。制备100 ml0.01%胶体金溶液,1%柠檬酸钠溶液加入量小于5 ml时,胶体金颗粒的平均直径随柠檬酸钠加入量的增加而减小,当大于5 ml时,胶体金颗粒的平均直径随柠檬酸钠量的增加而增大。在柠檬酸钠加入量为10 ml时,反应体系变得浑浊并出现沉淀。在研究范围内,胶体金颗粒的平均粒径与最大吸收峰波长之间存在直线回归关系。制备的胶体金呈单分散的球形分布,具有较高的生物学活性,适用于胶体金免疫检测。&lt;/p&gt;&lt;p&gt;其动力学原理推测为，在反应初期,加大柠檬酸钠的加入量能加快胶体金颗粒的形核速率,在柠檬酸钠加入量过大时,胶体金的生长速率大于形核速率,因此胶体金粒径会增大。当柠檬酸钠加入量大于2 ml时,制备的胶体金溶液为紫红色的、透明的均匀溶液,通过透射电镜可以观察到胶体金是非团聚态的。而当柠檬酸钠加入量小于2 ml时,制得的是紫褐色且浑浊的体系,透射电镜观察发现胶体金颗粒呈团聚态。这是由于还原剂加入量小于理论值时,反应生成的胶体金颗粒成为其继续长大的种子,因而形成椭圆形等不规则的颗粒体,甚至出现多个颗粒连结在一起的情况。因此,在用柠檬酸钠法制备大于25 nm的100 ml 0.01%胶体金溶液时,较难得到均匀一致的球形胶体金颗粒。&lt;/p&gt;&lt;p&gt;!&lt;a href="https://rainoffallingstar.github.io/Blog/2019-02-14-免疫胶体金电镜技术的操作与原理/1.png" target="_blank" rel="noopener noreferrer"&gt;img&lt;/a&gt;&lt;/p&gt;&lt;p&gt;关于ph值的影响，有文章指出在50mL0．01％氯金酸中，当1％柠檬酸三钠加入量为2.0mL，加热时间为18min，pH值为7时可制备得到颗粒大小在15～20nm、大小均一的单分散性胶体金。pH较小时(pH值＜6．5)，金纳米颗粒的粒度分布比较差，出现了很多团聚的现象。当溶液的pH较大时(pH值＞6．5)，金纳米颗粒的粒度分布比较好，金纳米颗粒的粒径比较均匀，继续增大pH值的话，金纳米颗粒的粒径会随着pH值的增大变大。其中，影响因素在很多方面的综合作用下会有不同的结果。&lt;/p&gt;&lt;p&gt;对于反应时间上，当反应时间小于7 min时,氯金酸被还原得不完全,生成金颗粒的均一性很差；当反应时间超过20 min时,胶体金溶液在长时间的沸腾状态下体系变得不稳定,胶体金溶液容易发生聚沉现象,甚至生成较大的金颗粒沉淀下来。反应时间在7～20 min内对胶体金粒径的影响不大,但是随着沸腾时间的延长,反应体系水分的损失增大,会形成较多的“干点”,因此可确定最佳的反应时间为10 min。&lt;/p&gt;&lt;p&gt;在搅拌速率上，搅拌速率的改变对胶体金颗粒平均粒径的影响不大,但是由于金核的形成速度极快,而它决定了胶体金颗粒的大小和均匀度,因此,迅速搅拌使还原剂与氯金酸充分混合均匀是必要的。搅拌过慢还原剂与氯金酸不能充分混合均匀,生成的胶体金颗粒大小差别大,球形度差,粒径分布较散;但是搅拌过快会使反应溶液飞溅在容器壁上,由于水溶液的蒸发而形成“干点”,从而产生凝聚的胶体金颗粒。&lt;/p&gt;&lt;p&gt;在抗坏血酸的制备上。&lt;/p&gt;&lt;p&gt;在抗坏血酸的加入量上，当氧化剂HAuCl4的浓度为1%时，反应体系中抗坏血酸的浓度为1%时，制备得到的胶体金颗粒较小，且有较好的均一性。&lt;/p&gt;&lt;p&gt;在加热时间上，在胶体金的制备过程中加热可提高胶体金颗粒的均匀度和分散性。未经反应体系加热沸腾得到的溶液的吸收曲线几乎是一条直线没有波峰出现，而当加热沸腾时间达到5min时得到的吸收曲线不仅有较好的波峰而且波形也呈钟形，但过度加热沸腾得到的吸收曲线如加热沸腾7min也没有明显的波峰，说明制备得到的胶体金溶液被破坏。&lt;/p&gt;&lt;p&gt;在试剂上，有文献资料显示，聚乙二醇在胶体金的制备过程中充当稳定剂的角色，PEG4000的添加浓度为0.05%时，制备得到的胶体金颗粒较小且分散度好。&lt;/p&gt;&lt;h5&gt;质量鉴定&lt;/h5&gt;&lt;p&gt;纳米胶体金颗粒作为该检测技术中的重要物质,其粒径大小、粒径分布、形貌及颗粒的分散性直接影响着胶体金溶胶的稳定性和聚沉,从而制约了胶体金免疫结合检测技术的准确度和应用范围，因此有必要在制备后对胶体金进行质量鉴定。其方法主要如下：&lt;/p&gt;&lt;p&gt;电镜观察。利用透射电镜直接观察胶体金颗粒是精确判定金颗粒形态、直径及均匀度的最佳方法。将1滴胶体金滴于预先覆有Formvar并经多聚-L-赖氨酸处理的镍网上,孵浴10 min,用滤纸吸去多余的试剂,室温干燥,然后在透射电镜下观察金颗粒的大小、均匀程度和颗粒的形状及凝集情况。理想的金颗粒是大小基本相等,均匀一致,无椭圆形及多角形的金颗粒存在。&lt;/p&gt;&lt;p&gt;肉眼观察。肉眼观察胶体金的颜色变化也可对其质量进行初步判断,如20～40 nm颗粒大小的胶体金应为樱桃红至酒红色,如果出现蓝色或紫色说明质量很差。&lt;/p&gt;&lt;p&gt;可见光光谱法。胶体金颗粒大多在1～150 nm,其吸收光谱为单一吸收峰,一般在510～550 nm可见光范围之间,吸收波长随金颗粒粒径的增大而增加。金颗粒粒径在2～5 nm时,吸收波长为516 nm;10～20 nm时,主要吸收峰在520 nm左右;20～40 nm颗粒主要吸收峰在530 nm左右;60 nm胶体金溶液主要吸收波长为600 nm。彭剑淳等通过电镜照片中胶体金颗粒均匀程度与可见光区吸收峰宽的比较,发现主峰宽度越小,颗粒越均匀;主峰宽度越大,颗粒越不均匀,会出现椭圆形及多三角形颗粒。&lt;/p&gt;&lt;p&gt;紫外扫描胶体金。400 700 nm处测定其吸光度,判断其颗粒大小范围。&lt;/p&gt;&lt;h4&gt;标记及纯化&lt;/h4&gt;&lt;h5&gt;标记&lt;/h5&gt;&lt;p&gt;所制备的胶体金溶液如出现聚集、混浊、沉淀、颗粒不均,不可用以标记。&lt;/p&gt;&lt;p&gt;由于胶体金颗粒在电解质中不稳定,制备后应立即用大分子(如蛋白质)进行标记(制成免疫胶体金探针)。胶体金标记蛋白受离子浓度、pH值和蛋白量等因素影响,胶体金颗粒对蛋白质的吸附作用取决于pH值。当pH值低于蛋白质等电点时,蛋白质带正电荷,胶体金带负电荷,二者易通过静电结合形成聚合物;当pH大于pI时,蛋白质与胶体金颗粒同带负电荷相互排斥不宜结合在pH值=pI值时,蛋白质溶解度最小,水化程度最小,最容易吸附到疏水的金颗粒表面,但在实际操作中,一般胶体金溶液的pH值调到稍高于标记用蛋白质的PI值,这样蛋白质带正电,结合更稳定,可用0.1mol/LK2CO3或0.1mol/LHCL调节胶体金溶液的pH至选定值,但通常最适反应pH往往需经多次试验才能确定。在调节胶体金的pH值时,胶体金会阻塞pH计的电极,因此可用普通pH试纸先调到目标pH值附近再换用精密pH试纸调节。在操作中应注意,一切溶液中不应含杂质微粒,可用高速离心或微孔滤膜预处理。&lt;/p&gt;&lt;p&gt;对于未知等电点的蛋白质或具有较宽范围等电点的多克隆抗体的最佳pH值的确立可用以下方法:(1)等电聚焦电泳测定;电镜观察,即先将胶体金的pH值调节为一系列的梯度,然后加入蛋白质溶液轻轻搅拌30 min后,将结合物铺于镍网上进行电镜观察,在最适pH值,胶体金-蛋白质结合物不会出现成堆或成丛现象;(2)比色法,将胶体金pH值调节为一系列的梯度,观察其不同pH值下的蛋白质凝絮曲线的变化情况。最适pH值时,凝絮曲线最平滑而且离横轴最接近。&lt;/p&gt;&lt;p&gt;在调节好PH值后，要确定蛋白最佳标记量,然后按计算结果增加10%,即为待标记蛋白质的实际用量。&lt;/p&gt;&lt;p&gt;具体操作如下。&lt;/p&gt;&lt;p&gt;蛋白质的处理&lt;/p&gt;&lt;p&gt;由于盐类成分能影响金溶胶对蛋白质的吸附,并可使溶胶聚沉,故致敏前应先对低离子强度的水透析。必须注意,蛋白质溶液应绝对澄清无细小微粒,否则应先用微孔滤膜或超离心除去。一般情况下应避免磷酸根离子和硼酸根离子的存在,因为它们都可吸附于颗粒表面而减弱胶体金对蛋白质的吸附。Mg 2+也通过影响金标抗体结合位点进而对二者间的结合作用产生干扰。Mg2+最有可能干扰了金标抗体的Fab片段，从而干扰抗原抗体的2+特异性结合。&lt;/p&gt;&lt;p&gt;蛋白质最适用量的选择&lt;/p&gt;&lt;p&gt;可采用下述方法确定蛋白质的最适用量:将待包被的蛋白质贮备液作一系列稀释后,分别取0.1 m l(含蛋白质5 40μg)加到1 m l胶体金溶液中,另设一管不加蛋白质的对照管,5分钟后加入0.1 m l 1%的NaCl溶液,混匀后静置2小时,不稳定的金溶胶将发生聚沉,然后加入0.1m l%PGE20000使凝聚终止,此时溶液由红色变为蓝色或无色,据此可判定溶胶的凝聚情况(较精确的方法是测定溶胶在λmax,即5 1 0 5 5 0n m下的A值),能使胶体金稳定的最适蛋白量再加10%即为最佳包被量。&lt;/p&gt;&lt;p&gt;其他常用方法有:&lt;/p&gt;&lt;p&gt;①分光光度计测定法。将胶体金调至所需的pH值,抗体经透析除盐并经高速离心除去大的聚集物,再用2 mmol/L的硼酸盐缓冲液(pH值9.0)将抗体稀释成一系列的浓度,加入稀释好的胶体金溶液(直径20 nm胶体金,稀释至0.2 mg/ml;5 nm者,稀释至0.75 mg/ml)。摇匀静置2 min,再在其中加入高盐溶液10%NaC1,摇匀,放置5 min后,在580 nm测定OD值。以OD值为纵坐标,蛋白质用量为横坐标做一曲线,取曲线与横轴接近那一点的蛋白质用量即为最小蛋白质稳定量。&lt;/p&gt;&lt;p&gt;包被&lt;/p&gt;&lt;p&gt;在接近并略高于蛋白质等电点的条件下包被是比较合适的,在此情况下蛋白质分子在金颗粒表面的吸附量最大。下述包被步骤最为常见:(1)用0.1 mol/L K 2 C 03或0.l m ol/L H C I调节金溶胶至所需p H。(2)于100m l金溶胶中加入最佳包被量的蛋白质溶液(体积为2 3 m l),搅拌2 5分钟。(3)加入5ml 1%P E G 2 0 0 0 0溶液。&lt;/p&gt;&lt;p&gt;标记好的免疫胶体金溶液还应加入聚乙二醇至终浓度为或牛血清白蛋白至终浓度为作稳定剂&lt;/p&gt;&lt;p&gt;(4)于1 0 0 0 0 1 0 0 0 0 0g离心3 0 6 0分钟(根据粒径大小选择不同离心条件),小心吸去上清液(切忌倾倒)。&lt;/p&gt;&lt;p&gt;另外一种方法是在调好ph值后，在磁力搅拌下,逐滴加入待标记蛋白溶液,混匀30min后继续在磁力搅拌下加入10%BSA(牛血清白蛋白),使其终浓度为0.5%,搅拌混匀15min,再加入5%PEG20000(聚乙二醇20000)至终浓度为0.1%,再持续搅拌混匀15min,最后4℃静置过夜。&lt;/p&gt;&lt;h5&gt;纯化&lt;/h5&gt;&lt;p&gt;标记好的胶体金中往往还含有未结合的蛋白质、未充分标记的胶体金以及标记过程终形成的各种聚合物。因此标记好的胶体金还需经过纯化才能使用,一般纯化方法有离心法和凝胶过滤法等，&lt;/p&gt;&lt;p&gt;超速离心法可根据不同颗粒大小的胶体金溶液选择不同转速，高速或超速离心、洗涤、过滤除菌，以较高浓度4摄氏度保存免疫胶体金备用。如有非特异性凝集则不能再使用。采用离心法时,一般颗粒10nm以上的胶体金可高速离心,颗粒小于10nm的胶体金要用超速离心,如以牛血清蛋白的稳定的胶体金标记羊抗兔I g G，先低速离心(2 0 n m颗粒，用25×g，5nm用4 8 0 0 x g)20m in，弃去聚集的胶体金颗粒的沉淀，然后取上清液以6 0 0 0 0×g(5n m)或14 000 x g(20n m)在4°c离心1h弃去上清，将沉淀以原体积的0．02 M PBS PH8．2(内含1%BSA)溶解,如上重复离心三次，最后将沉淀溶解于原体积十分之一的上述P B S中，以0.5mg/ml的叠氮钠防腐,置4℃保存。&lt;/p&gt;&lt;p&gt;或将沉淀悬浮于一定体积含0.2 0.5mg/ml P E G 2000的缓冲液中,离心洗涤后,再用同一缓冲液恢复,浓度以???左右为宜。&lt;/p&gt;&lt;p&gt;用不同方法制备的胶体金根据颗粒大小需采用不同的离心力和离心时间如以白磷还原法制备的5．9nm胶体一A蛋白,用125000g。抗坏血酸法制备的11.3nm胶体金一A蛋白用5 0 0 0 0 x g,拘摊酸钠还原法制备的15.5 n m胶体金一A蛋白用15000 x g离心45 m in，为了得到颗粒均匀一致的免疫胶体，可根据lS ot所建议的用10 30%蔗糖或甘油溶液作密度梯度离心，分带收集不同大小颗粒的胶体金标记蛋白制剂，此法不仅具有制备量大操作简便和获得率高等优点而且纯化的胶体金标记抗体颗粒直径均一性好。&lt;/p&gt;&lt;p&gt;凝胶过滤法为纯化免疫胶体金的最好方法,过滤的胶体金颗粒比较均匀,不容易凝集,而离心法转速高,时间长,胶体金颗粒沉淀后容易凝集,用凝胶过滤法克服了这一弱点。将浓缩好的免疫胶体金先以1500r/min离心除去大的聚合物,取上清液过柱。可用Sephacryls-400或Sepharose-4B(或6B)装柱,0.02mol/LTBS洗脱，通常用IGg包被的金溶胶洗脱液p H为8.2,以A蛋白包被的金溶胶洗脱液为p H 7.0。,&lt;/p&gt;&lt;p&gt;洗脱液按颜色深浅分管收集。流出液首先流出的是较大颗粒的聚合物或一些杂质呈微黄色，中间流出清彻透明深红色区带就是纯化的金标蛋白，最后流出的略呈黄色的属未标记蛋白组分。&lt;/p&gt;&lt;h4&gt;染色制片方法&lt;/h4&gt;&lt;p&gt;整个免疫反应均在4℃环境中，单抗孵育过夜，免疫染色过程在48孔组织培养板的小孔中进行。并置于摇床轻轻振荡，以确保洗涤彻底和试剂充分混匀。免疫反应前使用蚀刻剂以除去组织表面的树脂，进行脱锇处理。这些措施均有利于保持抗原活性。&lt;/p&gt;&lt;p&gt;免疫电镜技术关键步骤是固定取材、包埋聚合、染色方法。染色方法有三种，包埋前染色、包埋后染色和不包埋染色。免疫胶体金电镜技术涉及到抗原活性的保存，通常情况需在低温环境下操作。&lt;/p&gt;&lt;p&gt;在制片过程中，包埋前标记有抗原保存好,阳性率高,成本低,过程简单等优点。但也导致金标记物难以透过细胞膜进入细胞内。&lt;/p&gt;&lt;p&gt;因此，胶体金免疫电镜技术多采用包埋后染色,此法有敏感性高、重复性好、节约抗体、能同步作多重标记等优点,因此它已成为目前最常用的免疫染色方法.包埋后染色的缺点主要是标本的前期处理常使抗原失活.标本是否新鲜、固定剂和包埋剂的种类、固定时间、聚合温度、蚀刻剂的使用、抗体和金探针的纯度及稀释倍数、孵育时间等均可影响实验结果(包括切片的薄厚)。&lt;/p&gt;&lt;p&gt;包埋后染色的缺点主要是标本的前期处理常使抗原失活.标本是否新鲜、固定剂和包埋剂的种类、固定时间、聚合温度、蚀刻剂的使用、抗体和金探针的纯度及稀释倍数、孵育时间等均可影响实验结果。&lt;/p&gt;&lt;p&gt;这些是可以思考改进的突破点。&lt;/p&gt;&lt;p&gt;在固定液的选择上，要选用合适的固定剂，免疫电镜常用一些特殊的固定液,如高碘酸盐-赖氨酸-多聚甲醛固定液(PLP)、4%多聚甲醛固定液、多聚甲醛加低浓度的戊二醛固定液(PG)及苦味酸-多聚甲醛固定液。其中一般选用较柔和的固定剂，如戊二醛和多聚甲醛，戊二醛对超微结构保存较好，而多聚甲醛对抗原性的保存优于戊二醛，避免使用四氧化饿防止抗原性的丧失，但是由于戊二醛和多聚甲醛只对碳水化合物和蛋白质保存较好对脂类的，保存效果较差,一定程度上影响了细胞内膜系统的清晰度。在实际操作中发现,用l%多聚甲醛加0.01%～0.05%的戊二醛最理想。此固定液不但配置简单,而且效果满意。而对于某些抗原性较强的标本,也可采用4%多聚甲醛加0.05%～0.5%的戊二醛或plp固定。有研究表明戊二醛的浓度会影响抗原的保存，戊二醛浓度在0.05%,多聚甲醛1%时,固定时间不少于3小时,组织大小在1-2mm,组织结构保存良好,同时对抗原影响也不大。&lt;/p&gt;&lt;p&gt;在包埋过程中，包埋剂Epon树脂可用于很多抗原包埋后染色,它需要能使脆弱抗原变性的聚合温度,且黏度大,易吸潮,在一定程度上限制了其使用。Spurr树脂黏度较低,不易吸潮,克服了Epon树脂的某些缺点,但同样需要较高的聚合温度。&lt;/p&gt;&lt;p&gt;常规树脂包埋由于高温聚合常使一些组织抗原性部分或全部丧失，环氧树脂中的环氧基可能改变某些抗原的性质，因而选择采用低温水溶性包埋剂更有利于抗原活性的保存,但对超微结构保存不利，也影响了图像的反差和清晰度。&lt;/p&gt;&lt;p&gt;近年来,水溶性包埋剂已逐渐应用于免疫电镜。这些包埋剂需要特殊的聚合条件,如LowicrylK4M需在低温下脱水,渗透,然后在-35℃以下用紫外光(波长315～360nm)聚合;ILRGold需用蓝光在-25℃聚合。低温可以大大降低脱水剂和包埋剂对蛋白的失活和抽提作用,有利于保持抗原。但因价格较贵,聚合条件要求相对较高,不同程度地限制了水溶性包埋剂的应用。&lt;/p&gt;&lt;p&gt;在一些研究中，采用改良的树脂包埋方法，探究出改良的Spurr树脂作保埋剂，将Spurr树脂应用于免疫电镜研究，样品固定后经常规丙酮逐级脱水，Spurr树脂浸透包埋后，采取室温(20℃)状态聚合，聚合时间为72h。结果得到与常规免疫电镜低温LowicrylK4M相比一致的效果，并且操作步骤简单、Spurr树脂制成的包埋块硬度适中，比LowicrylK4M具有更好的切割性和抗湿性。&lt;/p&gt;&lt;p&gt;ZYQ:我们之前帮钟老师做的就是低温包埋，但是好像温度没有这么低，这里还有疑问，也不清楚钟老师用的低温包埋的包埋剂是什么种类。还要再讨论。&lt;/p&gt;&lt;p&gt;包埋后染色在使用非水溶性包埋剂(如Epon812)时,常需在免疫染色前进行蚀刻,除去组织表面的树脂,以利于抗体和免疫金探针的渗透,常用蚀刻剂为过氧化氢。蚀刻剂的浓度、时间需根据具体情况而定,蚀刻不足不利于抗体和探针渗透,蚀刻过度则会破坏组织结构。近年来,随着固定、包埋等方法的改进和方法敏感性的提高,包埋后染色法的应用范围亦不断扩大,目前已成为最常用的免疫染色方法。不包埋染色即先用冰冻超薄切片机制成超薄切片后进行免疫染色。这一方法避免了包埋前染色和包埋后染色的诸多影响因素,较有发展前途,但一些新的影响因素也有待克服,如冰晶形成影响了超微结构的观察。除固定、包埋、聚合、蚀刻、免疫染色的方法外,胶体金免疫电镜技术尚存在一些影响因素,如胶体金和抗体的稀释度、冲洗程度、溶液pH值、切片厚度、金颗粒的大小、非特异染色、孵育时间等。抗体和胶体金的稀释度要适中,以保证在背景清晰的前提下获得较强的阳性信号,可采用方阵滴定法测定。溶液的pH值要有利于保护抗原和抗体的活性,冲洗要彻底,切片厚度以60～80nm为宜。一般认为小颗粒的胶体金能更多地积聚于抗原所在部位,但直径小于3nm的金颗粒不易被发现,可用免疫金银增强法提高其敏感性。孵育应在温盒中进行,大于l2h为宜。目前多主张孵育前加用0.5%～1%卵白蛋白、1%～2%牛血清白蛋白或正常羊血清,以消除非特异染色和背景染色。&lt;/p&gt;&lt;p&gt;在染色过程中，有研究表明，抗体的稀释液采用0.05M Tris,0.15M NaCL,pH7.0,含0.05%聚乙二醛(PEG)和0.05%NaN3。其中PEG可以使金颗粒分散,提高蛋白质间的结合力,有利于一抗与二抗的结合,且比血清和BS A作为稀释液时效果好。一抗与二抗的稀释比例根据所标记抗原的情况而定。此外，Trit on x-100加入到0.05M Tris缓冲液中作为冲洗液,可以提高胶体金的穿透力,同时T ri to n x-100又是一种表面活性剂,在2抗标记后用含有0.05T rit on x-100的T ri s缓冲液浸洗30mi n,可以清除一部分非特异性反应的胶体金,使切片中组织形态清晰,提高样品的反差,而过量浓度的Trit on和过长时间的浸洗会破坏组织中的膜结构。在另外一篇文献中也指出，T rit on x-100存在不足之处，其使用会破坏膜结构，其作用与切片厚度相关。&lt;/p&gt;&lt;h4&gt;应用&lt;/h4&gt;&lt;p&gt;免疫胶体金电镜技术广泛运用在各种蛋白质的定位等研究上，主要包括:细胞悬液或单层细胞表面抗原的检测;单层细胞内抗原的检测;组织切片中抗原的检测。谢希贤等利用免疫胶体金电镜技术对对虾白斑综合症病毒结构蛋白质VP24进行定位研究,结果表明该蛋白可能存在于病毒的囊膜和核衣壳之间。&lt;/p&gt;&lt;p&gt;对于胶体金，直径为3nm胶体金均可用作电镜水平的标记物,多用于15nm单一抗原的检测,而直径15nm多用于检测量较多的感染细胞。&lt;/p&gt;&lt;p&gt;在实际操作中，为了放大信号，有多种方法。&lt;/p&gt;&lt;p&gt;用银加强蛋白A一金探针染色法:这是一种能增强较小金颗粒可见性的简便方法将树脂包,埋超薄切片置于含硝酸银的照相显影液中在物理显影过程中金颗粒被金属银包裹具有放大作用因而图象更加清晰&lt;/p&gt;&lt;p&gt;双重或多重标记法:主要是利用两种或两种以上大小不等的金颗粒来标记两种或多种抗体、从而在同一张组织细胞切片上同时显示两种或多,、种不同的抗原成分具有抗原定位精确相互关系、清晰等优点便于了解同一组织细胞内不同抗原。分子间的相互位置关系它包括使用不同种属第一抗体法标记抗原法蛋白A法及双面染色法等&lt;/p&gt;&lt;p&gt;使用生物素化探针进行原位杂交法目前:原位杂交已成为细胞制备物定位D N A或R N A序列,的标准方法在透射电镜水平己应用胶体金于原位杂交中即以生物素标记的多聚核昔酸为探针,与用低温包埋剂包埋样品的超薄切片进行杂交杂交后之样品再与用抗生素抗体及胶体金标记的第二,抗体起反应最后在电镜下观察金颗粒的分布情况此法快速特异在染色质和染色体上可进行,DN A序列超微结构水平的精确定位可用于哺乳动物组织成长和相关疾病研究以及病毒基因型。&lt;/p&gt;&lt;p&gt;在胶体金标记技术不断发展过程中，出现了标记抗球蛋白抗体的间接免疫金染色法应用在普通光镜下检测淋巴细胞表面膜免疫球蛋白，光镜水平的免疫金染色免疫金银染色等，孟刚利用碱性磷酸酶与免疫金银混合对乳腺癌几种肿瘤相关抗原进行双重染色，颜色对比鲜明敏感性高减少了非持异性染色，染色背景清晰。杨盛华等成功地应用胶体金免疫电镜技术检测犬传染性肝炎病毒，程安国等应用胶体金免疫电镜技术检测鸭肝炎病毒获得成功,蔡树涛等将免疫胶体金标记与电镜负染色技术相结合，可以同时显示体外组装的细胞管架纤维的微细结构和蛋白属性，该法弥补了电镜负染色方法和免疫印迹法的不足，刘云霞等利用电镜免疫胶体金定位水稻内生细菌，首次在电镜水平以免疫胶体金染色定位了水稻内生细菌的优势菌种巨大芽抱杆菌，储迅涛等用免疫胶体金定量测定尿微量白蛋白的研究以金溶胶颗粒作为免疫配基的载体，建立了胶体金免疫凝集抑制试验以定量测定尿微量白蛋白。&lt;/p&gt;&lt;h4&gt;讨论&lt;/h4&gt;&lt;p&gt;免疫胶体金电镜技术是一项相对来说比较成熟、易于操作的技术，胶体金免疫电镜技术可定位观察、定性分析、多重标记,了解某种抗原的作用机制以及不同抗原分子之间的关系，其影响因素甚多,关键在于如何能在保存良好的超微结构的前提下保护好抗原的活性，以及细胞膜的透过性和胶体金的稳定和纯度。同时，金颗粒本身的性质决定了该技术存在着一些问题,如渗透能力相对较差，胶体溶液的稳定性较差等。&lt;/p&gt;&lt;p&gt;目前胶体金的研究方向主要在于,通过放大特异抗原抗体的反应信号、增强金标记物的显色效果,来提高检测灵敏度,有些胶体金检测试验的敏感度都可达到1 ng/mL或更低水平;单纯以超过正常参考值上限为阳性,有时不能满足检测的需要,而实现半量或定量检测尚待进一步研究;此外,针对检测对象的不同,在同一膜上固定多种反应物,一次测定可同时得到多个待检物的检测结果,可以实现高通量检测,该研究方向已经有了突破。&lt;/p&gt;&lt;p&gt;在针对免疫胶体金电镜技术的改良上面，目前更多着眼与保证在染色前组织具有保存完好的超微结构和抗原活性，主要在操作上进行了一些改进，如：在保证标本新鲜的前提下,采用多聚甲醛加低浓度戊二醛的混合固定液,固定时间适中,免疫反应前使用蚀刻剂以除去组织表面的树脂,孵育过程在温盒中进行,这些措施均有利于保持抗原活性。整个免疫染色过程在48孔组织培养板的小孔中进行,并置于摇床轻轻振荡,以确保洗涤彻底和试剂充分混匀。也有通过银加强的方式增强光镜下观察的信号的方法。&lt;/p&gt;&lt;p&gt;在一些对直肠癌和结肠癌的标记研究中，认为，plp液对细胞表面的固定效果较多聚甲醛好，plp液中过碘酸氧化糖类产生醛基，自由醛基经赖氨酸作用，形成醛基间分子间作用，可稳定抗原。又认为，标本固定后会残留有自由醛基，醛基与抗体赖氨酸残基相共价作用，会导致难清洗的非特异性染色，因此在固定后应将标本漂洗3h以上。&lt;/p&gt;&lt;p&gt;未来在探索免疫胶体金的改进上，对于脑组织来说，依然需要从胶体金的制备，标记染色纯化、制片包埋等方面根据脑组织结构和组织学特征从保存脑组织超微结构和增加探针灵敏度两个角度进行思考和研究。&lt;/p&gt;&lt;h4&gt;引用&lt;/h4&gt;&lt;p&gt;[1]王笑笑,林洪,隋建新,曹立民.镁离子对免疫胶体金检测中生物大分子相互作用的影响[J].食品科技,2018,43(07):298-306.&lt;/p&gt;&lt;p&gt;[2]范梦春.分析免疫胶体金技术在医学检验领域的应用与进展[J].现代医学与健康研究电子杂志,2018,2(02):129.&lt;/p&gt;&lt;p&gt;[3]宋翔,王云贵,黄登宇.硝苯地平免疫胶体金探针的制备[J].食品安全质量检测学报,2016,7(08):3350-3354.&lt;/p&gt;&lt;p&gt;[4]赵善廷.高压快速冷冻电镜技术及在神经生物学研究中的应用[A].中国畜牧兽医学会动物解剖及组织胚胎学分会.中国畜牧兽医学会动物解剖及组织胚胎学分会第十九次学术研讨会论文集[C].中国畜牧兽医学会动物解剖及组织胚胎学分会:中国畜牧兽医学会,2016:1.&lt;/p&gt;&lt;p&gt;[5]章小雨,戴晓爱.免疫胶体金技术在医学检验领域的应用与进展[J].实验与检验医学,2014,32(03):279-281.&lt;/p&gt;&lt;p&gt;[6]田飞焱,欧阳敏,刘荭,吕建强.免疫胶体金技术及其在水生动物疫病诊断上的应用[J].江西水产科技,2009(03):6-9.&lt;/p&gt;&lt;p&gt;[7]张琳,张璐,朴英杰.应用改良的免疫胶体金包埋方法检测p38蛋白激酶在Raw细胞中的定位[J].中国临床解剖学杂志,2007(05):560-563.&lt;/p&gt;&lt;p&gt;[8]尧蒙.禽流感免疫胶体金快速检测技术研究[D].西南农业大学,2005.&lt;/p&gt;&lt;p&gt;[9]王清,吴振廷,王学林,唐庆峰,金涛,林华峰.免疫胶体金标记技术及其在植物保护上的应用前景[J].安徽农业科学,2005(03):485-487.&lt;/p&gt;&lt;p&gt;[10]田景花,张红,李明,王梅.黄瓜幼叶细胞中钙调素的免疫胶体金定位[J].园艺学报,2003(06):728-730.&lt;/p&gt;&lt;p&gt;[11]宋雁南,张莉,迟月明,李红,金晓明,钟志玖.免疫胶体金在标记超薄切片中抗原的几点体会[J].四川解剖学杂志,2001(02):113.&lt;/p&gt;&lt;p&gt;[12]翟雷,卜晓萍,潘萍,沈心亮.免疫胶体金试剂的制备及应用胶体金免疫电镜技术检测戊型肝炎病毒[J].微生物学免疫学进展,1996(03):17-19.&lt;/p&gt;&lt;p&gt;[13]常国权,杨盛华,邹啸环.免疫胶体金探针技术研究进展[J].中国兽医科技,1994(12):45-46.&lt;/p&gt;&lt;p&gt;[14]任先平.胶体金标记抗体技术[J].免疫学杂志,1989(01):62-65.&lt;/p&gt;&lt;p&gt;[15]曾宪智,蔡青,高尔静,徐群渊.单侧损伤大鼠黑质纹状体多巴胺能通路新纹状体多巴胺受体在光镜、电镜下的变化[J].解剖学报,2009,40(05):702-708.&lt;/p&gt;&lt;p&gt;[16]Ferens G.Controlled nucleation for the regulation of the particle size in monodisperse gold suspensions[J].Nature(London)Phys.Sci.,1973,241(105):20.&lt;/p&gt;&lt;p&gt;[17]Schmitt J,Machtle P,Eck D,et al.Preparation and optical properties of colloidal gold monolayers[J].LANGMUIR,1999,15(9):3256.&lt;/p&gt;&lt;p&gt;[18]皮至明.免疫学及免疫检验技术［M］.第一版.北京：高等教育出版社，2005年.&lt;/p&gt;&lt;p&gt;[19]贺昕,熊晓东,梁敬博,李治宇,张曦.免疫检测用纳米胶体金的制备及粒径控制.稀有金属2005年8月.第29卷第4期。&lt;/p&gt;&lt;p&gt;[20]聂政，陈佳，付晨星，刘丽，施冰心,李红梅.免疫检测用的免疫胶体金制备工艺的优化研究.食品工业科技Vol.30,No.12,2009.&lt;/p&gt;&lt;p&gt;[21]萨仁高娃,其木格,吴岩.胶体金免疫电镜技术及其应用.内蒙古医学院学报2007年10月第29卷第5期&lt;/p&gt;&lt;p&gt;[22]MountSL,DikerrnanJD,TaatjesDJ.ExtrarenalWilms’tumor:anultrastructuralandimmunoelectronmicroscopic casereport[J].UltrastructPathol,1996;20(2):155-165&lt;/p&gt;&lt;p&gt;[23]Faulk WP,et al,Immunochem 1971;8:1081&lt;/p&gt;&lt;p&gt;[24]Faulk WP,et al.Nature New Biol 1971;231;101&lt;/p&gt;&lt;p&gt;[25]JW Slot et al;Eur.J.Cell Biol,38:87,1985&lt;/p&gt;&lt;p&gt;[26]Geoghegan WD et al;J Immunolm Metthods,45:183.1981&lt;/p&gt;&lt;p&gt;[27]Faulk WP,et al,Immunochem 1971;8:1081&lt;/p&gt;&lt;p&gt;[28]Faulk WP,et al.Nature New Biol 1971;231;101&lt;/p&gt;&lt;p&gt;[29]Rmano El,et al.Histoical aspects,Academic Press,Amsterdam New Oxford,1984&lt;/p&gt;&lt;p&gt;[30]Goodman SL,et al;Scanning Electron Microscopy.Ⅲ:619,1979.SEM Inc.AMF O,Hare IL 60666,USA&lt;/p&gt;&lt;p&gt;[31]JW Slot et al;Eur.J.Cell Biol,38:87,1985&lt;/p&gt;&lt;p&gt;[32]Slot JW et al;J.Cell Biol,90:533,1981&lt;/p&gt;&lt;p&gt;[33]吕伸,王杉,常文保.胶体金免疫分析方法的进展[J].武汉大学学报(自然科学版),2000(04):393-399.&lt;/p&gt;&lt;p&gt;[34]梁敬博,贺昕,熊晓东,张曦,吴聪.pH值对胶体金制备的影响[J].稀有金属,2005(04):468-470.&lt;/p&gt;&lt;p&gt;[35]李卫玲,叶阳,周有祥,王小红.柠檬酸三钠法制备胶体金的工艺条件优化[J].湖北农业科学,2010,49(10):2529-2532.&lt;/p&gt;&lt;p&gt;[36]孔繁德,黄印尧,赖清金.免疫胶体金技术及其发展前景[J].福建畜牧兽医,2002(S1):11-12+14.&lt;/p&gt;&lt;p&gt;[37]陈凤梅,李娟,曲原君,牛钟相.免疫胶体金技术的应用及研究进展[J].中国兽药杂志,2004(08):33-35.&lt;/p&gt;&lt;p&gt;[38]周雅伟,杨超舜,方振华,赵晓鹏.合成工艺对水相合成金纳米颗粒的影响[J].功能材料,2011,42(07):1276-1280.&lt;/p&gt;&lt;p&gt;[39]李卫玲,叶阳,周有祥,王小红.柠檬酸三钠法制备胶体金的工艺条件优化[J].湖北农业科学,2010,49(10):2529-2532.&lt;/p&gt;&lt;p&gt;[40]朱文钏,孔繁德,林祥梅,徐淑菲,吴德峰,韩雪清,吴绍强.免疫胶体金技术的应用及展望[J].生物技术通报,2010(04):81-87.&lt;/p&gt;&lt;p&gt;[41]孔繁德,黄印尧,赖清金.免疫胶体金技术及其发展前景[J].福建畜牧兽医,2002(S1):11-12+14.&lt;/p&gt;&lt;p&gt;[42]颜永碧,陆月良,夏愿耀.实质性组织包埋前免疫金电镜标记方法[J].第二军医大学学报,1993(03):273-274.&lt;/p&gt;&lt;h4&gt;Acknowledgements&lt;/h4&gt;&lt;p&gt;Papers collected and analysed by ZYQ,LDY,ZYH.&lt;/p&gt;&lt;p&gt;Reading reports from ZYQ,LDY.&lt;/p&gt;&lt;p&gt;Recheck&amp;amp;edition&amp;amp;addition by ZYH.&lt;/p&gt;&lt;p&gt;Thanks for Polina Gagarina’s songs,for the songs give me so much power to come a long way.&lt;/p&gt;&lt;p&gt;Valentine’s Day.&lt;/p&gt;&lt;h4&gt;附录：参考实例&lt;/h4&gt;&lt;h5&gt;免疫组织化学染色&lt;/h5&gt;&lt;p&gt;灌注固定:模型大鼠用水合氯醛深度麻醉后,升主动脉灌注37℃300ml 0.01mol L PBS,接着用400ml冷的(4℃)含4%多聚甲醛和0.35%戊二醛的0.1mol L PB灌注。取鼠脑,后固定于4%多聚甲醛中4℃过夜。&lt;/p&gt;&lt;p&gt;振荡切片(厚50μm),黑质每隔5张取1张,纹状体每12张取1张。&lt;/p&gt;&lt;p&gt;各取5套切片,各套切片分别用于酪氨酸羟化酶(TH)、D1R和D2R免疫组织化学染色。含纹状体和黑质的冠状切片收集在0.1mol L PBS中。&lt;/p&gt;&lt;p&gt;用SP方法进行免疫组织化学漂片染色:入3%过氧化氢消除内源性过氧化物酶10min;再用含0.3%Triton-X100的0.02mol L PBS(PBST)配制的5%牛奶室温30min;分别入一抗1∶1 000兔抗D1多巴胺受体IgG、1∶200羊抗D2多巴胺受体IgG(Santa Cruz产品)和1∶10 000小鼠抗TH(Sigma公司),4℃孵育48h;再分别入1∶300生物素化的羊抗兔IgG、兔抗羊IgG和羊抗小鼠IgG室温孵育3h;再入1∶300链霉素卵蛋白HRP室温3h(以上试剂均用PBST配制);再入0.05mol L Tris-HCl水溶液(以上每步之间均用PBST清洗3次,每次10min);最后入含0.05%二氨基联苯胺(DAB)(Sigma公司)和0.01%过氧化氢显色5～10min(Tris-HCl缓冲液配制)。裱片,自然风干,二甲苯透明,中性树脂封片。光学显微镜观察、摄片和分析。&lt;/p&gt;&lt;h5&gt;D1R、D2R包埋前胶体金免疫电镜&lt;/h5&gt;&lt;p&gt;取以上两套切片中含纹状体的切片,入30%蔗糖(含0.1%NaN 3的0.1mol L PBS)至沉底,放入异戊烷在液氮中冻存20s后室温融解,以增加免疫试剂的渗透性。切片经0.02mol L PBS洗3次,入0.1%用0.02mol L PBS新鲜配制的硼化氢(sodium borohydride,NaBH4)10min,经PBS洗后,入含5%山羊血清(标记D2R用兔血清)、5%牛血清白蛋白(BSA)、0.1%fish gelatin(Aurion,the Netherlands)PBS室温1h以抑制非特异性抗体结合。分别入一抗1∶500兔抗D1多巴胺受体IgG、1∶200羊抗D2多巴胺受体IgG,用0.1%BSAc(Aurion)0.02mol L PBS配制,4℃孵育48h。经PBS洗5min×6次,入二抗1∶50超小金颗粒(0.8nm)的山羊抗兔IgG和兔抗山羊IgG(Aurion),用与配制一抗同样的液体配制,室温孵育24h。再用PBS洗5min×6次,用2%戊二醛(0.1 mol L PB配制)固定10min,0.1mol L PB洗5min×3次,再用纯净水洗5min×6次,最后用新配制的银增强液(Aurion试剂盒)暗处20℃1h,用0.1mol L PB洗2min×5次,进行电镜包埋。1%S2 O4(0.1mol L PB配制)作用45min,0.01mol L PBS洗5min×4次,50%、70%、85%、90%、95%酒精各10min×2次,100%酒精、丙酮各15min×2次。1∶1丙酮树脂4h,挥发过夜,树脂平板包埋,37℃24h,60℃48h。&lt;/p&gt;&lt;p&gt;电镜取材:每只动物选择4张含背侧纹状体切片,每张切片左右纹状体背侧各取约1mm×1mm相对应组织,超薄切片(70nm),在组织深约4μm处取1张超薄切片,乙酰铀和醋酸铅负染,JEOL1230电镜(日本)观察,美国Gatan公司792型图像输出系统摄片。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;h3&gt;免疫胶体金电镜技术的操作与原理&lt;/h3&gt;&lt;h3&gt;Review：免疫胶体金电镜技术的操作与原理&lt;/h3&gt;&lt;h4&gt;Abstract&lt;/h4&gt;&lt;p&gt;免疫胶体金技术是80年代继三大标记技术(荧光素、放射性同位素和酶)后发展起来的固相标记免疫测定技术。最初该方法仅用于免疫电镜技术，现在已经发展到被动凝集试验、光镜染色、免疫印迹、免疫斑点渗滤法以及免疫层析技术等。&lt;/p&gt;&lt;p&gt;胶体金是用于免疫电镜的最佳标记物,因为它呈球形,非常致密,在电镜下具有强烈反差,容易追踪在电镜下检出抗原抗体复合物。胶体金免疫电镜技术已成为目前最常用的免疫细胞化学方法之一,它具有灵敏度高、特异性强、定位精确等优点,同时它还可以对抗原进行定性、定量、定位的分析与观察。应用免疫金双重或多重标记法,可将形态、功能和结构的研究融为一体,有助于了解同一组织或细胞内不同分子间的相互关系,以及它们的合成、分泌、转运等代谢过程。&lt;/p&gt;&lt;h4&gt;基本原理&lt;/h4&gt;&lt;p&gt;氯金酸(HAuCl4)在还原剂作用下,可聚合成一定大小的金颗粒,在碱性条件下,胶体金颗粒由一个基础的晶核及其包围在外的双离子层构成,金颗粒表面所包围的阴性电荷层,叫做zeta电位,通过静电排斥作用使悬浮液保持稳定,而成为稳定的胶体体系,故称胶体金。胶体金颗粒散在,直径从几纳米到几十纳米不等,由于不同直径的胶体金的光散射各异,所以其溶胶颜色的深浅相应发生显著的变化,这就是胶体金用于被动凝集试验的基础。&lt;/p&gt;&lt;p&gt;胶体金标记实质上是蛋白质等高分子被吸附到胶体金颗粒表面的包被过程,吸附机理可能是胶体金颗粒表面负电荷,与蛋白质的正电荷基团因静电吸附而形成牢固结合。用还原法可以方便地从氯金酸制备各种不同粒径、也就是不同颜色的胶体金颗粒,这种球形的粒子对蛋白质有很强的吸附功能,可以与葡萄球菌A蛋白、免疫球蛋白、毒素、糖蛋白、酶、抗生素和激素等多种物质非共价结合,从而使其成为免疫反应的优良标记物，反应最终形成胶体金-抗原-抗体复合物。&lt;/p&gt;&lt;p&gt;免疫胶体金颗粒具有高电子高密度的特性,在显微镜下金标蛋白结合处,可见黑褐色颗粒,当这些标记物在相应的配体处大量聚集时,肉眼可见红色或粉红色斑点,因而可用于定性或半定量的快速免疫检测。在光镜下，金颗粒还可催化银离子还原成金属银,因此在胶体金免疫测定时加入银染色液,能放大反应信号,大大增加测定的灵敏度。在电镜水平,胶体金颗粒具有很高的电子密度,大小颗粒清晰可辨,且不影响对原有超微结构的观察，通过计量被检部分金颗粒,可以对被检抗原或抗体进行免疫定量研究，采用不同直径的金标抗体进行免疫双重或多重标记染色,能在一张电镜图片上同时显示两种或多种被检测物质的组织或细胞的超微结构，这说明其为电镜下较为理想的免疫标记物。&lt;/p&gt;&lt;h4&gt;胶体金制备&lt;/h4&gt;&lt;p&gt;胶体金的制备一般采用化学还原法,常用的还原剂有柠檬酸钠、鞣酸、抗坏血酸、白磷、硼氢化钠等,可以方便地从氯金酸溶液中制备不同粒径(5～150nm)的胶体金颗粒。胶体金的粒径不同会呈现不同的颜色,粒径大小与溶胶颜色的对应情况如下:5～20n m之间,呈葡萄酒红色;20～40 n m之间液体为深红色;60n m金溶液呈紫红色。常用的制备方法有白磷还原法、抗坏血酸还原法、柠檬酸三钠还原法、鞣酸-柠檬酸三钠还原法、乙醇超声波还原法和硼氢化钠还原法等。其中,以鞣酸-柠檬酸三钠还原法最为常用,它可根据需要制备出多种不同直径的胶体金颗粒,适用于多重标记。也有文章称，制备过程大部分采用柠檬酸钠还原法。&lt;/p&gt;&lt;p&gt;许多研究表明如制备金颗粒直径在的胶体金溶液用白磷或抗坏血酸还原氯金酸，如制备大于直径的金颗粒的胶体金则用构椽酸三钠还原氯金酸&lt;/p&gt;&lt;p&gt;下面介绍最常用的制备方法及注意事项。&lt;/p&gt;&lt;p&gt;玻璃容器的清洁:玻璃表面少量的污染会干扰胶体金颗粒的生成,一切玻璃容器应绝对清洁,玻璃表面少量的污染会干扰胶体金颗粒的生成,产生凝集颗粒,因此玻璃器皿用前要经过泡酸、超声洗涤处理,并用蒸馏水、超纯水依次冲洗浸泡,然后烘干备用。专用的清洁器皿以第一次生成的胶体金稳定其表面,弃去后以双蒸水淋洗,可代替硅化处理。&lt;/p&gt;&lt;p&gt;试剂、水质和环境:氯金酸极易吸潮,对金属有强烈腐蚀性,不能使用金属药匙,避免接触天平称盘。其1帕水溶液在4℃可稳定数月不变。实验用水一般用双蒸水。实验室中的尘粒要尽量减少,否则实验的结果将缺乏重复性。金颗粒容易吸附于电极上使之堵塞,故不能用p H电极测定金溶胶的p H值。为了使溶液p H值不发生改变,应选用缓冲液容量足够大的缓冲系统,一般采用柠檬酸磷酸盐(p H3一8)、Tris-HC I(PH5.8一8.3)和硼酸-氮氧化钠(P H 8.5一10.3)等缓冲体系。但应往意不应使缓冲液浓度过高而使金溶胶自凝④。&lt;/p&gt;&lt;p&gt;柠檬酸三钠还原法制备金溶胶:Frens介绍的方法最为常用。取0.01%氯金酸水溶液100ml加热至沸腾,搅动下准确加入1%肠柠檬酸三钠水溶液0.7 m l,金黄色的氯金酸水溶液在2分钟内变为紫红色,继续煮沸15分钟,至溶液颜色稳定不变(溶液颜色由浅黄色逐渐变为浅蓝色、蓝色、蓝紫色、紫红色，最后变为澄清透明的酒红色),冷却后以蒸馏水恢复到原体积,如此制备的金溶胶其可见光区最高吸收峰在5 3 5mn,&lt;/p&gt;&lt;p&gt;柠檬酸三钠–鞣酸混合还原剂:用此混合还原剂可以得到比较满意的小颗粒金溶胶,操作方法如下:取4ml1%的柠檬酸三钠，加入0 5ml1%的鞣酸,0 5ml 25mml/L的K2CO3(体积与鞣酸加入量相等),以双蒸水补足至溶液最终体积为20 m l，加热至60℃取1ml1%的HAuCl6,加于79ml的双蒸水中，水浴加热至60℃，然后迅速将柠檬酸-鞣酸溶液加入，于此温度下保持一段时间，待溶液颜色变成深红色(约0.5 1小时后)，将溶液加热至沸腾，保持沸腾5分钟即可。改变鞣酸的加入量，制得的胶体颗粒大小不同。⑤&lt;/p&gt;&lt;p&gt;白磷还原法：在120ml的双蒸水中加入1.5ml的1%的氯金酸和1.4ml 0.1mol/LK2CO3,然后加入1ml五分之一饱和度的白磷丙醚溶液，混匀后室温放置15分钟，在回流下煮沸直到红褐色转变为红色。此法制得的胶体金颗粒约为6nm并有很好的均匀度。(白磷、丙醚均易燃，普通实验室小心采用)&lt;/p&gt;&lt;p&gt;抗坏血酸还原法：取10%HAuCl4水溶液10ml,0.2mol/L的k2CO3 14ml以及25ml的双蒸水置于烧杯内混匀，在冰浴条件下搅拌加入一定量的抗坏血酸水溶液，当溶液呈现紫红色，加双蒸水至100ml，加热至溶液变成橘红色为止。&lt;/p&gt;&lt;p&gt;胶体金制备方法中影响因素主要有pH、还原剂加入量、加热时间。金溶胶的光散射性与溶胶颗粒的大小密切相关,一旦颗粒大小发生变化,光散射也随之发生变异,产生肉眼可见的显著的颜色变化,这就是金溶胶用于免疫沉淀或称免疫凝集试验的基础。在用同一种还原剂时还原剂用量的多少与制备的金颗粒直径大小成反比，因此根据需要可通过加入不一同种类和剂量的还原剂来调节胶体金颗粒的大小。&lt;/p&gt;&lt;p&gt;在柠檬酸三钠还原法的制备中&lt;/p&gt;&lt;p&gt;金溶胶颗粒的直径和制备时加入的柠檬酸三钠量是密切相关,柠檬酸钠的加入量是影响胶体金颗粒粒径和形貌的主要因素，保持其它条件恒定,仅改变加入的柠檬酸三钠量,’可制得不同颜色的金溶胶,也就是不同粒径的金溶胶。制备100 ml0.01%胶体金溶液,1%柠檬酸钠溶液加入量小于5 ml时,胶体金颗粒的平均直径随柠檬酸钠加入量的增加而减小,当大于5 ml时,胶体金颗粒的平均直径随柠檬酸钠量的增加而增大。在柠檬酸钠加入量为10 ml时,反应体系变得浑浊并出现沉淀。在研究范围内,胶体金颗粒的平均粒径与最大吸收峰波长之间存在直线回归关系。制备的胶体金呈单分散的球形分布,具有较高的生物学活性,适用于胶体金免疫检测。&lt;/p&gt;&lt;p&gt;其动力学原理推测为，在反应初期,加大柠檬酸钠的加入量能加快胶体金颗粒的形核速率,在柠檬酸钠加入量过大时,胶体金的生长速率大于形核速率,因此胶体金粒径会增大。当柠檬酸钠加入量大于2 ml时,制备的胶体金溶液为紫红色的、透明的均匀溶液,通过透射电镜可以观察到胶体金是非团聚态的。而当柠檬酸钠加入量小于2 ml时,制得的是紫褐色且浑浊的体系,透射电镜观察发现胶体金颗粒呈团聚态。这是由于还原剂加入量小于理论值时,反应生成的胶体金颗粒成为其继续长大的种子,因而形成椭圆形等不规则的颗粒体,甚至出现多个颗粒连结在一起的情况。因此,在用柠檬酸钠法制备大于25 nm的100 ml 0.01%胶体金溶液时,较难得到均匀一致的球形胶体金颗粒。&lt;/p&gt;&lt;p&gt;!&lt;a href="https://blog.rainoffallingstar.com/Blog/2019-02-14-免疫胶体金电镜技术的操作与原理/1.png" target="_blank" rel="noopener noreferrer"&gt;img&lt;/a&gt;&lt;/p&gt;&lt;p&gt;关于ph值的影响，有文章指出在50mL0．01％氯金酸中，当1％柠檬酸三钠加入量为2.0mL，加热时间为18min，pH值为7时可制备得到颗粒大小在15～20nm、大小均一的单分散性胶体金。pH较小时(pH值＜6．5)，金纳米颗粒的粒度分布比较差，出现了很多团聚的现象。当溶液的pH较大时(pH值＞6．5)，金纳米颗粒的粒度分布比较好，金纳米颗粒的粒径比较均匀，继续增大pH值的话，金纳米颗粒的粒径会随着pH值的增大变大。其中，影响因素在很多方面的综合作用下会有不同的结果。&lt;/p&gt;&lt;p&gt;对于反应时间上，当反应时间小于7 min时,氯金酸被还原得不完全,生成金颗粒的均一性很差；当反应时间超过20 min时,胶体金溶液在长时间的沸腾状态下体系变得不稳定,胶体金溶液容易发生聚沉现象,甚至生成较大的金颗粒沉淀下来。反应时间在7～20 min内对胶体金粒径的影响不大,但是随着沸腾时间的延长,反应体系水分的损失增大,会形成较多的“干点”,因此可确定最佳的反应时间为10 min。&lt;/p&gt;&lt;p&gt;在搅拌速率上，搅拌速率的改变对胶体金颗粒平均粒径的影响不大,但是由于金核的形成速度极快,而它决定了胶体金颗粒的大小和均匀度,因此,迅速搅拌使还原剂与氯金酸充分混合均匀是必要的。搅拌过慢还原剂与氯金酸不能充分混合均匀,生成的胶体金颗粒大小差别大,球形度差,粒径分布较散;但是搅拌过快会使反应溶液飞溅在容器壁上,由于水溶液的蒸发而形成“干点”,从而产生凝聚的胶体金颗粒。&lt;/p&gt;&lt;p&gt;在抗坏血酸的制备上。&lt;/p&gt;&lt;p&gt;在抗坏血酸的加入量上，当氧化剂HAuCl4的浓度为1%时，反应体系中抗坏血酸的浓度为1%时，制备得到的胶体金颗粒较小，且有较好的均一性。&lt;/p&gt;&lt;p&gt;在加热时间上，在胶体金的制备过程中加热可提高胶体金颗粒的均匀度和分散性。未经反应体系加热沸腾得到的溶液的吸收曲线几乎是一条直线没有波峰出现，而当加热沸腾时间达到5min时得到的吸收曲线不仅有较好的波峰而且波形也呈钟形，但过度加热沸腾得到的吸收曲线如加热沸腾7min也没有明显的波峰，说明制备得到的胶体金溶液被破坏。&lt;/p&gt;&lt;p&gt;在试剂上，有文献资料显示，聚乙二醇在胶体金的制备过程中充当稳定剂的角色，PEG4000的添加浓度为0.05%时，制备得到的胶体金颗粒较小且分散度好。&lt;/p&gt;&lt;h5&gt;质量鉴定&lt;/h5&gt;&lt;p&gt;纳米胶体金颗粒作为该检测技术中的重要物质,其粒径大小、粒径分布、形貌及颗粒的分散性直接影响着胶体金溶胶的稳定性和聚沉,从而制约了胶体金免疫结合检测技术的准确度和应用范围，因此有必要在制备后对胶体金进行质量鉴定。其方法主要如下：&lt;/p&gt;&lt;p&gt;电镜观察。利用透射电镜直接观察胶体金颗粒是精确判定金颗粒形态、直径及均匀度的最佳方法。将1滴胶体金滴于预先覆有Formvar并经多聚-L-赖氨酸处理的镍网上,孵浴10 min,用滤纸吸去多余的试剂,室温干燥,然后在透射电镜下观察金颗粒的大小、均匀程度和颗粒的形状及凝集情况。理想的金颗粒是大小基本相等,均匀一致,无椭圆形及多角形的金颗粒存在。&lt;/p&gt;&lt;p&gt;肉眼观察。肉眼观察胶体金的颜色变化也可对其质量进行初步判断,如20～40 nm颗粒大小的胶体金应为樱桃红至酒红色,如果出现蓝色或紫色说明质量很差。&lt;/p&gt;&lt;p&gt;可见光光谱法。胶体金颗粒大多在1～150 nm,其吸收光谱为单一吸收峰,一般在510～550 nm可见光范围之间,吸收波长随金颗粒粒径的增大而增加。金颗粒粒径在2～5 nm时,吸收波长为516 nm;10～20 nm时,主要吸收峰在520 nm左右;20～40 nm颗粒主要吸收峰在530 nm左右;60 nm胶体金溶液主要吸收波长为600 nm。彭剑淳等通过电镜照片中胶体金颗粒均匀程度与可见光区吸收峰宽的比较,发现主峰宽度越小,颗粒越均匀;主峰宽度越大,颗粒越不均匀,会出现椭圆形及多三角形颗粒。&lt;/p&gt;&lt;p&gt;紫外扫描胶体金。400 700 nm处测定其吸光度,判断其颗粒大小范围。&lt;/p&gt;&lt;h4&gt;标记及纯化&lt;/h4&gt;&lt;h5&gt;标记&lt;/h5&gt;&lt;p&gt;所制备的胶体金溶液如出现聚集、混浊、沉淀、颗粒不均,不可用以标记。&lt;/p&gt;&lt;p&gt;由于胶体金颗粒在电解质中不稳定,制备后应立即用大分子(如蛋白质)进行标记(制成免疫胶体金探针)。胶体金标记蛋白受离子浓度、pH值和蛋白量等因素影响,胶体金颗粒对蛋白质的吸附作用取决于pH值。当pH值低于蛋白质等电点时,蛋白质带正电荷,胶体金带负电荷,二者易通过静电结合形成聚合物;当pH大于pI时,蛋白质与胶体金颗粒同带负电荷相互排斥不宜结合在pH值=pI值时,蛋白质溶解度最小,水化程度最小,最容易吸附到疏水的金颗粒表面,但在实际操作中,一般胶体金溶液的pH值调到稍高于标记用蛋白质的PI值,这样蛋白质带正电,结合更稳定,可用0.1mol/LK2CO3或0.1mol/LHCL调节胶体金溶液的pH至选定值,但通常最适反应pH往往需经多次试验才能确定。在调节胶体金的pH值时,胶体金会阻塞pH计的电极,因此可用普通pH试纸先调到目标pH值附近再换用精密pH试纸调节。在操作中应注意,一切溶液中不应含杂质微粒,可用高速离心或微孔滤膜预处理。&lt;/p&gt;&lt;p&gt;对于未知等电点的蛋白质或具有较宽范围等电点的多克隆抗体的最佳pH值的确立可用以下方法:(1)等电聚焦电泳测定;电镜观察,即先将胶体金的pH值调节为一系列的梯度,然后加入蛋白质溶液轻轻搅拌30 min后,将结合物铺于镍网上进行电镜观察,在最适pH值,胶体金-蛋白质结合物不会出现成堆或成丛现象;(2)比色法,将胶体金pH值调节为一系列的梯度,观察其不同pH值下的蛋白质凝絮曲线的变化情况。最适pH值时,凝絮曲线最平滑而且离横轴最接近。&lt;/p&gt;&lt;p&gt;在调节好PH值后，要确定蛋白最佳标记量,然后按计算结果增加10%,即为待标记蛋白质的实际用量。&lt;/p&gt;&lt;p&gt;具体操作如下。&lt;/p&gt;&lt;p&gt;蛋白质的处理&lt;/p&gt;&lt;p&gt;由于盐类成分能影响金溶胶对蛋白质的吸附,并可使溶胶聚沉,故致敏前应先对低离子强度的水透析。必须注意,蛋白质溶液应绝对澄清无细小微粒,否则应先用微孔滤膜或超离心除去。一般情况下应避免磷酸根离子和硼酸根离子的存在,因为它们都可吸附于颗粒表面而减弱胶体金对蛋白质的吸附。Mg 2+也通过影响金标抗体结合位点进而对二者间的结合作用产生干扰。Mg2+最有可能干扰了金标抗体的Fab片段，从而干扰抗原抗体的2+特异性结合。&lt;/p&gt;&lt;p&gt;蛋白质最适用量的选择&lt;/p&gt;&lt;p&gt;可采用下述方法确定蛋白质的最适用量:将待包被的蛋白质贮备液作一系列稀释后,分别取0.1 m l(含蛋白质5 40μg)加到1 m l胶体金溶液中,另设一管不加蛋白质的对照管,5分钟后加入0.1 m l 1%的NaCl溶液,混匀后静置2小时,不稳定的金溶胶将发生聚沉,然后加入0.1m l%PGE20000使凝聚终止,此时溶液由红色变为蓝色或无色,据此可判定溶胶的凝聚情况(较精确的方法是测定溶胶在λmax,即5 1 0 5 5 0n m下的A值),能使胶体金稳定的最适蛋白量再加10%即为最佳包被量。&lt;/p&gt;&lt;p&gt;其他常用方法有:&lt;/p&gt;&lt;p&gt;①分光光度计测定法。将胶体金调至所需的pH值,抗体经透析除盐并经高速离心除去大的聚集物,再用2 mmol/L的硼酸盐缓冲液(pH值9.0)将抗体稀释成一系列的浓度,加入稀释好的胶体金溶液(直径20 nm胶体金,稀释至0.2 mg/ml;5 nm者,稀释至0.75 mg/ml)。摇匀静置2 min,再在其中加入高盐溶液10%NaC1,摇匀,放置5 min后,在580 nm测定OD值。以OD值为纵坐标,蛋白质用量为横坐标做一曲线,取曲线与横轴接近那一点的蛋白质用量即为最小蛋白质稳定量。&lt;/p&gt;&lt;p&gt;包被&lt;/p&gt;&lt;p&gt;在接近并略高于蛋白质等电点的条件下包被是比较合适的,在此情况下蛋白质分子在金颗粒表面的吸附量最大。下述包被步骤最为常见:(1)用0.1 mol/L K 2 C 03或0.l m ol/L H C I调节金溶胶至所需p H。(2)于100m l金溶胶中加入最佳包被量的蛋白质溶液(体积为2 3 m l),搅拌2 5分钟。(3)加入5ml 1%P E G 2 0 0 0 0溶液。&lt;/p&gt;&lt;p&gt;标记好的免疫胶体金溶液还应加入聚乙二醇至终浓度为或牛血清白蛋白至终浓度为作稳定剂&lt;/p&gt;&lt;p&gt;(4)于1 0 0 0 0 1 0 0 0 0 0g离心3 0 6 0分钟(根据粒径大小选择不同离心条件),小心吸去上清液(切忌倾倒)。&lt;/p&gt;&lt;p&gt;另外一种方法是在调好ph值后，在磁力搅拌下,逐滴加入待标记蛋白溶液,混匀30min后继续在磁力搅拌下加入10%BSA(牛血清白蛋白),使其终浓度为0.5%,搅拌混匀15min,再加入5%PEG20000(聚乙二醇20000)至终浓度为0.1%,再持续搅拌混匀15min,最后4℃静置过夜。&lt;/p&gt;&lt;h5&gt;纯化&lt;/h5&gt;&lt;p&gt;标记好的胶体金中往往还含有未结合的蛋白质、未充分标记的胶体金以及标记过程终形成的各种聚合物。因此标记好的胶体金还需经过纯化才能使用,一般纯化方法有离心法和凝胶过滤法等，&lt;/p&gt;&lt;p&gt;超速离心法可根据不同颗粒大小的胶体金溶液选择不同转速，高速或超速离心、洗涤、过滤除菌，以较高浓度4摄氏度保存免疫胶体金备用。如有非特异性凝集则不能再使用。采用离心法时,一般颗粒10nm以上的胶体金可高速离心,颗粒小于10nm的胶体金要用超速离心,如以牛血清蛋白的稳定的胶体金标记羊抗兔I g G，先低速离心(2 0 n m颗粒，用25×g，5nm用4 8 0 0 x g)20m in，弃去聚集的胶体金颗粒的沉淀，然后取上清液以6 0 0 0 0×g(5n m)或14 000 x g(20n m)在4°c离心1h弃去上清，将沉淀以原体积的0．02 M PBS PH8．2(内含1%BSA)溶解,如上重复离心三次，最后将沉淀溶解于原体积十分之一的上述P B S中，以0.5mg/ml的叠氮钠防腐,置4℃保存。&lt;/p&gt;&lt;p&gt;或将沉淀悬浮于一定体积含0.2 0.5mg/ml P E G 2000的缓冲液中,离心洗涤后,再用同一缓冲液恢复,浓度以???左右为宜。&lt;/p&gt;&lt;p&gt;用不同方法制备的胶体金根据颗粒大小需采用不同的离心力和离心时间如以白磷还原法制备的5．9nm胶体一A蛋白,用125000g。抗坏血酸法制备的11.3nm胶体金一A蛋白用5 0 0 0 0 x g,拘摊酸钠还原法制备的15.5 n m胶体金一A蛋白用15000 x g离心45 m in，为了得到颗粒均匀一致的免疫胶体，可根据lS ot所建议的用10 30%蔗糖或甘油溶液作密度梯度离心，分带收集不同大小颗粒的胶体金标记蛋白制剂，此法不仅具有制备量大操作简便和获得率高等优点而且纯化的胶体金标记抗体颗粒直径均一性好。&lt;/p&gt;&lt;p&gt;凝胶过滤法为纯化免疫胶体金的最好方法,过滤的胶体金颗粒比较均匀,不容易凝集,而离心法转速高,时间长,胶体金颗粒沉淀后容易凝集,用凝胶过滤法克服了这一弱点。将浓缩好的免疫胶体金先以1500r/min离心除去大的聚合物,取上清液过柱。可用Sephacryls-400或Sepharose-4B(或6B)装柱,0.02mol/LTBS洗脱，通常用IGg包被的金溶胶洗脱液p H为8.2,以A蛋白包被的金溶胶洗脱液为p H 7.0。,&lt;/p&gt;&lt;p&gt;洗脱液按颜色深浅分管收集。流出液首先流出的是较大颗粒的聚合物或一些杂质呈微黄色，中间流出清彻透明深红色区带就是纯化的金标蛋白，最后流出的略呈黄色的属未标记蛋白组分。&lt;/p&gt;&lt;h4&gt;染色制片方法&lt;/h4&gt;&lt;p&gt;整个免疫反应均在4℃环境中，单抗孵育过夜，免疫染色过程在48孔组织培养板的小孔中进行。并置于摇床轻轻振荡，以确保洗涤彻底和试剂充分混匀。免疫反应前使用蚀刻剂以除去组织表面的树脂，进行脱锇处理。这些措施均有利于保持抗原活性。&lt;/p&gt;&lt;p&gt;免疫电镜技术关键步骤是固定取材、包埋聚合、染色方法。染色方法有三种，包埋前染色、包埋后染色和不包埋染色。免疫胶体金电镜技术涉及到抗原活性的保存，通常情况需在低温环境下操作。&lt;/p&gt;&lt;p&gt;在制片过程中，包埋前标记有抗原保存好,阳性率高,成本低,过程简单等优点。但也导致金标记物难以透过细胞膜进入细胞内。&lt;/p&gt;&lt;p&gt;因此，胶体金免疫电镜技术多采用包埋后染色,此法有敏感性高、重复性好、节约抗体、能同步作多重标记等优点,因此它已成为目前最常用的免疫染色方法.包埋后染色的缺点主要是标本的前期处理常使抗原失活.标本是否新鲜、固定剂和包埋剂的种类、固定时间、聚合温度、蚀刻剂的使用、抗体和金探针的纯度及稀释倍数、孵育时间等均可影响实验结果(包括切片的薄厚)。&lt;/p&gt;&lt;p&gt;包埋后染色的缺点主要是标本的前期处理常使抗原失活.标本是否新鲜、固定剂和包埋剂的种类、固定时间、聚合温度、蚀刻剂的使用、抗体和金探针的纯度及稀释倍数、孵育时间等均可影响实验结果。&lt;/p&gt;&lt;p&gt;这些是可以思考改进的突破点。&lt;/p&gt;&lt;p&gt;在固定液的选择上，要选用合适的固定剂，免疫电镜常用一些特殊的固定液,如高碘酸盐-赖氨酸-多聚甲醛固定液(PLP)、4%多聚甲醛固定液、多聚甲醛加低浓度的戊二醛固定液(PG)及苦味酸-多聚甲醛固定液。其中一般选用较柔和的固定剂，如戊二醛和多聚甲醛，戊二醛对超微结构保存较好，而多聚甲醛对抗原性的保存优于戊二醛，避免使用四氧化饿防止抗原性的丧失，但是由于戊二醛和多聚甲醛只对碳水化合物和蛋白质保存较好对脂类的，保存效果较差,一定程度上影响了细胞内膜系统的清晰度。在实际操作中发现,用l%多聚甲醛加0.01%～0.05%的戊二醛最理想。此固定液不但配置简单,而且效果满意。而对于某些抗原性较强的标本,也可采用4%多聚甲醛加0.05%～0.5%的戊二醛或plp固定。有研究表明戊二醛的浓度会影响抗原的保存，戊二醛浓度在0.05%,多聚甲醛1%时,固定时间不少于3小时,组织大小在1-2mm,组织结构保存良好,同时对抗原影响也不大。&lt;/p&gt;&lt;p&gt;在包埋过程中，包埋剂Epon树脂可用于很多抗原包埋后染色,它需要能使脆弱抗原变性的聚合温度,且黏度大,易吸潮,在一定程度上限制了其使用。Spurr树脂黏度较低,不易吸潮,克服了Epon树脂的某些缺点,但同样需要较高的聚合温度。&lt;/p&gt;&lt;p&gt;常规树脂包埋由于高温聚合常使一些组织抗原性部分或全部丧失，环氧树脂中的环氧基可能改变某些抗原的性质，因而选择采用低温水溶性包埋剂更有利于抗原活性的保存,但对超微结构保存不利，也影响了图像的反差和清晰度。&lt;/p&gt;&lt;p&gt;近年来,水溶性包埋剂已逐渐应用于免疫电镜。这些包埋剂需要特殊的聚合条件,如LowicrylK4M需在低温下脱水,渗透,然后在-35℃以下用紫外光(波长315～360nm)聚合;ILRGold需用蓝光在-25℃聚合。低温可以大大降低脱水剂和包埋剂对蛋白的失活和抽提作用,有利于保持抗原。但因价格较贵,聚合条件要求相对较高,不同程度地限制了水溶性包埋剂的应用。&lt;/p&gt;&lt;p&gt;在一些研究中，采用改良的树脂包埋方法，探究出改良的Spurr树脂作保埋剂，将Spurr树脂应用于免疫电镜研究，样品固定后经常规丙酮逐级脱水，Spurr树脂浸透包埋后，采取室温(20℃)状态聚合，聚合时间为72h。结果得到与常规免疫电镜低温LowicrylK4M相比一致的效果，并且操作步骤简单、Spurr树脂制成的包埋块硬度适中，比LowicrylK4M具有更好的切割性和抗湿性。&lt;/p&gt;&lt;p&gt;ZYQ:我们之前帮钟老师做的就是低温包埋，但是好像温度没有这么低，这里还有疑问，也不清楚钟老师用的低温包埋的包埋剂是什么种类。还要再讨论。&lt;/p&gt;&lt;p&gt;包埋后染色在使用非水溶性包埋剂(如Epon812)时,常需在免疫染色前进行蚀刻,除去组织表面的树脂,以利于抗体和免疫金探针的渗透,常用蚀刻剂为过氧化氢。蚀刻剂的浓度、时间需根据具体情况而定,蚀刻不足不利于抗体和探针渗透,蚀刻过度则会破坏组织结构。近年来,随着固定、包埋等方法的改进和方法敏感性的提高,包埋后染色法的应用范围亦不断扩大,目前已成为最常用的免疫染色方法。不包埋染色即先用冰冻超薄切片机制成超薄切片后进行免疫染色。这一方法避免了包埋前染色和包埋后染色的诸多影响因素,较有发展前途,但一些新的影响因素也有待克服,如冰晶形成影响了超微结构的观察。除固定、包埋、聚合、蚀刻、免疫染色的方法外,胶体金免疫电镜技术尚存在一些影响因素,如胶体金和抗体的稀释度、冲洗程度、溶液pH值、切片厚度、金颗粒的大小、非特异染色、孵育时间等。抗体和胶体金的稀释度要适中,以保证在背景清晰的前提下获得较强的阳性信号,可采用方阵滴定法测定。溶液的pH值要有利于保护抗原和抗体的活性,冲洗要彻底,切片厚度以60～80nm为宜。一般认为小颗粒的胶体金能更多地积聚于抗原所在部位,但直径小于3nm的金颗粒不易被发现,可用免疫金银增强法提高其敏感性。孵育应在温盒中进行,大于l2h为宜。目前多主张孵育前加用0.5%～1%卵白蛋白、1%～2%牛血清白蛋白或正常羊血清,以消除非特异染色和背景染色。&lt;/p&gt;&lt;p&gt;在染色过程中，有研究表明，抗体的稀释液采用0.05M Tris,0.15M NaCL,pH7.0,含0.05%聚乙二醛(PEG)和0.05%NaN3。其中PEG可以使金颗粒分散,提高蛋白质间的结合力,有利于一抗与二抗的结合,且比血清和BS A作为稀释液时效果好。一抗与二抗的稀释比例根据所标记抗原的情况而定。此外，Trit on x-100加入到0.05M Tris缓冲液中作为冲洗液,可以提高胶体金的穿透力,同时T ri to n x-100又是一种表面活性剂,在2抗标记后用含有0.05T rit on x-100的T ri s缓冲液浸洗30mi n,可以清除一部分非特异性反应的胶体金,使切片中组织形态清晰,提高样品的反差,而过量浓度的Trit on和过长时间的浸洗会破坏组织中的膜结构。在另外一篇文献中也指出，T rit on x-100存在不足之处，其使用会破坏膜结构，其作用与切片厚度相关。&lt;/p&gt;&lt;h4&gt;应用&lt;/h4&gt;&lt;p&gt;免疫胶体金电镜技术广泛运用在各种蛋白质的定位等研究上，主要包括:细胞悬液或单层细胞表面抗原的检测;单层细胞内抗原的检测;组织切片中抗原的检测。谢希贤等利用免疫胶体金电镜技术对对虾白斑综合症病毒结构蛋白质VP24进行定位研究,结果表明该蛋白可能存在于病毒的囊膜和核衣壳之间。&lt;/p&gt;&lt;p&gt;对于胶体金，直径为3nm胶体金均可用作电镜水平的标记物,多用于15nm单一抗原的检测,而直径15nm多用于检测量较多的感染细胞。&lt;/p&gt;&lt;p&gt;在实际操作中，为了放大信号，有多种方法。&lt;/p&gt;&lt;p&gt;用银加强蛋白A一金探针染色法:这是一种能增强较小金颗粒可见性的简便方法将树脂包,埋超薄切片置于含硝酸银的照相显影液中在物理显影过程中金颗粒被金属银包裹具有放大作用因而图象更加清晰&lt;/p&gt;&lt;p&gt;双重或多重标记法:主要是利用两种或两种以上大小不等的金颗粒来标记两种或多种抗体、从而在同一张组织细胞切片上同时显示两种或多,、种不同的抗原成分具有抗原定位精确相互关系、清晰等优点便于了解同一组织细胞内不同抗原。分子间的相互位置关系它包括使用不同种属第一抗体法标记抗原法蛋白A法及双面染色法等&lt;/p&gt;&lt;p&gt;使用生物素化探针进行原位杂交法目前:原位杂交已成为细胞制备物定位D N A或R N A序列,的标准方法在透射电镜水平己应用胶体金于原位杂交中即以生物素标记的多聚核昔酸为探针,与用低温包埋剂包埋样品的超薄切片进行杂交杂交后之样品再与用抗生素抗体及胶体金标记的第二,抗体起反应最后在电镜下观察金颗粒的分布情况此法快速特异在染色质和染色体上可进行,DN A序列超微结构水平的精确定位可用于哺乳动物组织成长和相关疾病研究以及病毒基因型。&lt;/p&gt;&lt;p&gt;在胶体金标记技术不断发展过程中，出现了标记抗球蛋白抗体的间接免疫金染色法应用在普通光镜下检测淋巴细胞表面膜免疫球蛋白，光镜水平的免疫金染色免疫金银染色等，孟刚利用碱性磷酸酶与免疫金银混合对乳腺癌几种肿瘤相关抗原进行双重染色，颜色对比鲜明敏感性高减少了非持异性染色，染色背景清晰。杨盛华等成功地应用胶体金免疫电镜技术检测犬传染性肝炎病毒，程安国等应用胶体金免疫电镜技术检测鸭肝炎病毒获得成功,蔡树涛等将免疫胶体金标记与电镜负染色技术相结合，可以同时显示体外组装的细胞管架纤维的微细结构和蛋白属性，该法弥补了电镜负染色方法和免疫印迹法的不足，刘云霞等利用电镜免疫胶体金定位水稻内生细菌，首次在电镜水平以免疫胶体金染色定位了水稻内生细菌的优势菌种巨大芽抱杆菌，储迅涛等用免疫胶体金定量测定尿微量白蛋白的研究以金溶胶颗粒作为免疫配基的载体，建立了胶体金免疫凝集抑制试验以定量测定尿微量白蛋白。&lt;/p&gt;&lt;h4&gt;讨论&lt;/h4&gt;&lt;p&gt;免疫胶体金电镜技术是一项相对来说比较成熟、易于操作的技术，胶体金免疫电镜技术可定位观察、定性分析、多重标记,了解某种抗原的作用机制以及不同抗原分子之间的关系，其影响因素甚多,关键在于如何能在保存良好的超微结构的前提下保护好抗原的活性，以及细胞膜的透过性和胶体金的稳定和纯度。同时，金颗粒本身的性质决定了该技术存在着一些问题,如渗透能力相对较差，胶体溶液的稳定性较差等。&lt;/p&gt;&lt;p&gt;目前胶体金的研究方向主要在于,通过放大特异抗原抗体的反应信号、增强金标记物的显色效果,来提高检测灵敏度,有些胶体金检测试验的敏感度都可达到1 ng/mL或更低水平;单纯以超过正常参考值上限为阳性,有时不能满足检测的需要,而实现半量或定量检测尚待进一步研究;此外,针对检测对象的不同,在同一膜上固定多种反应物,一次测定可同时得到多个待检物的检测结果,可以实现高通量检测,该研究方向已经有了突破。&lt;/p&gt;&lt;p&gt;在针对免疫胶体金电镜技术的改良上面，目前更多着眼与保证在染色前组织具有保存完好的超微结构和抗原活性，主要在操作上进行了一些改进，如：在保证标本新鲜的前提下,采用多聚甲醛加低浓度戊二醛的混合固定液,固定时间适中,免疫反应前使用蚀刻剂以除去组织表面的树脂,孵育过程在温盒中进行,这些措施均有利于保持抗原活性。整个免疫染色过程在48孔组织培养板的小孔中进行,并置于摇床轻轻振荡,以确保洗涤彻底和试剂充分混匀。也有通过银加强的方式增强光镜下观察的信号的方法。&lt;/p&gt;&lt;p&gt;在一些对直肠癌和结肠癌的标记研究中，认为，plp液对细胞表面的固定效果较多聚甲醛好，plp液中过碘酸氧化糖类产生醛基，自由醛基经赖氨酸作用，形成醛基间分子间作用，可稳定抗原。又认为，标本固定后会残留有自由醛基，醛基与抗体赖氨酸残基相共价作用，会导致难清洗的非特异性染色，因此在固定后应将标本漂洗3h以上。&lt;/p&gt;&lt;p&gt;未来在探索免疫胶体金的改进上，对于脑组织来说，依然需要从胶体金的制备，标记染色纯化、制片包埋等方面根据脑组织结构和组织学特征从保存脑组织超微结构和增加探针灵敏度两个角度进行思考和研究。&lt;/p&gt;&lt;h4&gt;引用&lt;/h4&gt;&lt;p&gt;[1]王笑笑,林洪,隋建新,曹立民.镁离子对免疫胶体金检测中生物大分子相互作用的影响[J].食品科技,2018,43(07):298-306.&lt;/p&gt;&lt;p&gt;[2]范梦春.分析免疫胶体金技术在医学检验领域的应用与进展[J].现代医学与健康研究电子杂志,2018,2(02):129.&lt;/p&gt;&lt;p&gt;[3]宋翔,王云贵,黄登宇.硝苯地平免疫胶体金探针的制备[J].食品安全质量检测学报,2016,7(08):3350-3354.&lt;/p&gt;&lt;p&gt;[4]赵善廷.高压快速冷冻电镜技术及在神经生物学研究中的应用[A].中国畜牧兽医学会动物解剖及组织胚胎学分会.中国畜牧兽医学会动物解剖及组织胚胎学分会第十九次学术研讨会论文集[C].中国畜牧兽医学会动物解剖及组织胚胎学分会:中国畜牧兽医学会,2016:1.&lt;/p&gt;&lt;p&gt;[5]章小雨,戴晓爱.免疫胶体金技术在医学检验领域的应用与进展[J].实验与检验医学,2014,32(03):279-281.&lt;/p&gt;&lt;p&gt;[6]田飞焱,欧阳敏,刘荭,吕建强.免疫胶体金技术及其在水生动物疫病诊断上的应用[J].江西水产科技,2009(03):6-9.&lt;/p&gt;&lt;p&gt;[7]张琳,张璐,朴英杰.应用改良的免疫胶体金包埋方法检测p38蛋白激酶在Raw细胞中的定位[J].中国临床解剖学杂志,2007(05):560-563.&lt;/p&gt;&lt;p&gt;[8]尧蒙.禽流感免疫胶体金快速检测技术研究[D].西南农业大学,2005.&lt;/p&gt;&lt;p&gt;[9]王清,吴振廷,王学林,唐庆峰,金涛,林华峰.免疫胶体金标记技术及其在植物保护上的应用前景[J].安徽农业科学,2005(03):485-487.&lt;/p&gt;&lt;p&gt;[10]田景花,张红,李明,王梅.黄瓜幼叶细胞中钙调素的免疫胶体金定位[J].园艺学报,2003(06):728-730.&lt;/p&gt;&lt;p&gt;[11]宋雁南,张莉,迟月明,李红,金晓明,钟志玖.免疫胶体金在标记超薄切片中抗原的几点体会[J].四川解剖学杂志,2001(02):113.&lt;/p&gt;&lt;p&gt;[12]翟雷,卜晓萍,潘萍,沈心亮.免疫胶体金试剂的制备及应用胶体金免疫电镜技术检测戊型肝炎病毒[J].微生物学免疫学进展,1996(03):17-19.&lt;/p&gt;&lt;p&gt;[13]常国权,杨盛华,邹啸环.免疫胶体金探针技术研究进展[J].中国兽医科技,1994(12):45-46.&lt;/p&gt;&lt;p&gt;[14]任先平.胶体金标记抗体技术[J].免疫学杂志,1989(01):62-65.&lt;/p&gt;&lt;p&gt;[15]曾宪智,蔡青,高尔静,徐群渊.单侧损伤大鼠黑质纹状体多巴胺能通路新纹状体多巴胺受体在光镜、电镜下的变化[J].解剖学报,2009,40(05):702-708.&lt;/p&gt;&lt;p&gt;[16]Ferens G.Controlled nucleation for the regulation of the particle size in monodisperse gold suspensions[J].Nature(London)Phys.Sci.,1973,241(105):20.&lt;/p&gt;&lt;p&gt;[17]Schmitt J,Machtle P,Eck D,et al.Preparation and optical properties of colloidal gold monolayers[J].LANGMUIR,1999,15(9):3256.&lt;/p&gt;&lt;p&gt;[18]皮至明.免疫学及免疫检验技术［M］.第一版.北京：高等教育出版社，2005年.&lt;/p&gt;&lt;p&gt;[19]贺昕,熊晓东,梁敬博,李治宇,张曦.免疫检测用纳米胶体金的制备及粒径控制.稀有金属2005年8月.第29卷第4期。&lt;/p&gt;&lt;p&gt;[20]聂政，陈佳，付晨星，刘丽，施冰心,李红梅.免疫检测用的免疫胶体金制备工艺的优化研究.食品工业科技Vol.30,No.12,2009.&lt;/p&gt;&lt;p&gt;[21]萨仁高娃,其木格,吴岩.胶体金免疫电镜技术及其应用.内蒙古医学院学报2007年10月第29卷第5期&lt;/p&gt;&lt;p&gt;[22]MountSL,DikerrnanJD,TaatjesDJ.ExtrarenalWilms’tumor:anultrastructuralandimmunoelectronmicroscopic casereport[J].UltrastructPathol,1996;20(2):155-165&lt;/p&gt;&lt;p&gt;[23]Faulk WP,et al,Immunochem 1971;8:1081&lt;/p&gt;&lt;p&gt;[24]Faulk WP,et al.Nature New Biol 1971;231;101&lt;/p&gt;&lt;p&gt;[25]JW Slot et al;Eur.J.Cell Biol,38:87,1985&lt;/p&gt;&lt;p&gt;[26]Geoghegan WD et al;J Immunolm Metthods,45:183.1981&lt;/p&gt;&lt;p&gt;[27]Faulk WP,et al,Immunochem 1971;8:1081&lt;/p&gt;&lt;p&gt;[28]Faulk WP,et al.Nature New Biol 1971;231;101&lt;/p&gt;&lt;p&gt;[29]Rmano El,et al.Histoical aspects,Academic Press,Amsterdam New Oxford,1984&lt;/p&gt;&lt;p&gt;[30]Goodman SL,et al;Scanning Electron Microscopy.Ⅲ:619,1979.SEM Inc.AMF O,Hare IL 60666,USA&lt;/p&gt;&lt;p&gt;[31]JW Slot et al;Eur.J.Cell Biol,38:87,1985&lt;/p&gt;&lt;p&gt;[32]Slot JW et al;J.Cell Biol,90:533,1981&lt;/p&gt;&lt;p&gt;[33]吕伸,王杉,常文保.胶体金免疫分析方法的进展[J].武汉大学学报(自然科学版),2000(04):393-399.&lt;/p&gt;&lt;p&gt;[34]梁敬博,贺昕,熊晓东,张曦,吴聪.pH值对胶体金制备的影响[J].稀有金属,2005(04):468-470.&lt;/p&gt;&lt;p&gt;[35]李卫玲,叶阳,周有祥,王小红.柠檬酸三钠法制备胶体金的工艺条件优化[J].湖北农业科学,2010,49(10):2529-2532.&lt;/p&gt;&lt;p&gt;[36]孔繁德,黄印尧,赖清金.免疫胶体金技术及其发展前景[J].福建畜牧兽医,2002(S1):11-12+14.&lt;/p&gt;&lt;p&gt;[37]陈凤梅,李娟,曲原君,牛钟相.免疫胶体金技术的应用及研究进展[J].中国兽药杂志,2004(08):33-35.&lt;/p&gt;&lt;p&gt;[38]周雅伟,杨超舜,方振华,赵晓鹏.合成工艺对水相合成金纳米颗粒的影响[J].功能材料,2011,42(07):1276-1280.&lt;/p&gt;&lt;p&gt;[39]李卫玲,叶阳,周有祥,王小红.柠檬酸三钠法制备胶体金的工艺条件优化[J].湖北农业科学,2010,49(10):2529-2532.&lt;/p&gt;&lt;p&gt;[40]朱文钏,孔繁德,林祥梅,徐淑菲,吴德峰,韩雪清,吴绍强.免疫胶体金技术的应用及展望[J].生物技术通报,2010(04):81-87.&lt;/p&gt;&lt;p&gt;[41]孔繁德,黄印尧,赖清金.免疫胶体金技术及其发展前景[J].福建畜牧兽医,2002(S1):11-12+14.&lt;/p&gt;&lt;p&gt;[42]颜永碧,陆月良,夏愿耀.实质性组织包埋前免疫金电镜标记方法[J].第二军医大学学报,1993(03):273-274.&lt;/p&gt;&lt;h4&gt;Acknowledgements&lt;/h4&gt;&lt;p&gt;Papers collected and analysed by ZYQ,LDY,ZYH.&lt;/p&gt;&lt;p&gt;Reading reports from ZYQ,LDY.&lt;/p&gt;&lt;p&gt;Recheck&amp;amp;edition&amp;amp;addition by ZYH.&lt;/p&gt;&lt;p&gt;Thanks for Polina Gagarina’s songs,for the songs give me so much power to come a long way.&lt;/p&gt;&lt;p&gt;Valentine’s Day.&lt;/p&gt;&lt;h4&gt;附录：参考实例&lt;/h4&gt;&lt;h5&gt;免疫组织化学染色&lt;/h5&gt;&lt;p&gt;灌注固定:模型大鼠用水合氯醛深度麻醉后,升主动脉灌注37℃300ml 0.01mol L PBS,接着用400ml冷的(4℃)含4%多聚甲醛和0.35%戊二醛的0.1mol L PB灌注。取鼠脑,后固定于4%多聚甲醛中4℃过夜。&lt;/p&gt;&lt;p&gt;振荡切片(厚50μm),黑质每隔5张取1张,纹状体每12张取1张。&lt;/p&gt;&lt;p&gt;各取5套切片,各套切片分别用于酪氨酸羟化酶(TH)、D1R和D2R免疫组织化学染色。含纹状体和黑质的冠状切片收集在0.1mol L PBS中。&lt;/p&gt;&lt;p&gt;用SP方法进行免疫组织化学漂片染色:入3%过氧化氢消除内源性过氧化物酶10min;再用含0.3%Triton-X100的0.02mol L PBS(PBST)配制的5%牛奶室温30min;分别入一抗1∶1 000兔抗D1多巴胺受体IgG、1∶200羊抗D2多巴胺受体IgG(Santa Cruz产品)和1∶10 000小鼠抗TH(Sigma公司),4℃孵育48h;再分别入1∶300生物素化的羊抗兔IgG、兔抗羊IgG和羊抗小鼠IgG室温孵育3h;再入1∶300链霉素卵蛋白HRP室温3h(以上试剂均用PBST配制);再入0.05mol L Tris-HCl水溶液(以上每步之间均用PBST清洗3次,每次10min);最后入含0.05%二氨基联苯胺(DAB)(Sigma公司)和0.01%过氧化氢显色5～10min(Tris-HCl缓冲液配制)。裱片,自然风干,二甲苯透明,中性树脂封片。光学显微镜观察、摄片和分析。&lt;/p&gt;&lt;h5&gt;D1R、D2R包埋前胶体金免疫电镜&lt;/h5&gt;&lt;p&gt;取以上两套切片中含纹状体的切片,入30%蔗糖(含0.1%NaN 3的0.1mol L PBS)至沉底,放入异戊烷在液氮中冻存20s后室温融解,以增加免疫试剂的渗透性。切片经0.02mol L PBS洗3次,入0.1%用0.02mol L PBS新鲜配制的硼化氢(sodium borohydride,NaBH4)10min,经PBS洗后,入含5%山羊血清(标记D2R用兔血清)、5%牛血清白蛋白(BSA)、0.1%fish gelatin(Aurion,the Netherlands)PBS室温1h以抑制非特异性抗体结合。分别入一抗1∶500兔抗D1多巴胺受体IgG、1∶200羊抗D2多巴胺受体IgG,用0.1%BSAc(Aurion)0.02mol L PBS配制,4℃孵育48h。经PBS洗5min×6次,入二抗1∶50超小金颗粒(0.8nm)的山羊抗兔IgG和兔抗山羊IgG(Aurion),用与配制一抗同样的液体配制,室温孵育24h。再用PBS洗5min×6次,用2%戊二醛(0.1 mol L PB配制)固定10min,0.1mol L PB洗5min×3次,再用纯净水洗5min×6次,最后用新配制的银增强液(Aurion试剂盒)暗处20℃1h,用0.1mol L PB洗2min×5次,进行电镜包埋。1%S2 O4(0.1mol L PB配制)作用45min,0.01mol L PBS洗5min×4次,50%、70%、85%、90%、95%酒精各10min×2次,100%酒精、丙酮各15min×2次。1∶1丙酮树脂4h,挥发过夜,树脂平板包埋,37℃24h,60℃48h。&lt;/p&gt;&lt;p&gt;电镜取材:每只动物选择4张含背侧纹状体切片,每张切片左右纹状体背侧各取约1mm×1mm相对应组织,超薄切片(70nm),在组织深约4μm处取1张超薄切片,乙酰铀和醋酸铅负染,JEOL1230电镜(日本)观察,美国Gatan公司792型图像输出系统摄片。&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>花落知多少</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-01-19-花落知多少/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-01-19-花落知多少/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-01-19-花落知多少/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-01-19-花落知多少/</guid>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -459,8 +459,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>The basic principal of physiology</title>
-      <link>https://rainoffallingstar.github.io/Blog/2019-01-14-The basic principal of physiology/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2019-01-14-The basic principal of physiology/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2019-01-14-The basic principal of physiology/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2019-01-14-The basic principal of physiology/</guid>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -468,8 +468,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>温故2018：胜负</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-12-21-温故2018-胜负/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-12-21-温故2018-胜负/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-12-21-温故2018-胜负/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-12-21-温故2018-胜负/</guid>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -477,8 +477,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>马尾记</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-12-19-马尾记/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-12-19-马尾记/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-12-19-马尾记/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-12-19-马尾记/</guid>
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -486,17 +486,17 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>For Gods' Name</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-11-20-for-gods-name/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-11-20-for-gods-name/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-11-20-for-gods-name/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-11-20-for-gods-name/</guid>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;For Gods’ Name&lt;/h3&gt;&lt;h4&gt;Script&lt;/h4&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2018-11-20-for-gods-name/imgs/background.pdf" target="_blank" rel="noopener noreferrer"&gt;表演背景ppt&lt;/a&gt;&lt;/p&gt;&lt;h5&gt;人物设定&lt;/h5&gt;&lt;p&gt;宙斯：生化课教授宙斯。Z&lt;/p&gt;&lt;p&gt;朱庇特(Jupiter)：统领神域和凡间的众神之王，古老的天空神及光明、法律之神，L&lt;/p&gt;&lt;p&gt;&lt;em&gt;朱诺&lt;/em&gt;(Juno)：是罗马神话中的天后，婚姻和母性之神，hy老师的化身。J&lt;/p&gt;&lt;p&gt;&lt;em&gt;波塞冬&lt;/em&gt;(Poseidon)：海神，P&lt;/p&gt;&lt;p&gt;密涅瓦(Minerva)：智慧、战争、月亮和记忆女神，B&lt;/p&gt;&lt;p&gt;&lt;em&gt;玛尔斯&lt;/em&gt;(Mars)：战争之神，朱庇特与朱诺之子，贝娄娜之丈夫，维纳斯的情人，M&lt;/p&gt;&lt;p&gt;维纳斯(Venus)：爱与美的女神&lt;/p&gt;&lt;p&gt;&lt;em&gt;阿波罗&lt;/em&gt;(Apollo)：司掌文艺之神，主管光明、青春、医药、畜牧、音乐等，是人类的保护神、光明之神、预言之神、迁徙和航海者的保护神、医神以及消灾弥难之神，A&lt;/p&gt;&lt;p&gt;狄安娜(Diana)：月亮与山林女神，她的词源可能与“光”有关系。D&lt;/p&gt;&lt;h4&gt;正文&lt;/h4&gt;&lt;h5&gt;背景&lt;/h5&gt;&lt;p&gt;公元2017年10月，J调任年级年段长。此时，学生们还生活在黄金时代的幻梦中，一切都在朝着良好的方向发展，却没注意到天空中悄然的阴霾，在此后的日子里，由J带来的风暴将席卷所有无辜的人民和学生，同时也为黄金时代奏响了最后的挽歌。&lt;/p&gt;&lt;p&gt;这个就是写着玩玩，可以不要的，关系不大，每一幕的标题也是这个道理&lt;/p&gt;&lt;h5&gt;第一幕 寒劲&lt;/h5&gt;&lt;p&gt;在一个下着雨的上午，下课了，教室门口，p，A 上。&lt;/p&gt;&lt;p&gt;P：hey，A，你是要去上英语课吗？对了，我们正在组队写一个叫做《医学生的一天》的剧本，你加团队了么？&lt;/p&gt;&lt;p&gt;A(脸色苍白，疲倦的)：啊？英语剧本？这是怎么回事？&lt;/p&gt;&lt;p&gt;P(笑意，疑惑地)：怎么？你是不是忘记了？就是好几周之前老师布置的啊？&lt;/p&gt;&lt;p&gt;A(疲倦的)：我….好像想起来了！啊！怎么办！我都忘记要组队这回事了！你们还缺人嘛？让我混个水呗……&lt;/p&gt;&lt;p&gt;P:所以就是来找你啊，(疑惑地)你怎么了？看起来脸色很不好诶，生病了吗？&lt;/p&gt;&lt;p&gt;A：没，可能就是昨天晚上没睡好，昨天快半夜的时候，我舍友在打游戏，我实在是被吵得睡不着(叹息)打起精神来听宙斯教授的生化课，听得都快睡着了……&lt;/p&gt;&lt;p&gt;P: hhh,原来是这样，我舍友昨天也打游戏来着，一直读书太辛苦了嘛，就打游戏放松一下……可是，我觉得生化老师讲的还不错的，就是，唉，今天又把小测安排上了……你要是觉得他上课太无聊了，你下次可以跟他反馈一下啊&lt;/p&gt;&lt;p&gt;A：我都想过好几次了，本来想是利用课间去跟他说的，可是每次课间都看见密涅瓦很认真地问问题，就没有上去了……(笑)&lt;/p&gt;&lt;p&gt;(此时，M上)&lt;/p&gt;&lt;p&gt;M(高兴地)：hello，A,P，你们在聊什么那么开心呢？&lt;/p&gt;&lt;p&gt;P：我刚才成功把A 拉进我们团队了！&lt;/p&gt;&lt;p&gt;M：那真是太好了，这样一来，我们就有一个完整的团队来和L的队伍竞争了，我真是迫不及待要打败他了。&lt;/p&gt;&lt;p&gt;A： hhh，听你这样说，你们是不是有什么仇啊？&lt;/p&gt;&lt;p&gt;M：那倒没有，说起来昨天我宿舍还真是被他带人抽检了，结果变成了D级宿舍，真是太惨了，不过哪能怪别人呢？&lt;/p&gt;&lt;p&gt;A&amp;amp;P：真为你感到伤心。&lt;/p&gt;&lt;p&gt;(三人下)&lt;/p&gt;&lt;h5&gt;第二幕 有情&lt;/h5&gt;&lt;p&gt;(一个阴沉的下午，空教授，p，B，M，P四人上)&lt;/p&gt;&lt;p&gt;P：大家都到了吧？(把手上的剧本分给大家)大家先看一下我们之前写的剧本，老师说，下周我们就要上台表演了，我们时间有些紧张啊，今天先彩排一下……&lt;/p&gt;&lt;p&gt;M:(突然吐槽)我突然发现我花在英语上的时间比专业课的还多嘞，不行啊，我们赶紧排一下，晚上我还得去教室复习一下我的生理学……&lt;/p&gt;&lt;p&gt;B:别着急啊(笑)天天不都是这样？&lt;/p&gt;&lt;p&gt;A(低头看了一下剧本)：你们确定我这个角色这么惨的吗？你看看…….这个人怎么会一天里去上课自行车掉链条，上课掏出手机看时间被辅导员抓……&lt;/p&gt;&lt;p&gt;B:你可还不知道后面有更惨的呢？P不是写他午餐在食堂吃到虫子，还有……好象是洗头发洗到一半突然停水了？是吧？(疑惑地，问P)&lt;/p&gt;&lt;p&gt;P：是啊，之前想过这样写来着，就是不知道怎么安排这个停水的情节，工程队又把水管挖断了？太老套了吧，我觉得观众不会喜欢的……&lt;/p&gt;&lt;p&gt;A:可是为什么不写点浪漫的东西呢，像爱情之类的啊，你知道，爱情是文学作品永恒的主题啊？&lt;/p&gt;&lt;p&gt;M：这不是安排到我的角色里了？不过，好像是在塑造一个花花公子的形象诶！&lt;/p&gt;&lt;p&gt;A：emmm，等会，让我看看你的台词….(表演状)噢！我的兄弟！当我遇到暗恋的人们时，我要摘下我的勋章，用我的黄金给她换一本厚厚的书籍…… (停顿，恢复正常)老兄！这一段特别莎士比亚啊！&lt;/p&gt;&lt;p&gt;P：这就是个梦幻一样的场景啊，别想那么多了，同志们，一寸光阴一寸金，我们去找个地方排练吧！珍惜现在的美好时光吧!&lt;/p&gt;&lt;p&gt;(四人下。)&lt;/p&gt;&lt;h5&gt;尾声&lt;/h5&gt;&lt;p&gt;@：公元2017年11月，J推行年段大洗牌，是月，集体震动不安，历史上真实的闹剧来得往往比虚拟的更真实，更残忍，也更无常。&lt;/p&gt;&lt;h4&gt;参考资料&lt;/h4&gt;&lt;ol&gt;&lt;li&gt;叶嘉莹诗：尽夜狂风撼大城，悲笳哀角不堪听。晴明半日寒仍劲，灯火深宵夜有情。入世已拼愁似海，逃禅不借隐为名。伐茅盖顶他年事，生计如斯总未更。&lt;/li&gt;&lt;li&gt;古希腊与古罗马诸神系统，百度百科。&lt;/li&gt;&lt;li&gt;一段关于hy老师初上任的往事。&lt;/li&gt;&lt;li&gt;一堂无聊的生化课+安排上了的考试&lt;/li&gt;&lt;li&gt;一名由于舍友深夜打游戏而睡不着觉的人&lt;/li&gt;&lt;li&gt;将要表演的play《医学生的一天》+彩排&lt;/li&gt;&lt;li&gt;一个被抽检而成为D级的悲惨宿舍&lt;/li&gt;&lt;li&gt;一个无意间被吐槽的食堂&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <content:encoded>&lt;h3&gt;For Gods’ Name&lt;/h3&gt;&lt;h4&gt;Script&lt;/h4&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2018-11-20-for-gods-name/imgs/background.pdf" target="_blank" rel="noopener noreferrer"&gt;表演背景ppt&lt;/a&gt;&lt;/p&gt;&lt;h5&gt;人物设定&lt;/h5&gt;&lt;p&gt;宙斯：生化课教授宙斯。Z&lt;/p&gt;&lt;p&gt;朱庇特(Jupiter)：统领神域和凡间的众神之王，古老的天空神及光明、法律之神，L&lt;/p&gt;&lt;p&gt;&lt;em&gt;朱诺&lt;/em&gt;(Juno)：是罗马神话中的天后，婚姻和母性之神，hy老师的化身。J&lt;/p&gt;&lt;p&gt;&lt;em&gt;波塞冬&lt;/em&gt;(Poseidon)：海神，P&lt;/p&gt;&lt;p&gt;密涅瓦(Minerva)：智慧、战争、月亮和记忆女神，B&lt;/p&gt;&lt;p&gt;&lt;em&gt;玛尔斯&lt;/em&gt;(Mars)：战争之神，朱庇特与朱诺之子，贝娄娜之丈夫，维纳斯的情人，M&lt;/p&gt;&lt;p&gt;维纳斯(Venus)：爱与美的女神&lt;/p&gt;&lt;p&gt;&lt;em&gt;阿波罗&lt;/em&gt;(Apollo)：司掌文艺之神，主管光明、青春、医药、畜牧、音乐等，是人类的保护神、光明之神、预言之神、迁徙和航海者的保护神、医神以及消灾弥难之神，A&lt;/p&gt;&lt;p&gt;狄安娜(Diana)：月亮与山林女神，她的词源可能与“光”有关系。D&lt;/p&gt;&lt;h4&gt;正文&lt;/h4&gt;&lt;h5&gt;背景&lt;/h5&gt;&lt;p&gt;公元2017年10月，J调任年级年段长。此时，学生们还生活在黄金时代的幻梦中，一切都在朝着良好的方向发展，却没注意到天空中悄然的阴霾，在此后的日子里，由J带来的风暴将席卷所有无辜的人民和学生，同时也为黄金时代奏响了最后的挽歌。&lt;/p&gt;&lt;p&gt;这个就是写着玩玩，可以不要的，关系不大，每一幕的标题也是这个道理&lt;/p&gt;&lt;h5&gt;第一幕 寒劲&lt;/h5&gt;&lt;p&gt;在一个下着雨的上午，下课了，教室门口，p，A 上。&lt;/p&gt;&lt;p&gt;P：hey，A，你是要去上英语课吗？对了，我们正在组队写一个叫做《医学生的一天》的剧本，你加团队了么？&lt;/p&gt;&lt;p&gt;A(脸色苍白，疲倦的)：啊？英语剧本？这是怎么回事？&lt;/p&gt;&lt;p&gt;P(笑意，疑惑地)：怎么？你是不是忘记了？就是好几周之前老师布置的啊？&lt;/p&gt;&lt;p&gt;A(疲倦的)：我….好像想起来了！啊！怎么办！我都忘记要组队这回事了！你们还缺人嘛？让我混个水呗……&lt;/p&gt;&lt;p&gt;P:所以就是来找你啊，(疑惑地)你怎么了？看起来脸色很不好诶，生病了吗？&lt;/p&gt;&lt;p&gt;A：没，可能就是昨天晚上没睡好，昨天快半夜的时候，我舍友在打游戏，我实在是被吵得睡不着(叹息)打起精神来听宙斯教授的生化课，听得都快睡着了……&lt;/p&gt;&lt;p&gt;P: hhh,原来是这样，我舍友昨天也打游戏来着，一直读书太辛苦了嘛，就打游戏放松一下……可是，我觉得生化老师讲的还不错的，就是，唉，今天又把小测安排上了……你要是觉得他上课太无聊了，你下次可以跟他反馈一下啊&lt;/p&gt;&lt;p&gt;A：我都想过好几次了，本来想是利用课间去跟他说的，可是每次课间都看见密涅瓦很认真地问问题，就没有上去了……(笑)&lt;/p&gt;&lt;p&gt;(此时，M上)&lt;/p&gt;&lt;p&gt;M(高兴地)：hello，A,P，你们在聊什么那么开心呢？&lt;/p&gt;&lt;p&gt;P：我刚才成功把A 拉进我们团队了！&lt;/p&gt;&lt;p&gt;M：那真是太好了，这样一来，我们就有一个完整的团队来和L的队伍竞争了，我真是迫不及待要打败他了。&lt;/p&gt;&lt;p&gt;A： hhh，听你这样说，你们是不是有什么仇啊？&lt;/p&gt;&lt;p&gt;M：那倒没有，说起来昨天我宿舍还真是被他带人抽检了，结果变成了D级宿舍，真是太惨了，不过哪能怪别人呢？&lt;/p&gt;&lt;p&gt;A&amp;amp;P：真为你感到伤心。&lt;/p&gt;&lt;p&gt;(三人下)&lt;/p&gt;&lt;h5&gt;第二幕 有情&lt;/h5&gt;&lt;p&gt;(一个阴沉的下午，空教授，p，B，M，P四人上)&lt;/p&gt;&lt;p&gt;P：大家都到了吧？(把手上的剧本分给大家)大家先看一下我们之前写的剧本，老师说，下周我们就要上台表演了，我们时间有些紧张啊，今天先彩排一下……&lt;/p&gt;&lt;p&gt;M:(突然吐槽)我突然发现我花在英语上的时间比专业课的还多嘞，不行啊，我们赶紧排一下，晚上我还得去教室复习一下我的生理学……&lt;/p&gt;&lt;p&gt;B:别着急啊(笑)天天不都是这样？&lt;/p&gt;&lt;p&gt;A(低头看了一下剧本)：你们确定我这个角色这么惨的吗？你看看…….这个人怎么会一天里去上课自行车掉链条，上课掏出手机看时间被辅导员抓……&lt;/p&gt;&lt;p&gt;B:你可还不知道后面有更惨的呢？P不是写他午餐在食堂吃到虫子，还有……好象是洗头发洗到一半突然停水了？是吧？(疑惑地，问P)&lt;/p&gt;&lt;p&gt;P：是啊，之前想过这样写来着，就是不知道怎么安排这个停水的情节，工程队又把水管挖断了？太老套了吧，我觉得观众不会喜欢的……&lt;/p&gt;&lt;p&gt;A:可是为什么不写点浪漫的东西呢，像爱情之类的啊，你知道，爱情是文学作品永恒的主题啊？&lt;/p&gt;&lt;p&gt;M：这不是安排到我的角色里了？不过，好像是在塑造一个花花公子的形象诶！&lt;/p&gt;&lt;p&gt;A：emmm，等会，让我看看你的台词….(表演状)噢！我的兄弟！当我遇到暗恋的人们时，我要摘下我的勋章，用我的黄金给她换一本厚厚的书籍…… (停顿，恢复正常)老兄！这一段特别莎士比亚啊！&lt;/p&gt;&lt;p&gt;P：这就是个梦幻一样的场景啊，别想那么多了，同志们，一寸光阴一寸金，我们去找个地方排练吧！珍惜现在的美好时光吧!&lt;/p&gt;&lt;p&gt;(四人下。)&lt;/p&gt;&lt;h5&gt;尾声&lt;/h5&gt;&lt;p&gt;@：公元2017年11月，J推行年段大洗牌，是月，集体震动不安，历史上真实的闹剧来得往往比虚拟的更真实，更残忍，也更无常。&lt;/p&gt;&lt;h4&gt;参考资料&lt;/h4&gt;&lt;ol&gt;&lt;li&gt;叶嘉莹诗：尽夜狂风撼大城，悲笳哀角不堪听。晴明半日寒仍劲，灯火深宵夜有情。入世已拼愁似海，逃禅不借隐为名。伐茅盖顶他年事，生计如斯总未更。&lt;/li&gt;&lt;li&gt;古希腊与古罗马诸神系统，百度百科。&lt;/li&gt;&lt;li&gt;一段关于hy老师初上任的往事。&lt;/li&gt;&lt;li&gt;一堂无聊的生化课+安排上了的考试&lt;/li&gt;&lt;li&gt;一名由于舍友深夜打游戏而睡不着觉的人&lt;/li&gt;&lt;li&gt;将要表演的play《医学生的一天》+彩排&lt;/li&gt;&lt;li&gt;一个被抽检而成为D级的悲惨宿舍&lt;/li&gt;&lt;li&gt;一个无意间被吐槽的食堂&lt;/li&gt;&lt;/ol&gt;</content:encoded>
     </item>
     <item>
       <title>不妨作此歌</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-11-18-不妨作此歌/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-11-18-不妨作此歌/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-11-18-不妨作此歌/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-11-18-不妨作此歌/</guid>
       <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -504,8 +504,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>Double-labeling immunofluorescence staining</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-11-17-double-labeling-immunofluorescence-staining/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-11-17-double-labeling-immunofluorescence-staining/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-11-17-double-labeling-immunofluorescence-staining/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-11-17-double-labeling-immunofluorescence-staining/</guid>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -513,8 +513,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>十年了，后街</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-11-03-十年了-后街/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-11-03-十年了-后街/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-11-03-十年了-后街/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-11-03-十年了-后街/</guid>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -522,17 +522,17 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>从单标记到多标记的免疫荧光技术</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/</guid>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;从单标记到多标记的免疫荧光技术&lt;/h3&gt;&lt;h3&gt;Reviewed：从单标记到多标记的免疫荧光技术&lt;/h3&gt;&lt;h4&gt;Abstract&lt;/h4&gt;&lt;p&gt;免疫荧光标记技术是借助免疫学抗原与抗体特异性结合的原理，通过蛋白荧光标记的手段，使得蛋白质可见光化，以研究目标特定蛋白(抗原/抗体)的表达定量和形态定位的技术手段，是在制片过程中使用的一种标记技术，在不断的发展中，形成了从单标记到多标记的技术突破，这些突破使得免疫荧光技术能够研究不同蛋白间的相互作用、共表达、共定位，研究信号通路上下游蛋白表达的关系。&lt;/p&gt;&lt;p&gt;免疫荧光标记技术广泛运用于病毒、细菌检测，组织病理学诊断，具有较好的可行性，当然也存在一些不足的地方，针对不足之处，发展出了不同的技术来完善和补充，本报告主要从技术的设备、标记原理方法及其运用等方面来概括免疫荧光技术的发展和实际运用。&lt;/p&gt;&lt;h4&gt;免疫荧光技术的设备基础&lt;/h4&gt;&lt;p&gt;在免疫荧光技术中，需要运用到免疫荧光试剂(染料)，特定蛋白抗体(抗体一&amp;amp;抗体二)，在制片过程中需要恒温冰冻切片机、自动脱水机、石蜡切片机等设备，在观察切片效果时，运用的显微镜可为激光扫描共聚焦显微镜(光谱分析技术)、荧光显微镜、透射电镜显微镜。在光谱成像检测之外，也有使用质谱技术检测切片荧光标记结果的例子。&lt;/p&gt;&lt;p&gt;免疫荧光试剂染料种类繁多，包括有机小分子染料、 半导体量子点、 稀土离子配合物,其中有机小分子染料多为含有多环芳烃的有机分子,是目前应用最为普遍的荧光素。·[1]&lt;/p&gt;&lt;p&gt;!&lt;a href="https://rainoffallingstar.github.io/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/1.png" target="_blank" rel="noopener noreferrer"&gt;img&lt;/a&gt;&lt;/p&gt;&lt;h4&gt;Method&lt;/h4&gt;&lt;p&gt;在免疫荧光技术的发展上，主要是围绕着荧光信号增强、多标记分辨的思路和实际需要进行发展的。&lt;/p&gt;&lt;h5&gt;传统单标记及其向多标记发展的局限&lt;/h5&gt;&lt;p&gt;传统上，单蛋白标记单纯使用抗原-抗体-荧光蛋白的思路，使用单一抗体标记后发现观察到的实验结果荧光信号弱，于是引入第二抗体，形成了抗原-抗体×2-荧光蛋白的复合体，使得荧光信号增强，但是第二抗体由于抗体种属的限制使得其选择性少，从而难以找到标记第二种蛋白质的抗体。为了克服这一问题，发展出了循环洗脱复染(simple)技术，即进行单标记观测得到图像，然后洗脱染料和抗体，反复多次，将所有图像通过 image j 图像叠加原理叠加，从而使得多种蛋白在同一图片中共显示。类似的方法是连续切片法，这些都一定程度上间接达到了多标记的目地，但由于洗脱等操作造成的破坏和损失，对实验的精确度有一定的影响。&lt;/p&gt;&lt;p&gt;在向多标记发展的过程中，另外一个要避免的是多标记多种染料颜色之间的干扰和重叠，同时切片自发荧光背景干扰也是一个令人头痛的问题，这些都直接关系到检测的结果和精确度，当然也是一个可以设计解决的问题。&lt;/p&gt;&lt;p&gt;在这些问题面前，选择了不同的突破口会有不同的技术进展，站在风口浪尖上着眼于突破抗体种属的限制或者改良simple技术都给免疫荧光标记技术带来了不同的发展，但是其突破口都集中体现在染色过程中抗体淬灭的处理上。&lt;/p&gt;&lt;h5&gt;突破抗体种属问题的opal技术&lt;/h5&gt;&lt;p&gt;在传统方法的一抗、二抗孵育之后，利用opal技术进行TSA信号放大，基于TSA信号增强原理的opal技术，利用HRP(辣根过氧化氢酶)作用下，荧光标记酪胺(T)成激活态(T)之后，T× 与蛋白质上的酪氨酸残基成共价作用，而抗原抗体特异性结合属于非共价结合，作用力较小的缘故，从而利用微波加热的方式解离抗体A，从而使得抗体A能够用于下一轮的标记上，经过如此多轮反复染色循环，从而使得标记多种蛋白质在同一组织内得以实现。[3]&lt;/p&gt;&lt;p&gt;!&lt;a href="https://rainoffallingstar.github.io/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/2.png" target="_blank" rel="noopener noreferrer"&gt;img&lt;/a&gt;&lt;/p&gt;&lt;p&gt;C,TSA 染色过程;D,TSA/Opal 与传统免疫染色标记方法的比较[3]&lt;/p&gt;&lt;h5&gt;改良simple技术的多重间接免疫荧光细胞学染色技术&lt;/h5&gt;&lt;p&gt;改良于simple技术的多重间接免疫荧光细胞学染色技术 ( 第一轮免疫荧光染色 - IgG Fab封闭法联合化学试剂清除法 - 第二轮免疫荧光染色 )，沿用后期图片处理时图片叠加的操作，发展出了更加有效的抗体淬灭和染料清除技术，减小了洗脱过程中的损伤等误差，在这个过程中，运用IgG Fab封闭未结合的抗体二(PH4-9)并观察成像，然后运用B-ME&amp;amp;SDS清除IgG，利用GnHcl清除IgM(用尿素中和该试剂)，利用NaBH4清除染料，在洗脱过后循环反复，得到下一种蛋白质的荧光染色。[1]&lt;/p&gt;&lt;h4&gt;运用&lt;/h4&gt;&lt;h5&gt;传统单标记在细菌、病毒检测中的运用&lt;/h5&gt;&lt;p&gt;单标记可用于葡萄球菌、沙门氏菌、李斯特菌的检测与鉴别上，对于病毒的检测也具有很好的灵敏度，在寄生虫病的检测上也得到了广泛的运用。在抗原定位、病原微生物分布规律和亲嗜性、功能蛋白研究中也得到广泛运用。[5]&lt;/p&gt;&lt;h5&gt;多标记技术的发展与在组织病理诊断上的作用&lt;/h5&gt;&lt;p&gt;多标记技术更多地运用于肿瘤抗原以及微环境的检测，在心脏活检以及肾穿刺活检等组织病理学检测上也发挥着重要的作用。[2]&lt;/p&gt;&lt;h5&gt;纳米金-银加强法与免疫荧光标记技术在神经科学上的运用&lt;/h5&gt;&lt;p&gt;在2013年的一篇研究论文中， 来自徐州医学院的研究团队，利用opal技术和免疫金-银法标记观察了观察脑室管膜下区 (SVZ ) 神 经 干 细 胞 上 N- 甲 基 -D- 天 冬 氨 酸 受 体 亚 单 位 1(NR1)与行巢蛋白的超微分布，并认为“包 埋 前 免 疫 电 镜 双 重 标 记 技 术 对 组 织的抗原性保存较好, 免疫金颗粒对抗原定位 较 精 确, 有 利 于 研 究 两 种 递 质 在 同 一 个 细 胞 或 终 末 内 的共存或分析递质与其相应受体之间的联系, 特别是对于中枢神经系统的研究有独到之处。”[7]&lt;/p&gt;&lt;p&gt;其操作时首先使用opal技术对行巢蛋白进行标记，然后使用一抗、金标记的二抗依次对NR1进行标记，固定切片，进行银加强，后进行常规电镜制样。&lt;/p&gt;&lt;p&gt;该团队在实验后讨论中对实验操作提出了以下几点注意事项：“1 ) 固 定 剂 选 择 4%多聚甲醛 −1 戊 二 醛 −1% 饱 和 苦 味 酸, 这 样 既 考 虑到了固定液在组织 中 渗 透 速 度 要 快, 也 顾 及 到 组 织不能固定 过 久 而 影 响 抗 原 的 保 存;2 ) 选 用 厚 度 为150 μ m 的 脑 片 , 可 有 效 预 防 脱 水 时 切 片 卷 曲 3 ) 免 疫 染 色 后 在 体 视 显 微 镜 下 先 定 位 取 SVZ 效果较 理 想;5 ) 样 本 固 定 后 以 及 银 加 强前后, 脑片要充分漂洗干净, 避免样本内自由醛基与抗体结合以及杂质引起的非特异性;6 ) 由于抗体 很难穿透到组织深层, 修块时手又很难控制厚度, 所以包埋好的样品表面最好进行半薄修块;7 ) 超薄切片不经铀、 铅染色, 以防染色过程中可能出现的污染与金颗粒混淆。”[7]&lt;/p&gt;&lt;h4&gt;Disscussion&lt;/h4&gt;&lt;p&gt;免疫荧光技术为特定蛋白的检测和研究提供了一个比较准确和灵敏的方法，在一些比较研究中显示荧光探针pcr技术灵敏度与特异性高于免疫荧光技术，结果表明，免疫荧光技术受到试剂敏感性、特异性、染色时间、染色温度、以及抗体稀释度的影响。[6]同时切片也对观察结果带来一定影响，如果切片太薄 则会使得阳性表达减弱,如太厚则会出现假阳性的可能。&lt;/p&gt;&lt;p&gt;在对细胞染色的过程中，由于细胞骨架蛋白的表达稳定，容易与同源二抗重叠，所以一般的染色顺序为细胞膜蛋白到细胞骨架蛋白。在多荧光染色上，共染串色的可能性会随着染料的增多而增大，多色荧光染色方案的选择为5种或6种最可靠。[1]&lt;/p&gt;&lt;p&gt;现在免疫荧光技术的主要的研究方向主要是电脑光谱分析和图像处理上面，同时也通过电脑分析减少了一些误差和判断上的增强。[3]&lt;/p&gt;&lt;h4&gt;Reference&lt;/h4&gt;&lt;p&gt;[1]杨敏,田志华,马博,贾凯英,张鸿丽,富晶,綦雯雯,赵威.多重间接免疫荧光技术的建立及其在肝癌样本多种抗原检测中的应用[J].细胞与分子免疫学杂志,2018,34(02):97-104.&lt;/p&gt;&lt;p&gt;[2]胡斌.肾穿刺组织免疫荧光病理检查技术的应用研究[J].人人健康,2017(20):9.&lt;/p&gt;&lt;p&gt;[3]钱帮国,焦磊.多标记免疫荧光染色及多光谱成像技术在组织学研究中的应用[J].中国组织化学与细胞化学杂志,2017,26(04):373-382.&lt;/p&gt;&lt;p&gt;[4]王思思.免疫检测技术及其研究进展[J].临床医药文献电子杂志,2017,4(45):8905.&lt;/p&gt;&lt;p&gt;[5]杨旭清,张韬.免疫荧光技术在寄生虫病诊断中的应用[J].云南畜牧兽医,2016(06):40-41.&lt;/p&gt;&lt;p&gt;[6]俞松山,叶惠英,韩珊珊.免疫荧光技术与荧光探针PCR技术用于检测小儿呼吸道合胞病毒的对比分析[J].实用预防医学,2016,23(06):750-752.&lt;/p&gt;&lt;p&gt;[7]于红丽,李志宁,董富兴,张伟,董红燕.大鼠脑室管膜下区包埋前免疫电镜双标技术的探索[J].江苏医药,2013,39(14):1627-1629.&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;h3&gt;从单标记到多标记的免疫荧光技术&lt;/h3&gt;&lt;h3&gt;Reviewed：从单标记到多标记的免疫荧光技术&lt;/h3&gt;&lt;h4&gt;Abstract&lt;/h4&gt;&lt;p&gt;免疫荧光标记技术是借助免疫学抗原与抗体特异性结合的原理，通过蛋白荧光标记的手段，使得蛋白质可见光化，以研究目标特定蛋白(抗原/抗体)的表达定量和形态定位的技术手段，是在制片过程中使用的一种标记技术，在不断的发展中，形成了从单标记到多标记的技术突破，这些突破使得免疫荧光技术能够研究不同蛋白间的相互作用、共表达、共定位，研究信号通路上下游蛋白表达的关系。&lt;/p&gt;&lt;p&gt;免疫荧光标记技术广泛运用于病毒、细菌检测，组织病理学诊断，具有较好的可行性，当然也存在一些不足的地方，针对不足之处，发展出了不同的技术来完善和补充，本报告主要从技术的设备、标记原理方法及其运用等方面来概括免疫荧光技术的发展和实际运用。&lt;/p&gt;&lt;h4&gt;免疫荧光技术的设备基础&lt;/h4&gt;&lt;p&gt;在免疫荧光技术中，需要运用到免疫荧光试剂(染料)，特定蛋白抗体(抗体一&amp;amp;抗体二)，在制片过程中需要恒温冰冻切片机、自动脱水机、石蜡切片机等设备，在观察切片效果时，运用的显微镜可为激光扫描共聚焦显微镜(光谱分析技术)、荧光显微镜、透射电镜显微镜。在光谱成像检测之外，也有使用质谱技术检测切片荧光标记结果的例子。&lt;/p&gt;&lt;p&gt;免疫荧光试剂染料种类繁多，包括有机小分子染料、 半导体量子点、 稀土离子配合物,其中有机小分子染料多为含有多环芳烃的有机分子,是目前应用最为普遍的荧光素。·[1]&lt;/p&gt;&lt;p&gt;!&lt;a href="https://blog.rainoffallingstar.com/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/1.png" target="_blank" rel="noopener noreferrer"&gt;img&lt;/a&gt;&lt;/p&gt;&lt;h4&gt;Method&lt;/h4&gt;&lt;p&gt;在免疫荧光技术的发展上，主要是围绕着荧光信号增强、多标记分辨的思路和实际需要进行发展的。&lt;/p&gt;&lt;h5&gt;传统单标记及其向多标记发展的局限&lt;/h5&gt;&lt;p&gt;传统上，单蛋白标记单纯使用抗原-抗体-荧光蛋白的思路，使用单一抗体标记后发现观察到的实验结果荧光信号弱，于是引入第二抗体，形成了抗原-抗体×2-荧光蛋白的复合体，使得荧光信号增强，但是第二抗体由于抗体种属的限制使得其选择性少，从而难以找到标记第二种蛋白质的抗体。为了克服这一问题，发展出了循环洗脱复染(simple)技术，即进行单标记观测得到图像，然后洗脱染料和抗体，反复多次，将所有图像通过 image j 图像叠加原理叠加，从而使得多种蛋白在同一图片中共显示。类似的方法是连续切片法，这些都一定程度上间接达到了多标记的目地，但由于洗脱等操作造成的破坏和损失，对实验的精确度有一定的影响。&lt;/p&gt;&lt;p&gt;在向多标记发展的过程中，另外一个要避免的是多标记多种染料颜色之间的干扰和重叠，同时切片自发荧光背景干扰也是一个令人头痛的问题，这些都直接关系到检测的结果和精确度，当然也是一个可以设计解决的问题。&lt;/p&gt;&lt;p&gt;在这些问题面前，选择了不同的突破口会有不同的技术进展，站在风口浪尖上着眼于突破抗体种属的限制或者改良simple技术都给免疫荧光标记技术带来了不同的发展，但是其突破口都集中体现在染色过程中抗体淬灭的处理上。&lt;/p&gt;&lt;h5&gt;突破抗体种属问题的opal技术&lt;/h5&gt;&lt;p&gt;在传统方法的一抗、二抗孵育之后，利用opal技术进行TSA信号放大，基于TSA信号增强原理的opal技术，利用HRP(辣根过氧化氢酶)作用下，荧光标记酪胺(T)成激活态(T)之后，T× 与蛋白质上的酪氨酸残基成共价作用，而抗原抗体特异性结合属于非共价结合，作用力较小的缘故，从而利用微波加热的方式解离抗体A，从而使得抗体A能够用于下一轮的标记上，经过如此多轮反复染色循环，从而使得标记多种蛋白质在同一组织内得以实现。[3]&lt;/p&gt;&lt;p&gt;!&lt;a href="https://blog.rainoffallingstar.com/Blog/2018-10-06-从单标记到多标记的免疫荧光技术/2.png" target="_blank" rel="noopener noreferrer"&gt;img&lt;/a&gt;&lt;/p&gt;&lt;p&gt;C,TSA 染色过程;D,TSA/Opal 与传统免疫染色标记方法的比较[3]&lt;/p&gt;&lt;h5&gt;改良simple技术的多重间接免疫荧光细胞学染色技术&lt;/h5&gt;&lt;p&gt;改良于simple技术的多重间接免疫荧光细胞学染色技术 ( 第一轮免疫荧光染色 - IgG Fab封闭法联合化学试剂清除法 - 第二轮免疫荧光染色 )，沿用后期图片处理时图片叠加的操作，发展出了更加有效的抗体淬灭和染料清除技术，减小了洗脱过程中的损伤等误差，在这个过程中，运用IgG Fab封闭未结合的抗体二(PH4-9)并观察成像，然后运用B-ME&amp;amp;SDS清除IgG，利用GnHcl清除IgM(用尿素中和该试剂)，利用NaBH4清除染料，在洗脱过后循环反复，得到下一种蛋白质的荧光染色。[1]&lt;/p&gt;&lt;h4&gt;运用&lt;/h4&gt;&lt;h5&gt;传统单标记在细菌、病毒检测中的运用&lt;/h5&gt;&lt;p&gt;单标记可用于葡萄球菌、沙门氏菌、李斯特菌的检测与鉴别上，对于病毒的检测也具有很好的灵敏度，在寄生虫病的检测上也得到了广泛的运用。在抗原定位、病原微生物分布规律和亲嗜性、功能蛋白研究中也得到广泛运用。[5]&lt;/p&gt;&lt;h5&gt;多标记技术的发展与在组织病理诊断上的作用&lt;/h5&gt;&lt;p&gt;多标记技术更多地运用于肿瘤抗原以及微环境的检测，在心脏活检以及肾穿刺活检等组织病理学检测上也发挥着重要的作用。[2]&lt;/p&gt;&lt;h5&gt;纳米金-银加强法与免疫荧光标记技术在神经科学上的运用&lt;/h5&gt;&lt;p&gt;在2013年的一篇研究论文中， 来自徐州医学院的研究团队，利用opal技术和免疫金-银法标记观察了观察脑室管膜下区 (SVZ ) 神 经 干 细 胞 上 N- 甲 基 -D- 天 冬 氨 酸 受 体 亚 单 位 1(NR1)与行巢蛋白的超微分布，并认为“包 埋 前 免 疫 电 镜 双 重 标 记 技 术 对 组 织的抗原性保存较好, 免疫金颗粒对抗原定位 较 精 确, 有 利 于 研 究 两 种 递 质 在 同 一 个 细 胞 或 终 末 内 的共存或分析递质与其相应受体之间的联系, 特别是对于中枢神经系统的研究有独到之处。”[7]&lt;/p&gt;&lt;p&gt;其操作时首先使用opal技术对行巢蛋白进行标记，然后使用一抗、金标记的二抗依次对NR1进行标记，固定切片，进行银加强，后进行常规电镜制样。&lt;/p&gt;&lt;p&gt;该团队在实验后讨论中对实验操作提出了以下几点注意事项：“1 ) 固 定 剂 选 择 4%多聚甲醛 −1 戊 二 醛 −1% 饱 和 苦 味 酸, 这 样 既 考 虑到了固定液在组织 中 渗 透 速 度 要 快, 也 顾 及 到 组 织不能固定 过 久 而 影 响 抗 原 的 保 存;2 ) 选 用 厚 度 为150 μ m 的 脑 片 , 可 有 效 预 防 脱 水 时 切 片 卷 曲 3 ) 免 疫 染 色 后 在 体 视 显 微 镜 下 先 定 位 取 SVZ 效果较 理 想;5 ) 样 本 固 定 后 以 及 银 加 强前后, 脑片要充分漂洗干净, 避免样本内自由醛基与抗体结合以及杂质引起的非特异性;6 ) 由于抗体 很难穿透到组织深层, 修块时手又很难控制厚度, 所以包埋好的样品表面最好进行半薄修块;7 ) 超薄切片不经铀、 铅染色, 以防染色过程中可能出现的污染与金颗粒混淆。”[7]&lt;/p&gt;&lt;h4&gt;Disscussion&lt;/h4&gt;&lt;p&gt;免疫荧光技术为特定蛋白的检测和研究提供了一个比较准确和灵敏的方法，在一些比较研究中显示荧光探针pcr技术灵敏度与特异性高于免疫荧光技术，结果表明，免疫荧光技术受到试剂敏感性、特异性、染色时间、染色温度、以及抗体稀释度的影响。[6]同时切片也对观察结果带来一定影响，如果切片太薄 则会使得阳性表达减弱,如太厚则会出现假阳性的可能。&lt;/p&gt;&lt;p&gt;在对细胞染色的过程中，由于细胞骨架蛋白的表达稳定，容易与同源二抗重叠，所以一般的染色顺序为细胞膜蛋白到细胞骨架蛋白。在多荧光染色上，共染串色的可能性会随着染料的增多而增大，多色荧光染色方案的选择为5种或6种最可靠。[1]&lt;/p&gt;&lt;p&gt;现在免疫荧光技术的主要的研究方向主要是电脑光谱分析和图像处理上面，同时也通过电脑分析减少了一些误差和判断上的增强。[3]&lt;/p&gt;&lt;h4&gt;Reference&lt;/h4&gt;&lt;p&gt;[1]杨敏,田志华,马博,贾凯英,张鸿丽,富晶,綦雯雯,赵威.多重间接免疫荧光技术的建立及其在肝癌样本多种抗原检测中的应用[J].细胞与分子免疫学杂志,2018,34(02):97-104.&lt;/p&gt;&lt;p&gt;[2]胡斌.肾穿刺组织免疫荧光病理检查技术的应用研究[J].人人健康,2017(20):9.&lt;/p&gt;&lt;p&gt;[3]钱帮国,焦磊.多标记免疫荧光染色及多光谱成像技术在组织学研究中的应用[J].中国组织化学与细胞化学杂志,2017,26(04):373-382.&lt;/p&gt;&lt;p&gt;[4]王思思.免疫检测技术及其研究进展[J].临床医药文献电子杂志,2017,4(45):8905.&lt;/p&gt;&lt;p&gt;[5]杨旭清,张韬.免疫荧光技术在寄生虫病诊断中的应用[J].云南畜牧兽医,2016(06):40-41.&lt;/p&gt;&lt;p&gt;[6]俞松山,叶惠英,韩珊珊.免疫荧光技术与荧光探针PCR技术用于检测小儿呼吸道合胞病毒的对比分析[J].实用预防医学,2016,23(06):750-752.&lt;/p&gt;&lt;p&gt;[7]于红丽,李志宁,董富兴,张伟,董红燕.大鼠脑室管膜下区包埋前免疫电镜双标技术的探索[J].江苏医药,2013,39(14):1627-1629.&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>那往事如何叫人伤心</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-10-03-那往事如何叫人伤心/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-10-03-那往事如何叫人伤心/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-10-03-那往事如何叫人伤心/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-10-03-那往事如何叫人伤心/</guid>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -540,8 +540,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>心动的物理学原理</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-09-27-心动的物理学原理/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-09-27-心动的物理学原理/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-09-27-心动的物理学原理/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-09-27-心动的物理学原理/</guid>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -549,8 +549,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>阅读报告：脑出⾎后⾎肿周围脑组织神经细胞⾃噬现象的观察</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-09-19-阅读报告-脑出后肿周围脑组织神经细胞噬现象的观察/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-09-19-阅读报告-脑出后肿周围脑组织神经细胞噬现象的观察/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-09-19-阅读报告-脑出后肿周围脑组织神经细胞噬现象的观察/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-09-19-阅读报告-脑出后肿周围脑组织神经细胞噬现象的观察/</guid>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -558,8 +558,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>那天风雨吹过</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-07-08-那天风雨吹过/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-07-08-那天风雨吹过/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-07-08-那天风雨吹过/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-07-08-那天风雨吹过/</guid>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -567,8 +567,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>玫瑰红茶，柠檬绿茶</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-06-27-玫瑰红茶-柠檬绿茶/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-06-27-玫瑰红茶-柠檬绿茶/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-06-27-玫瑰红茶-柠檬绿茶/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-06-27-玫瑰红茶-柠檬绿茶/</guid>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -576,8 +576,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>当我梦见你伤心</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-06-03-当我梦见你伤心/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-06-03-当我梦见你伤心/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-06-03-当我梦见你伤心/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-06-03-当我梦见你伤心/</guid>
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -585,8 +585,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>有机</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-06-01-有机/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-06-01-有机/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-06-01-有机/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-06-01-有机/</guid>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -594,8 +594,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>春寒</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-05-03-春寒/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-05-03-春寒/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-05-03-春寒/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-05-03-春寒/</guid>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -603,8 +603,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>闭关思语湖</title>
-      <link>https://rainoffallingstar.github.io/Blog/2018-01-07-闭关思语湖/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2018-01-07-闭关思语湖/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2018-01-07-闭关思语湖/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2018-01-07-闭关思语湖/</guid>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -612,8 +612,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>世界在目指处</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-12-31-世界在目指处/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-12-31-世界在目指处/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-12-31-世界在目指处/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-12-31-世界在目指处/</guid>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -621,8 +621,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>温故2017</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-12-24-温故2017/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-12-24-温故2017/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-12-24-温故2017/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-12-24-温故2017/</guid>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -630,8 +630,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>迷魂记</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-11-11-迷魂记/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-11-11-迷魂记/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-11-11-迷魂记/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-11-11-迷魂记/</guid>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -639,8 +639,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>失卡记</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-10-28-失卡记/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-10-28-失卡记/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-10-28-失卡记/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-10-28-失卡记/</guid>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -648,8 +648,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>初见</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-10-02-初见/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-10-02-初见/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-10-02-初见/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-10-02-初见/</guid>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -657,8 +657,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>有谁知我此间情</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-08-08-有谁知我此间情/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-08-08-有谁知我此间情/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-08-08-有谁知我此间情/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-08-08-有谁知我此间情/</guid>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -666,8 +666,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>Mr.C</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-06-25-mrc/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-06-25-mrc/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-06-25-mrc/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-06-25-mrc/</guid>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -675,8 +675,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>苍鹰时代</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-06-19-苍鹰时代/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-06-19-苍鹰时代/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-06-19-苍鹰时代/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-06-19-苍鹰时代/</guid>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -684,17 +684,17 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>实验文本一至十一</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-05-30-实验文本一至十一/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-05-30-实验文本一至十一/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-05-30-实验文本一至十一/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-05-30-实验文本一至十一/</guid>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;h3&gt;实验文本一至十一&lt;/h3&gt;&lt;p&gt;在高中时候开始读史书。&lt;/p&gt;&lt;p&gt;后来在某次与袁夫子书内妙手偶得一篇，始得谢夫子所识，乃命余以为议论文。&lt;/p&gt;&lt;p&gt;然前无先例，后无相随，而古今之体异矣。余乃艰难求索，究文法，思文理，终得练习作数十篇，命之曰：“实验文本”，其中道理，今细究之，虽恐非良作，尤可存之。&lt;/p&gt;&lt;p&gt;时少年风景，意气自恃，诗酒相洒而壮志相倾。后历六月事变，摧心苦胃，竟是逐物不能，心守不成，下笔无言，终于学医。&lt;/p&gt;&lt;p&gt;今又检视之，盖诸卿一别，五年矣。&lt;/p&gt;&lt;p&gt;&lt;a href="https://gitee.com/rainoffallingstar/rainoffallingstar/attach_files/959169/download/1.pdf" target="_blank" rel="noopener noreferrer"&gt;实验文本一&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gitee.com/rainoffallingstar/rainoffallingstar/attach_files/959169/download/10.pdf" target="_blank" rel="noopener noreferrer"&gt;实验文本一至十&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2017-05-30-实验文本一至十一/imgs/11.pdf" target="_blank" rel="noopener noreferrer"&gt;实验文本十一&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;h3&gt;实验文本一至十一&lt;/h3&gt;&lt;p&gt;在高中时候开始读史书。&lt;/p&gt;&lt;p&gt;后来在某次与袁夫子书内妙手偶得一篇，始得谢夫子所识，乃命余以为议论文。&lt;/p&gt;&lt;p&gt;然前无先例，后无相随，而古今之体异矣。余乃艰难求索，究文法，思文理，终得练习作数十篇，命之曰：“实验文本”，其中道理，今细究之，虽恐非良作，尤可存之。&lt;/p&gt;&lt;p&gt;时少年风景，意气自恃，诗酒相洒而壮志相倾。后历六月事变，摧心苦胃，竟是逐物不能，心守不成，下笔无言，终于学医。&lt;/p&gt;&lt;p&gt;今又检视之，盖诸卿一别，五年矣。&lt;/p&gt;&lt;p&gt;&lt;a href="https://gitee.com/rainoffallingstar/rainoffallingstar/attach_files/959169/download/1.pdf" target="_blank" rel="noopener noreferrer"&gt;实验文本一&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gitee.com/rainoffallingstar/rainoffallingstar/attach_files/959169/download/10.pdf" target="_blank" rel="noopener noreferrer"&gt;实验文本一至十&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2017-05-30-实验文本一至十一/imgs/11.pdf" target="_blank" rel="noopener noreferrer"&gt;实验文本十一&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>一个高三党の白描</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-05-03-一个高三党の白描/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-05-03-一个高三党の白描/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-05-03-一个高三党の白描/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-05-03-一个高三党の白描/</guid>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -702,8 +702,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>天海听音录</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-04-30-天海听音录/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-04-30-天海听音录/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-04-30-天海听音录/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-04-30-天海听音录/</guid>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -711,8 +711,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>春兴八首</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-04-03-春兴八首/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-04-03-春兴八首/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-04-03-春兴八首/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-04-03-春兴八首/</guid>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -720,8 +720,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>山雨何处栖</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-01-02-山雨何处栖/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-01-02-山雨何处栖/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-01-02-山雨何处栖/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-01-02-山雨何处栖/</guid>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -729,8 +729,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>岁月忽已晚，思君令人老</title>
-      <link>https://rainoffallingstar.github.io/Blog/2017-01-01-岁月忽已晚-思君令人老/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2017-01-01-岁月忽已晚-思君令人老/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2017-01-01-岁月忽已晚-思君令人老/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2017-01-01-岁月忽已晚-思君令人老/</guid>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -738,8 +738,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>与袁夫子书</title>
-      <link>https://rainoffallingstar.github.io/Blog/2016-11-20-与袁夫子书/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2016-11-20-与袁夫子书/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2016-11-20-与袁夫子书/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2016-11-20-与袁夫子书/</guid>
       <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -747,17 +747,17 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>田园时代</title>
-      <link>https://rainoffallingstar.github.io/Blog/2016-10-08-田园时代/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2016-10-08-田园时代/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2016-10-08-田园时代/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2016-10-08-田园时代/</guid>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
-      <content:encoded>&lt;p&gt;&lt;a href="https://rainoffallingstar.github.io/Blog/2016-10-08-田园时代/imgs/20161008tysd.pdf" target="_blank" rel="noopener noreferrer"&gt;田园时代&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;&lt;a href="https://blog.rainoffallingstar.com/Blog/2016-10-08-田园时代/imgs/20161008tysd.pdf" target="_blank" rel="noopener noreferrer"&gt;田园时代&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>温故2015—2016:跋涉</title>
-      <link>https://rainoffallingstar.github.io/Blog/2016-06-04-温故2015-2016跋涉/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2016-06-04-温故2015-2016跋涉/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2016-06-04-温故2015-2016跋涉/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2016-06-04-温故2015-2016跋涉/</guid>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -765,8 +765,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>城府</title>
-      <link>https://rainoffallingstar.github.io/Blog/2016-4-20-城府/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2016-4-20-城府/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2016-4-20-城府/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2016-4-20-城府/</guid>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -774,8 +774,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>曾之至明</title>
-      <link>https://rainoffallingstar.github.io/Blog/2015-08-16-曾之至明/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2015-08-16-曾之至明/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2015-08-16-曾之至明/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2015-08-16-曾之至明/</guid>
       <pubDate>Sun, 16 Aug 2015 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>
@@ -783,8 +783,8 @@ A foreign friend of yours has recently graduated from college and intends to fin
     </item>
     <item>
       <title>实验习作-不染心2013-2017</title>
-      <link>https://rainoffallingstar.github.io/Blog/2013-09-10-实验习作-不染心2013-2017/</link>
-      <guid isPermaLink="true">https://rainoffallingstar.github.io/Blog/2013-09-10-实验习作-不染心2013-2017/</guid>
+      <link>https://blog.rainoffallingstar.com/Blog/2013-09-10-实验习作-不染心2013-2017/</link>
+      <guid isPermaLink="true">https://blog.rainoffallingstar.com/Blog/2013-09-10-实验习作-不染心2013-2017/</guid>
       <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
       <category>Blog</category>
       <description>笔记、阅读报告与旧存档。凡是过往，皆为序章。</description>

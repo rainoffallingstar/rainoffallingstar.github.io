@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rainoffallingstar.github.io/sitemap.xml
+Sitemap: https://blog.rainoffallingstar.com/sitemap.xml
