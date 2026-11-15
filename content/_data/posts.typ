@@ -7,6 +7,7 @@
 #let posts = (
   (date: "2026-10-27", title: "OTTER：异种移植多组学工作流的预印本摘要", href: "/Blog/2026-10-27-OTTER-xenograft-multiomics-workflow/"),
   (date: "2025-12-31", title: "温故2024-2025", href: "/Blog/2025-12-31-温故2024-2025/"),
+  (date: "2024-08-27", title: "秋雾", href: "/Blog/2024-08-27-秋雾/"),
   (date: "2024-07-23", title: "下笔如有神", href: "/Blog/2024-07-23-下笔如有神/"),
   (date: "2024-04-03", title: "温故2023", href: "/Blog/2024-04-03-温故2023/"),
   (date: "2022-12-24", title: "温故2022", href: "/Blog/2022-12-24-温故2022/"),
