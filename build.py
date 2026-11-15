@@ -632,6 +632,47 @@ def build_pdf(force: bool = False) -> bool:
     return not stats.has_failures
 
 
+FONT_CHARSET_FILE = Path("tools/font-charset.txt")
+FONT_BUILD_SCRIPT = Path("tools/build_fonts.py")
+
+
+def check_font_coverage() -> bool:
+    """
+    检查内容里的字符是否都在手写字体的子集里。
+
+    中文字体按 tools/font-charset.txt 做子集后只有约 870 KB；如果新文章用到
+    集合外的字，浏览器会回退到系统字体，正文出现「混排」的空洞。这里只做
+    提示、不判失败 —— 缺字不影响构建，但值得重跑一次字体脚本。
+
+    返回:
+        bool: 无缺字时 True（便于与其他步骤并列调用）。
+    """
+    if not FONT_CHARSET_FILE.exists():
+        print(f"  ⚠ 未找到字体字符集 {FONT_CHARSET_FILE}，跳过检查。")
+        return True
+
+    known = set(FONT_CHARSET_FILE.read_text(encoding="utf-8"))
+    used: set[str] = set()
+    for typ_file in CONTENT_DIR.rglob("*.typ"):
+        used.update(typ_file.read_text(encoding="utf-8"))
+
+    missing = {
+        char
+        for char in used
+        if char.isprintable() and char not in known
+    }
+    if not missing:
+        return True
+
+    sample = "".join(sorted(missing)[:40])
+    print(f"  ⚠ 有 {len(missing)} 个字符不在手写字体子集里：{sample}")
+    print(
+        "    重新生成字体（并把新字加入 tools/font-charset.txt）:"
+        f" uv run --with fonttools --with brotli python3 {FONT_BUILD_SCRIPT}"
+    )
+    return True
+
+
 def copy_assets() -> bool:
     """
     复制静态资源到输出目录。
@@ -1440,6 +1481,7 @@ def build(force: bool = False) -> bool:
 
     results.append(copy_assets())
     results.append(copy_content_assets(force))
+    results.append(check_font_coverage())
 
     if site_url := get_site_url():
         results.append(generate_sitemap(site_url))

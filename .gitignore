@@ -41,3 +41,6 @@ TODO.md
 
 # local build helpers (Zhushu reader)
 _build/
+
+# font build cache (source TTFs, ~95 MB; rebuild with tools/build_fonts.py)
+tools/.cache/
