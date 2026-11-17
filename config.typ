@@ -10,6 +10,9 @@
 
 #import "tufted-lib/tufted.typ" as tufted
 #import "tufted-lib/byline.typ": article-byline
+// 文章索引：既是首页「最近更新」与时间线的数据源，也用来给文章页生成
+// 上一篇 / 下一篇。新增文章时只需在 content/_data/posts.typ 里加一行。
+#import "content/_data/posts.typ": posts
 
 // ---------------------------------------------------------------------------
 // 站点信息
@@ -111,6 +114,57 @@
   if m == none { none } else { m.text }
 }
 
+// ---------------------------------------------------------------------------
+// 文章翻页（上一篇 / 下一篇）
+//
+// 数据来自 content/_data/posts.typ。当前页面按构建脚本传入的 page-path
+// 在索引里定位：索引里没有的页面（首页、时间线、Docs 等）不显示翻页，
+// 因此不需要每篇文章手动声明「我在第几篇」。
+//
+// 命名按发布时间：上一篇 = 更早发布，下一篇 = 更晚发布。索引本身是
+// 降序的，这里重新按日期升序排一次，避免以后漏排或顺序写错时把方向弄反。
+// ---------------------------------------------------------------------------
+
+#let post-href(href) = "/" + href.trim("/", repeat: true) + "/"
+
+#let post-pager() = {
+  let here = post-href(page-path)
+  let ordered = posts.sorted(key: post => post.date)
+  let index = ordered.position(post => post-href(post.href) == here)
+  if index == none { return none }
+
+  let older = if index > 0 { ordered.at(index - 1) } else { none }
+  let newer = if index + 1 < ordered.len() { ordered.at(index + 1) } else { none }
+  if older == none and newer == none { return none }
+
+  let card(post, direction, label, rel) = html.a(
+    class: "post-pager-card post-pager-" + direction,
+    rel: rel,
+    href: post-href(post.href),
+    {
+      html.span(class: "post-pager-label", label)
+      html.span(class: "post-pager-title", post.title)
+      html.span(class: "post-pager-date", post.date.replace("-", "."))
+    },
+  )
+
+  // 没有相邻文章时补一个占位，让另一张卡片保持在本来的左右列里，
+  // 而不是被拉伸成整栏宽。
+  let spacer = html.elem(
+    "span",
+    attrs: (class: "post-pager-card post-pager-empty", aria-hidden: "true"),
+  )
+
+  html.elem(
+    "nav",
+    attrs: (class: "post-pager", aria-label: "文章导航"),
+    {
+      if older != none { card(older, "prev", "← 上一篇", "prev") } else { spacer }
+      if newer != none { card(newer, "next", "下一篇 →", "next") } else { spacer }
+    },
+  )
+}
+
 #let template(
   title: "",
   lang: "zh",
@@ -149,6 +203,9 @@
       html.elem("p", attrs: (class: "intro"), intro)
     }
     content
+    // 文章页底部：上一篇 / 下一篇。只有出现在 posts.typ 里的页面才会有，
+    // 首页、时间线、Docs 等不受影响。
+    post-pager()
   }
 
   show: site.with(

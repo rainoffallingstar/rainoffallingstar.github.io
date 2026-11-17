@@ -94,7 +94,8 @@ SIL OFL 1.1，随仓库自带、不依赖 CDN。
 1. 在 `content/Blog/` 下创建目录：`YYYY-MM-DD-title/`
 2. 在目录中创建 `index.typ`
 3. 在 `content/_data/posts.typ` 的 `posts` 数组里加一行
-   （首页「最近更新」与 `/Timeline/` 都从这里取数据）
+   （首页「最近更新」、`/Timeline/` 与文章底部的「上一篇 / 下一篇」都从这里取数据；
+   漏加这一行，文章页就不会出现翻页卡片）
 4. 提交到 `githubversion` 分支，触发自动部署
 
 示例：

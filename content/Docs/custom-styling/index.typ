@@ -139,12 +139,13 @@ header.site-header > nav.site-nav
 
 目录名以下划线开头，`build.py` 不会把它编译成页面，只当作公共依赖 —— 改动后所有页面都会重建。
 
-两个页面共用这份数据：
+三个地方共用这份数据：
 
 - `content/index.typ` 调用 `config.typ` 的 `latest-posts()`，按日期取最新的 `site-latest-count` 篇（默认 10），渲染成「最近更新」列表，末尾给出通往完整时间线的入口。
 - `content/Timeline/index.typ` 调用 `archive()`，按年份分组展示全部文章。
+- 每篇文章底部由 `config.typ` 的 `post-pager()` 自动追加「上一篇 / 下一篇」卡片。它用构建脚本传入的 `page-path` 在索引里定位当前文章：索引里没有的页面（首页、时间线、Docs 等）不显示翻页，文章 `.typ` 也不必声明自己排第几。方向按发布日期计算，**上一篇是更早发布的那篇**。
 
-两者都用上游的 `tufted.blog-entry()` 渲染「日期列 + 标题列」。
+前两处用上游的 `tufted.blog-entry()` 渲染「日期列 + 标题列」，翻页卡片的结构与样式见 `config.typ` 的 `post-pager()` 与 `site.css` 第 8 节。
 
 == 文章日期
 
